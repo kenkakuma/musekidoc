@@ -2,30 +2,11 @@ import type { Metadata } from 'next'
 import Link from 'next/link'
 import { redirect } from 'next/navigation'
 import { isAuthenticated } from '@/lib/auth/session'
+import { LogoutButton } from '@/components/admin/LogoutButton'
 
 export const metadata: Metadata = {
   title: '管理后台 - 日本陶器知识库',
   description: '内容管理系统',
-}
-
-async function LogoutButton() {
-  return (
-    <form action="/api/auth/logout" method="POST">
-      <button
-        type="submit"
-        className="text-sm text-slate-600 hover:text-slate-900"
-        onClick={async (e) => {
-          e.preventDefault()
-          const res = await fetch('/api/auth/logout', { method: 'POST' })
-          if (res.ok) {
-            window.location.href = '/admin/login'
-          }
-        }}
-      >
-        退出登录
-      </button>
-    </form>
-  )
 }
 
 export default async function AdminLayout({
@@ -130,22 +111,7 @@ export default async function AdminLayout({
                     <p className="text-xs text-slate-500">管理员</p>
                   </div>
                 </div>
-                <form
-                  onSubmit={async (e) => {
-                    e.preventDefault()
-                    const res = await fetch('/api/auth/logout', { method: 'POST' })
-                    if (res.ok) {
-                      window.location.href = '/admin/login'
-                    }
-                  }}
-                >
-                  <button
-                    type="submit"
-                    className="text-xs text-slate-500 hover:text-slate-700"
-                  >
-                    退出
-                  </button>
-                </form>
+                <LogoutButton />
               </div>
             </div>
           </aside>
