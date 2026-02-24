@@ -13,14 +13,14 @@ const BulkArtistSchema = z.object({
   deathYear: z.number().int().optional(),
   region: z.string().optional(),
   style: z.string().optional(),
-  awards: z.array(z.string()).optional().default([]),
+  awards: z.array(z.string()).optional(),
   exhibitions: z.array(
     z.object({
       year: z.number().int(),
       title: z.string(),
       venue: z.string().optional(),
     })
-  ).optional().default([]),
+  ).optional(),
   sources: z.array(
     z.object({
       title: z.string(),
@@ -99,8 +99,8 @@ export async function POST(request: NextRequest) {
                 deathYear: artist.deathYear,
                 region: artist.region,
                 style: artist.style,
-                awards: artist.awards,
-                exhibitions: artist.exhibitions,
+                awards: artist.awards || [],
+                exhibitions: artist.exhibitions || [],
                 sources: artist.sources,
                 websiteUrl: artist.websiteUrl,
                 instagramHandle: artist.instagramHandle,
@@ -131,8 +131,8 @@ export async function POST(request: NextRequest) {
               deathYear: artist.deathYear,
               region: artist.region,
               style: artist.style,
-              awards: artist.awards,
-              exhibitions: artist.exhibitions,
+              awards: artist.awards || [],
+              exhibitions: artist.exhibitions || [],
               sources: artist.sources,
               websiteUrl: artist.websiteUrl,
               instagramHandle: artist.instagramHandle,

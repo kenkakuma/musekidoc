@@ -36,7 +36,7 @@ model PotteryEntry {
 
   // 关联
   artistId  String?
-  artist    Artist?  @relation(fields: [artistId], references: [id])
+  artist    Artist?  @relation("ArtistPotteryEntries", fields: [artistId], references: [id])
 
   // 来源
   sources   Json     // Source[]
@@ -85,6 +85,12 @@ model Artist {
   birthYear Int?
   deathYear Int?
 
+  // 作家信息
+  region String? // 产地/地区
+  style  String? // 风格
+  awards Json?   // string[] - 奖项列表
+  exhibitions Json? // {year, title, venue}[] - 展览记录
+
   // 社交媒体
   instagramHandle    String?   @unique
   instagramFollowers Int?
@@ -93,14 +99,17 @@ model Artist {
 
   // 市场数据
   exhibitionCount Int?
-  avgPriceRange   String?
+  priceRange      String? // 价格范围
 
   // 媒体
   avatar    String?
   images    Json?
 
+  // 来源
+  sources   Json     // Source[]
+
   // 关联
-  entries   PotteryEntry[]
+  potteryEntries PotteryEntry[] @relation("ArtistPotteryEntries")
 
   published Boolean  @default(false)
   createdAt DateTime @default(now())
