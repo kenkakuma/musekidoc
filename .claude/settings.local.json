@@ -7,7 +7,9 @@
       "Bash(pnpm prisma init:*)",
       "Bash(pnpm prisma migrate:*)",
       "Bash(git add:*)",
-      "Bash(git commit:*)"
+      "Bash(git commit:*)",
+      "Bash(echo:*)",
+      "Bash(ping:*)"
     ]
   }
 }
