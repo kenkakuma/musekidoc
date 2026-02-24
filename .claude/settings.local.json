@@ -16,7 +16,8 @@
       "Bash(pnpm prisma generate:*)",
       "Bash(timeout 5 pnpm prisma studio:*)",
       "Bash(tsx scripts/verify-db.ts:*)",
-      "Bash(pnpm tsx:*)"
+      "Bash(pnpm tsx:*)",
+      "Bash(curl:*)"
     ]
   }
 }

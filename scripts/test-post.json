@@ -1,0 +1,15 @@
+{
+  "slug": "test-pottery-api",
+  "nameZh": "API测试陶器",
+  "nameJa": "APIテスト",
+  "category": "陶器/测试",
+  "region": "测试地区",
+  "description": "这是通过API创建的测试陶器条目。需要至少100个字符才能通过Zod验证。这是通过API创建的测试陶器条目。需要至少100个字符才能通过Zod验证。这是通过API创建的测试陶器条目。",
+  "positioning": "API测试条目的定位说明",
+  "signatureFeatures": ["API创建特征"],
+  "keywords": ["测试", "API", "陶器"],
+  "notableArtists": [],
+  "representativeForms": [],
+  "sources": [{"title": "测试来源", "url": "https://example.com"}],
+  "published": true
+}
