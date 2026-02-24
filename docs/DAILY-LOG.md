@@ -35,14 +35,15 @@ _暂无_
   - ✅ shadcn/ui 已配置（10 个组件）
   - ✅ 环境变量已设置
 
-- [x] **TASK-002**: 数据库 Schema 设计（部分完成）
-  - **完成时间**: 2026-02-24 16:30
-  - **实际耗时**: 1.5 小时
-  - ✅ Prisma schema 已创建（4 个模型）
-  - ✅ TypeScript 类型定义已创建
-  - ✅ 数据库 client 已配置
-  - ✅ Seed 文件已创建（3 个示例条目）
-  - ⚠️ 数据库迁移失败 - 无法连接到 Supabase 数据库
+- [x] **TASK-002**: 数据库 Schema 设计
+  - **完成时间**: 2026-02-24 17:00
+  - **实际耗时**: 2 小时
+  - ✅ Prisma schema 已创建（4 个模型：PotteryEntry, Artist, Category, User）
+  - ✅ TypeScript 类型定义已创建（lib/db/types.ts）
+  - ✅ 数据库 client 已配置（使用 Prisma 7 + PostgreSQL adapter）
+  - ✅ Seed 文件已创建并成功导入 3 个陶器条目
+  - ✅ 数据库迁移已完成（本地 Docker PostgreSQL）
+  - ✅ 数据验证通过：1 个管理员用户 + 3 个陶器条目
 
 ---
 
@@ -54,35 +55,29 @@ _暂无_
 
 ## ❌ 遇到的问题
 
-### 问题 1: Supabase 数据库连接失败
+### 问题 1: Supabase 数据库连接失败（已解决）
 
-**问题描述**:
-```
-Error: P1001: Can't reach database server at `db.mmujoqmmcpgghrgloqss.supabase.co:5432`
-```
+**问题描述**: 无法连接到 Supabase 数据库
 
-**影响**: 无法运行 Prisma 迁移和数据库 seed
+**解决方案**: ✅ 切换到本地 Docker PostgreSQL
+- 容器: `postgres-pottery`
+- 端口映射: 5433:5432
+- 连接: `postgresql://postgres:postgres@localhost:5433/pottery_kb`
 
-**可能原因**:
-1. Supabase 项目可能已暂停或休眠
-2. 网络连接问题
-3. 数据库凭据可能已过期
+### 问题 2: Prisma 7 配置复杂性（已解决）
 
-**尝试的解决方案**:
-1. ✅ 更新 Prisma 7 配置 (prisma.config.ts)
-2. ✅ 配置 directUrl 用于连接池
-3. ✅ 交换 DATABASE_URL 和 DIRECT_URL（使用直接连接进行 migration）
-4. ❌ 仍然无法连接到 `db.mmujoqmmcpgghrgloqss.supabase.com:5432`
+**遇到的挑战**:
+1. Prisma 7 要求连接 URL 在 `prisma.config.ts` 中，而非 `schema.prisma`
+2. Prisma 7 需要使用 adapter（@prisma/adapter-pg）而非传统连接方式
+3. seed.ts 文件中的中文引号导致 esbuild 解析失败
 
-**下一步行动 (需要用户操作)**:
-1. 访问 Supabase 控制台: https://supabase.com/dashboard/project/mmujoqmmcpgghrgloqss
-2. 检查项目状态 - 如果显示 "Paused"，点击 "Resume" 恢复
-3. 确认项目激活后，运行: `pnpm prisma migrate dev --name init`
-
-**替代方案**:
-- 选项 A: 暂时跳过 migration，使用模拟数据继续开发 API 和前端
-- 选项 B: 切换到本地 PostgreSQL 数据库
-- 选项 C: 创建新的 Supabase 项目
+**解决步骤**:
+1. ✅ 移除 schema.prisma 中的 `url` 和 `directUrl`
+2. ✅ 在 prisma.config.ts 中配置数据源 URL
+3. ✅ 安装 `@prisma/adapter-pg` 和 `pg` 包
+4. ✅ 更新 seed.ts 和 client.ts 使用 PostgreSQL adapter
+5. ✅ 替换中文引号（"" → 「」）避免 esbuild 解析错误
+6. ✅ 使用显式连接配置代替连接字符串
 
 ---
 
@@ -97,7 +92,7 @@ _待今日任务完成后更新_
 | 分类 | 已完成 | 总数 | 进度 |
 |------|--------|------|------|
 | **项目初始化** | 1 | 1 | 100% |
-| **数据库设计** | 1 | 2 | 50% |
+| **数据库设计** | 2 | 2 | 100% |
 | **API 开发** | 0 | 6 | 0% |
 | **前台页面** | 0 | 4 | 0% |
 | **管理后台** | 0 | 4 | 0% |

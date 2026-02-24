@@ -1,7 +1,12 @@
 import { PrismaClient } from '@prisma/client'
+import { PrismaPg } from '@prisma/adapter-pg'
+import { Pool } from 'pg'
 import bcrypt from 'bcrypt'
+import 'dotenv/config'
 
-const prisma = new PrismaClient()
+const pool = new Pool({ connectionString: process.env.DATABASE_URL })
+const adapter = new PrismaPg(pool)
+const prisma = new PrismaClient({ adapter })
 
 // 从现有 HTML 文件提取的陶器数据
 const EXISTING_DATA = [
@@ -14,7 +19,7 @@ const EXISTING_DATA = [
     region: "日本（全国）",
     positioning: "定位陶磁领域重要无形文化财保持者（人间国宝）并反查到产地/技法节点",
     description: "日本陶磁协会公开的人间国宝（陶磁）列表，是陶磁领域名家节点的统一索引源。",
-    signatureFeatures: ["日本陶磁协会公开"人间国宝（陶磁）"列表（名家节点统一索引源）"],
+    signatureFeatures: ["日本陶磁协会公开「人间国宝（陶磁）」列表（名家节点统一索引源）"],
     keywords: ["人間国宝", "重要無形文化財", "保持者", "陶芸"],
     notableArtists: ["（索引入口）"],
     representativeForms: ["—"],
@@ -32,7 +37,7 @@ const EXISTING_DATA = [
     nameEn: "Six Ancient Kilns (Rokkoyō)",
     category: "框架/分类标签",
     region: "日本（越前・瀬戸・常滑・信楽・丹波・備前）",
-    positioning: "六大古窑体系主标签（用于"产地—技法—作家"归档）",
+    positioning: "六大古窑体系主标签（用于「产地—技法—作家」归档）",
     description: "六古窑是日本最重要的陶瓷产地体系，包括越前、瀬戸、常滑、信楽、丹波、備前六个具有持续性地域传统的窑口。2017年被认定为日本遗产。",
     signatureFeatures: [
       "持续性地域传统体系（非单一窑口/单一作家）",
@@ -59,8 +64,8 @@ const EXISTING_DATA = [
     nameEn: "Bizen ware",
     category: "陶器 / 无釉 / 薪窑（焼締）",
     region: "冈山县・备前市（伊部/Imbe）",
-    positioning: "以窯变"景色"为核心；名家体系清晰（人间国宝）",
-    description: "备前烧是日本六古窑之一，产于冈山县备前市伊部地区。其最大特点是无釉高温烧成（焼締），通过薪窑烧制过程中产生的窯变形成独特的"景色"。备前烧拥有完整的名家传承体系，包括多位人间国宝。",
+    positioning: "以窯变「景色」为核心；名家体系清晰（人间国宝）",
+    description: "备前烧是日本六古窑之一，产于冈山县备前市伊部地区。其最大特点是无釉高温烧成（焼締），通过薪窑烧制过程中产生的窯变形成独特的「景色」。备前烧拥有完整的名家传承体系，包括多位人间国宝。",
     signatureFeatures: [
       "无釉高温烧成（焼締）",
       "窯变分类：胡麻/緋襷/桟切/窯変",

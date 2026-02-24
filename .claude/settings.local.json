@@ -9,7 +9,14 @@
       "Bash(git add:*)",
       "Bash(git commit:*)",
       "Bash(echo:*)",
-      "Bash(ping:*)"
+      "Bash(ping:*)",
+      "Bash(docker exec:*)",
+      "Bash(pnpm prisma db execute:*)",
+      "Bash(pnpm prisma db seed:*)",
+      "Bash(pnpm prisma generate:*)",
+      "Bash(timeout 5 pnpm prisma studio:*)",
+      "Bash(tsx scripts/verify-db.ts:*)",
+      "Bash(pnpm tsx:*)"
     ]
   }
 }
