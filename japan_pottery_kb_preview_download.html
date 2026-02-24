@@ -1,0 +1,152 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>日本陶器/陶磁器知识库（预览下载版）</title>
+<style>
+:root{--bg:#0b0c0f;--panel:#121524;--panel2:#0f1220;--text:#e8e8ec;--muted:#a6a7ad;--line:#2a2f44;--chip:#1b2240;--link:#8ab4ff;--accent:#38d39f;}
+*{box-sizing:border-box} body{margin:0;font-family:ui-sans-serif,system-ui,-apple-system,Segoe UI,Roboto,Arial,"Hiragino Sans","Noto Sans CJK SC","Noto Sans JP",sans-serif;background:var(--bg);color:var(--text);}
+.app{display:grid;grid-template-columns:380px 1fr;min-height:100vh;}
+aside{border-right:1px solid var(--line);background:linear-gradient(180deg,rgba(18,21,36,.96),rgba(15,18,32,.96));position:sticky;top:0;height:100vh;padding:14px 12px;overflow:auto;}
+main{padding:18px 18px 60px;overflow:auto;}
+.brand{padding:6px 8px 10px;border-bottom:1px solid var(--line);margin-bottom:10px;}
+.brand h1{margin:0;font-size:16px;font-weight:820;}
+.brand .sub{margin-top:6px;font-size:12px;line-height:1.45;color:var(--muted);}
+.controls{display:flex;flex-direction:column;gap:10px;padding:10px 8px 12px;border-bottom:1px solid var(--line);}
+input[type="search"],select{width:100%;padding:10px 10px;border-radius:10px;border:1px solid var(--line);background:var(--panel2);color:var(--text);outline:none;}
+.meta{display:flex;justify-content:space-between;gap:10px;font-size:12px;color:var(--muted);padding:0 8px 10px;}
+.list{padding:0 6px 12px;}
+.item{padding:10px 10px;border:1px solid transparent;border-radius:12px;cursor:pointer;margin:6px 0;background:rgba(255,255,255,0.02);}
+.item:hover{border-color:rgba(138,180,255,.25);background:rgba(138,180,255,.06);}
+.item.active{border-color:rgba(56,211,159,.45);background:rgba(56,211,159,.08);}
+.item .t{font-size:13px;font-weight:650;line-height:1.25;}
+.item .s{font-size:11px;color:var(--muted);margin-top:4px;line-height:1.35;}
+.badge{display:inline-flex;align-items:center;font-size:11px;padding:2px 8px;border-radius:999px;margin-top:8px;background:rgba(56,211,159,.08);border:1px solid rgba(56,211,159,.35);color:var(--accent);}
+.panel{max-width:1120px;margin:0 auto;}
+.hero{border:1px solid var(--line);background:radial-gradient(1200px 500px at 0% 0%,rgba(138,180,255,.08),transparent 40%),radial-gradient(900px 400px at 100% 0%,rgba(56,211,159,.05),transparent 35%),rgba(15,18,32,.9);border-radius:18px;padding:16px 16px;box-shadow:0 10px 28px rgba(0,0,0,.26);}
+.hero h2{margin:0;font-size:18px;font-weight:860;line-height:1.25;}
+.hero .names{margin-top:6px;color:var(--muted);font-size:12px;line-height:1.4;}
+.cols{display:grid;grid-template-columns:1fr 1fr;gap:12px;margin-top:12px;}
+@media (max-width:980px){.app{grid-template-columns:1fr;}aside{position:relative;height:auto;}.cols{grid-template-columns:1fr;}}
+.card{border:1px solid var(--line);background:rgba(11,12,15,.18);border-radius:16px;padding:12px 12px;}
+.label{font-size:11px;color:var(--muted);text-transform:uppercase;letter-spacing:.12em;margin-bottom:6px;}
+.val{font-size:13px;line-height:1.6;}
+ul{margin:6px 0 0 18px;padding:0;} li{margin:4px 0;}
+.chips{display:flex;flex-wrap:wrap;gap:6px;margin-top:8px;}
+.chip{font-size:11px;padding:4px 8px;border-radius:999px;background:var(--chip);border:1px solid rgba(138,180,255,.15);color:#cfe0ff;}
+a{color:var(--link);text-decoration:none;} a:hover{text-decoration:underline;}
+.sources li{margin:6px 0;}
+.empty{color:var(--muted);font-size:13px;border:1px dashed rgba(138,180,255,.3);border-radius:16px;padding:16px;margin-top:12px;}
+</style>
+</head>
+<body>
+<div class="app">
+  <aside>
+    <div class="brand">
+      <h1>日本陶器/陶磁器知识库（预览下载版）</h1>
+      <div class="sub">最后更新：2026-02-23　条目数：14</div>
+    </div>
+    <div class="controls">
+      <input id="q" type="search" placeholder="搜索：产地/类型/关键词/作家" />
+      <select id="cat">
+        <option value="">全部类别（全表示）</option>
+        <option value="陶器">陶器（陶器）</option>
+        <option value="磁器">磁器（磁器）</option>
+        <option value="框架">框架/索引（タグ）</option>
+        <option value="其他">其他</option>
+      </select>
+      <select id="sort">
+        <option value="zh">按中文名（中文順）</option>
+        <option value="region">按产地（産地順）</option>
+        <option value="category">按类别（分類順）</option>
+      </select>
+    </div>
+    <div class="meta"><div id="count">—</div><div style="text-align:right;">点击条目查看详情</div></div>
+    <div id="list" class="list"></div>
+  </aside>
+
+  <main><div class="panel"><div id="detail" class="hero"></div></div></main>
+</div>
+
+<script>
+const DATA = [{"ware_name": {"zh": "人间国宝（陶磁）名单入口", "ja": "日本のやきもの／人間国宝", "en": "LNT (ceramics) index"}, "category": "框架/索引（人名列表）", "region": "日本（全国）", "positioning": "定位陶磁领域重要无形文化财保持者（人间国宝）并反查到产地/技法节点", "signature_features": ["日本陶磁协会公开“人间国宝（陶磁）”列表（名家节点统一索引源）"], "keywords": ["人間国宝", "重要無形文化財", "保持者", "陶芸"], "notable_artists_or_lineages": ["（索引入口）"], "representative_forms": ["—"], "sources": [{"title": "日本陶磁协会：日本のやきもの／人間国宝", "url": "https://www.ceramic.or.jp/museum/yakimono/contents/kokuho.html"}]}, {"ware_name": {"zh": "六古窯（知识库标签）", "ja": "六古窯", "en": "Six Ancient Kilns (Rokkoyō)"}, "category": "框架/分类标签", "region": "日本（越前・瀬戸・常滑・信楽・丹波・備前）", "positioning": "六大古窑体系主标签（用于“产地—技法—作家”归档）", "signature_features": ["持续性地域传统体系（非单一窑口/单一作家）", "2017年作为日本遗产认定（六古窯）"], "keywords": ["六古窯", "Rokkoyō", "日本遺産", "Japan Heritage"], "notable_artists_or_lineages": ["—"], "representative_forms": ["甕/壺/鉢/皿/茶陶/日用器"], "sources": [{"title": "六古窯（官方）", "url": "https://en.sixancientkilns.jp/"}, {"title": "JNTO：六古窯（日本遗产）", "url": "https://www.japan.travel/japan-heritage/popular/a4966b88-09bc-4beb-9d38-d055c65761ec"}]}, {"ware_name": {"zh": "备前烧（总览）", "ja": "備前焼", "en": "Bizen ware"}, "category": "陶器 / 无釉 / 薪窑（焼締）", "region": "冈山县・备前市（伊部/Imbe）", "positioning": "以窯变“景色”为核心；名家体系清晰（人间国宝）", "signature_features": ["无釉高温烧成（焼締）", "窯变分类：胡麻/緋襷/桟切/窯変", "名家：金重陶陽、藤原雄、伊勢崎淳等"], "keywords": ["備前焼", "無釉", "焼締", "窯変", "人間国宝"], "notable_artists_or_lineages": ["金重陶陽", "藤原雄", "伊勢崎淳"], "representative_forms": ["茶碗", "徳利", "ぐい呑", "花器", "壺"], "sources": [{"title": "六古窯：Bizen", "url": "https://en.sixancientkilns.jp/bizen/"}]}, {"ware_name": {"zh": "金重陶陽（备前：人间国宝）", "ja": "金重陶陽", "en": "Kaneshige Tōyō"}, "category": "陶器 / 備前焼 / 作家节点（人間国宝）", "region": "冈山（備前）", "positioning": "备前名家（权威传记入口）", "signature_features": ["东文研条目（权威传记入口）"], "keywords": ["人間国宝", "備前焼", "金重陶陽"], "notable_artists_or_lineages": ["金重家（備前窯元“六姓”之一）"], "representative_forms": ["茶碗", "壺", "花入"], "sources": [{"title": "东文研：金重陶陽", "url": "https://www.tobunken.go.jp/materials/bukko/9000.html"}]}, {"ware_name": {"zh": "藤原雄（备前：人间国宝）", "ja": "藤原雄", "en": "Fujiwara Yū"}, "category": "陶器 / 備前焼 / 作家节点（人間国宝）", "region": "冈山（備前）", "positioning": "备前名家（权威传记入口）", "signature_features": ["东文研条目（权威传记入口）"], "keywords": ["人間国宝", "備前焼", "藤原雄"], "notable_artists_or_lineages": ["藤原啓（父）"], "representative_forms": ["壺", "花器", "皿"], "sources": [{"title": "东文研：藤原雄", "url": "https://www.tobunken.go.jp/materials/bukko/28236.html"}]}, {"ware_name": {"zh": "伊勢崎淳（备前：人间国宝）", "ja": "伊勢崎淳", "en": "Isezaki Jun"}, "category": "陶器 / 備前焼 / 作家节点（人間国宝）", "region": "冈山（備前）", "positioning": "2004年人间国宝认定（年史入口）", "signature_features": ["东文研年史：2004年7月认定记录"], "keywords": ["人間国宝", "備前焼", "伊勢崎淳"], "notable_artists_or_lineages": ["伊勢崎家"], "representative_forms": ["壺", "花入", "茶器"], "sources": [{"title": "东文研年史：2004年7月 人间国宝", "url": "https://www.tobunken.go.jp/materials/nenshi/8106.html"}]}, {"ware_name": {"zh": "常滑烧（总览）", "ja": "常滑焼", "en": "Tokoname ware"}, "category": "陶器 / 朱泥（shudei）/ 焼締；急须体系强", "region": "爱知县・常滑市", "positioning": "急须核心产地；名家：三代山田常山（人间国宝）", "signature_features": ["朱泥（shudei）为高频识别词", "1998年国指定“常滑焼（急须）”保持者：三代山田常山"], "keywords": ["常滑焼", "急須", "朱泥", "人間国宝"], "notable_artists_or_lineages": ["三代 山田常山"], "representative_forms": ["急須", "宝瓶", "絞り出し"], "sources": [{"title": "东文研：山田常山（三代）", "url": "https://www.tobunken.go.jp/materials/bukko/28342.html"}]}, {"ware_name": {"zh": "濑户：市指定无形文化财（工艺技术）索引", "ja": "瀬戸市指定 無形（工芸技術）", "en": ""}, "category": "框架/索引（地方无形文化财）", "region": "爱知县・濑户市", "positioning": "瀬户系“技法—保持者”名家入口", "signature_features": ["市政府清单列示：黄瀬戸、織部、灰釉、御深井、練り込み等及保持者"], "keywords": ["瀬戸市指定", "無形文化財", "黄瀬戸", "織部", "灰釉", "御深井", "練り込み"], "notable_artists_or_lineages": ["加藤廉平", "加藤錦三", "田沼春二", "加藤唐三郎", "水野教雄"], "representative_forms": ["—"], "sources": [{"title": "瀬戸市：指定・登録文化財一覧", "url": "https://www.city.seto.aichi.jp/docs/2010/11/10/01189/index.html"}]}, {"ware_name": {"zh": "荒川豊蔵（志野・瀬戸黒：人间国宝）", "ja": "荒川豊蔵", "en": "Arakawa Toyozō"}, "category": "陶器 / 美濃 / 作家节点（人間国宝）", "region": "岐阜（多治见）", "positioning": "志野・瀬戸黒关键名家（权威传记入口）", "signature_features": ["东文研：志野・瀬戸黒保持者认定与复兴脉络"], "keywords": ["人間国宝", "志野", "瀬戸黒", "美濃"], "notable_artists_or_lineages": ["—"], "representative_forms": ["茶碗", "香合", "花入"], "sources": [{"title": "东文研：荒川豊蔵", "url": "https://www.tobunken.go.jp/materials/bukko/9865.html"}]}, {"ware_name": {"zh": "楽吉左衛門（十四代：乐家）", "ja": "楽吉左衛門（十四代）", "en": "Raku Kichizaemon XIV"}, "category": "陶器 / 楽焼 / 作家节点", "region": "京都（乐家）", "positioning": "乐家世袭节点（十四代）", "signature_features": ["东文研：无形文化财技术保持者；条目含乐烧起源/工艺摘要"], "keywords": ["楽焼", "楽吉左衛門", "人間国宝"], "notable_artists_or_lineages": ["楽家"], "representative_forms": ["茶碗"], "sources": [{"title": "东文研：楽吉左衛門〔14代目〕", "url": "https://www.tobunken.go.jp/materials/bukko/9879.html"}]}, {"ware_name": {"zh": "益子：濱田庄司（人间国宝）", "ja": "浜田庄司", "en": "Shoji Hamada"}, "category": "陶器 / 益子焼 / 作家节点（人間国宝）", "region": "栃木（益子）", "positioning": "民艺运动代表作家", "signature_features": ["东文研：1955年第一回重要无形文化财技术保持者指定等节点"], "keywords": ["人間国宝", "民藝", "益子焼"], "notable_artists_or_lineages": ["—"], "representative_forms": ["日用器", "茶器"], "sources": [{"title": "东文研：浜田庄司", "url": "https://www.tobunken.go.jp/materials/bukko/9539.html"}]}, {"ware_name": {"zh": "小鹿田烧（窯元体系入口）", "ja": "小鹿田焼", "en": "Onta ware"}, "category": "陶器 / 民艺（日用器）", "region": "大分（日田・小鹿田）", "positioning": "窯元群/共同体传承；按窯元扩写入口", "signature_features": ["大分县编辑部：介绍9軒窯元（名录入口）"], "keywords": ["小鹿田焼", "民藝", "飛鉋", "窯元"], "notable_artists_or_lineages": ["（按窯元逐一扩写）"], "representative_forms": ["盘", "碗", "壶", "杯"], "sources": [{"title": "大分县编辑部：小鹿田焼 9軒の窯元", "url": "https://edit.pref.oita.jp/news-columns/7156/"}]}, {"ware_name": {"zh": "波佐见：森正洋（白山陶器）", "ja": "森正洋", "en": "Masahiro Mori"}, "category": "磁器 / 波佐見焼 / 设计师节点", "region": "长崎（波佐见）", "positioning": "工业设计名人节点（白山陶器长销设计入口）", "signature_features": ["Colocal：G型しょうゆさし自1958年持续生产（长销事实入口）"], "keywords": ["森正洋", "白山陶器", "波佐見焼", "G型しょうゆさし"], "notable_artists_or_lineages": ["白山陶器（品牌/窯元）"], "representative_forms": ["醤油さし", "日用器"], "sources": [{"title": "Colocal：森正洋与白山陶器", "url": "https://colocal.jp/topics/art-design-architecture/monozukuri/20230420_156015.html"}]}, {"ware_name": {"zh": "九谷：徳田八十吉（三代：彩釉磁器）", "ja": "徳田八十吉（三代）", "en": "Tokuda Yasokichi III"}, "category": "磁器 / 九谷焼 / 作家节点（人間国宝：彩釉磁器）", "region": "石川（九谷）", "positioning": "“燿彩/耀彩”色釉渐变为核心识别（名家节点）", "signature_features": ["东文研：重要无形文化财保持者（彩釉磁器）传记入口"], "keywords": ["人間国宝", "九谷焼", "彩釉磁器", "燿彩"], "notable_artists_or_lineages": ["徳田家"], "representative_forms": ["鉢", "壺", "皿"], "sources": [{"title": "东文研：徳田八十吉", "url": "https://www.tobunken.go.jp/materials/bukko/28465.html"}]}];
+
+const qEl=document.getElementById('q'), catEl=document.getElementById('cat'), sortEl=document.getElementById('sort');
+const listEl=document.getElementById('list'), detailEl=document.getElementById('detail'), countEl=document.getElementById('count');
+
+function norm(s){return (s||"").toString().toLowerCase();}
+function bucket(it){const c=it.category||""; if(c.includes("框架")||c.includes("索引")) return "框架"; if(c.includes("磁器")) return "磁器"; if(c.includes("陶器")) return "陶器"; return "其他";}
+function blob(it){return [it.ware_name?.zh,it.ware_name?.ja,it.ware_name?.en,it.category,it.region,it.positioning,...(it.signature_features||[]),...(it.keywords||[]),...(it.notable_artists_or_lineages||[]),...(it.representative_forms||[]),...(it.sources||[]).map(s=>(s.title||"")+" "+(s.url||""))].join("\n");}
+function matches(it,q,cat){return (!q||norm(blob(it)).includes(norm(q))) && (!cat||bucket(it)===cat);}
+function esc(s){return (s||"").toString().replaceAll("&","&amp;").replaceAll("<","&lt;").replaceAll(">","&gt;").replaceAll('"',"&quot;");}
+function sortKey(it,mode){ if(mode==="region") return norm(it.region); if(mode==="category") return norm(bucket(it)+" "+(it.category||"")); return norm(it.ware_name?.zh||it.ware_name?.ja||it.ware_name?.en); }
+
+let filtered=[], activeIndex=-1;
+
+function liList(arr){ return (arr&&arr.length)? arr.map(x=>"<li>"+esc(x)+"</li>").join("") : "<li>（待补充）</li>"; }
+function chips(arr){ return (arr&&arr.length)? arr.map(x=>"<span class='chip'>"+esc(x)+"</span>").join("") : "<span class='chip'>（待补充）</span>"; }
+function sourcesList(arr){
+  return (arr&&arr.length)? arr.map(s=>"<li><a href='"+esc(s.url)+"' target='_blank' rel='noreferrer'>"+esc(s.title||s.url)+"</a></li>").join("")
+                          : "<li>（待补充来源）</li>";
+}
+
+function renderDetail(it){
+  const name = esc(it.ware_name?.zh||it.ware_name?.ja||it.ware_name?.en||"—");
+  const names = [it.ware_name?.ja?("日文："+it.ware_name.ja):null, it.ware_name?.en?("英文："+it.ware_name.en):null].filter(Boolean).join(" · ");
+
+  detailEl.innerHTML =
+    "<h2>"+name+"</h2>"+
+    "<div class='names'>"+esc(names)+"</div>"+
+    "<div class='cols'>"+
+      "<div class='card'>"+
+        "<div class='label'>分类（分類）</div><div class='val'>"+esc(it.category||"—")+"</div>"+
+        "<div style='height:10px'></div>"+
+        "<div class='label'>产地（産地）</div><div class='val'>"+esc(it.region||"—")+"</div>"+
+        "<div style='height:10px'></div>"+
+        "<div class='label'>定位（位置づけ）</div><div class='val'>"+esc(it.positioning||"—")+"</div>"+
+        "<div style='height:12px'></div>"+
+        "<div class='label'>关键词（キーワード）</div><div class='chips'>"+chips(it.keywords)+"</div>"+
+      "</div>"+
+      "<div class='card'><div class='label'>识别特征（特徴）</div><ul>"+liList(it.signature_features)+"</ul></div>"+
+    "</div>"+
+    "<div class='cols' style='margin-top:12px'>"+
+      "<div class='card'><div class='label'>知名作家 / 系谱（作家・系譜）</div><ul>"+liList(it.notable_artists_or_lineages)+"</ul></div>"+
+      "<div class='card'><div class='label'>代表器型（代表器形）</div><ul>"+liList(it.representative_forms)+"</ul></div>"+
+    "</div>"+
+    "<div class='card' style='margin-top:12px'><div class='label'>来源（出典）</div><ul class='sources'>"+sourcesList(it.sources)+"</ul></div>";
+}
+
+function renderList(){
+  const q=qEl.value.trim(), cat=catEl.value.trim(), mode=sortEl.value;
+  filtered = DATA.filter(it=>matches(it,q,cat)).sort((a,b)=>sortKey(a,mode).localeCompare(sortKey(b,mode),"zh-Hans"));
+  countEl.textContent = "条目数："+filtered.length+" / "+DATA.length;
+  listEl.innerHTML="";
+  filtered.forEach((it,idx)=>{
+    const div=document.createElement("div");
+    div.className="item"+(idx===activeIndex?" active":"");
+    const name=it.ware_name?.zh||it.ware_name?.ja||it.ware_name?.en||"—";
+    const sub=[it.ware_name?.ja?("日文："+it.ware_name.ja):"", it.ware_name?.en?("英文："+it.ware_name.en):""].filter(Boolean).join(" · ");
+    div.innerHTML =
+      "<div class='t'>"+esc(name)+"</div>"+
+      "<div class='s'>"+esc(sub)+"</div>"+
+      "<div class='s'>"+esc(it.region||"")+"</div>"+
+      "<div class='badge'>"+esc(bucket(it))+"</div>";
+    div.addEventListener("click",()=>{activeIndex=idx; renderList(); renderDetail(it);});
+    listEl.appendChild(div);
+  });
+
+  if(filtered.length===0){
+    detailEl.innerHTML="<h2>无匹配结果（該当なし）</h2><div class='names'>请修改搜索词或切换类别筛选。</div><div class='empty'>当前条件下没有条目。</div>";
+    return;
+  }
+  if(activeIndex<0 || activeIndex>=filtered.length){ activeIndex=0; renderList(); renderDetail(filtered[0]); }
+}
+
+qEl.addEventListener("input",()=>{activeIndex=0; renderList();});
+catEl.addEventListener("change",()=>{activeIndex=0; renderList();});
+sortEl.addEventListener("change",()=>{activeIndex=0; renderList();});
+renderList();
+</script>
+</body>
+</html>
