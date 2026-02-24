@@ -43,3 +43,5 @@ public/images/pottery/*
 tmpclaude-*
 *.tmp
 *.log
+
+/lib/generated/prisma

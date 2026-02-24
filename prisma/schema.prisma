@@ -1,0 +1,146 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+}
+
+// 陶器条目（核心模型）
+model PotteryEntry {
+  id        String   @id @default(uuid())
+  slug      String   @unique
+
+  // 多语言名称
+  nameZh    String
+  nameJa    String
+  nameEn    String?
+
+  // 分类
+  category  String   // 陶器/磁器/作家/产地
+  region    String   // 产地
+  type      String?  // 类型（可选）
+
+  // 内容
+  description  String   @db.Text
+  positioning  String   // 定位说明
+
+  // JSON 数组字段
+  signatureFeatures    Json   // string[] - 识别特征
+  keywords             String[]   // 关键词
+  notableArtists       Json   // string[] - 知名作家
+  representativeForms  Json   // string[] - 代表器型
+
+  // 媒体
+  images    Json?    // ImageAsset[]
+
+  // 关联
+  artistId  String?
+  artist    Artist?  @relation(fields: [artistId], references: [id])
+
+  // 来源
+  sources   Json     // Source[]
+
+  // 社交字段（预留）
+  instagramHandle     String?
+  instagramFollowers  Int?
+  instagramLastSync   DateTime?
+
+  // 市场信息（预留）
+  priceRange       String?
+  exhibitionCount  Int?
+  popularityScore  Int?
+
+  // 商品关联（预留，未来与商城对接）
+  relatedProductIds String[]
+  externalShopUrl   String?
+
+  // SEO
+  seoTitle       String?
+  seoDescription String?
+  seoKeywords    String[]
+
+  // 元数据
+  published   Boolean   @default(false)
+  publishedAt DateTime?
+  createdAt   DateTime  @default(now())
+  updatedAt   DateTime  @updatedAt
+
+  @@index([category, region])
+  @@index([artistId])
+  @@index([slug])
+  @@index([published])
+}
+
+// 作家
+model Artist {
+  id        String   @id @default(uuid())
+  slug      String   @unique
+
+  nameZh    String
+  nameJa    String
+  nameEn    String?
+
+  bio       String   @db.Text
+  birthYear Int?
+  deathYear Int?
+
+  // 社交媒体
+  instagramHandle    String?   @unique
+  instagramFollowers Int?
+  instagramLastSync  DateTime?
+  websiteUrl         String?
+
+  // 市场数据
+  exhibitionCount Int?
+  avgPriceRange   String?
+
+  // 媒体
+  avatar    String?
+  images    Json?
+
+  // 关联
+  entries   PotteryEntry[]
+
+  published Boolean  @default(false)
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  @@index([slug])
+}
+
+// 分类（层级结构）
+model Category {
+  id        String     @id @default(uuid())
+  slug      String     @unique
+
+  nameZh    String
+  nameJa    String
+  nameEn    String?
+
+  description String?  @db.Text
+
+  // 层级
+  parentId    String?
+  parent      Category?  @relation("CategoryHierarchy", fields: [parentId], references: [id])
+  children    Category[] @relation("CategoryHierarchy")
+
+  order     Int        @default(0)
+
+  createdAt DateTime   @default(now())
+  updatedAt DateTime   @updatedAt
+
+  @@index([slug])
+  @@index([parentId])
+}
+
+// 管理员用户（简化设计，单用户）
+model User {
+  id           String   @id @default(uuid())
+  email        String   @unique
+  passwordHash String
+  role         String   @default("admin")
+
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+}

@@ -3,7 +3,9 @@
     "allow": [
       "Bash(pnpm install)",
       "Bash(pnpm add:*)",
-      "Bash(pnpm dlx:*)"
+      "Bash(pnpm dlx:*)",
+      "Bash(pnpm prisma init:*)",
+      "Bash(pnpm prisma migrate:*)"
     ]
   }
 }
