@@ -68,10 +68,21 @@ Error: P1001: Can't reach database server at `db.mmujoqmmcpgghrgloqss.supabase.c
 2. 网络连接问题
 3. 数据库凭据可能已过期
 
-**下一步行动**:
-- 请检查 Supabase 项目状态
-- 验证数据库连接字符串
-- 确认数据库可访问性后重新运行: `pnpm prisma migrate dev --name init`
+**尝试的解决方案**:
+1. ✅ 更新 Prisma 7 配置 (prisma.config.ts)
+2. ✅ 配置 directUrl 用于连接池
+3. ✅ 交换 DATABASE_URL 和 DIRECT_URL（使用直接连接进行 migration）
+4. ❌ 仍然无法连接到 `db.mmujoqmmcpgghrgloqss.supabase.com:5432`
+
+**下一步行动 (需要用户操作)**:
+1. 访问 Supabase 控制台: https://supabase.com/dashboard/project/mmujoqmmcpgghrgloqss
+2. 检查项目状态 - 如果显示 "Paused"，点击 "Resume" 恢复
+3. 确认项目激活后，运行: `pnpm prisma migrate dev --name init`
+
+**替代方案**:
+- 选项 A: 暂时跳过 migration，使用模拟数据继续开发 API 和前端
+- 选项 B: 切换到本地 PostgreSQL 数据库
+- 选项 C: 创建新的 Supabase 项目
 
 ---
 
