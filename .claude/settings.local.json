@@ -20,7 +20,9 @@
       "Bash(curl:*)",
       "Bash(npx prisma migrate:*)",
       "Bash(npx prisma generate:*)",
-      "Bash(timeout 3 curl:*)"
+      "Bash(timeout 3 curl:*)",
+      "Bash(tasklist:*)",
+      "Bash(taskkill:*)"
     ]
   }
 }
