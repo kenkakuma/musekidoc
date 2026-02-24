@@ -50,6 +50,8 @@ export const createEntrySchema = z.object({
   priceRange: z.string().optional(),
   exhibitionCount: z.number().int().min(0).optional(),
 
+  images: z.array(imageAssetSchema).optional(),
+
   published: z.boolean().default(false),
 })
 

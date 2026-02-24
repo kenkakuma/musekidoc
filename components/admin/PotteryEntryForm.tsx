@@ -7,6 +7,8 @@ import { Input } from '@/components/ui/input'
 import { Textarea } from '@/components/ui/textarea'
 import { Label } from '@/components/ui/label'
 import { Card, CardContent, CardHeader, CardTitle, CardDescription } from '@/components/ui/card'
+import { ImageUpload } from './ImageUpload'
+import type { ImageAsset } from '@/lib/db/types'
 
 interface PotteryEntryFormProps {
   initialData?: any
@@ -34,6 +36,7 @@ export function PotteryEntryForm({ initialData, entryId }: PotteryEntryFormProps
     notableArtists: initialData?.notableArtists?.join('\n') || '',
     representativeForms: initialData?.representativeForms?.join('\n') || '',
     sources: initialData?.sources ? JSON.stringify(initialData.sources, null, 2) : '[{"title": "", "url": ""}]',
+    images: (initialData?.images as ImageAsset[]) || [],
     published: initialData?.published || false,
   })
 
@@ -71,6 +74,7 @@ export function PotteryEntryForm({ initialData, entryId }: PotteryEntryFormProps
           .map(s => s.trim())
           .filter(Boolean),
         sources: JSON.parse(formData.sources),
+        images: formData.images,
         published: publish,
       }
 
@@ -254,6 +258,22 @@ export function PotteryEntryForm({ initialData, entryId }: PotteryEntryFormProps
               至少100字，详细介绍历史、特点、工艺等
             </p>
           </div>
+        </CardContent>
+      </Card>
+
+      {/* 图片上传 */}
+      <Card>
+        <CardHeader>
+          <CardTitle>图片</CardTitle>
+          <CardDescription>上传陶器相关图片（支持拖拽排序）</CardDescription>
+        </CardHeader>
+        <CardContent>
+          <ImageUpload
+            value={formData.images}
+            onChange={(images) => setFormData({ ...formData, images })}
+            maxImages={10}
+            disabled={loading}
+          />
         </CardContent>
       </Card>
 

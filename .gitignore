@@ -39,6 +39,10 @@ prisma/migrations/*.sql
 public/images/pottery/*
 !public/images/pottery/.gitkeep
 
+# Uploaded images
+public/uploads/*
+!public/uploads/.gitkeep
+
 # Temp files
 tmpclaude-*
 *.tmp

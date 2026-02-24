@@ -137,6 +137,7 @@ export async function POST(request: NextRequest) {
         notableArtists: validated.notableArtists as any,
         representativeForms: validated.representativeForms as any,
         sources: validated.sources as any,
+        images: validated.images as any || null,
         artistId: validated.artistId || null,
         instagramHandle: validated.instagramHandle || null,
         instagramFollowers: validated.instagramFollowers || null,
