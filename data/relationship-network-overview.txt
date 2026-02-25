@@ -1,0 +1,123 @@
+ARTIST-POTTERY RELATIONSHIP NETWORK
+================================================================================
+
+POTTERY ENTRY                    RELATED ARTISTS
+--------------------------------------------------------------------------------
+
+六古窯 (Six Ancient Kilns)
+--------------------------------------------------------------------------------
+備前焼 (Bizen)                   • Ishida Kazuya (石田和也)
+                                   └─ Born in Bizen, pupil of Isezaki Jun
+
+常滑焼 (Tokoname)                • Tazuruhama Morito (田鶴濱守人)
+                                   └─ Works in Handa (Tokoname region)
+                                 • Takataya Masahiro (高田谷将宏)
+                                   └─ Based in Tokoname
+
+瀬戸焼 (Seto)                    • Takeuchi Shingo (竹内真吾)
+                                   └─ Born in Seto, traditional techniques
+                                 • Sakai Tomoya (酒井智也)
+                                   └─ Works in Seto, contemporary style
+                                 • Muraki Yuji (村木雄児)
+                                   └─ Trained at Seto kiln school
+
+信楽焼 (Shigaraki)               • Endo Takashi (遠藤岳)
+                                   └─ Uses Shigaraki clay, minimalist
+                                 • Hashimoto Tomonari (橋本知成)
+                                   └─ Lives in Shigaraki, geometric forms
+                                 • Ueda Yuji (上田勇二)
+                                   └─ Born in Shigaraki, experimental
+                                 • Otani Tetsuya (大谷哲也)
+                                   └─ Works in Shigaraki region
+
+丹波焼 (Tamba)                   [No current relationships]
+
+越前焼 (Echizen)                 [No current relationships]
+
+技法・様式 (Techniques & Styles)
+--------------------------------------------------------------------------------
+志野 (Shino)                     • Kuwata Takuro (桑田卓郎)
+                                   └─ Tajimi, experimental glazes
+                                 • Ogata Atsushi (尾形篤)
+                                   └─ Traditional techniques
+
+織部 (Oribe)                     • Kuwata Takuro (桑田卓郎)
+                                   └─ Mino region, bold glazes
+
+黄瀬戸 (Ki-Seto)                 • Takeuchi Shingo (竹内真吾)
+                                   └─ Seto tradition specialist
+
+唐津 (Karatsu)                   • Shimomura Atsushi (下村淳)
+                                   └─ Trained in Karatsu, hakeme specialist
+
+萩 (Hagi)                        [No current relationships]
+
+楽 (Raku)                        [No current relationships]
+
+益子 (Mashiko)                   • Hamada Tomoo (濱田友緒) ★
+                                   └─ Grandson of Hamada Shoji
+                                 • Ishikawa Wakahiko (石川若彦)
+                                   └─ Moved to Mashiko 1990
+                                 • Yoshizawa Hiro (吉沢寛郎)
+                                   └─ Family kiln in Mashiko
+                                 • Nikaido Akihiro (二階堂明弘)
+                                   └─ Uses Mashiko clay
+                                 • Umano Shingo (馬野真吾)
+                                   └─ Worked at Yoshizawa kiln
+
+九谷 (Kutani)                    [No current relationships]
+
+伊万里・有田 (Imari-Arita)       [No current relationships]
+
+柿右衛門 (Kakiemon)              [No current relationships]
+
+京焼・清水 (Kyo-Kiyomizu)        • Shuno Maki (秀野真希)
+                                   └─ Moved to Kyoto 2019
+
+伊賀 (Iga)                       • Endo Takashi (遠藤岳)
+                                   └─ Uses Iga/Shigaraki clay
+                                 • Uchida Koichi (内田鋼一)
+                                   └─ Works in Yokkaichi (Mie)
+
+笠間 (Kasama)                    • Inayoshi Yoshimitsu (稲吉善光)
+                                   └─ Based in Kasama
+                                 • Nukaga Akio (額賀章夫)
+                                   └─ Ibaraki pottery center graduate
+
+================================================================================
+SUMMARY STATISTICS
+================================================================================
+
+Total Pottery Entries:              21
+Entries with Relationships:         13 (61.9%)
+Entries without Relationships:       8 (38.1%)
+
+Total Unique Artists Featured:      22
+Total Relationship Connections:     24
+
+Top Pottery Centers by Artist Count:
+  1. Mashiko (益子)                  5 artists
+  2. Shigaraki (信楽)                4 artists
+  3. Seto (瀬戸)                     3 artists
+  4. Iga (伊賀)                      2 artists
+  5. Tokoname (常滑)                 2 artists
+  6. Kasama (笠間)                   2 artists
+
+Artists Linked to Multiple Entries:
+  • Kuwata Takuro                    → Shino, Oribe
+  • Endo Takashi                     → Shigaraki, Iga
+  • Takeuchi Shingo                  → Seto, Ki-Seto
+
+Pottery Traditions Needing Artists:
+  • Tamba-yaki (丹波焼)
+  • Echizen-yaki (越前焼)
+  • Hagi-yaki (萩焼)
+  • Kutani-yaki (九谷焼)
+  • Imari-Arita (伊万里・有田焼)
+  • Kakiemon (柿右衛門)
+  • Raku-yaki (楽焼)
+
+★ = Notable heritage (e.g., Hamada Tomoo, grandson of Hamada Shoji)
+
+================================================================================
+Generated: 2026-02-25

@@ -1,0 +1,533 @@
+{
+  "entries": [
+    {
+      "slug": "shino",
+      "nameZh": "志野烧",
+      "nameJa": "志野焼",
+      "nameEn": "Shino ware",
+      "category": "技法·様式（Techniques & Styles）",
+      "region": "岐阜县·美濃地区",
+      "type": "炻器",
+      "description": "志野烧起源于16世纪的美濃地区（现岐阜县），是日本唯一真正原创的白色陶器，也是最早使用彩色炻器釉的陶艺类型之一。志野烧以其标志性的厚实乳白色长石釉著称，釉面呈现自然的红色或灰色斑点，烧成时在还原气氛中产生意外而复杂的表面变化。这种独特的斑点效果通过在釉料中添加长石和其他矿物，然后在高温下烧制而成。志野烧在桃山时代（1568-1600）达到鼎盛，深受茶道宗师喜爱，其不对称的造型体现了日本侘寂美学中对不完美之美的追求。传统上使用登窑（noborigama）烧制，采用较低温度长时间烧成并缓慢冷却的工艺，使每件作品都独一无二。志野烧与其他美濃陶器如织部、黄濑户一样，基于古老的濑户烧传统，但在造型、装饰和釉面上进行了创新。",
+      "positioning": "日本唯一原创的白色陶器，美濃地区代表性技法，侘寂美学的完美体现",
+      "signatureFeatures": [
+        "厚实的乳白色长石釉",
+        "自然形成的红色或灰色斑点",
+        "细密的气孔质地",
+        "还原烧成产生的复杂表面变化",
+        "不对称造型，体现侘寂美学",
+        "较低温度长时间烧成",
+        "缓慢冷却工艺",
+        "厚实但轻盈的器壁",
+        "多用于茶道具"
+      ],
+      "keywords": ["志野", "美濃", "白釉", "长石", "侘寂", "茶道", "桃山", "还原烧", "登窑", "炻器"],
+      "relatedArtists": ["kuwata-takuro"],
+      "representativeForms": ["茶碗", "碗", "盘", "茶道具", "筒形器"],
+      "sources": [
+        {
+          "title": "Shino ware - Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Shino_ware"
+        },
+        {
+          "title": "Shinoyaki: Mino's Iconic White-Glazed Japanese Pottery",
+          "url": "https://masuhome.com/blogs/blog/shinoyaki-mino-s-iconic-white-glazed-japanese-pottery"
+        },
+        {
+          "title": "Shino ware - Britannica",
+          "url": "https://www.britannica.com/art/Shino-ware"
+        }
+      ],
+      "published": true
+    },
+    {
+      "slug": "oribe",
+      "nameZh": "织部烧",
+      "nameJa": "織部焼",
+      "nameEn": "Oribe ware",
+      "category": "技法·様式（Techniques & Styles）",
+      "region": "岐阜县·美濃地区",
+      "type": "炻器",
+      "description": "织部烧首次出现于16世纪末至17世纪初（庆长至元和年间，1596-1624），其名称源于茶道大师古田织部，他是千利休的弟子并在利休去世后继承了其茶道精神。织部烧最显著的特征是使用绿色铜釉和大胆的绘画装饰，这是日本陶工首次使用彩色炻器釉。与当时更为朴素、单色的乐烧相比，织部烧在视觉上呈现出戏剧性的突破，陶器常常不对称，具有古怪的造型和几何图案装饰。绿色织部（青织部）以其独特的绿色铜釉和刻意的不对称造型而闻名。铜的加入使釉色呈现特征性的绿色。多室登窑的出现使陶工能够以创新的方式施釉，这种窑在16世纪末由朝鲜陶工从北九州引入。织部烧自由奔放的装饰风格和前卫的造型在当时具有革命性，打破了传统茶道具的审美规范。",
+      "positioning": "日本首次使用彩色炻器釉，以大胆绿釉和几何装饰革新茶道具美学",
+      "signatureFeatures": [
+        "标志性的绿色铜釉",
+        "大胆的几何图案装饰",
+        "刻意的不对称造型",
+        "自由奔放的绘画风格",
+        "多室登窑烧成",
+        "与传统茶道具的美学突破",
+        "古怪的器形",
+        "铜元素产生的独特色彩",
+        "前卫的装饰理念"
+      ],
+      "keywords": ["织部", "绿釉", "铜釉", "几何", "古田织部", "茶道", "美濃", "不对称", "登窑", "桃山"],
+      "relatedArtists": [],
+      "representativeForms": ["茶碗", "向付", "花入", "水指", "香合", "盘"],
+      "sources": [
+        {
+          "title": "Oribe ware - Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Oribe_ware"
+        },
+        {
+          "title": "Oribe ware - Britannica",
+          "url": "https://www.britannica.com/art/Oribe-ware"
+        },
+        {
+          "title": "The Philosophy of Oribe - The Stratford Gallery",
+          "url": "https://www.thestratfordgallery.co.uk/news/the-philosophy-of-oribe/3077"
+        }
+      ],
+      "published": true
+    },
+    {
+      "slug": "ki-seto",
+      "nameZh": "黄濑户",
+      "nameJa": "黄瀬戸",
+      "nameEn": "Ki-Seto ware",
+      "category": "技法·様式（Techniques & Styles）",
+      "region": "爱知县·濑户地区 / 岐阜县·美濃地区",
+      "type": "陶器",
+      "description": "黄濑户是一种黄色调的陶器，由细腻的白色黏土制成，覆盖铁灰釉，产自日本中部的美濃地区，始于室町时代晚期（1338-1573）。经典的黄濑户釉是一种灰釉，在氧化烧成中呈现黄色。其温暖的黄色釉面是由不透明釉和木灰釉的结合产生的，常带有绿色或铁褐色点缀，在桃山时代被广泛用于茶道具。黄濑户的特色是将花卉图案雕刻在黏土坯体上，这些花卉设计通过泼洒绿色釉来强调。一种被称为\"胆矾\"（tampan）的装饰器物特别受到茶道爱好者的喜爱，这些器物上绘有用淡绿色铜釉执行的图案设计。黄濑户的许多釉料和风格最初在濑户开发，后来传播到附近的岐阜县，并被纳入美濃烧的体系中。黄濑户与志野、织部并称为美濃三大名陶，共同代表了桃山时代陶艺的巅峰成就。",
+      "positioning": "美濃三大名陶之一，以温暖黄釉和雕花装饰著称的茶道具",
+      "signatureFeatures": [
+        "温暖的黄色釉面",
+        "铁灰釉在氧化烧成中的呈色",
+        "绿色或铁褐色点缀",
+        "雕刻花卉图案",
+        "淡绿色铜釉装饰",
+        "胆矾（tampan）装饰技法",
+        "细腻的白色黏土",
+        "木灰釉的运用",
+        "茶道具的重要品类"
+      ],
+      "keywords": ["黄濑户", "黄釉", "濑户", "美濃", "茶道", "铁釉", "雕花", "桃山", "胆矾", "氧化烧"],
+      "relatedArtists": ["takeuchi-shingo"],
+      "representativeForms": ["茶碗", "向付", "花入", "香合", "盘"],
+      "sources": [
+        {
+          "title": "Ki Seto ware - Britannica",
+          "url": "https://www.britannica.com/art/Ki-Seto-ware"
+        },
+        {
+          "title": "Setoyaki - Ian Saunders pottery",
+          "url": "https://isaunders.wordpress.com/japanese-pottery-styles/setoyaki/"
+        },
+        {
+          "title": "Seto ware - Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Seto_ware"
+        }
+      ],
+      "published": true
+    },
+    {
+      "slug": "karatsu",
+      "nameZh": "唐津烧",
+      "nameJa": "唐津焼",
+      "nameEn": "Karatsu ware",
+      "category": "技法·様式（Techniques & Styles）",
+      "region": "佐贺县·唐津地区（九州）",
+      "type": "炻器",
+      "description": "唐津烧是16世纪中期左右在九州肥前地区（现代佐贺县）生产的陶器风格，起源于朝鲜半岛。这是日本第一种施釉陶器，其制作得益于朝鲜引入的登窑、踢轮和黏土釉料处理技术。唐津烧中使用的技术被认为是在16世纪末日本入侵朝鲜期间从朝鲜半岛传入的，尽管有些理论认为这些技术可能在此之前就已经使用。16世纪末的两次朝鲜入侵后，朝鲜工匠被带到日本，大大促进了唐津烧的发展。朝鲜工匠带来了两项革命性技术：踢轮和多室登窑。唐津烧以其简朴、质朴之美而闻名，被认为是日本侘寂美学的典范。在茶道器中有著名的古语：\"一乐二萩三唐津\"，表明唐津烧在日本茶道具中排名第三，地位仅次于乐烧和萩烧。唐津烧体现了朝鲜陶瓷技术与日本美学的完美融合，其质朴自然的风格深受茶人喜爱。",
+      "positioning": "日本首例施釉炻器，朝鲜技术与日本美学的融合，茶道具三大名品之一",
+      "signatureFeatures": [
+        "朝鲜半岛技术起源",
+        "踢轮成形技术",
+        "多室登窑烧成",
+        "简朴质朴的美学",
+        "侘寂风格的典范",
+        "多样化的装饰技法",
+        "铁釉、灰釉等多种釉色",
+        "茶道具的重要地位",
+        "\"一乐二萩三唐津\"的排名"
+      ],
+      "keywords": ["唐津", "朝鲜", "侘寂", "茶道", "登窑", "踢轮", "施釉", "九州", "质朴", "炻器"],
+      "relatedArtists": ["shimomura-atsushi"],
+      "representativeForms": ["茶碗", "皿", "向付", "花入", "水指", "壶"],
+      "sources": [
+        {
+          "title": "Karatsu ware - Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Karatsu_ware"
+        },
+        {
+          "title": "Karatsu ware - Britannica",
+          "url": "https://www.britannica.com/art/Karatsu-ware"
+        },
+        {
+          "title": "Karatsu in Japanese Ceramics - Encyclopedia Design",
+          "url": "https://encyclopedia.design/2025/02/16/karatsu-in-japanese-ceramics-a-legacy-of-korean-influence-and-tea-culture/"
+        }
+      ],
+      "published": true
+    },
+    {
+      "slug": "hagi",
+      "nameZh": "萩烧",
+      "nameJa": "萩焼",
+      "nameEn": "Hagi ware",
+      "category": "技法·様式（Techniques & Styles）",
+      "region": "山口县·萩市",
+      "type": "陶器",
+      "description": "萩烧起源于16世纪末，当时朝鲜陶工在日本军事入侵朝鲜半岛后来到山口县的萩市。大量朝鲜工匠被带到日本，在建立萩烧、有田烧和萨摩烧等新型陶器方面发挥了关键作用。其中李勺光和李敬（可能是朝鲜名字李叔光和李敬的日本形式）两兄弟在萩的军阀毛利辉元的资助下建立了第一座窑，并在1604年左右烧制了第一件萩烧作品。自400多年前发展以来，萩烧在几乎所有茶道流派的传统美学中仍然备受推崇，一些最古老的萩烧作品被指定为日本国宝。萩烧以其泥土质感著称，这源于用于制作萩烧的当地黏土口土（Kuchi-tsuchi）。萩烧通常由三种当地黏土混合而成：主要取自防府市大道地区的低铁、高可塑性灰色黏土；取自三岛的高铁深红色黏土；以及取自见立山的黄白色黏土，质地类似高岭土。半透明的米黄色釉用于展现黏土的自然深沉色彩。在窑中加热后，釉料在冷却时会形成标志性的细密裂纹网络，称为贯入（kan-nyuu）。随着茶汤通过釉面细密裂纹缓慢渗透黏土，它会加深并丰富作品的色彩和质地，这一过程被称为七化（nanabake），即\"七次转变\"。在茶道具中有名言：\"一乐二萩三唐津\"，表明萩烧在茶道具中排名第二，仅次于乐烧。",
+      "positioning": "茶道具三大名品第二位，以七化现象和贯入釉裂闻名的朝鲜系陶器",
+      "signatureFeatures": [
+        "朝鲜陶工起源",
+        "泥土质感的黏土",
+        "三种当地黏土混合",
+        "半透明米黄色釉",
+        "贯入（kan-nyuu）釉裂",
+        "七化（nanabake）现象",
+        "茶汤渗透产生的色彩变化",
+        "侘寂美学的体现",
+        "\"一乐二萩三唐津\"排名第二",
+        "多件作品为日本国宝"
+      ],
+      "keywords": ["萩烧", "朝鲜", "贯入", "七化", "茶道", "侘寂", "釉裂", "山口", "口土", "国宝"],
+      "relatedArtists": [],
+      "representativeForms": ["茶碗", "急须", "花入", "水指", "盘", "壶"],
+      "sources": [
+        {
+          "title": "Hagi ware - Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Hagi_ware"
+        },
+        {
+          "title": "Timeless Style: The Elegance of Hagi-yaki - Tezumi",
+          "url": "https://www.tezumi.com/blogs/tezumi-insights/timeless-style-the-elegance-of-hagi-yaki"
+        },
+        {
+          "title": "Hagi-yaki - KOGEI JAPAN",
+          "url": "https://kogeijapan.com/locale/en_US/hagiyaki/"
+        }
+      ],
+      "published": true
+    },
+    {
+      "slug": "raku",
+      "nameZh": "乐烧",
+      "nameJa": "楽焼",
+      "nameEn": "Raku ware",
+      "category": "技法·様式（Techniques & Styles）",
+      "region": "京都府",
+      "type": "陶器",
+      "description": "乐烧是一种传统上用于日本茶道的陶器，最常见的形式是茶碗。乐烧起源可追溯到16世纪70年代末的京都，当时茶道大师千利休委托陶工长次郎制作能够体现其质朴和谦逊精神的茶碗。乐烧的技术可追溯到中国明代的三彩陶，可能由长次郎的父亲阿弥耶（一位中国血统的工匠）引入日本。丰臣秀吉将刻有汉字\"乐\"（意为\"享受\"）的印章赠予长次郎之子常庆，\"乐\"随后成为生产这些器物的家族名称。后来它们被重新命名为\"聚乐烧\"（juraku ware），因为乐家住在千利休居住的聚乐第宫附近。乐茶碗使用手捏（tezukune）技法制作，用手掌成型：将黏土塑成密实的扁平圆形，然后通过手掌压缩逐渐成形。乐烧不使用轮盘成型。传统上，乐烧以手工成型技术、成品的高孔隙率（低温烧成的结果）、铅釉以及在陶器仍然炽热时从窑中取出为特征。乐烧可以在小型室内窑中烧制，这促进了其在京都这个重要茶道中心的流行。从1580年至今，乐烧一直是最受追捧的日本陶瓷，是侘寂美学的无与伦比的典范。乐家族延续至今已是第16代，京都的乐美术馆展示了历代大师陶工的作品。",
+      "positioning": "茶道具之首\"一乐二萩三唐津\"，千利休精神的完美体现，侘寂美学的典范",
+      "signatureFeatures": [
+        "手捏（tezukune）成形技术",
+        "不使用轮盘",
+        "低温烧成，高孔隙率",
+        "铅釉",
+        "炽热时从窑中取出",
+        "可在小型室内窑烧制",
+        "黑乐和红乐等多种类型",
+        "千利休茶道精神的体现",
+        "乐家族16代传承",
+        "质朴谦逊的美学"
+      ],
+      "keywords": ["乐烧", "千利休", "手捏", "茶道", "侘寂", "京都", "低温", "黑乐", "红乐", "茶碗"],
+      "relatedArtists": [],
+      "representativeForms": ["茶碗", "香合", "水指"],
+      "sources": [
+        {
+          "title": "Raku ware - Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Raku_ware"
+        },
+        {
+          "title": "Raku Pottery: Everything You Need to Know - Japan Objects",
+          "url": "https://japanobjects.com/features/rakuware"
+        },
+        {
+          "title": "The History of Japanese Raku Ware - Cabana Magazine",
+          "url": "https://cabanamagazine.com/blogs/atlas-of-craftsmanship/craft-stories-the-history-of-japanese-raku-ware"
+        }
+      ],
+      "published": true
+    },
+    {
+      "slug": "mashiko",
+      "nameZh": "益子烧",
+      "nameJa": "益子焼",
+      "nameEn": "Mashiko ware",
+      "category": "技法·様式（Techniques & Styles）",
+      "region": "栃木县·益子町",
+      "type": "陶器",
+      "description": "益子烧是一种传统上在栃木县益子町制作的日本陶器，以其泥土质感、天然釉料和略带质朴感著称。当陶艺家滨田庄司于1924年搬到益子时，益子烧从日常用品提升到艺术品的高度，将其转变为民艺陶器中心。滨田庄司（1894-1978）是民艺运动的核心人物，被指定为人间国宝（Living National Treasure），在益子工作期间致力于推广\"民众的手工艺术\"理念。滨田庄司纪念馆三考馆（Sankokan）位于他的故居和工作室。益子烧被视为民艺或民间艺术陶器的一种。使用益子的黏土和釉料，滨田庄司制作了大量陶器以表达其民艺或民间工艺的理想。要成为民艺，物品必须由匿名工匠制作，手工大量生产，价格低廉，日常生活实用，并代表其生产地区的特色。如今，这个距东京仅两小时车程的小镇有300多位陶工以各种风格工作。益子烧体现了实用性与艺术性的完美结合，其质朴自然的风格深受现代生活器用户的喜爱。",
+      "positioning": "日本民艺运动的中心，滨田庄司推动的民间陶艺代表",
+      "signatureFeatures": [
+        "泥土质感",
+        "天然釉料",
+        "质朴的民艺风格",
+        "滨田庄司的传承",
+        "手工制作理念",
+        "实用的日常器物",
+        "价格亲民",
+        "300多位陶工的多样风格",
+        "民艺运动的核心产地",
+        "益子土的独特性质"
+      ],
+      "keywords": ["益子", "民艺", "滨田庄司", "民间工艺", "质朴", "手工", "栃木", "日用器", "人间国宝", "实用性"],
+      "relatedArtists": ["hamada-tomoo", "ishikawa-wakahiko", "yoshizawa-hiro"],
+      "representativeForms": ["碗", "盘", "壶", "急须", "花器", "钵", "日用器"],
+      "sources": [
+        {
+          "title": "Mashiko ware - Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Mashiko_ware"
+        },
+        {
+          "title": "Mingei to Modern: Pottery in Mashiko, Japan - The Kind Craft",
+          "url": "https://thekindcraft.com/mashiko/"
+        },
+        {
+          "title": "Mashiko potteries - Mashiko Tourism",
+          "url": "https://mashiko-tourism.com/mashikopotteries/"
+        }
+      ],
+      "published": true
+    },
+    {
+      "slug": "kutani",
+      "nameZh": "九谷烧",
+      "nameJa": "九谷焼",
+      "nameEn": "Kutani ware",
+      "category": "技法·様式（Techniques & Styles）",
+      "region": "石川县·加贺地区",
+      "type": "瓷器",
+      "description": "九谷烧是一种日本瓷器风格，传统上被认为来自加贺的九谷（现为石川县加贺市的一部分），是1655年为加贺的前田大名制作的釉上彩瓷器。九谷烧的显著特征是鲜艳的色彩、大胆而优雅的设计，以及独特的釉上装饰技术。这种技术包括使用颜料在釉面上绘制图案，然后再次烧制作品。九谷烧以其丰富的釉上彩而闻名，特别是九谷五彩（Kutani Gosai）：绿、黄、红、紫、蓝。九谷烧瓷器的原料是陶石（tōseki），釉上彩的原料是水晶玻璃。将铁氧化物和钴氧化物等着色剂与水晶玻璃混合可以产生强烈鲜艳、半透明的色彩。这一传统分为两个主要时期：古九谷（Ko-Kutani）被认为是日本第一个主要的釉上彩瓷器风格，以鲜艳的手绘设计和创新的色彩运用为特征，但在18世纪30年代左右神秘地停止了生产。在窑废弃约100年后，在藩的支持下，九谷烧的生产于1807年重新开始，称为再兴九谷（Saikō-Kutani）。著名画家青木木米从京都被邀请建立春日山窑，开启了再兴时期。人间国宝德田八十吉三代（1933-2009）因其青手古九谷珐琅作品而被指定为无形文化财。",
+      "positioning": "日本釉上彩瓷器的代表，以九谷五彩和大胆设计闻名",
+      "signatureFeatures": [
+        "釉上彩装饰技术",
+        "九谷五彩：绿、黄、红、紫、蓝",
+        "强烈鲜艳的半透明色彩",
+        "大胆优雅的设计",
+        "水晶玻璃与氧化物混合",
+        "古九谷与再兴九谷两个时期",
+        "手绘精细图案",
+        "瓷器基底",
+        "加贺藩的支持与传承"
+      ],
+      "keywords": ["九谷", "釉上彩", "五彩", "瓷器", "石川", "加贺", "古九谷", "再兴", "彩绘", "人间国宝"],
+      "relatedArtists": [],
+      "representativeForms": ["盘", "碗", "壶", "花瓶", "茶器", "酒器"],
+      "sources": [
+        {
+          "title": "Kutani ware - Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Kutani_ware"
+        },
+        {
+          "title": "What is Kutani Ware? - My Japanese World",
+          "url": "https://myjapaneseworld.com/blogs/japanese-craftsman-journal/what-is-kutani-ware-a-deep-dive-into-japan-s-vibrant-ceramic-tradition"
+        },
+        {
+          "title": "Kutani Ware - Potter Potter",
+          "url": "https://potter-potter.com/blogs/story/kutani-ware-vibrant-porcelain-from-ishikawa-prefecture"
+        }
+      ],
+      "published": true
+    },
+    {
+      "slug": "imari-arita",
+      "nameZh": "伊万里烧·有田烧",
+      "nameJa": "伊万里焼·有田焼",
+      "nameEn": "Imari / Arita ware",
+      "category": "技法·様式（Techniques & Styles）",
+      "region": "佐贺县·有田地区",
+      "type": "瓷器",
+      "description": "有田烧是在日本九州岛西北部前肥前国（现佐贺县）有田町周边地区制作的日本瓷器的广义术语。据说制造始于1616年，当时朝鲜陶工李参平（Yi Sam-pyong）在有田发现了瓷土（高岭土）。他们是日本第一个生产瓷器的地方，约400年前在当地山上发现了制瓷必需的矿物高岭土，并从朝鲜引入了具有必要技能的工匠。早期的陶瓷是青花品种，是对中国景德镇著名陶器的仿制。伊万里这个名称源自佐贺县的伊万里港，瓷器从这里运往长崎，荷兰东印度公司和中国在那里设有贸易站。在17世纪下半叶至18世纪上半叶之间，它们被广泛出口到欧洲，最初从有田的伊万里港出发，经荷兰东印度公司在长崎的贸易站运输。在英语用法中，\"有田烧\"传统上用于青花瓷出口器，主要是仿制中国风格的器物。有田瓷器包括白釉器、淡灰蓝色或灰绿色釉的青瓷、黑色器以及釉下彩的青花器，还有釉上彩珐琅器。有田烧和伊万里烧代表了日本瓷器工艺的巅峰，其精美的青花瓷和彩绘瓷器深受世界各地收藏家的喜爱。",
+      "positioning": "日本首个瓷器产地，以青花瓷和釉上彩闻名的出口名品",
+      "signatureFeatures": [
+        "日本第一个瓷器产地",
+        "朝鲜陶工李参平创始",
+        "高岭土的发现与使用",
+        "青花瓷（染付）",
+        "釉上彩珐琅装饰",
+        "仿制中国景德镇风格",
+        "广泛出口欧洲",
+        "从伊万里港运输",
+        "白釉、青瓷、黑釉等多种类型",
+        "精细的彩绘技术"
+      ],
+      "keywords": ["有田", "伊万里", "瓷器", "青花", "染付", "高岭土", "佐贺", "出口", "李参平", "荷兰东印度"],
+      "relatedArtists": [],
+      "representativeForms": ["盘", "碗", "壶", "瓶", "茶器", "酒器"],
+      "sources": [
+        {
+          "title": "Imari ware - Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Imari_ware"
+        },
+        {
+          "title": "Arita ware - Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Arita_ware"
+        },
+        {
+          "title": "Imari-Arita Ware: A Timeless Legacy - omakase",
+          "url": "https://omakase-forest.com/blogs/omakase-insights/imari-arita-ware-a-timeless-legacy-of-japanese-porcelain-ceramics"
+        }
+      ],
+      "published": true
+    },
+    {
+      "slug": "kakiemon",
+      "nameZh": "柿右卫门",
+      "nameJa": "柿右衛門",
+      "nameEn": "Kakiemon ware",
+      "category": "技法·样式（Techniques & Styles）",
+      "region": "佐贺县·有田地区",
+      "type": "瓷器",
+      "description": "柿右卫门是一种带有釉上装饰（称为\"珐琅\"陶瓷）的日本瓷器风格，最初从江户时代17世纪中期开始在日本肥前国（今佐贺县）有田周边的窑场生产。柿右卫门以其乳白色、半透明的釉面和精致的釉上彩珐琅（柔和的色彩）而著称。装饰通常稀疏地应用，以强调被称为濁手（nigoshide，乳白色）的精细白色瓷器背景，这种背景用于最精美的作品。装饰通常具有高质量、精致且设计不对称、平衡良好。特征性的颜色包括铁红、淡蓝、蓝绿色和黄色，有时还有少量镀金。陶工酒井田柿右卫门（1596-1666）被普遍认为是日本最早发现瓷器釉上彩装饰秘密的人之一，这种装饰被称为赤绘（akae）。其装饰质量在西方备受推崇，在洛可可时期被欧洲主要瓷器制造商广泛模仿。1971年，该工艺技术被日本政府指定为重要无形文化财。柿右卫门代表了日本瓷器装饰艺术的最高成就，其精致的留白美学和细腻的色彩运用影响了整个世界的瓷器制作。",
+      "positioning": "日本釉上彩瓷器的巅峰，以精致留白和细腻色彩影响欧洲瓷器制作",
+      "signatureFeatures": [
+        "乳白色半透明濁手（nigoshide）釉",
+        "精致的釉上彩珐琅",
+        "稀疏的装饰强调白瓷背景",
+        "铁红、淡蓝、蓝绿、黄色为主色",
+        "不对称平衡的设计",
+        "高质量精细装饰",
+        "酒井田柿右卫门创始",
+        "赤绘技法",
+        "被欧洲瓷器制造商模仿",
+        "重要无形文化财"
+      ],
+      "keywords": ["柿右卫门", "釉上彩", "濁手", "赤绘", "有田", "瓷器", "留白", "精致", "欧洲影响", "文化财"],
+      "relatedArtists": [],
+      "representativeForms": ["盘", "碗", "瓶", "壶", "茶器"],
+      "sources": [
+        {
+          "title": "Kakiemon - Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Kakiemon"
+        },
+        {
+          "title": "Kakiemon ware - Britannica",
+          "url": "https://www.britannica.com/art/Kakiemon-ware"
+        },
+        {
+          "title": "Arita and Imari Ware - Potter Potter",
+          "url": "https://potter-potter.com/blogs/story/arita-and-imari-ware-japan-s-timeless-ceramic-treasures"
+        }
+      ],
+      "published": true
+    },
+    {
+      "slug": "kyo-kiyomizu",
+      "nameZh": "京烧·清水烧",
+      "nameJa": "京焼·清水焼",
+      "nameEn": "Kyo-yaki / Kiyomizu-yaki",
+      "category": "技法·样式（Techniques & Styles）",
+      "region": "京都府",
+      "type": "陶器·瓷器",
+      "description": "京烧是指江户时代初期从京都东山地区传播开来的陶瓷风格，而在通往清水寺的五条坂街道沿线生产的陶器被称为清水烧。如今，在京都生产的所有陶器都被称为京烧/清水烧。京烧始于17世纪，随着茶文化的兴起，京都各地建立了各种窑场，已有400年历史，现在京都府有300多座窑。江户时代，陶艺家野野村仁清掌握了锦手（nishiki-de）技法（一种使用红、绿、黄、紫、蓝等色彩的绘画技巧），在京烧/清水烧的发展中发挥了重要作用。奥田颖川是第一位在京都生产类似瓷器物品的陶工，开创了新趋势，而青木木米通过生产真正的瓷器扩大了京烧的范围。京都陶器的主要特点恰恰在于它不能用一个特征来概括——有多种风格，来自日本各地的工匠使用最优质的材料和更先进的技术。京烧和清水烧被日本经济产业省共同指定为传统工艺品。京都作为日本千年古都，汇聚了全国最优秀的陶艺家和技术，形成了多样化、高品质的陶瓷传统。",
+      "positioning": "京都千年古都的陶瓷传统，以多样性和高品质著称，汇聚全国名家技艺",
+      "signatureFeatures": [
+        "多样化的风格，无单一特征",
+        "全国工匠汇聚",
+        "最优质材料和先进技术",
+        "野野村仁清的锦手技法",
+        "奥田颖川的瓷器革新",
+        "青木木米的真正瓷器",
+        "400年历史",
+        "300多座窑场",
+        "茶文化的推动",
+        "传统工艺品指定"
+      ],
+      "keywords": ["京烧", "清水烧", "京都", "锦手", "野野村仁清", "多样性", "茶文化", "瓷器", "传统工艺", "东山"],
+      "relatedArtists": [],
+      "representativeForms": ["茶碗", "盘", "碗", "花瓶", "茶器", "香炉"],
+      "sources": [
+        {
+          "title": "Kiyomizu-yaki - Manekineko AI",
+          "url": "https://manekineko-ai.com/kiyomizu-yaki/"
+        },
+        {
+          "title": "About Kyo Ware/Kiyomizu Ware - Asahido",
+          "url": "https://www.asahido.co.jp/en/knowledge/about_kyoyaki_kiyomizuyaki/"
+        },
+        {
+          "title": "Kyo Ware and Kiyomizu Ware - Remiojapan",
+          "url": "https://remiojapan.com/kyo-ware-kiyomizu-ware/"
+        }
+      ],
+      "published": true
+    },
+    {
+      "slug": "iga",
+      "nameZh": "伊贺烧",
+      "nameJa": "伊賀焼",
+      "nameEn": "Iga ware",
+      "category": "技法·样式（Techniques & Styles）",
+      "region": "三重县·伊贺市",
+      "type": "炻器",
+      "description": "伊贺烧是一种传统上在日本三重县伊贺市使用当地黏土和传统技术生产的日本陶器风格。陶器由来自古琵琶湖层（形成于300-400万年前）的黏土制成，有两种主要类型：Gaerome黏土和Kibushi黏土，两者都以其高耐热性而闻名。伊贺烧以其朴素、坚固和因高耐火性而发红的表面而闻名，还以其玻璃状、绿色的品质著称，称为vidro釉，这是由高温下落在物品表面的灰烬形成的。在早期阶段，它与附近的信乐烧没有区别。据说当时伊贺烧和信乐烧之间没有显著差异。这两种类型在许多世纪中以平行方式发展，都满足对坚固实用器皿（如罐和碗）的需求，直到16世纪末茶道促进了新陶瓷器皿的出现，伊贺烧器皿因其无釉表面纹理、手工制作、不对称造型，甚至烧制过程中出现的裂纹和裂痕而特别受到赞赏。伊贺烧与信乐烧的主要区别在于，伊贺烧往往比信乐烧更硬、更重，并且有把手，正如俗语所说\"伊贺有耳，信乐无耳\"，\"耳\"指的是把手。特别是为了在茶道中使用，伊贺陶工开始创新花瓶和水罐的设计，将独特的\"耳\"（mimitsuki）作为这些器皿的耳状或\"把手形状\"。",
+      "positioning": "与信乐烧并称的古窑，以耳付造型和高耐火性著称的茶道具",
+      "signatureFeatures": [
+        "古琵琶湖层黏土",
+        "高耐热性",
+        "发红的表面",
+        "玻璃状绿色vidro釉",
+        "无釉表面纹理",
+        "手工制作",
+        "不对称造型",
+        "烧制裂纹和裂痕的美学",
+        "独特的耳付（mimitsuki）造型",
+        "\"伊贺有耳，信乐无耳\""
+      ],
+      "keywords": ["伊贺", "信乐", "耳付", "vidro釉", "茶道", "炻器", "琵琶湖", "耐火", "三重", "手工"],
+      "relatedArtists": ["endo-takashi"],
+      "representativeForms": ["花入", "水指", "壶", "钵", "茶道具"],
+      "sources": [
+        {
+          "title": "Iga ware - Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Iga_ware"
+        },
+        {
+          "title": "Iga ware - KOGEI JAPAN",
+          "url": "https://kogeijapan.com/locale/en_US/igayaki/"
+        },
+        {
+          "title": "The Timeless Art of Iga Ware - My Japanese World",
+          "url": "https://myjapaneseworld.com/blogs/japanese-craftsman-journal/the-timeless-art-of-iga-ware-japan-s-earth-fired-mastery-in-clay"
+        }
+      ],
+      "published": true
+    },
+    {
+      "slug": "kasama",
+      "nameZh": "笠间烧",
+      "nameJa": "笠間焼",
+      "nameEn": "Kasama ware",
+      "category": "技法·样式（Techniques & Styles）",
+      "region": "茨城县·笠间市",
+      "type": "陶器",
+      "description": "笠间烧是一种在日本茨城县笠间市制作的日本陶器风格。这一传统可以追溯到江户时代的安永年间（1772-1781），当时箱田町的町长久野半右卫门从信乐邀请陶艺家长右卫门建造了一座窑。新窑生产朴素的实用锅碗，但很快获得了笠间藩大名的赞助和保护，标志着笠间烧陶器风格的开始。明治时期引入了大规模生产技术，笠间发展成为与益子并驾齐驱的关东地区主要陶器中心。笠间烧最独特的方面是其演变为\"自由陶器\"。二战后，当地态度的变化使笠间烧产业超越了其传统的形式和风格限制。1950年成立了茨城县陶器培训中心，随后于1966年建立了艺术村，1972年建立了陶工住宅开发区，将笠间转变为自由精神艺术家的重要中心。从1950年起，笠间烧从未有明确的形象、方向感或特定格式；陶工可以自由地遵循和表达自己的美学价值、想法和意图——这种自由是笠间烧的本质品质。笠间烧强调艺术家的个性，通过吸收艺术趋势而不断发展，不拘泥于过去的技术或理念。目前，笠间有300多位陶工活跃，使用各种类型的黏土和釉料，与江户时代的原始笠间烧作品毫无相似之处。",
+      "positioning": "关东陶器中心，以\"自由陶器\"理念和艺术家个性表达著称",
+      "signatureFeatures": [
+        "\"自由陶器\"理念",
+        "无固定风格或形式",
+        "艺术家个性表达",
+        "300多位陶工的多样创作",
+        "不拘泥传统的创新精神",
+        "各种黏土和釉料的运用",
+        "茨城县陶器培训中心",
+        "艺术村和陶工住宅区",
+        "从实用器到艺术品的转变",
+        "与益子并称的关东产地"
+      ],
+      "keywords": ["笠间", "自由", "个性", "创新", "茨城", "关东", "多样性", "艺术家", "培训中心", "实用器"],
+      "relatedArtists": [],
+      "representativeForms": ["碗", "盘", "壶", "花器", "日用器", "艺术陶器"],
+      "sources": [
+        {
+          "title": "Kasama ware - Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Kasama_ware"
+        },
+        {
+          "title": "A brief history of Kasama-ware - Kasama Potters",
+          "url": "https://www.kasamapotters.com/journal/a-brief-history-of-kasama-ware"
+        },
+        {
+          "title": "Kasama ware - KOGEI JAPAN",
+          "url": "https://kogeijapan.com/locale/en_US/kasamayaki/"
+        }
+      ],
+      "published": true
+    }
+  ],
+  "updateExisting": false
+}

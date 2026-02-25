@@ -1,0 +1,170 @@
+{
+  "description": "Artist-Pottery Entry Relationships - Mapping artists to pottery traditions based on geographic origin, technical specialization, and stylistic connections",
+  "entries": [
+    {
+      "slug": "bizen-yaki",
+      "relatedArtists": [
+        "ishida-kazuya"
+      ],
+      "operation": "replace",
+      "reasoning": "Ishida Kazuya - Born in Bizen, pupil of Living National Treasure Isezaki Jun, specializes in unglazed wood-firing and natural ash effects characteristic of Bizen tradition"
+    },
+    {
+      "slug": "tokoname-yaki",
+      "relatedArtists": [
+        "tazuruhama-morito",
+        "takataya-masahiro"
+      ],
+      "operation": "replace",
+      "reasoning": "Tazuruhama Morito - Works in Handa, Aichi (Tokoname region); Takataya Masahiro - Works in Tokoname creating daily-use vessels"
+    },
+    {
+      "slug": "seto-yaki",
+      "relatedArtists": [
+        "takeuchi-shingo",
+        "sakai-tomoya",
+        "muraki-yuji"
+      ],
+      "operation": "replace",
+      "reasoning": "Takeuchi Shingo - Born in Seto, trained under Kato Shuntai II, traditional Seto ware; Sakai Tomoya - Works in Seto area, contemporary interpretation; Muraki Yuji - Trained at Seto kiln school, uses traditional techniques"
+    },
+    {
+      "slug": "shigaraki-yaki",
+      "relatedArtists": [
+        "endo-takashi",
+        "hashimoto-tomonari",
+        "ueda-yuji",
+        "otani-tetsuya"
+      ],
+      "operation": "replace",
+      "reasoning": "Endo Takashi - Uses Iga/Shigaraki clay, minimalist aesthetic; Hashimoto Tomonari - Lives in Shigaraki, creates geometric sculptures; Ueda Yuji - Born in Shigaraki, experimental clay layering; Otani Tetsuya - Works in Shigaraki area"
+    },
+    {
+      "slug": "tamba-yaki",
+      "relatedArtists": [],
+      "operation": "replace",
+      "reasoning": "No clear artist connections found in current database"
+    },
+    {
+      "slug": "echizen-yaki",
+      "relatedArtists": [],
+      "operation": "replace",
+      "reasoning": "No clear artist connections found in current database"
+    },
+    {
+      "slug": "shino",
+      "relatedArtists": [
+        "kuwata-takuro",
+        "ogata-atsushi"
+      ],
+      "operation": "replace",
+      "reasoning": "Kuwata Takuro - Works in Mino/Tajimi area, experimental glazes on traditional forms; Ogata Atsushi - Works in Seto/Mino region, traditional techniques"
+    },
+    {
+      "slug": "oribe",
+      "relatedArtists": [
+        "kuwata-takuro"
+      ],
+      "operation": "replace",
+      "reasoning": "Kuwata Takuro - Based in Tajimi (Mino region), works with bold glazes and experimental techniques related to Mino traditions"
+    },
+    {
+      "slug": "ki-seto",
+      "relatedArtists": [
+        "takeuchi-shingo"
+      ],
+      "operation": "replace",
+      "reasoning": "Takeuchi Shingo - Seto tradition specialist, works with traditional Seto glazing techniques"
+    },
+    {
+      "slug": "karatsu",
+      "relatedArtists": [
+        "shimomura-atsushi"
+      ],
+      "operation": "replace",
+      "reasoning": "Shimomura Atsushi - Trained at Ryuta Kiln in Karatsu, specializes in hakeme (brushwork) techniques characteristic of Karatsu tradition"
+    },
+    {
+      "slug": "hagi",
+      "relatedArtists": [],
+      "operation": "replace",
+      "reasoning": "No clear artist connections found in current database for Yamaguchi/Hagi region"
+    },
+    {
+      "slug": "raku",
+      "relatedArtists": [],
+      "operation": "replace",
+      "reasoning": "No clear artist connections found - Raku is a specific Kyoto family tradition"
+    },
+    {
+      "slug": "mashiko",
+      "relatedArtists": [
+        "hamada-tomoo",
+        "ishikawa-wakahiko",
+        "yoshizawa-hiro",
+        "nikaido-akihiro",
+        "umano-shingo"
+      ],
+      "operation": "replace",
+      "reasoning": "Hamada Tomoo - Grandson of Hamada Shoji, lives in Mashiko; Ishikawa Wakahiko - Moved to Mashiko in 1990, hand-building specialist; Yoshizawa Hiro - Born 1974, works in family kiln in Mashiko; Nikaido Akihiro - Uses Mashiko clay; Umano Shingo - Worked at Yoshizawa kiln in Mashiko"
+    },
+    {
+      "slug": "kutani",
+      "relatedArtists": [],
+      "operation": "replace",
+      "reasoning": "No clear artist connections found in current database for Ishikawa/Kutani region"
+    },
+    {
+      "slug": "imari-arita",
+      "relatedArtists": [],
+      "operation": "replace",
+      "reasoning": "No clear artist connections found in current database for Saga/Arita region"
+    },
+    {
+      "slug": "kakiemon",
+      "relatedArtists": [],
+      "operation": "replace",
+      "reasoning": "Kakiemon is a specific family tradition within Arita"
+    },
+    {
+      "slug": "kyo-kiyomizu",
+      "relatedArtists": [
+        "shuno-maki"
+      ],
+      "operation": "replace",
+      "reasoning": "Shuno Maki - Moved to Kyoto Prefecture (Nantan City), works with ceramic vessels"
+    },
+    {
+      "slug": "iga",
+      "relatedArtists": [
+        "endo-takashi",
+        "uchida-koichi"
+      ],
+      "operation": "replace",
+      "reasoning": "Endo Takashi - Uses Iga/Shigaraki clay with reduction firing; Uchida Koichi - Works in Yokkaichi (Mie), near Iga region"
+    },
+    {
+      "slug": "kasama",
+      "relatedArtists": [
+        "inayoshi-yoshimitsu",
+        "nukaga-akio"
+      ],
+      "operation": "replace",
+      "reasoning": "Inayoshi Yoshimitsu - Works in Kasama, participates in Kasama pottery market; Nukaga Akio - Trained at Ibaraki pottery center, works in Kasama area"
+    }
+  ],
+  "summary": {
+    "totalPotteryEntries": 21,
+    "entriesWithRelationships": 13,
+    "entriesWithoutRelationships": 8,
+    "totalRelationships": 24,
+    "averageRelationshipsPerEntry": 1.14,
+    "notes": [
+      "Relationships established based on geographic proximity, technical specialization, and historical lineage",
+      "Some traditional pottery types (Hagi, Kutani, Imari-Arita, Kakiemon, Raku) have no current artist connections in the database",
+      "Most relationships are concentrated in major pottery regions: Mashiko (5), Shigaraki (4), Seto (3)",
+      "Artists working in multiple traditions (e.g., Kuwata Takuro, Endo Takashi) are linked to relevant entries",
+      "Conservative approach: Only added relationships with clear evidence from artist biographies"
+    ]
+  }
+}

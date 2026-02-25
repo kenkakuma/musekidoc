@@ -47,5 +47,9 @@ public/uploads/*
 tmpclaude-*
 *.tmp
 *.log
+nul
+
+# Claude local settings
+.claude/settings.local.json
 
 /lib/generated/prisma

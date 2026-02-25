@@ -1,0 +1,575 @@
+{
+  "updateExisting": false,
+  "artists": [
+    {
+      "slug": "goshima-honami",
+      "nameZh": "五嶋穂波",
+      "nameJa": "五嶋穂波",
+      "nameEn": "Goshima Honami",
+      "bio": "2022年多治见市陶磁器意匠研究所修了，现于岐阜县瑞浪市制作并发表。使用陶土与瓷土，板筑成形，作品多为器物，釉色偏柔和。代表作品为器物（如bowl/flowering系列）。2023年参展\"うるわしの陶芸展\"（市之倉さかづき美术馆）。注：部分资料以\"漆艺作家\"介绍，但作品材料与技法包含陶土与瓷土。",
+      "region": "岐阜县瑞浪市",
+      "style": "使用陶土与瓷土，板筑成形；作品多为器物，釉色偏柔和",
+      "sources": [
+        {
+          "title": "KACF First Patronage Program",
+          "url": "https://fpf.kacf.jp/2024/06/21/%E6%BC%86%E8%8A%B8%E4%BD%9C%E5%AE%B6%E3%83%BB%E4%BA%94%E5%B6%8B-%E7%A9%82%E6%B3%A2-%E4%BD%9C%E5%93%81%E7%B4%B9%E4%BB%8B-%EF%BC%8D%E3%80%8Cbowl-flowering%E3%80%8D/"
+        }
+      ],
+      "published": true
+    },
+    {
+      "slug": "mizutani-tomomi",
+      "nameZh": "水谷智美",
+      "nameJa": "水谷智美",
+      "nameEn": "Mizutani Tomomi",
+      "bio": "从岛根·松江移窑到佐贺，持续作陶的陶艺家。作品呈出土器般的相貌与质感，以炻器器物为主要创作方向。代表作品包括飯碗等日用器。2018年举办\"炻器展\"（马喰町ART+EAT），展现出对原始土器质感的当代诠释与追求。",
+      "region": "佐贺县",
+      "style": "作品呈出土器般的相貌与质感",
+      "sources": [
+        {
+          "title": "Tokyo Art Beat 展讯",
+          "url": "https://www.tokyoartbeat.com/events/-/2018%2F0433"
+        }
+      ],
+      "published": true
+    },
+    {
+      "slug": "shuno-maki",
+      "nameZh": "秀野真希",
+      "nameJa": "秀野真希",
+      "nameEn": "Shuno Maki",
+      "bio": "1986年生于埼玉，多摩美术大学工艺学科玻璃专攻，毕业后转向陶土，2019年移居京都府南丹市并独立。以器物为主，近年也关注无用途的造型表达。作品包括汲出、马克杯、带边盘、湯呑等，代表作品为杯、汲出、马克杯、带边盘等日用器。",
+      "birthYear": 1986,
+      "region": "京都府南丹市",
+      "style": "以器物为主，近年也关注无用途的造型表达",
+      "sources": [
+        {
+          "title": "oku 商品页与简介",
+          "url": "https://store.oku-tokyo.com/products/%E7%A7%80%E9%87%8E%E7%9C%9F%E5%B8%8C-%E6%B1%B2%E3%81%BF%E5%87%BA%E3%81%97"
+        }
+      ],
+      "published": true
+    },
+    {
+      "slug": "kaketani-yasuki",
+      "nameZh": "掛谷康樹",
+      "nameJa": "掛谷康樹",
+      "nameEn": "Kaketani Yasuki",
+      "bio": "1969年生于广岛县福山市，1992年玉川大学艺术学科陶艺专攻毕业，1998年设立惣堂窯，1999年福山初个展。在福山持续作陶，日本クラフト展、日本民艺馆展等入选。作品以练上的大盘、钵、筒等器物为主，代表器形为练上器物（盘、钵等）。2025年举办\"惣堂窯 掛谷康樹 作陶展\"。",
+      "birthYear": 1969,
+      "region": "广岛县福山市",
+      "style": "在福山持续作陶，以练上技法著称",
+      "sources": [
+        {
+          "title": "日々の暮らし 作家简介",
+          "url": "https://www.hibinokurashi.com/jp/pottery/11"
+        }
+      ],
+      "published": true
+    },
+    {
+      "slug": "ishikawa-wakahiko",
+      "nameZh": "石川若彦",
+      "nameJa": "石川若彦",
+      "nameEn": "Ishikawa Wakahiko",
+      "bio": "1960年生于东京文京区，1990年移居益子开始以陶为中心的造形活动，与搭档绫子共同以wakastudio创作。强调手捏成形，作品兼具朴素与日常实用性。代表作品包括Beans Bowl、Beans Bowl S、Beans cup、角盘等日用器与小型造型物。参与益子陶器市及各地个展。",
+      "birthYear": 1960,
+      "region": "栃木县益子町",
+      "style": "强调手捏成形；作品兼具朴素与日常实用性",
+      "sources": [
+        {
+          "title": "もみじ市 作家介绍",
+          "url": "https://momijiichi.com/2019/creators/wakastudio"
+        }
+      ],
+      "published": true
+    },
+    {
+      "slug": "yamawaki-masato",
+      "nameZh": "山脇将人",
+      "nameJa": "山脇将人",
+      "nameEn": "Yamawaki Masato",
+      "bio": "在日本南九州宫崎制作的陶艺家，组合多种土与釉药，强调土与釉的质朴感。作品以荞麦猪口/小杯（酒杯、茶杯）为主要创作方向，展现出对传统器形的当代诠释。注：公开资料相对有限，姓名与履历待进一步确认。",
+      "region": "宫崎县",
+      "style": "组合多种土与釉药，强调土与釉的质朴感",
+      "sources": [
+        {
+          "title": "art-onthetable 商品页",
+          "url": "https://www.art-onthetable.com/products/yamawaki25"
+        }
+      ],
+      "published": true
+    },
+    {
+      "slug": "yamada-yoji",
+      "nameZh": "山田洋次",
+      "nameJa": "山田洋次",
+      "nameEn": "Yamada Yoji",
+      "bio": "资料有限的陶艺家，公开活动信息显示其作为陶艺家参与器物相关活动。以英国滑釉（Slipware）技法为基础，结合日本现代生活器用场景。代表作品为滑釉椭圆深钵、滑釉彩绘盘、长方钵、椭圆深盘、圆深盘等。2014年参与\"うつわと食のEAST&WEST\"展览。",
+      "region": "日本",
+      "style": "以英国滑釉（Slipware）技法为基础，结合日本现代生活器用场景",
+      "sources": [
+        {
+          "title": "OPENERS 展讯",
+          "url": "https://openers.jp/design/design_product/796654"
+        }
+      ],
+      "published": true
+    },
+    {
+      "slug": "shimomura-atsushi",
+      "nameZh": "下村淳",
+      "nameJa": "下村淳",
+      "nameEn": "Shimomura Atsushi",
+      "bio": "1985年生于神奈川，2009年立命馆亚洲太平洋大学毕业，2017年在唐津隆太窑师从中里太亀，2020年于神奈川县相模原独立。刷毛目、黑刷毛目等表现突出，保留窑具叠烧的\"目跡\"。作品以粉引、刷毛目器物、绘皿等为主，代表器形为刷毛目盘（5寸）、粉引带边盘、绘盘等。",
+      "birthYear": 1985,
+      "region": "神奈川县相模原市",
+      "style": "刷毛目、黑刷毛目等表现突出，保留窑具叠烧的\"目跡\"",
+      "sources": [
+        {
+          "title": "YUGEN 作家介绍",
+          "url": "https://www.yugen-kyoto.com/ja-ar/collections/shimomura-atsushi-tw"
+        }
+      ],
+      "published": true
+    },
+    {
+      "slug": "umano-shingo",
+      "nameZh": "馬野真吾",
+      "nameJa": "馬野真吾",
+      "nameEn": "Umano Shingo",
+      "bio": "1987年生于广岛，2006年比治山大学短期大学部美术科随浜本桂三学习陶艺，2008年师从若林健吾，2015年在益子よしざわ窯工作并制作，2020年移居德岛县阿波市筑窑。以端正的轆轤造型与自调植物灰釉为特色，强还原烧成。作品以盘、鉢、花器等为主，代表作品为6.5寸淺鉢。2025年举办\"馬野真吾陶展\"。",
+      "birthYear": 1987,
+      "region": "德岛县阿波市",
+      "style": "以端正的轆轤造型与自调植物灰釉为特色，强还原烧成",
+      "sources": [
+        {
+          "title": "株式会社織部 展讯",
+          "url": "https://oribe-minoyaki.com/events/%E9%A6%AC%E9%87%8E%E7%9C%9F%E5%90%BE%E9%99%B6%E5%B1%95/"
+        }
+      ],
+      "published": true
+    },
+    {
+      "slug": "katase-kazuhiro",
+      "nameZh": "片瀬和宏",
+      "nameJa": "片瀬和宏",
+      "nameEn": "Katase Kazuhiro",
+      "bio": "爱知县丰田市设工房的陶艺家，作品带有\"异次元感\"的造型与质感。器形包括银涂圆盘、未完系列盘、小钵、8寸盘、杯/茶杯、茶壶等。作品以银涂盘、未完成系列皿、小鉢等为主，代表作品为銀塗丸皿、未完皿（縁赤/縁青）。2022年参展\"春を告げる器\"展览。",
+      "region": "爱知县丰田市",
+      "style": "作品带有\"异次元感\"的造型与质感",
+      "sources": [
+        {
+          "title": "百福 展览记录",
+          "url": "https://www.momofuku.jp/2022/01/31/post-10867/"
+        }
+      ],
+      "published": true
+    },
+    {
+      "slug": "watanabe-takayuki",
+      "nameZh": "渡辺隆之",
+      "nameJa": "渡辺隆之",
+      "nameEn": "Watanabe Takayuki",
+      "bio": "1981年生于静冈，2005年师从黑田泰蔵，2008年移住南伊豆，2010年建穴窑，2018年迁居伊豆の国市并建薪窑。从伊豆半岛多样土壤中取土进行创作，强调与自然环境的\"能量交换\"。器形以盃、极小盃、片口、德利、小盘、小托盘（酒器为主）等为主。作品包括器物与造型物，在多地举办个展。",
+      "birthYear": 1981,
+      "region": "静冈县伊豆の国市",
+      "style": "从伊豆半岛多样土壤中取土进行创作，强调与自然环境的\"能量交换\"",
+      "sources": [
+        {
+          "title": "filament 作家档案",
+          "url": "https://filament-jp.net/hito/creator/takayuki-watanabe.html"
+        }
+      ],
+      "published": true
+    },
+    {
+      "slug": "kameda-fumi",
+      "nameZh": "亀田文",
+      "nameJa": "亀田文",
+      "nameEn": "Kameda Fumi",
+      "bio": "1973年生于神奈川，2013年移住大分县别府市并开始筑窑，与夫妇共同制作。器表层具有\"润泽\"的肌理，强调把自然带入餐桌的器物观。器形包括白釉花形椭圆带边盘、贝壳小盘、白釉椭圆面取钵等。作品以器物与对象为主，2016年举办\"亀田大介・文 展\"。",
+      "birthYear": 1973,
+      "region": "大分县别府市",
+      "style": "器表层具有\"润泽\"的肌理；强调把自然带入餐桌的器物观",
+      "sources": [
+        {
+          "title": "煎茶堂东京访谈",
+          "url": "https://shop.senchado.jp/blogs/dougu/20211105_interview_kameda-fumi"
+        }
+      ],
+      "published": true
+    },
+    {
+      "slug": "yoshikawa-yuko",
+      "nameZh": "吉川裕子",
+      "nameJa": "吉川裕子",
+      "nameEn": "Yoshikawa Yuko",
+      "bio": "运营\"piccolo studio\"小型陶艺工房的陶艺家，从陶土创作灯光艺术件、器物与立体作品。代表作品包括灯具、器物、立体作品等，器形以年盘（年度盘）等为特色。公开资料显示有个人展与群展记录，展现出对陶艺多样性的探索与实践。",
+      "region": "日本",
+      "style": "从陶土创作灯光艺术件、器物与立体作品",
+      "sources": [
+        {
+          "title": "piccolo studio 博客",
+          "url": "https://piccolo-studio.doorblog.jp/"
+        }
+      ],
+      "published": true
+    },
+    {
+      "slug": "yoshizawa-hiro",
+      "nameZh": "吉沢寛郎",
+      "nameJa": "吉沢寛郎",
+      "nameEn": "Yoshizawa Hiro",
+      "bio": "1974年生，2011年离职一般企业，2012年回到益子町在家族制陶所向父亲学习轆轤，2016年起参加个展、企划展与工艺展。以器物为主，详细技法资料有限。代表作品为Bowl Pot等器物。2026年1月31日-2月1日举办\"Still Echo – 吉沢寛郎・猪原朱乃 二人展\"（京都·SHIJOHAN）。",
+      "birthYear": 1974,
+      "region": "栃木县益子町",
+      "style": "以器物为主，继承家族陶艺传统",
+      "sources": [
+        {
+          "title": "amane 商品与作家说明",
+          "url": "https://www.amane-shop.net/items/67143756"
+        }
+      ],
+      "published": true
+    },
+    {
+      "slug": "iwata-tetsuhiro",
+      "nameZh": "岩田哲宏",
+      "nameJa": "岩田哲宏",
+      "nameEn": "Iwata Tetsuhiro",
+      "bio": "1981年生于鸟取，学习建筑后转向陶艺，师从伊藤环，2019年在东京设工房。以简素、工业感的造型著称，保留指痕等制作痕迹。器形包括罐/储物罐、花器、马克杯、盘、杯、边缘盘、造型对象等。作品以器物、花器、对象等为主，2023年起多次个展与报道，受到BRUTUS等媒体关注。",
+      "birthYear": 1981,
+      "region": "东京都",
+      "style": "以简素、工业感的造型著称，保留指痕等制作痕迹",
+      "sources": [
+        {
+          "title": "ISOLATION JEWELRY 作家档案",
+          "url": "https://isolation-jewelry.jp/collections/tetsuhiro-iwata-1"
+        },
+        {
+          "title": "BRUTUS 文章",
+          "url": "https://brutus.jp/new_utsuwa_iwata/"
+        }
+      ],
+      "published": true
+    },
+    {
+      "slug": "iwasaki-ryuji",
+      "nameZh": "岩崎龙二",
+      "nameJa": "岩崎龙二",
+      "nameEn": "Iwasaki Ryuji",
+      "bio": "大阪富田林设工房的陶艺家，Instagram粉丝约92.0K。以轆轤成形的\"花蕾\"般曲线与流畅造形见长，通过少量釉药的叠加与挂施研究形成复杂渐层色彩。作品以花器、器物为主。多次在百货与画廊展出，并有多项工艺展入选记录，展现出对釉色与造型的独特理解与高超技艺。",
+      "region": "大阪府富田林市",
+      "style": "以轆轤成形的\"花蕾\"般曲线与流畅造形见长；通过少量釉药的叠加与挂施研究形成复杂渐层色彩",
+      "sources": [
+        {
+          "title": "wondermug 作家介绍",
+          "url": "https://www.wondermug.jp/artist/ryuji-iwasaki/"
+        }
+      ],
+      "published": true,
+      "instagramHandle": "iwasakiryuji"
+    },
+    {
+      "slug": "sakai-tomoya",
+      "nameZh": "酒井智也",
+      "nameJa": "酒井智也",
+      "nameEn": "Sakai Tomoya",
+      "bio": "1989年生于爱知，名古屋艺术大学陶艺专攻，多治见陶磁器意匠研究所进修，2019年在濑户独立，Instagram粉丝约71.3K。以电动拉坯为主，作品围绕\"记忆/身份\"主题进行抽象化表达。作品以日用器与当代器形系列为主，国际陶磁器展美浓等多项入选/获奖记录。",
+      "birthYear": 1989,
+      "region": "爱知县濑户市",
+      "style": "以电动拉坯为主，作品围绕\"记忆/身份\"主题进行抽象化表达",
+      "sources": [
+        {
+          "title": "酒井智也 个人网站",
+          "url": "https://tomoyasakai.com/en/"
+        }
+      ],
+      "published": true,
+      "instagramHandle": "s_tomoya1212"
+    },
+    {
+      "slug": "endo-takashi",
+      "nameZh": "远藤岳",
+      "nameJa": "遠藤岳",
+      "nameEn": "Endo Takashi",
+      "bio": "神奈川在住，自学陶艺，Instagram粉丝约53.5K。单色、极简与建筑感的创作风格，使用伊贺/信乐土并以还原烧成呈现粗粝质感与肌理层次。作品以器物与雕塑感器形为主，展现出建筑背景对陶艺创作的影响与当代极简美学的追求。",
+      "region": "神奈川县",
+      "style": "单色、极简与建筑感；使用伊贺/信乐土并以还原烧成呈现粗粝质感与肌理层次",
+      "sources": [
+        {
+          "title": "kototea 作家介绍",
+          "url": "https://www.kototea.com/takashi-endo/"
+        }
+      ],
+      "published": true,
+      "instagramHandle": "t_endoh"
+    },
+    {
+      "slug": "kuwata-takuro",
+      "nameZh": "桑田卓郎",
+      "nameJa": "桑田卓郎",
+      "nameEn": "Kuwata Takuro",
+      "bio": "1981年广岛生，京都嵯峨美术短大陶艺系毕业，2002起师从在间进，现于岐阜多治见制作，Instagram粉丝约53.4K。以强烈釉色与爆裂质感等实验性技法著称，突破传统侘寂审美。作品以茶碗与器形的当代转化为主。2018年LOEWE Craft Prize特别提名，在Salon 94、Kakiden Gallery、三越、黑田陶苑等多次个展与国际展出。",
+      "birthYear": 1981,
+      "region": "岐阜县多治见市",
+      "style": "以强烈釉色与爆裂质感等实验性技法著称，突破传统侘寂审美",
+      "sources": [
+        {
+          "title": "Alison Jacques 画廊",
+          "url": "https://alisonjacques.com/artists/takuro-kuwata"
+        }
+      ],
+      "published": true,
+      "instagramHandle": "takurokuwata",
+      "awards": [
+        "2018年LOEWE Craft Prize特别提名"
+      ]
+    },
+    {
+      "slug": "ishida-kazuya",
+      "nameZh": "石田和也",
+      "nameJa": "石田和也",
+      "nameEn": "Ishida Kazuya",
+      "bio": "1986年生于备前，师从人间国宝伊势崎淳，曾在英国进修并参与Oxford Anagama Project，2013年回备前独立，Instagram粉丝约29.6K。无釉木烧与\"螺法/螺旋\"纹样，使用登窑/穴窑与自然落灰效果。作品以备前烧器物与雕塑性作品为主，在多国驻留与展览项目中活跃。",
+      "birthYear": 1986,
+      "region": "冈山县备前市",
+      "style": "无釉木烧与\"螺法/螺旋\"纹样；使用登窑/穴窑与自然落灰效果",
+      "sources": [
+        {
+          "title": "石田和也 个人网站",
+          "url": "https://www.kazuyaishida.com/about"
+        }
+      ],
+      "published": true,
+      "instagramHandle": "bizen_kazuya"
+    },
+    {
+      "slug": "takeuchi-shingo",
+      "nameZh": "竹内真吾",
+      "nameJa": "竹内真吾",
+      "nameEn": "Takeuchi Shingo",
+      "bio": "1955年生于濑户，爱知县陶瓷研究所学习后师从加藤春鼎Ⅱ世，1982年建窑，Instagram粉丝约26.5K。传统濑户烧基础上的器物与茶器创作。作品以日用器与茶器为主，曾获World Ceramic Biennale Korea等奖项并有海外展出，展现出对传统技法的坚守与创新。",
+      "birthYear": 1955,
+      "region": "爱知县濑户市",
+      "style": "传统濑户烧基础上的器物与茶器创作",
+      "sources": [
+        {
+          "title": "Daiichi Arts 作家简介",
+          "url": "https://www.daiichiarts.com/artists/112-takeuchi-shingo/biography/"
+        }
+      ],
+      "published": true,
+      "instagramHandle": "shingo_takeuchi_",
+      "awards": [
+        "World Ceramic Biennale Korea获奖"
+      ]
+    },
+    {
+      "slug": "nukaga-akio",
+      "nameZh": "額賀章夫",
+      "nameJa": "額賀章夫",
+      "nameEn": "Nukaga Akio",
+      "bio": "1963年生于东京，东京造形大学毕业，1988年茨城窑业指导所研修，1989年向山窑修业，1993年独立，N Ceramic Studio主宰，Instagram粉丝约23.6K。以鎬（shinogi）\"褶皱\"系列、粉引与锈粉引等质感著称，在日用器皿中强调土味与线性节奏。作品以器物为主，在日本国内外有展览与收藏记录。",
+      "birthYear": 1963,
+      "region": "茨城县",
+      "style": "以鎬（shinogi）\"褶皱\"系列、粉引与锈粉引等质感著称；在日用器皿中强调土味与线性节奏",
+      "sources": [
+        {
+          "title": "IDEE 访谈",
+          "url": "https://www.idee-lifeinart.com/interview/akio_nukaga/index.html"
+        }
+      ],
+      "published": true,
+      "instagramHandle": "nceramicstudio"
+    },
+    {
+      "slug": "hamada-tomoo",
+      "nameZh": "滨田友绪",
+      "nameJa": "濱田友緒",
+      "nameEn": "Hamada Tomoo",
+      "bio": "1967年生于益子，滨田庄司之孙，多摩美术大学雕刻科毕业，Instagram粉丝约23.4K。坚持全手工制作与益子陶传统技法。作品以益子系器物、茶器为主，长期举办展览与文化项目（如益子×St Ives项目等），致力于传承与推广益子陶艺传统。",
+      "birthYear": 1967,
+      "region": "栃木县益子町",
+      "style": "坚持全手工制作与益子陶传统技法",
+      "sources": [
+        {
+          "title": "益子观光协会访谈",
+          "url": "https://mashiko-tourism.com/interview/tomoo_hamada.php"
+        }
+      ],
+      "published": true,
+      "instagramHandle": "tomoohamada"
+    },
+    {
+      "slug": "hashimoto-tomonari",
+      "nameZh": "桥本知成",
+      "nameJa": "橋本知成",
+      "nameEn": "Hashimoto Tomonari",
+      "bio": "1990年生于和歌山，金泽美术工艺大学博士，现居信乐，Instagram粉丝约17.8K。以泥条/盘筑堆叠形成大型几何陶雕，擅长立方、球体、柱体等形态，强调结构与质感对比。作品以当代陶艺雕塑为主。2019年入选LOEWE Craft Prize，作品被V&A、LACMA等收藏。",
+      "birthYear": 1990,
+      "region": "滋贺县信乐",
+      "style": "以泥条/盘筑堆叠形成大型几何陶雕；擅长立方、球体、柱体等形态，强调结构与质感对比",
+      "sources": [
+        {
+          "title": "桥本知成 个人网站",
+          "url": "https://tomonarihashimoto.com/profile/"
+        }
+      ],
+      "published": true,
+      "instagramHandle": "hashimoto_tomonari",
+      "awards": [
+        "2019年入选LOEWE Craft Prize"
+      ]
+    },
+    {
+      "slug": "ujiie-kodai",
+      "nameZh": "氏家昂大",
+      "nameJa": "氏家昂大",
+      "nameEn": "Ujiie Kodai",
+      "bio": "1990年生于仙台，东北艺术工科大学学士/硕士，现于岐阜多治见制作，Instagram粉丝约17.2K。融合金缮漆艺与独特色釉，形成具有\"修复痕迹\"的当代器物。作品以器物与小型对象为主，在Ippodo Gallery等多地展览，展现出对传统金缮技法的当代转化与创新应用。",
+      "birthYear": 1990,
+      "region": "岐阜县多治见市",
+      "style": "融合金缮漆艺与独特色釉，形成具有\"修复痕迹\"的当代器物",
+      "sources": [
+        {
+          "title": "Ippodo Gallery 作家简介",
+          "url": "https://www.ippodogallery.com/artists/85-kodai-ujiie/biography/"
+        }
+      ],
+      "published": true,
+      "instagramHandle": "koudaiujiie"
+    },
+    {
+      "slug": "sato-naomichi",
+      "nameZh": "佐藤尚理",
+      "nameJa": "佐藤尚理",
+      "nameEn": "Sato Naomichi",
+      "bio": "雕塑出身，2008年赴德国慕尼黑艺术学院进修，回国后转向陶艺，开设「bonoho」，Instagram粉丝约15.2K。以雕塑思维进入陶艺，作品呈强烈造型感。作品以器物与雕塑性作品为主，展现出雕塑背景对陶艺创作的影响与当代造型语言的探索。",
+      "region": "日本",
+      "style": "以雕塑思维进入陶艺，作品呈强烈造型感",
+      "sources": [
+        {
+          "title": "taliki-okinawa 作家页",
+          "url": "https://taliki-okinawa.com/collections/%E4%BD%90%E8%97%A4-%E5%B0%9A%E7%90%86-naomichi-sato"
+        }
+      ],
+      "published": true,
+      "instagramHandle": "bonoho_"
+    },
+    {
+      "slug": "ueda-yuji",
+      "nameZh": "上田勇二",
+      "nameJa": "上田勇二",
+      "nameEn": "Ueda Yuji",
+      "bio": "1975年生于滋贺信乐，茶农世家，师从神山康久，Instagram粉丝约13.4K。以长石与多层泥堆叠形成爆裂/剥落肌理，从小件到大型器形均有创作，并持续探索窑烧与釉烧实验。作品以器物与大型雕塑性陶艺为主。在Kaikai Kiki画廊举办个展，参与Blum Gallery「Surface and Signal」群展等多次当代展览。",
+      "birthYear": 1975,
+      "region": "滋贺县信乐",
+      "style": "以长石与多层泥堆叠形成爆裂/剥落肌理；从小件到大型器形均有创作，并持续探索窑烧与釉烧实验",
+      "sources": [
+        {
+          "title": "Kaikai Kiki 画廊",
+          "url": "https://en.gallery-kaikaikiki.com/category/artists/yuji-ueda/"
+        }
+      ],
+      "published": true,
+      "instagramHandle": "yuji____ueda"
+    },
+    {
+      "slug": "hoshino-tomoyuki",
+      "nameZh": "星野友幸",
+      "nameJa": "星野友幸",
+      "nameEn": "Hoshino Tomoyuki",
+      "bio": "1976年生于山梨，东京国分寺「由木窑」主理，日本工艺协会正会员，Instagram粉丝约11.4K。发展\"练继/绞胎拼接\"技法与粉红色调表达，使用瓷土与多材料混合。作品以器物与陶艺造型为主，日本工艺协会展多次获奖，展现出对练继技法的独特理解与色彩表现力。",
+      "birthYear": 1976,
+      "region": "东京都国分寺市",
+      "style": "发展\"练继/绞胎拼接\"技法与粉红色调表达；使用瓷土与多材料混合",
+      "sources": [
+        {
+          "title": "Gallery Japan 作家页",
+          "url": "https://www.galleryjapan.com/locale/en_US/artist/1752/"
+        }
+      ],
+      "published": true,
+      "instagramHandle": "tomoyukihoshino",
+      "awards": [
+        "日本工艺协会展多次获奖"
+      ]
+    },
+    {
+      "slug": "ogawa-aya",
+      "nameZh": "小川彩",
+      "nameJa": "小川彩",
+      "nameEn": "Ogawa Aya",
+      "bio": "大阪TOON Ceramic Studio学习陶艺，2015年参与丹麦TORTUS COPENHAGEN工作坊，其后将作陶基地移至东京，作品在国内外销售并参与产品提案与开发，Instagram粉丝约11,826。以色彩与质感的对比与叠加为特征，强调不同材料与釉色的组合关系。作品以花器、杯、盘等日用器物为主。2023年参展\"Colors of Summer / ナツの色彩り\"（丸山敬太策划）。",
+      "region": "东京都",
+      "style": "以色彩与质感的对比与叠加为特征，强调不同材料与釉色的组合关系",
+      "sources": [
+        {
+          "title": "Fashion Headline 展讯",
+          "url": "https://www.fashion-headline.com/en/article/266223/2305082"
+        }
+      ],
+      "published": true,
+      "instagramHandle": "aya_ogawa_ig"
+    },
+    {
+      "slug": "kurihara-kaori",
+      "nameZh": "栗原香織",
+      "nameJa": "栗原香織",
+      "nameEn": "Kurihara Kaori",
+      "bio": "1987年生于大阪，15岁起学习陶艺，京都精华大学陶艺专业毕业，2010年赴法并在巴黎设工作室，Instagram粉丝约45.8K。受植物形态与几何秩序启发，创作介于真实与梦幻之间的陶艺雕塑，强调手工塑形与对\"自然秩序\"的观察。作品以植物/果实意象的陶艺雕塑与装置为主。2015年获Prix de la Jeune Création Métiers d'Art，常年在法国与欧洲展出。",
+      "birthYear": 1987,
+      "region": "法国巴黎",
+      "style": "受植物形态与几何秩序启发，创作介于真实与梦幻之间的陶艺雕塑；强调手工塑形与对\"自然秩序\"的观察",
+      "sources": [
+        {
+          "title": "栗原香織 个人网站",
+          "url": "https://www.kaorikurihara.com/about"
+        }
+      ],
+      "published": true,
+      "instagramHandle": "kaorikurihara.ceramique",
+      "awards": [
+        "2015年Prix de la Jeune Création Métiers d'Art"
+      ]
+    },
+    {
+      "slug": "segawa-yuta",
+      "nameZh": "瀬川裕太",
+      "nameJa": "瀬川裕太",
+      "nameEn": "Segawa Yuta",
+      "bio": "1988年生于静冈，武藏野美术大学工业/室内/工艺设计学士，伦敦Camberwell College of Arts MA，现居伦敦，Instagram粉丝约36K。以微缩陶器著称，手拉坯制作迷你壶/钵/杯，使用石器、陶土与瓷等多种泥料并发展500+釉色，受北欧小尺度陶艺家影响。作品以Miniature Pot/Teapot/Bowl等微缩器形为主。曾在日本、中国、英国、荷兰、迪拜、印度等地展出，2020年举办\"In Miniature\"（The Scottish Gallery）等个展。",
+      "birthYear": 1988,
+      "region": "英国伦敦",
+      "style": "以微缩陶器著称；手拉坯制作迷你壶/钵/杯，使用石器、陶土与瓷等多种泥料并发展500+釉色",
+      "sources": [
+        {
+          "title": "Patrick Davies CA 画廊",
+          "url": "https://www.patrickdaviesca.com/artists/44-yuta-segawa/"
+        }
+      ],
+      "published": true,
+      "instagramHandle": "yutasegawa_ceramics"
+    },
+    {
+      "slug": "fukumura-ryuta",
+      "nameZh": "福村龍太",
+      "nameJa": "福村龍太",
+      "nameEn": "Fukumura Ryuta",
+      "bio": "1989年生，九州造形短期大学毕业，日月窑二代，福冈县うきは市作陶，Instagram粉丝约24.1K。使用本地材料与登窑薪烧（登窑），窑内灰与银彩在烧成中形成细腻层次，受茶道与花道影响，造型克制而重视空间感。作品以器物、茶器与酒器等日用器为主。2025年参展Artist Cafe Fukuoka \"Re-Opening Exhibition – 福村龍太×野口寛斎\"。",
+      "birthYear": 1989,
+      "region": "福冈县うきは市",
+      "style": "使用本地材料与登窑薪烧；窑内灰与银彩在烧成中形成细腻层次；受茶道与花道影响，造型克制而重视空间感",
+      "sources": [
+        {
+          "title": "福村龍太 个人网站",
+          "url": "https://www.ryutafukumura.com/about"
+        }
+      ],
+      "published": true,
+      "instagramHandle": "ryutafukumura"
+    }
+  ]
+}

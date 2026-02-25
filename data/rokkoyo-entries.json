@@ -1,0 +1,246 @@
+{
+  "entries": [
+    {
+      "slug": "bizen-yaki",
+      "nameZh": "备前烧",
+      "nameJa": "備前焼",
+      "nameEn": "Bizen ware",
+      "category": "六古窯（Six Ancient Kilns）",
+      "region": "冈山县・备前市",
+      "type": "无釉炻器",
+      "description": "备前烧是日本最古老的陶器之一，起源于平安时代（794-1185），至今已有1000多年历史。作为日本六古窑之一，备前烧以其完全不施釉的独特烧制技法闻名，依赖窑内火焰、落灰和器物摆放位置产生自然的表面效果。烧成时间长达10-14天，使用松木为燃料，造就了备前烧坚硬致密的质地和赤褐色的基调。在镰仓时代（1185-1333）广受欢迎，后得到丰臣秀吉和茶道宗师千利休的青睐，成为茶道器的重要品类。备前烧体现了日本侘寂美学，以不完美、简朴和自然之美为核心，每件作品因窑变（yohen）而独一无二。",
+      "positioning": "日本六古窑之首，无釉炻器的代表，体现侘寂美学与窑变艺术的极致",
+      "signatureFeatures": [
+        "完全不施釉，依靠窑内自然效果",
+        "高温烧成（1200-1300°C），质地坚硬",
+        "赤褐色基调，富含铁质的黏土",
+        "緋襷（hidasuki）：稻草包裹产生的红色火焰纹",
+        "胡麻（goma）：落灰形成的芝麻状黄色斑点",
+        "桟切（sangiri）：还原烧成产生的白色至蓝灰色釉面",
+        "每件作品因窑变而独一无二",
+        "10-14天长时间烧成"
+      ],
+      "keywords": ["无釉", "窑变", "侘寂", "炻器", "备前", "松木烧", "緋襷", "胡麻", "桟切", "茶道"],
+      "notableArtists": ["伊势崎淳（Isezaki Jun）", "金重陶陽（Kaneshige Toyo）", "藤原啓（Fujiwara Kei）", "藤原雄（Fujiwara Yu）", "石田和也（Ishida Kazuya）"],
+      "representativeForms": ["茶碗", "水指", "花入", "酒器", "壶", "钵"],
+      "sources": [
+        {
+          "title": "Bizen ware - Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Bizen_ware"
+        },
+        {
+          "title": "What is Bizen Ware? - Japan Objects Store",
+          "url": "https://shop.japanobjects.com/blogs/editorial/bizen-ware"
+        },
+        {
+          "title": "Bizen Ware: Art of High-Fire Unglazed Pottery - Potter Potter",
+          "url": "https://potter-potter.com/blogs/story/bizen-ware-art-of-high-fire-unglazed-pottery-in-okayama-prefecture"
+        }
+      ],
+      "published": true
+    },
+    {
+      "slug": "tokoname-yaki",
+      "nameZh": "常滑烧",
+      "nameJa": "常滑焼",
+      "nameEn": "Tokoname ware",
+      "category": "六古窯（Six Ancient Kilns）",
+      "region": "爱知县・常滑市",
+      "type": "炻器・急须",
+      "description": "常滑烧起源于12世纪，是日本六古窑中中世纪最大的陶器产地，当时拥有约3000座穴窑。常滑烧以使用富含氧化铁的红泥（朱泥，Shudei）著称，这种细腻的黏土质地光滑如瓷，特别适合制作急须（日本茶壶）。江户时代末期，陶工鯉江方寿完成了登窑（nobori-gama）的建造，其子鯉江方舟奠定了现代常滑烧的声誉基础，开创了陶管制作和红陶技术。常滑烧以大胆的功能性造型和高温烧成形成的深沉光泽为特征，急须作品以简约、实用和精致之美闻名于世。传统技法如手捻成形、寄込作法（yoriko tsukuri）、压制成形等至今仍在使用。代表性的藻挂（mogake）技法能在陶土表面形成独特的细密纹样。",
+      "positioning": "日本六古窑中最大的中世纪产地，以朱泥急须和红陶器闻名",
+      "signatureFeatures": [
+        "朱泥（Shudei）：富含铁的红色黏土",
+        "细腻的颗粒质地，光滑如瓷",
+        "以急须（茶壶）制作最为著名",
+        "无釉烧制，展现黏土本色",
+        "藻挂（mogake）技法：形成细密不规则纹样",
+        "练込（nerikomi）技法：彩色黏土层叠",
+        "使用穴窑和登窑，以木柴为燃料",
+        "高温烧成产生独特表面效果",
+        "从平安时代至今持续生产"
+      ],
+      "keywords": ["朱泥", "急须", "茶壶", "红陶", "藻挂", "练込", "无釉", "常滑", "登窑", "日用器"],
+      "notableArtists": ["三代山田常山（Yamada Jozan III）", "四代山田常山（Yamada Jozan IV）", "玉光（Gyokko）", "松龙（Shoryu）"],
+      "representativeForms": ["急须（茶壶）", "盆栽钵", "风铃", "烧酎服", "茶香炉", "大壶", "日用器"],
+      "sources": [
+        {
+          "title": "Tokoname ware - Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Tokoname_ware"
+        },
+        {
+          "title": "About Rokkoyo Japanese Six Ancient Kilns - Musubi Kiln",
+          "url": "https://musubikiln.com/blogs/journal/about-rokkoyo-japanese-six-ancient-kilns"
+        },
+        {
+          "title": "Tokoname Jozan YAMADA Kiln",
+          "url": "http://www.tokoname.or.jp/teapot/maker_profile/jozan_yamada/jozan_kiln.htm"
+        }
+      ],
+      "published": true
+    },
+    {
+      "slug": "seto-yaki",
+      "nameZh": "濑户烧",
+      "nameJa": "瀬戸焼",
+      "nameEn": "Seto ware",
+      "category": "六古窯（Six Ancient Kilns）",
+      "region": "爱知县・濑户市",
+      "type": "陶器・瓷器",
+      "description": "濑户烧可追溯至13世纪，加藤四郎左卫门于1220年代在中国学习陶艺后，在濑户建立了成功的窑场。作为日本六古窑之一，濑户烧在日本陶瓷史上占据最重要的地位，「瀬戸物」（setomono）一词甚至成为日本语中\"陶瓷器\"的通称。镰仓时代，濑户烧模仿中国宋代陶瓷，最显著的特征是广泛使用多种釉药，是当时日本唯一大量使用釉药的产地。室町时代（1337-1573），濑户的施釉技术不断精进并传播到其他地区。19世纪初，陶工加藤民吉从九州学习瓷器制作技术并带回濑户。濑户的黏土含铁量低，烧制后呈白色，适合各种釉色，使濑户能够同时生产陶器和瓷器，在日本极为罕见。濑户烧涵盖从朴实的单色器物到鲜艳精细的染付作品，以卓越的工艺和顶级材料著称。",
+      "positioning": "日本六古窑中最具影响力的产地，施釉技术的先驱，陶瓷与瓷器兼备",
+      "signatureFeatures": [
+        "日本最早大规模使用釉药的产地",
+        "「瀬戸物」成为陶瓷的代名词",
+        "含铁量低的白色黏土，适合多种釉色",
+        "同时生产陶器和瓷器（日本罕见）",
+        "灰釉、铁釉、长石釉等多样釉药",
+        "染付（sometsuke）：钴蓝彩绘技法",
+        "从宋代风格到独创技法的发展",
+        "涵盖多种器型和装饰风格",
+        "1000多年持续生产历史"
+      ],
+      "keywords": ["施釉", "染付", "瓷器", "陶器", "濑户物", "灰釉", "铁釉", "白土", "钴蓝", "多样性"],
+      "notableArtists": ["加藤唐九郎（Kato Tokuro）", "加藤春岱（Kato Shuntai）", "加藤四郎左卫门（Kato Shirozaemon）", "竹内真吾（Takeuchi Shingo）"],
+      "representativeForms": ["茶碗", "花瓶", "盘", "钵", "染付器", "志野", "织部", "黄濑户"],
+      "sources": [
+        {
+          "title": "Seto ware - Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Seto_ware"
+        },
+        {
+          "title": "The ancestral Japanese pottery of Seto - Arteologic",
+          "url": "https://arteologic.com/en/ceramics/japanese-pottery/seto-pottery/"
+        },
+        {
+          "title": "The life of Kato Tokuro - Chano-yu",
+          "url": "https://chano-yu.com/blog/the-life-of-kato-tokuro/"
+        }
+      ],
+      "published": true
+    },
+    {
+      "slug": "shigaraki-yaki",
+      "nameZh": "信乐烧",
+      "nameJa": "信楽焼",
+      "nameEn": "Shigaraki ware",
+      "category": "六古窯（Six Ancient Kilns）",
+      "region": "滋贺县・甲贺市",
+      "type": "炻器",
+      "description": "信乐烧据说始于742年圣武天皇建造信乐宫时烧制瓦片，但考古证据显示信乐村的古窑遗址可追溯至镰仓时代早期和室町时代初期。室町和桃山时代，信乐烧成为备受推崇的茶道器，因其质朴简约和侘寂美学深受茶道宗师喜爱。在禅宗佛教影响下，茶道强调简朴、谦逊和对当下体验的深切感受，信乐烧的自然外观完美体现了这些原则。信乐烧使用来自琵琶湖湖床的含砂黏土，呈温暖的橙色，制成的陶器非常坚固耐用。粗糙的土质含有长石等杂质，高温木柴烧成时部分融化成玻璃状斑点。标志性特征包括赤红色的緋色（hiiro）、自然落灰釉、长石\"石爆\"、微妙的变形和焦痕。使用kibushi、mizuchi或gairome等黏土混合制成强韧的黏土体，可制作厚重的大型器物。釉料用喷枪、毛刷或勺子施加在陶器表面，烧成时釉料融化呈现明亮色彩。",
+      "positioning": "日本六古窑中茶道器的重要产地，以侘寂美学和自然窑变效果著称",
+      "signatureFeatures": [
+        "琵琶湖湖床的含砂黏土，呈温暖橙色",
+        "粗糙质地，含长石等杂质",
+        "緋色（hiiro）：赤红色表面",
+        "自然落灰釉效果",
+        "长石部分融化形成的玻璃状斑点",
+        "石爆（石はぜ）现象",
+        "从还原烧到氧化烧的技法转变",
+        "高温烧成（1200°C以上）",
+        "质朴的侘寂美学",
+        "细密的crackle釉裂纹"
+      ],
+      "keywords": ["侘寂", "茶道", "緋色", "落灰", "长石", "粗土", "信乐", "炻器", "窑变", "狸"],
+      "representativeForms": ["茶壶", "花器", "水指", "壶", "钵", "狸（tanuki）摆件", "大型储物罐"],
+      "notableArtists": ["高橋楽斎（Takahashi Rakusai）", "小原康弘（Kohara Yasuhiro）", "荒川聪（Arakawa Satoshi）", "藤原淳（Fujiwara Jun）", "増本惠子（Masumoto Keiko）"],
+      "sources": [
+        {
+          "title": "Shigaraki ware - Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Shigaraki_ware"
+        },
+        {
+          "title": "Shigaraki Ware: The Timeless Spirit of Japanese Pottery - Tsukushi",
+          "url": "https://tsukushi-japan.com/en-us/blogs/journal/shigaraki-pottery"
+        },
+        {
+          "title": "Let's Meet Yoshiko Takahashi - Arigato Travel",
+          "url": "https://arigatojapan.co.jp/lets-meet-yoshiko-takahashi-a-famous-ceramic-artist-in-shigaraki/"
+        }
+      ],
+      "published": true
+    },
+    {
+      "slug": "tamba-yaki",
+      "nameZh": "丹波烧・立杭烧",
+      "nameJa": "丹波焼・立杭焼",
+      "nameEn": "Tamba ware / Tachikui ware",
+      "category": "六古窯（Six Ancient Kilns）",
+      "region": "兵库县・筱山市・立杭",
+      "type": "炻器",
+      "description": "丹波烧（又称丹波立杭烧）起源于平安时代末期（794-1185），是日本六古窑之一，在兵库县筱山市和立杭地区生产。镰仓时代（1180-1230），丹波烧主要为当地民众的日常需求服务。直到安土桃山时代（1568-1600）之前，丹波立杭烧被称为小野原烧，主要制作大壶、罐、研钵和揉钵，使用盘筑法（将绳状黏土堆叠）而不使用辘轳，在穴窑中无釉烧成。1592年（庆长16年），登窑（noborigama）从朝鲜传入日本，这种窑可以同时烧制大量作品。同时期踢轮（keri rokuro）开始普及，使丹波烧得以大规模生产。明治时代（1868-1912）起，丹波烧的中心转移到附近的立杭地区，市场扩展至九州和东北地区，以立杭烧之名流通。丹波烧的独特之处在于烧成过程中出现的灰被覆色泽，使用松木作为燃料在约1300°C的登窑中烧制约60小时，灰烬落在器物上与釉料和黏土中的铁发生化学反应。传统上使用富含铁的赤土部（akadobe）滑浆呈现红褐色，烧成时玻化的灰形成绿褐色釉面。独特的是，丹波烧使用逆时针旋转的辘轳，而大多数其他陶器使用顺时针旋转的辘轳。立杭陶艺村拥有日本最古老的登窑，这座拥有120年历史的\"蛇窑\"至今仍为当地陶工服务。",
+      "positioning": "日本六古窑之一，以自然灰被覆釉和登窑烧成技术著称",
+      "signatureFeatures": [
+        "自然灰被覆色泽（约60小时烧成）",
+        "在约1300°C登窑中烧制",
+        "松木燃料产生的落灰与釉料反应",
+        "赤土部（akadobe）：富含铁的红褐色滑浆",
+        "绿褐色的自然灰釉",
+        "逆时针旋转的辘轳（独特传统）",
+        "多室登窑（noborigama）",
+        "从无釉到施釉的发展历程",
+        "日本现存最古老的登窑（120年历史）"
+      ],
+      "keywords": ["丹波", "立杭", "登窑", "灰被覆", "赤土部", "逆时针辘轳", "炻器", "绿褐釉", "盘筑", "日用器"],
+      "notableArtists": ["清水武（Shimizu Takeshi）", "市野勇作（Ichino Isaku）", "今西公彦（Imanishi Kimihiko）"],
+      "representativeForms": ["壶", "罐", "研钵", "揉钵", "碗", "盘", "花器", "茶道具"],
+      "sources": [
+        {
+          "title": "Tamba ware - Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Tamba_ware"
+        },
+        {
+          "title": "Tamba Yaki: Ancient Japanese Pottery - Voyapon",
+          "url": "https://voyapon.com/japanese-craft-hyogo-tamba-ware/"
+        },
+        {
+          "title": "Tamba-tachikui ware - KOGEI JAPAN",
+          "url": "https://kogeijapan.com/locale/en_US/tambatachikuiyaki/"
+        }
+      ],
+      "published": true
+    },
+    {
+      "slug": "echizen-yaki",
+      "nameZh": "越前烧",
+      "nameJa": "越前焼",
+      "nameEn": "Echizen ware",
+      "category": "六古窯（Six Ancient Kilns）",
+      "region": "福井县・越前町",
+      "type": "炻器",
+      "description": "越前烧起源约1300年前，但作为产地的历史可追溯至约850年前的平安时代末期。迄今已发现200多处古窑遗址。镰仓时代中期（约1210年起）越前烧开始形成其原创特征。室町时代（约1390-1490年），越前烧确立了独特的特征：淡绿色的口部、倾斜的造型和侧面刻字。当时主要生产日用品，如水罐、谷物罐和研钵，产品通过北前船运输至北至北海道、南至岛根县的广大地区。这一时期，越前地区成为北陆地区最大的陶器产地。1948年，著名古陶瓷学者小山富士夫将越前烧列入日本六古窑，2017年被指定为\"日本遗产\"。1986年，日本政府将越前烧指定为传统工艺品。越前烧以富含铁的黏土为特征，具有优越的熔点，非常适合高温烧成。越前烧的显著特点是在约1300°C的高温下烧制而不使用釉料，当在高温下烧制时，木柴产生的灰烬附着在黏土上，融化进入表面形成独特的自然釉面。越前烧以其红褐色和质朴的质地著称，这源于其富含铁的黏土。独特的盘筑技法（nejitate seikei）先制作黏土底层，然后将黏土搓成长条状盘绕堆叠在底层上形成不同造型。这种烧制工艺产生质地致密、纹理细腻且极为耐用的陶器，能够实现复杂的造型和精细的工艺。如今陶工尝试运用传统技法制作新设计，如啤酒杯和葡萄酒杯等。1971年，福井县支持下建立了越前陶艺村。",
+      "positioning": "日本六古窑之一，中世纪北陆地区最大的陶器产地，以无釉高温烧成和实用性著称",
+      "signatureFeatures": [
+        "富含铁的黏土，红褐色质地",
+        "高温烧成（约1300°C）无需施釉",
+        "自然木灰釉效果",
+        "优越的防水性（无釉也防水）",
+        "盘筑技法（nejitate seikei）",
+        "致密细腻的质地，极为耐用",
+        "淡绿色口部（室町时代特征）",
+        "质朴简约的美学",
+        "侧面刻字装饰",
+        "炻器介于陶器和瓷器之间"
+      ],
+      "keywords": ["越前", "无釉", "高温烧", "炻器", "盘筑", "铁质土", "自然釉", "实用性", "北陆", "储物罐"],
+      "notableArtists": ["小山富士夫（Koyama Fujio，学者）", "水野九右卫门（Mizuno Kyuemon，学者）"],
+      "representativeForms": ["水罐", "谷物罐", "研钵", "壶", "日用器", "啤酒杯", "葡萄酒杯"],
+      "sources": [
+        {
+          "title": "About Echizen ware - Official Site",
+          "url": "https://www.echizenyaki.com/en/"
+        },
+        {
+          "title": "Echizen ware - KOGEI JAPAN",
+          "url": "https://kogeijapan.com/locale/en_US/echizenyaki/"
+        },
+        {
+          "title": "Echizen yaki - Japanese Pottery",
+          "url": "https://remiojapan.com/echizen-yaki/"
+        }
+      ],
+      "published": true
+    }
+  ],
+  "updateExisting": true
+}

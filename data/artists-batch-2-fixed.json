@@ -1,0 +1,501 @@
+{
+  artists: [
+    {
+      slug: muraki-yuji,
+      nameZh: 村木雄児,
+      bio: 1953年生于神奈川县；1975年东京设计学院毕业；1976年瀬戸窑业训练学校毕业；1976年在德岛大谷烧窑元修业；1980年在静冈伊东市池设工房独立。风格：使用未精制山土、天然灰釉，近年尝试薪烧登窑；器物质朴厚实，强调日常使用。作品类型：日用器（碗、盘、杯等）；飯碗（bowl）,
+      birthYear: 1953,
+      region: 静冈伊东市,
+      style: 使用未精制山土、天然灰釉，近年尝试薪烧登窑；器物质朴厚实，强调日常使用,
+      sources: [
+        {title: G-Call, url: https://www.g-call.com/art/muraki/profile.php},
+        {title: G-Call, url: https://www.g-call.com/art/muraki/},
+        {title: fuuki.info, url: https://www.fuuki.info/artist/artist-muraki.html}
+      ],
+      published: true
+    },
+    {
+      slug: tazuruhama-morito,
+      nameZh: 田鶴濱守人,
+      bio: 1973年生于东京；多摩美术大学大学院油画学科毕业；后移居常滑并自学陶艺；现于爱知县半田市作陶。风格：面向日常使用的器物；从汤吞、饭碗、中钵到擂钵、盖物等品类齐全。作品类型：日用器、调理器具（擂钵等）。展览：2015年藤泽\田鶴濱守人陶展\,
+      birthYear: 1973,
+      region: 爱知县半田市,
+      style: 面向日常使用的器物；从汤吞、饭碗、中钵到擂钵、盖物等品类齐全,
+      sources: [
+        {title: 湘南经济新闻, url: https://shonan.keizai.biz/headline/2162/},
+        {title: secret2019.thebase.in, url: https://secret2019.thebase.in/items/61046542},
+        {title: gallery-garaku.ecnet.jp, url: https://www.gallery-garaku.ecnet.jp/past/2008/index.html}
+      ],
+      published: true
+    },
+    {
+      slug: takataya-masahiro,
+      nameZh: 高田谷将宏,
+      bio: 常滑作陶。风格：以线为主题的作品系列，常见櫛目、三岛纹样与贯入等线的表现。作品类型：日用器。展览：2025年11月22日-11月30日举办高田谷将宏新作展,
+      region: 常滑,
+      style: 以线为主题的作品系列，常见櫛目、三岛纹样与贯入等线的表现,
+      sources: [
+        {title: note, url: https://note.com/daisakamoto/n/n33b0e973dc1e},
+        {title: robanoie.com, url: https://www.robanoie.com/people/2023/09/masahiro-takataya-solo-exhibitionvol-1/}
+      ],
+      published: true
+    },
+    {
+      slug: ishihara-yoshimitsu,
+      nameZh: 石原祥充,
+      bio: 工房位于福冈县宫若市山麓，夫妻共建登窑；一年春秋两次烧成。风格：作品涵盖器物、花器与雕塑感较强的对象；风格从动态到极简皆有。作品类型：器物、花器、陶板与造型对象；陶板,
+      region: 福冈县宫若市,
+      style: 作品涵盖器物、花器与雕塑感较强的对象；风格从动态到极简皆有,
+      sources: [
+        {title: gallery-soyo.com, url: https://gallery-soyo.com/products/%E7%82%AD%E5%8C%96%E9%99%B6%E6%9D%BF},
+        {title: ocogeshokuba.com, url: https://ocogeshokuba.com/pages/yoshimitsu-ishihara-vase}
+      ],
+      published: true
+    },
+    {
+      slug: ishihara-toshihisa,
+      nameZh: 石原稔久,
+      bio: 1973年生于福冈县直方市；1996年武藏野美术大学雕刻科毕业；1998年茨城县笠间窑业指导所结业；2000年在福冈县宫若市建窑；2011年制作自作文与人形的绘本小册。风格：资料仍有限；展讯提及其陶人形与器物。作品类型：器物、花器、陶人形。展览：2020年石原稔久 展（丹羽茶舗）,
+      birthYear: 1973,
+      region: 福冈县宫若市,
+      style: 资料仍有限；展讯提及其陶人形与器物,
+      sources: [
+        {title: gallery-yo.net, url: https://gallery-yo.net/collections/%E4%BD%9C%E5%AE%B6%E5%90%8D},
+        {title: niwachaho.jp, url: https://niwachaho.jp/news/24049},
+        {title: niwachaho.jp, url: https://niwachaho.jp/kikaku/13789}
+      ],
+      published: true
+    },
+    {
+      slug: yamada-ryutaro,
+      nameZh: 山田隆太郎,
+      bio: 1984年生；2010年于岐阜县多治见市陶磁器意匠研究所学习；2014年移工房至神奈川县相模原市，继承故·青木亮氏的窑与作业场。风格：作品兼具力量感与细腻度，注重实用与审美的平衡。作品类型：日用器、植木钵等；粉引鉢（植木鉢）。展览：2021年山田隆太郎 陶展（うつわ珈琲豆）,
+      birthYear: 1984,
+      region: 神奈川县相模原市,
+      style: 作品兼具力量感与细腻度，注重实用与审美的平衡,
+      sources: [
+        {title: wankogei.com, url: https://wankogei.com/collections/ryutaroyamada},
+        {title: culture-nippon.kokosil.net, url: https://culture-nippon.kokosil.net/ja/events/00001c0000000000000200000800e874},
+        {title: velvet.ocnk.net, url: https://velvet.ocnk.net/product/1044},
+        {title: kaede-utsuwa.com, url: https://www.kaede-utsuwa.com/shop/category/item/itemgenre/yamadaryutaro/}
+      ],
+      published: true
+    },
+    {
+      slug: kawahara-sachiko,
+      nameZh: 川原幸子,
+      bio: 在福冈作陶。风格：手捏成形后多次上漆，形成独特质感与色彩层次。展览：2025年川原幸子 陶展,
+      region: 福冈,
+      style: 手捏成形后多次上漆，形成独特质感与色彩层次,
+      sources: [
+        {title: chilchinbito-hiroba.jp, url: https://www.chilchinbito-hiroba.jp/event/25021/}
+      ],
+      published: true
+    },
+    {
+      slug: inayoshi-yoshimitsu,
+      nameZh: 稲吉善光,
+      bio: 茨城县笠间市作家；参与益子陶器市。作品类型：器物。展览：2019年慈しむうつわ（笠间・益子）参展,
+      region: 茨城县笠间市,
+      sources: [
+        {title: mashiko-db.net, url: https://toukiichi.mashiko-db.net/exhibitor/579/},
+        {title: kusukusu-ginka.hatenablog.com, url: https://kusukusu-ginka.hatenablog.com/entry/da2c7cdaf609cbf5638e799b42dddeeb},
+        {title: frank-dougu.com, url: https://www.frank-dougu.com/toujikisakka/inayoshiyoshimitsu/20130207-1025}
+      ],
+      published: true
+    },
+    {
+      slug: ogata-atsushi,
+      nameZh: 尾形篤,
+      bio: 1960年生于东京；曾任杂志编辑；1996年爱知县立窑业高等技术专门学校毕业；1998年在濑户独立；2007年移居奈良县宇陀市，使用登窑与气窑作陶。风格：强调手作的奥行，刷毛目等痕迹明显。作品类型：茶碗、盘、杯等日用器,
+      birthYear: 1960,
+      region: 奈良县宇陀市,
+      style: 强调手作的奥行，刷毛目等痕迹明显,
+      sources: [
+        {title: utsuwahiyori.com, url: https://utsuwahiyori.com/collections/atsushi-ogata},
+        {title: note, url: https://note.com/kdesign1331/n/n9f3100206db5},
+        {title: yugen-kyoto.com, url: https://www.yugen-kyoto.com/en-us/collections/ogata-atsushi-tw},
+        {title: store.hitonoto.com, url: https://store.hitonoto.com/collections/ogataatsushi}
+      ],
+      published: true
+    },
+    {
+      slug: iwakiri-shuo,
+      nameZh: 岩切秀央,
+      bio: 1991年生的陶艺家。风格：以柔和的歪曲与色彩形成手感友好的器物；新生代器作代表之一。作品类型：碗、盘、杯等,
+      birthYear: 1991,
+      style: 以柔和的歪曲与色彩形成手感友好的器物；新生代器作代表之一,
+      sources: [
+        {title: BRUTUS, url: https://brutus.jp/new_utsuwa_iwakiri/},
+        {title: store.hitonoto.com, url: https://store.hitonoto.com/products/shuo-ikawakiri}
+      ],
+      published: true
+    },
+    {
+      slug: nikaido-akihiro,
+      nameZh: 二階堂明弘,
+      bio: 1977年生于北海道；曾在纽约及亚洲多地举办展览；现以静冈伊豆为主要制作地（公开资料亦有千叶在住表述）。风格：使用益子土追求薄与轻的器形。作品类型：薄胎器物、烧締器。展览：国内外个展为主,
+      birthYear: 1977,
+      style: 使用益子土追求薄与轻的器形,
+      sources: [
+        {title: hanautsuwa.jp, url: https://www.hanautsuwa.jp/staff/nikaidou/},
+        {title: Discover Japan, url: https://discoverjapan-web.com/article/120341},
+        {title: shop.aelu.jp, url: https://shop.aelu.jp/?gid=2888634&mode=grp&page=1&sort=n},
+        {title: thelittleshopofflowers.jp, url: https://store.thelittleshopofflowers.jp/collections/akihiro_nikaido}
+      ],
+      published: true
+    },
+    {
+      slug: uchida-koichi,
+      nameZh: 内田鋼一,
+      bio: 1969年生；陶艺家。风格：曾在东南亚、中东、西非等地旅行并参与制陶；回国后在四日市制陶工厂体验并独立建窑；作品从日用器到大壶、陶壁等尺度广泛。作品类型：日用器、大型陶壁与大壶等,
+      birthYear: 1969,
+      style: 曾在东南亚、中东、西非等地旅行并参与制陶；回国后在四日市制陶工厂体验并独立建窑；作品从日用器到大壶、陶壁等尺度广泛,
+      sources: [
+        {title: 国立国会图书馆, url: https://id.ndl.go.jp/auth/ndlna/01159179},
+        {title: G-Call, url: https://www.g-call.com/art/uchida/},
+        {title: kurodatouen.com, url: https://kurodatouen.com/eventdata/20250201}
+      ],
+      published: true
+    },
+    {
+      slug: narita-shuhei,
+      nameZh: 成田周平,
+      bio: 公开简历较少。风格：作品以圆润体量感为特点。作品类型：器物；花器。展览：2019年个展（Galerie NUAGE）,
+      style: 作品以圆润体量感为特点,
+      sources: [
+        {title: g-nuage.co.jp, url: https://www.g-nuage.co.jp/%E6%88%90%E7%94%B0%E5%91%A8%E5%B9%B3-%E5%80%8B%E5%B1%95-2019/},
+        {title: madamefigaro.jp, url: https://madamefigaro.jp/lifestyle/interior/210113-utsuwa-world.html},
+        {title: katakuchi.jp, url: https://www.katakuchi.jp/en/collections/naritashuhei}
+      ],
+      published: true
+    },
+    {
+      slug: otani-tetsuya,
+      nameZh: 大谷哲也,
+      bio: 1971年生于兵库县神户市；就读京都工艺纤维大学工艺学部造形工学科；1996年前后在信乐相关研究机构从事产品开发与石膏型制作等工作；现为信乐作陶。作品类型：白磁、日用器（详见个人网站）。展览：2003年第二回工房からの風为其首次发表作品的展览,
+      birthYear: 1971,
+      region: 信乐,
+      sources: [
+        {title: shop.okaz-design.jp, url: https://shop.okaz-design.jp/store/%E5%A4%A7%E8%B0%B7%E5%93%B2%E4%B9%9F-c119714013},
+        {title: kouboukaranokaze.jp, url: https://www.kouboukaranokaze.jp/d-voice/11538/},
+        {title: fashion-headline.com, url: https://www.fashion-headline.com/en/article/13917}
+      ],
+      published: true
+    },
+    {
+      slug: kumabuchi-misa,
+      nameZh: 熊淵未紗,
+      bio: 兵库县出身；毕业于岐阜县多治见市的意匠研究所；2010年在兵库县建立陶艺工作室mushimegane books；作品被日本多家餐厅与料理专业人士使用。风格：以人与音乐/声音为主题进行器物创作，强调器物带来的相遇与日常愉悦；主要使用电窑烧成，偶尔采用野烧；会将贝壳、珊瑚、砂石研磨成颗粒作为釉料，形成细砂般质感。作品类型：盘、浅钵、马克杯等；器物常呈独特造型与色彩；器物（食器系）。展览：2023年香港 Gallery Credence 展,
+      region: 兵库县,
+      style: 以人与音乐/声音为主题进行器物创作，强调器物带来的相遇与日常愉悦；主要使用电窑烧成，偶尔采用野烧；会将贝壳、珊瑚、砂石研磨成颗粒作为釉料，形成细砂般质感,
+      sources: [
+        {title: mushimeganebooks.com, url: https://mushimeganebooks.com/%E6%9C%AA%E5%88%86%E9%A1%9E/2729},
+        {title: obscura-magazine.com, url: https://www.obscura-magazine.com/all/stories/craft/mushimegane-books/},
+        {title: zakka-thethings.com, url: https://www.zakka-thethings.com/collections/%E7%86%8A%E6%B7%B5%E6%9C%AA%E7%B4%97}
+      ],
+      published: true
+    },
+    {
+      slug: ishihara-yukie,
+      nameZh: 石原ゆきえ,
+      bio: 爱知县津岛市作陶。风格：作品多为柔和的造型与适度重量感，表面呈哑光质感，适于日常使用。作品类型：杯、咖啡滴滤器、台盘（高脚盘）。展览：2022年珈琲日和展参展,
+      region: 爱知县津岛市,
+      style: 作品多为柔和的造型与适度重量感，表面呈哑光质感，适于日常使用,
+      sources: [
+        {title: ippaku.jp, url: https://www.ippaku.jp/blog/2022/01/22/233201}
+      ],
+      published: true
+    },
+    {
+      slug: kato-etsuko,
+      nameZh: 加藤惠津子,
+      bio: 公开简历仍有限。作品类型：小皿、小鉢、大鉢、八角皿等；小皿（木瓜）/小鉢（木瓜）/八角皿/大鉢,
+      sources: [
+        {title: kikikikraft.com, url: https://kikikikraft.com/etsukokato}
+      ],
+      published: true
+    },
+    {
+      slug: atsukawa-fumiko,
+      nameZh: 厚川文子,
+      bio: 1975年生于埼玉；1997年和光大学人文学部艺术学科；2004年多治见市陶磁器意匠研究所毕业；现于岐阜县多治见制作。风格：以土味与现代造型见长。作品类型：花器、壶、饭碗、盘等。展览：2005年初个展（ギャラリー数寄），其后多地个展与群展,
+      birthYear: 1975,
+      region: 岐阜县多治见,
+      style: 以土味与现代造型见长,
+      sources: [
+        {title: kyotodeasobo.com, url: https://www.kyotodeasobo.com/art/exhibitions/atsukawa-fumiko/},
+        {title: utsuwa-ku.com, url: https://utsuwa-ku.com/library/2020-9-works3.html}
+      ],
+      published: true
+    },
+    {
+      slug: takada-kae,
+      nameZh: 高田かえ,
+      bio: 公开简历仍有限。作品类型：湯呑、马克杯、小钵、花器、一轮插,
+      sources: [
+        {title: kikikikraft.com, url: https://kikikikraft.com/kaetakada}
+      ],
+      published: true
+    },
+    {
+      slug: kato-ai,
+      nameZh: 加藤あゐ,
+      bio: 生于爱知县濑户市；大阪艺术大学文艺学科中退后从事美术家助理；毕业于爱知县立濑户窑业校专攻科陶艺部；在埼玉独立后移至长野设工房。风格：以日常器为中心；展讯描述其作品以柔和线条与温润表情见长。作品类型：日用器与花器等。展览：2017年加藤あゐ陶展（hygge arts & crafts gallery）,
+      region: 长野,
+      style: 以日常器为中心；展讯描述其作品以柔和线条与温润表情见长,
+      sources: [
+        {title: prtimes.jp, url: https://prtimes.jp/main/html/rd/p/000000005.000110030.html},
+        {title: iichi.com, url: https://www.iichi.com/event/B6249868},
+        {title: chilchinbito-hiroba.jp, url: https://www.chilchinbito-hiroba.jp/event/15642/},
+        {title: kaede-utsuwa.com, url: https://www.kaede-utsuwa.com/shop/category/item/itemgenre/katoai/}
+      ],
+      published: true
+    },
+    {
+      slug: kokane-akari,
+      nameZh: 故金あかり,
+      bio: 1995年生于岐阜；2019年武藏野美术大学工艺工设计学科毕业；2022年多治见市陶磁器意匠研究所Lab课程毕业；现以多治见市为据点，在国内外发表作品。风格：以陶磁与中国茶器为主要方向。作品类型：中国茶器、器物。展览：KOGEI Art Fair Kanazawa 参展作家,
+      birthYear: 1995,
+      region: 多治见市,
+      style: 以陶磁与中国茶器为主要方向,
+      sources: [
+        {title: kogei-artfair.jp, url: https://kogei-artfair.jp/artists/280/},
+        {title: zuno.base.shop, url: https://zuno.base.shop/items/50797647}
+      ],
+      published: true
+    },
+    {
+      slug: uchida-kaori,
+      nameZh: 内田可織,
+      bio: 公开履历较少。风格：展览信息显示其以土锅、耐热器、土瓶等为主要品类。作品类型：土锅、格拉坦盘、壶与杯等。展览：2023年在百福、studio knot 等地个展,
+      style: 展览信息显示其以土锅、耐热器、土瓶等为主要品类,
+      sources: [
+        {title: uchidakaori.com, url: https://www.uchidakaori.com/}
+      ],
+      published: true
+    },
+    {
+      slug: sato-akari,
+      nameZh: 佐藤朱理,
+      bio: 在岐阜持续制作的陶艺家。风格：强调材质与土的表情，器物呈现安静而有光感的气质。作品类型：器物。展览：2025年个展斜光（ideot）,
+      region: 岐阜,
+      style: 强调材质与土的表情，器物呈现安静而有光感的气质,
+      sources: [
+        {title: ideot.net, url: https://ideot.net/news/3461/},
+        {title: people-jp.shop, url: https://people-jp.shop/products/asmg_06}
+      ],
+      published: true
+    },
+    {
+      slug: suzuki-keiko,
+      nameZh: 鈴木敬子,
+      bio: 1982年生于福冈；在福冈制作。风格：以手捏成形（不使用电动轆轤）为主，器形大方朴拙。作品类型：日用器（碗、杯、盘等）。展览：2021年10月二子玉川展；2020年4月日めくり茶展,
+      birthYear: 1982,
+      region: 福冈,
+      style: 以手捏成形（不使用电动轆轤）为主，器形大方朴拙,
+      sources: [
+        {title: kohoro.jp, url: https://kohoro.jp/collections/suzukikeiko}
+      ],
+      published: true
+    },
+    {
+      slug: torii-miki,
+      nameZh: 鳥居美希,
+      bio: 公开简历仍有限。作品类型：造型对象、马克杯、湯呑、取皿,
+      sources: [
+        {title: k-and-a-so-co.net, url: https://www.k-and-a-so-co.net/miki-torii}
+      ],
+      published: true
+    },
+    {
+      slug: goshima-honami,
+      nameZh: 五嶋穂波,
+      bio: 2022年多治见市陶磁器意匠研究所修了；现于岐阜县瑞浪市制作并发表。风格：使用陶土与瓷土，板筑成形；作品多为器物，釉色偏柔和。作品类型：器物（如 bowl / flowering）。展览：2023年うるわしの陶芸展（市之倉さかづき美术馆）,
+      region: 岐阜县瑞浪市,
+      style: 使用陶土与瓷土，板筑成形；作品多为器物，釉色偏柔和,
+      sources: [
+        {title: fpf.kacf.jp, url: https://fpf.kacf.jp/2024/06/21/%E6%BC%86%E8%8A%B8%E4%BD%9C%E5%AE%B6%E3%83%BB%E4%BA%94%E5%B6%8B-%E7%A9%82%E6%B3%A2-%E4%BD%9C%E5%93%81%E7%B4%B9%E4%BB%8B-%EF%BC%8D%E3%80%8Cbowl-flowering%E3%80%8D/},
+        {title: Museum, url: https://www.museum.or.jp/event/113277}
+      ],
+      published: true
+    },
+    {
+      slug: mizutani-tomomi,
+      nameZh: 水谷智美,
+      bio: 从岛根·松江移窑到佐贺，持续作陶。风格：作品呈出土器般的相貌与质感。作品类型：炻器器物。展览：2018年炻器展（马喰町 ART + EAT）,
+      style: 作品呈出土器般的相貌与质感,
+      sources: [
+        {title: Tokyo Art Beat, url: https://www.tokyoartbeat.com/events/-/2018%2F0433},
+        {title: pota-pota.com, url: https://pota-pota.com/mizutani1.html}
+      ],
+      published: true
+    },
+    {
+      slug: shuno-maki,
+      nameZh: 秀野真希,
+      bio: 1986年生于埼玉；多摩美术大学工艺学科玻璃专攻，毕业后转向陶土；2019年移居京都府南丹市并独立。风格：以器物为主，近年也关注无用途的造型表达。作品类型：杯、汲出、马克杯、带边盘,
+      birthYear: 1986,
+      region: 京都府南丹市,
+      style: 以器物为主，近年也关注无用途的造型表达,
+      sources: [
+        {title: oku-tokyo.com, url: https://store.oku-tokyo.com/products/%E7%A7%80%E9%87%8E%E7%9C%9F%E5%B8%8C-%E6%B1%B2%E3%81%BF%E5%87%BA%E3%81%97},
+        {title: shop.senchado.jp, url: https://shop.senchado.jp/products/1436},
+        {title: nativevillage.jp, url: https://nativevillage.jp/nativevillage/maki-shuno-exhibition/}
+      ],
+      published: true
+    },
+    {
+      slug: kakeya-koki,
+      nameZh: 掛谷康樹,
+      bio: 1969年生于广岛县福山市；1992年玉川大学艺术学科陶艺专攻毕业；1998年设立惣堂窯；1999年福山初个展；日本クラフト展、日本民艺馆展等入选。风格：在福山持续作陶。作品类型：练上的大盘、钵、筒等器物。展览：2025年惣堂窯 掛谷康樹 作陶展,
+      birthYear: 1969,
+      region: 广岛县福山市,
+      style: 在福山持续作陶,
+      sources: [
+        {title: hibinokurashi.com, url: https://www.hibinokurashi.com/jp/pottery/11},
+        {title: chilchinbito-hiroba.jp, url: https://www.chilchinbito-hiroba.jp/event/24884/}
+      ],
+      published: true
+    },
+    {
+      slug: ishikawa-wakahiko,
+      nameZh: 石川若彦,
+      bio: 1960年生于东京文京区；1990年移居益子开始以陶为中心的造形活动；与搭档绾子共同以 wakastudio 创作。风格：强调手捏成形；作品兼具朴素与日常实用性。作品类型：日用器与小型造型物。展览：益子陶器市及各地个展,
+      birthYear: 1960,
+      region: 益子,
+      style: 强调手捏成形；作品兼具朴素与日常实用性,
+      sources: [
+        {title: momijiichi.com, url: https://momijiichi.com/2019/creators/wakastudio},
+        {title: niwanowa.info, url: https://niwanowa.info/2017/04/02/5476/},
+        {title: Discover Japan, url: https://discoverjapan-web.com/article/144300}
+      ],
+      published: true
+    },
+    {
+      slug: yamawaki-masato,
+      nameZh: 山脇将人,
+      bio: 在日本南九州宫崎制作；组合多种土与釉药，强调土与釉的质朴感。作品类型：荞麦猪口/小杯（酒杯、茶杯）,
+      region: 南九州宫崎,
+      style: 组合多种土与釉药，强调土与釉的质朴感,
+      sources: [
+        {title: art-onthetable.com, url: https://www.art-onthetable.com/products/yamawaki25},
+        {title: monoina.com, url: https://www.monoina.com/collections/masato-yamawaki}
+      ],
+      published: true
+    },
+    {
+      slug: yamada-yoji,
+      nameZh: 山田洋次,
+      bio: 资料有限。公开活动信息显示其作为陶艺家参与器物相关活动。风格：以英国滑釉（Slipware）技法为基础，结合日本现代生活器用场景。作品类型：滑釉椭圆深钵；滑釉彩绘盘。展览：2014年うつわと食の EAST & WEST参与作家之一,
+      style: 以英国滑釉（Slipware）技法为基础，结合日本现代生活器用场景,
+      sources: [
+        {title: openers.jp, url: https://openers.jp/design/design_product/796654},
+        {title: cotogoto.jp, url: https://www.cotogoto.jp/site/brand/yamadayoji.html},
+        {title: antika.jp, url: https://www.antika.jp/shopbrand/ct409/}
+      ],
+      published: true
+    },
+    {
+      slug: shimomura-atsushi,
+      nameZh: 下村淳,
+      bio: 1985年生于神奈川；2009年立命馆亚洲太平洋大学毕业；2017年在唐津隆太窑师从中里太亀；2020年于神奈川县相模原独立。风格：刷毛目、黑刷毛目等表现突出，保留窑具叠烧的目跡。作品类型：粉引、刷毛目器物、绘皿等；刷毛目皿 5寸,
+      birthYear: 1985,
+      region: 神奈川县相模原,
+      style: 刷毛目、黑刷毛目等表现突出，保留窑具叠烧的目跡,
+      sources: [
+        {title: yugen-kyoto.com, url: https://www.yugen-kyoto.com/ja-ar/collections/shimomura-atsushi-tw},
+        {title: kaede-utsuwa.com, url: https://www.kaede-utsuwa.com/shop/category/item/itemgenre/shimomuraatsushi/}
+      ],
+      published: true
+    },
+    {
+      slug: umano-shingo,
+      nameZh: 馬野真吾,
+      bio: 1987年生于广岛；2006年比治山大学短期大学部美术科随浜本桂三学习陶艺；2008年师从若林健吾；2015年在益子よしざわ窯工作并制作；2020年移居德岛县阿波市筑窑。风格：以端正的轆轤造型与自调植物灰釉为特色，强还原烧成。作品类型：盘、鉢、花器等；6.5寸淺鉢。展览：2025年馬野真吾陶展,
+      birthYear: 1987,
+      region: 德岛县阿波市,
+      style: 以端正的轆轤造型与自调植物灰釉为特色，强还原烧成,
+      sources: [
+        {title: oribe-minoyaki.com, url: https://oribe-minoyaki.com/events/%E9%A6%AC%E9%87%8E%E7%9C%9F%E5%90%BE%E9%99%B6%E5%B1%95/},
+        {title: monoina.com, url: https://www.monoina.com/products/shingo-umano-umano28c},
+        {title: chilchinbito-hiroba.jp, url: https://www.chilchinbito-hiroba.jp/event/15953/}
+      ],
+      published: true
+    },
+    {
+      slug: katase-kazuhiro,
+      nameZh: 片瀬和宏,
+      bio: 爱知县丰田市设工房。风格：作品带有异次元感的造型与质感。作品类型：银涂盘、未完成系列皿、小鉢等；銀塗丸皿；未完皿（縁赤/縁青）。展览：2022年春を告げる器参展,
+      region: 爱知县丰田市,
+      style: 作品带有异次元感的造型与质感,
+      sources: [
+        {title: momofuku.jp, url: https://www.momofuku.jp/2022/01/31/post-10867/},
+        {title: cooan-g.com, url: https://cooan-g.com/kazuhiro_katase/}
+      ],
+      published: true
+    },
+    {
+      slug: watanabe-takayuki,
+      nameZh: 渡辺隆之,
+      bio: 1981年生于静冈；2005年师从黑田泰蔵；2008年移住南伊豆；2010年建穴窑；2018年迁居伊豆の国市并建薪窑。风格：从伊豆半岛多样土壤中取土进行创作，强调与自然环境的能量交换。作品类型：器物与造型物。展览：多地个展（其官网有持续记录）,
+      birthYear: 1981,
+      region: 伊豆の国市,
+      style: 从伊豆半岛多样土壤中取土进行创作，强调与自然环境的能量交换,
+      sources: [
+        {title: filament-jp.net, url: https://filament-jp.net/hito/creator/takayuki-watanabe.html},
+        {title: watanabetakayuki.com, url: https://watanabetakayuki.com/}
+      ],
+      published: true
+    },
+    {
+      slug: kameda-fumi,
+      nameZh: 亀田文,
+      bio: 1973年生于神奈川；2013年移住大分县别府市并开始筑窑；与夫妇共同制作。风格：器表层具有润泽的肌理；强调把自然带入餐桌的器物观。作品类型：器物与对象。展览：2016年亀田大介・文 展,
+      birthYear: 1973,
+      region: 大分县别府市,
+      style: 器表层具有润泽的肌理；强调把自然带入餐桌的器物观,
+      sources: [
+        {title: shop.senchado.jp, url: https://shop.senchado.jp/blogs/dougu/20211105_interview_kameda-fumi},
+        {title: envelope.co.jp, url: https://info.envelope.co.jp/information/kameta_daisuke_fumi/}
+      ],
+      published: true
+    },
+    {
+      slug: yoshikawa-yuko,
+      nameZh: 吉川裕子,
+      bio: 运营piccolo studio小型陶艺工房。风格：从陶土创作灯光艺术件、器物与立体作品。作品类型：灯具、器物、立体作品。展览：公开资料显示有个人展与群展记录（详见其博客）,
+      style: 从陶土创作灯光艺术件、器物与立体作品,
+      sources: [
+        {title: piccolo-studio.doorblog.jp, url: https://piccolo-studio.doorblog.jp/}
+      ],
+      published: true
+    },
+    {
+      slug: yoshizawa-hiroo,
+      nameZh: 吉沢寛郎,
+      bio: 1974年生；2011年离职一般企业；2012年回到益子町在家族制陶所向父亲学习轆轤；2016年起参加个展、企划展与工艺展。作品类型：Bowl Pot 等器物。展览：2026年1月31日-2月1日Still Echo – 吉沢寛郎・猪原朱乃 二人展（京都·SHIJOHAN）,
+      birthYear: 1974,
+      region: 益子町,
+      sources: [
+        {title: amane-shop.net, url: https://www.amane-shop.net/items/67143756},
+        {title: digistyle-kyoto.com, url: https://www.digistyle-kyoto.com/event/55529}
+      ],
+      published: true
+    },
+    {
+      slug: iwata-tetsuhiro,
+      nameZh: 岩田哲宏,
+      bio: 1981年生于鸟取；学习建筑后转向陶艺；师从伊藤环；2019年在东京设工房。风格：以简素、工业感的造型著称，保留指痕等制作痕迹。作品类型：器物、花器、对象等。展览：2023年起多次个展与报道,
+      birthYear: 1981,
+      region: 东京,
+      style: 以简素、工业感的造型著称，保留指痕等制作痕迹,
+      sources: [
+        {title: isolation-jewelry.jp, url: https://isolation-jewelry.jp/collections/tetsuhiro-iwata-1},
+        {title: BRUTUS, url: https://brutus.jp/new_utsuwa_iwata/}
+      ],
+      published: true
+    }
+  ],
+  updateExisting: false
+}

@@ -1,0 +1,274 @@
+{
+  artists: [
+    {
+      slug: iwasaki-ryuji,
+      nameZh: 岩崎龍二,
+      instagramHandle: iwasakiryuji,
+      instagramFollowers: 92000,
+      bio: 大阪富田林设工房。风格：以轆轤成形的花蕾般曲线与流畅造形见长；通过少量釉药的叠加与挂施研究形成复杂渐层色彩。作品类型：花器、器物。展览：多次在百货与画廊展出，并有多项工艺展入选记录（详见作家与画廊资料）,
+      region: 大阪富田林,
+      style: 以轆轤成形的花蕾般曲线与流畅造形见长；通过少量釉药的叠加与挂施研究形成复杂渐层色彩,
+      sources: [
+        {title: wondermug.jp, url: https://www.wondermug.jp/artist/ryuji-iwasaki/},
+        {title: iwasakiryuji.com, url: https://iwasakiryuji.com/event/20250215umedahankyu/},
+        {title: Influencer Database, url: https://infldb.com/top-influencers-by-category/ceramic%20art}
+      ],
+      published: true
+    },
+    {
+      slug: sakai-tomoya,
+      nameZh: 酒井智也,
+      instagramHandle: s_tomoya1212,
+      instagramFollowers: 71300,
+      bio: 1989 年生于爱知；名古屋艺术大学陶艺专攻，多治见陶磁器意匠研究所进修；2019 年在濑户独立。风格：以电动拉坯为主，作品围绕记忆/身份主题进行抽象化表达。作品类型：日用器与当代器形系列。展览：国际陶磁器展美浓等多项入选/获奖记录,
+      birthYear: 1989,
+      region: 濑户,
+      style: 以电动拉坯为主，作品围绕记忆/身份主题进行抽象化表达,
+      sources: [
+        {title: sakaitomoya.amebaownd.com, url: https://sakaitomoya.amebaownd.com/},
+        {title: tomoyasakai.com, url: https://tomoyasakai.com/en/},
+        {title: Influencer Database, url: https://infldb.com/top-influencers-by-category/ceramic%20art}
+      ],
+      published: true
+    },
+    {
+      slug: endo-takashi,
+      nameZh: 遠藤岳,
+      instagramHandle: t_endoh,
+      instagramFollowers: 53500,
+      bio: 神奈川在住，自学陶艺。风格：单色、极简与建筑感；使用伊贺/信乐土并以还原烧成呈现粗粝质感与肌理层次。作品类型：器物与雕塑感器形,
+      region: 神奈川,
+      style: 单色、极简与建筑感；使用伊贺/信乐土并以还原烧成呈现粗粝质感与肌理层次,
+      sources: [
+        {title: kototea.com, url: https://www.kototea.com/takashi-endo/},
+        {title: pen-online.com, url: https://pen-online.com/design/takashi-endo-elevates-ceramics-to-an-art-form/},
+        {title: figurelecture.com, url: https://figurelecture.com/collections/takashi-endo},
+        {title: Influencer Database, url: https://infldb.com/top-influencers-by-category/ceramic%20art}
+      ],
+      published: true
+    },
+    {
+      slug: kuwata-takuro,
+      nameZh: 桑田卓郎,
+      instagramHandle: takurokuwata,
+      instagramFollowers: 53400,
+      bio: 1981 年广岛生；京都嵯峨美术短大陶艺系毕业，2002 起师从在间进；现于岐阜多治见制作。风格：以强烈釉色与爆裂质感等实验性技法著称，突破传统侘寂审美。作品类型：茶碗与器形的当代转化。展览：2018 LOEWE Craft Prize 特别提名；Salon 94、Kakiden Gallery、三越、黑田陶苑等多次个展与国际展出,
+      birthYear: 1981,
+      region: 岐阜多治见,
+      style: 以强烈釉色与爆裂质感等实验性技法著称，突破传统侘寂审美,
+      sources: [
+        {title: alisonjacques.com, url: https://alisonjacques.com/artists/takuro-kuwata},
+        {title: artspace.com, url: https://www.artspace.com/artists/takuro_kuwata},
+        {title: mutualart.com, url: https://www.mutualart.com/Exhibition/Takuro-Kuwata/785CF227E5AA712B},
+        {title: Influencer Database, url: https://infldb.com/top-influencers-by-category/ceramic%20art}
+      ],
+      published: true
+    },
+    {
+      slug: kurihara-kaori,
+      nameZh: 栗原香織,
+      instagramHandle: kaorikurihara.ceramique,
+      instagramFollowers: 45800,
+      bio: 1987 年生于大阪；15 岁起学习陶艺；京都精华大学陶艺专业毕业；2010 年赴法并在巴黎设工作室。风格：受植物形态与几何秩序启发，创作介于真实与梦幻之间的陶艺雕塑；强调手工塑形与对自然秩序的观察。作品类型：植物/果实意象的陶艺雕塑与装置。展览：2015 Prix de la Jeune Création Métiers d'Art；常年在法国与欧洲展出,
+      birthYear: 1987,
+      region: 巴黎,
+      style: 受植物形态与几何秩序启发，创作介于真实与梦幻之间的陶艺雕塑；强调手工塑形与对自然秩序的观察,
+      sources: [
+        {title: kaorikurihara.com, url: https://www.kaorikurihara.com/about},
+        {title: homofaber.com, url: https://www.homofaber.com/en/artisans/kaori-kurihara-ceramics-france},
+        {title: Influencer Database, url: https://infldb.com/top-influencers-by-category/ceramics}
+      ],
+      published: true
+    },
+    {
+      slug: segawa-yuta,
+      nameZh: 瀬川裕太,
+      instagramHandle: yutasegawa_ceramics,
+      instagramFollowers: 36000,
+      bio: 1988 年生于静冈；武藏野美术大学工业/室内/工艺设计学士；伦敦 Camberwell College of Arts MA；现居伦敦。风格：以微缩陶器著称；手拉坯制作迷你壶/钵/杯，使用石器、陶土与瓷等多种泥料并发展 500+ 釉色；受北欧小尺度陶艺家影响。作品类型：Miniature Pot/Teapot/Bowl 等微缩器形。展览：曾在日本、中国、英国、荷兰、迪拜、印度等地展出；2020 In Miniature（The Scottish Gallery）等个展记录,
+      birthYear: 1988,
+      region: 伦敦,
+      style: 以微缩陶器著称；手拉坯制作迷你壶/钵/杯，使用石器、陶土与瓷等多种泥料并发展 500+ 釉色；受北欧小尺度陶艺家影响,
+      sources: [
+        {title: patrickdaviesca.com, url: https://www.patrickdaviesca.com/artists/44-yuta-segawa/},
+        {title: cambridgegallery.co.uk, url: https://www.cambridgegallery.co.uk/yuta-segawa},
+        {title: influencers.club, url: https://influencers.club/ceramic-designers-email-list/}
+      ],
+      published: true
+    },
+    {
+      slug: ishida-kazuya,
+      nameZh: 石田和也,
+      instagramHandle: bizen_kazuya,
+      instagramFollowers: 29600,
+      bio: 1986 年生于备前；师从人间国宝伊势崎淳；曾在英国进修并参与 Oxford Anagama Project；2013 年回备前独立。风格：无釉木烧与螺法/螺旋纹样；使用登窑/穴窑与自然落灰效果。作品类型：备前烧器物与雕塑性作品。展览：多国驻留与展览项目,
+      birthYear: 1986,
+      region: 备前,
+      style: 无釉木烧与螺法/螺旋纹样；使用登窑/穴窑与自然落灰效果,
+      sources: [
+        {title: kazuyaishida.com, url: https://www.kazuyaishida.com/about},
+        {title: unearthed-gallery.com, url: https://unearthed-gallery.com/pages/makers/kazuya-ishida},
+        {title: Influencer Database, url: https://infldb.com/top-influencers-by-category/ceramic%20art}
+      ],
+      published: true
+    },
+    {
+      slug: takeuchi-shingo,
+      nameZh: 竹内真吾,
+      instagramHandle: shingo_takeuchi_,
+      instagramFollowers: 26500,
+      bio: 1955 年生于濑户；爱知县陶瓷研究所学习后师从加藤春鼎Ⅱ世；1982 年建窑。风格：传统濑户烧基础上的器物与茶器创作。作品类型：日用器与茶器。展览：曾获 World Ceramic Biennale Korea 等奖项并有海外展出,
+      birthYear: 1955,
+      region: 濑户,
+      style: 传统濑户烧基础上的器物与茶器创作,
+      sources: [
+        {title: daiichiarts.com, url: https://www.daiichiarts.com/artists/112-takeuchi-shingo/biography/},
+        {title: terra-delft.nl, url: https://www.terra-delft.nl/en/artist/-shingo-takeuchi},
+        {title: Influencer Database, url: https://infldb.com/top-influencers-by-category/ceramic%20art}
+      ],
+      published: true
+    },
+    {
+      slug: fukumura-ryuta,
+      nameZh: 福村龍太,
+      instagramHandle: ryutafukumura,
+      instagramFollowers: 24100,
+      bio: 1989 年生；九州造形短期大学毕业；日月窑二代；福冈县うきは市作陶。风格：使用本地材料与登窑薪烧（登窑）；窑内灰与银彩在烧成中形成细腻层次；受茶道与花道影响，造型克制而重视空间感。作品类型：器物、茶器与酒器等日用器。展览：2025 Artist Cafe Fukuoka Re-Opening Exhibition – 福村龍太×野口寛斎,
+      birthYear: 1989,
+      region: 福冈县うきは市,
+      style: 使用本地材料与登窑薪烧（登窑）；窑内灰与银彩在烧成中形成细腻层次；受茶道与花道影响，造型克制而重视空间感,
+      sources: [
+        {title: ryutafukumura.com, url: https://www.ryutafukumura.com/about},
+        {title: arj.la, url: https://arj.la/collections/ryuta-fukumura},
+        {title: artistcafe.jp, url: https://artistcafe.jp/event/1612/},
+        {title: heepsy.com, url: https://www.heepsy.com/instagram-profile/ryutafukumura}
+      ],
+      published: true
+    },
+    {
+      slug: nukaga-akio,
+      nameZh: 額賀章夫,
+      instagramHandle: nceramicstudio,
+      instagramFollowers: 23600,
+      bio: 1963 年生于东京；东京造形大学毕业；1988 茨城窑业指导所研修，1989 向山窑修业，1993 独立；N Ceramic Studio 主宰。风格：以鎬（shinogi）褶皱系列、粉引与锈粉引等质感著称；在日用器皿中强调土味与线性节奏。作品类型：器物为主。展览：日本国内外展览与收藏记录,
+      birthYear: 1963,
+      region: 茨城,
+      style: 以鎬（shinogi）褶皱系列、粉引与锈粉引等质感著称；在日用器皿中强调土味与线性节奏,
+      sources: [
+        {title: idee-lifeinart.com, url: https://www.idee-lifeinart.com/interview/akio_nukaga/index.html},
+        {title: kasamapotters.com, url: https://www.kasamapotters.com/potters/akio-nukaga},
+        {title: Influencer Database, url: https://infldb.com/top-influencers-by-category/ceramic%20art}
+      ],
+      published: true
+    },
+    {
+      slug: hamada-tomoo,
+      nameZh: 浜田友緒,
+      instagramHandle: tomoohamada,
+      instagramFollowers: 23400,
+      bio: 1967 年生于益子；滨田庄司之孙；多摩美术大学雕刻科毕业。风格：坚持全手工制作与益子陶传统技法。作品类型：益子系器物、茶器。展览：长期举办展览与文化项目（如益子×St Ives 项目等）,
+      birthYear: 1967,
+      region: 益子,
+      style: 坚持全手工制作与益子陶传统技法,
+      sources: [
+        {title: mashiko-tourism.com, url: https://mashiko-tourism.com/interview/tomoo_hamada.php},
+        {title: Influencer Database, url: https://infldb.com/top-influencers-by-category/ceramic%20art}
+      ],
+      published: true
+    },
+    {
+      slug: hashimoto-tomonari,
+      nameZh: 橋本知成,
+      instagramHandle: hashimoto_tomonari,
+      instagramFollowers: 17800,
+      bio: 1990 年生于和歌山；金泽美术工艺大学博士；现居信乐。风格：以泥条/盘筑堆叠形成大型几何陶雕；擅长立方、球体、柱体等形态，强调结构与质感对比。作品类型：当代陶艺雕塑。展览：2019 入选 LOEWE Craft Prize；作品被 V&A、LACMA 等收藏,
+      birthYear: 1990,
+      region: 信乐,
+      style: 以泥条/盘筑堆叠形成大型几何陶雕；擅长立方、球体、柱体等形态，强调结构与质感对比,
+      sources: [
+        {title: tomonarihashimoto.com, url: https://tomonarihashimoto.com/profile/},
+        {title: wa-gallery.art, url: https://wa-gallery.art/artists-single7.html},
+        {title: tokyoweekender.com, url: https://www.tokyoweekender.com/art_and_culture/history/contemporary-ceramic-artists-japan/},
+        {title: Influencer Database, url: https://infldb.com/top-influencers-by-category/ceramic%20art}
+      ],
+      published: true
+    },
+    {
+      slug: ujiie-kodai,
+      nameZh: 氏家昂大,
+      instagramHandle: koudaiujiie,
+      instagramFollowers: 17200,
+      bio: 1990 年生于仙台；东北艺术工科大学学士/硕士；现于岐阜多治见制作。风格：融合金缮漆艺与独特色釉，形成具有修复痕迹的当代器物。作品类型：器物与小型对象。展览：Ippodo Gallery 等多地展览,
+      birthYear: 1990,
+      region: 岐阜多治见,
+      style: 融合金缮漆艺与独特色釉，形成具有修复痕迹的当代器物,
+      sources: [
+        {title: ippodogallery.com, url: https://www.ippodogallery.com/artists/85-kodai-ujiie/biography/},
+        {title: side-gallery.com, url: https://side-gallery.com/kodai_ujiie_white_glaze_tea_bowl_2025/},
+        {title: Influencer Database, url: https://infldb.com/top-influencers-by-category/ceramic%20art}
+      ],
+      published: true
+    },
+    {
+      slug: sato-naomichi,
+      nameZh: 佐藤尚理,
+      instagramHandle: bonoho_,
+      instagramFollowers: 15200,
+      bio: 雕塑出身，2008 年赴德国慕尼黑艺术学院进修，回国后转向陶艺；开设「bonoho」。风格：以雕塑思维进入陶艺，作品呈强烈造型感。作品类型：器物与雕塑性作品,
+      style: 以雕塑思维进入陶艺，作品呈强烈造型感,
+      sources: [
+        {title: taliki-okinawa.com, url: https://taliki-okinawa.com/collections/%E4%BD%90%E8%97%A4-%E5%B0%9A%E7%90%86-naomichi-sato},
+        {title: Influencer Database, url: https://infldb.com/top-influencers-by-category/ceramic%20art}
+      ],
+      published: true
+    },
+    {
+      slug: ueda-yuji,
+      nameZh: 上田勇二,
+      instagramHandle: yuji____ueda,
+      instagramFollowers: 13400,
+      bio: 1975 年生于滋贺信乐；茶农世家；师从神山康久。风格：以长石与多层泥堆叠形成爆裂/剥落肌理；从小件到大型器形均有创作，并持续探索窑烧与釉烧实验。作品类型：器物与大型雕塑性陶艺。展览：Kaikai Kiki 画廊个展与多次当代展览；参与 Blum Gallery「Surface and Signal」群展,
+      birthYear: 1975,
+      region: 滋贺信乐,
+      style: 以长石与多层泥堆叠形成爆裂/剥落肌理；从小件到大型器形均有创作，并持续探索窑烧与釉烧实验,
+      sources: [
+        {title: gallery-kaikaikiki.com, url: https://en.gallery-kaikaikiki.com/category/artists/yuji-ueda/},
+        {title: modernegallerie.com, url: https://modernegallery.com/artists/yuji-ueda/},
+        {title: tokyoweekender.com, url: https://www.tokyoweekender.com/art_and_culture/history/contemporary-ceramic-artists-japan/},
+        {title: Influencer Database, url: https://infldb.com/top-influencers-by-category/ceramic%20art}
+      ],
+      published: true
+    },
+    {
+      slug: hoshino-tomoyuki,
+      nameZh: 星野友幸,
+      instagramHandle: tomoyukihoshino,
+      instagramFollowers: 11400,
+      bio: 1976 年生于山梨；东京国分寺「由木窑」主理；日本工艺协会正会员。风格：发展练继/绞胎拼接技法与粉红色调表达；使用瓷土与多材料混合。作品类型：器物与陶艺造型。展览：日本工艺协会展多次获奖,
+      birthYear: 1976,
+      region: 东京国分寺,
+      style: 发展练继/绞胎拼接技法与粉红色调表达；使用瓷土与多材料混合,
+      sources: [
+        {title: galleryjapan.com, url: https://www.galleryjapan.com/locale/en_US/artist/1752/},
+        {title: japanpotterynet.com, url: https://www.japanpotterynet.com/en/user_data/kilns166},
+        {title: Influencer Database, url: https://infldb.com/top-influencers-by-category/ceramic%20art}
+      ],
+      published: true
+    },
+    {
+      slug: ogawa-aya,
+      nameZh: 小川彩,
+      instagramHandle: aya_ogawa_ig,
+      instagramFollowers: 11826,
+      bio: 大阪 TOON Ceramic Studio 学习陶艺；2015 年参与丹麦 TORTUS COPENHAGEN 工作坊；其后将作陶基地移至东京；作品在国内外销售并参与产品提案与开发。风格：以色彩与质感的对比与叠加为特征，强调不同材料与釉色的组合关系。作品类型：花器、杯、盘等日用器物。展览：2023 Colors of Summer / ナツの色彩り（丸山敬太策划）参展,
+      region: 东京,
+      style: 以色彩与质感的对比与叠加为特征，强调不同材料与釉色的组合关系,
+      sources: [
+        {title: fashion-headline.com, url: https://www.fashion-headline.com/en/article/266223/2305082},
+        {title: socialauditor.io, url: https://socialauditor.io/profile/aya_ogawa_ig}
+      ],
+      published: true
+    }
+  ],
+  updateExisting: false
+}
