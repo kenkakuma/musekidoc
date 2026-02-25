@@ -120,7 +120,7 @@ export default async function AdminDashboard() {
         <CardHeader>
           <CardTitle>快捷操作</CardTitle>
         </CardHeader>
-        <CardContent className="flex gap-4">
+        <CardContent className="flex gap-4 flex-wrap">
           <Button asChild>
             <Link href="/admin/entries/new">
               + 新建陶器条目
@@ -135,6 +135,11 @@ export default async function AdminDashboard() {
             <Link href="/admin/import">
               📥 批量导入
             </Link>
+          </Button>
+          <Button asChild variant="outline">
+            <a href="/api/export/json?format=pretty&include=all" download>
+              📤 导出数据 (JSON)
+            </a>
           </Button>
         </CardContent>
       </Card>
