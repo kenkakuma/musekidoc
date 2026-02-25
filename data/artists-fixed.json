@@ -1,0 +1,48 @@
+{
+  "artists": [
+    {
+      "slug": "hatta-toru",
+      "nameZh": "八田亨",
+      "nameJa": "八田亨",
+      "nameEn": "Hatta Toru",
+      "bio": "1977年生于石川县；2000年毕业于大阪产业大学工学部环境设计学科；2003年开始陶艺家活动；2004年建穴窑；现于大阪富田林市工房作陶，并在堺市烧成。以三岛、白挂等器物为主，作品气势较强，以日用器为主要创作方向。",
+      "birthYear": 1977,
+      "region": "大阪府・富田林市",
+      "style": "三岛手、白挂、黑挂等器物",
+      "sources": [{"title": "Discover Japan", "url": "https://discoverjapan-web.com/article/72301"}],
+      "published": true
+    },
+    {
+      "slug": "kurokawa-toru",
+      "nameZh": "黑川徹",
+      "nameJa": "黒川徹",
+      "nameEn": "Kurokawa Toru",
+      "bio": "1984年生于京都；京都市立艺术大学MFA；以「Savage Math」为主题，结合几何数学结构与有机形态；多以盘筑空心结构创作，常以登窑/薪烧与烟熏烧成呈现金属感表面。",
+      "birthYear": 1984,
+      "region": "京都",
+      "style": "几何陶艺雕塑、薪烧",
+      "awards": ["2007年长三赏大赏", "2022年Maison & Objet Rising Talent Awards Craft"],
+      "exhibitions": [
+        {"year": 2007, "title": "长三赏", "venue": "日本"}
+      ],
+      "sources": [{"title": "N'so Kyoto", "url": "https://nsokyoto.art/members/toru-kurokawa/"}],
+      "instagramHandle": "kurokawa_toru_",
+      "published": true
+    },
+    {
+      "slug": "iguchi-daisuke",
+      "nameZh": "井口大辅",
+      "nameJa": "井口大輔",
+      "nameEn": "Iguchi Daisuke",
+      "bio": "1975年生于栃木；以「侘（Sabi）」与风化质感为核心；手塑器形，表面呈氧化/金属感肌理；常用稻壳灰与灰釉在石质胎上形成锈蚀质感。「锈陶/銹陶」系列代表作包括壶、钵、碗等器形。",
+      "birthYear": 1975,
+      "region": "栃木县・真冈市",
+      "style": "锈陶、侘寂美学、金属感肌理",
+      "awards": ["2019年Paramita Ceramic Arts Exhibition Grand Prize"],
+      "sources": [{"title": "EHC Art", "url": "https://ehc.art/artists/daisuke-iguchi"}],
+      "instagramHandle": "daisuke_igucci",
+      "published": true
+    }
+  ],
+  "updateExisting": false
+}

@@ -1,0 +1,262 @@
+{
+  "artists": [
+    {
+      "slug": "hatta-toru",
+      "nameZh": "八田亨",
+      "nameJa": "八田亨",
+      "nameEn": "Hatta Toru",
+      "bio": "1977年生于石川县；2000年毕业于大阪产业大学工学部环境设计学科；2003年开始陶艺家活动；2004年建穴窑；现于大阪富田林市工房作陶，并在堺市烧成。以三岛、白挂等器物为主，作品气势较强，以日用器为主要创作方向。",
+      "birthYear": 1977,
+      "region": "大阪府・富田林市",
+      "style": "三岛手、白挂、黑挂等器物",
+      "awards": [],
+      "exhibitions": [],
+      "sources": [
+        {
+          "title": "Discover Japan - 八田亨介绍",
+          "url": "https://discoverjapan-web.com/article/72301"
+        },
+        {
+          "title": "Discover Japan - 作品集",
+          "url": "https://discoverjapan-web.com/article/112647"
+        }
+      ],
+      "instagramHandle": null,
+      "published": true
+    },
+    {
+      "slug": "kurokawa-toru",
+      "nameZh": "黑川徹",
+      "nameJa": "黒川徹",
+      "nameEn": "Kurokawa Toru",
+      "bio": "1984年生于京都；京都市立艺术大学MFA；以「Savage Math」为主题，结合几何数学结构与有机形态；多以盘筑空心结构创作，常以登窑/薪烧与烟熏烧成呈现金属感表面。曾参与多国驻留与公共空间项目（如The Thousand Kyoto、N'so Kyoto音乐雕塑）。",
+      "birthYear": 1984,
+      "region": "京都",
+      "style": "几何陶艺雕塑、薪烧",
+      "awards": ["2007年长三赏大赏", "2022年Maison & Objet Rising Talent Awards Craft"],
+      "exhibitions": [
+        {"year": 2007, "title": "长三赏", "venue": "日本"},
+        {"year": 2022, "title": "Maison & Objet Rising Talent Awards", "venue": "法国"}
+      ],
+      "sources": [
+        {
+          "title": "N'so Kyoto - 艺术家介绍",
+          "url": "https://nsokyoto.art/members/toru-kurokawa/"
+        },
+        {
+          "title": "Garland Magazine 专访",
+          "url": "https://garlandmag.com/toru-kuwakawa/"
+        }
+      ],
+      "instagramHandle": "kurokawa_toru_",
+      "published": true
+    },
+    {
+      "slug": "iwasaki-ryuji",
+      "nameZh": "岩崎龙二",
+      "nameJa": "岩崎龍二",
+      "nameEn": "Iwasaki Ryuji",
+      "bio": "大阪富田林设工房；以轆轤成形的「花蕾」般曲线与流畅造形见长；通过少量釉药的叠加与挂施研究形成复杂渐层色彩。作品以花器、器物为主，多次在百货与画廊展出，并有多项工艺展入选记录。",
+      "birthYear": null,
+      "region": "大阪府・富田林市",
+      "style": "花器、轆轤成形、渐层釉色",
+      "awards": [],
+      "exhibitions": [],
+      "sources": [
+        {
+          "title": "Wonder Mug - 艺术家档案",
+          "url": "https://www.wondermug.jp/artist/ryuji-iwasaki/"
+        },
+        {
+          "title": "个人网站展览信息",
+          "url": "https://iwasakiryuji.com/event/20250215umedahankyu/"
+        }
+      ],
+      "instagramHandle": "iwasakiryuji",
+      "published": true
+    },
+    {
+      "slug": "sakai-tomoya",
+      "nameZh": "酒井智也",
+      "nameJa": "酒井智也",
+      "nameEn": "Sakai Tomoya",
+      "bio": "1989年生于爱知；名古屋艺术大学陶艺专攻，多治见陶磁器意匠研究所进修；2019年在濑户独立。以电动拉坯为主，作品围绕「记忆/身份」主题进行抽象化表达。作品涵盖日用器与当代器形系列，在国际陶磁器展美浓等多项展览中入选/获奖。",
+      "birthYear": 1989,
+      "region": "爱知县・濑户市",
+      "style": "当代陶艺、抽象表达",
+      "awards": ["国际陶磁器展美浓入选"],
+      "exhibitions": [],
+      "sources": [
+        {
+          "title": "个人网站",
+          "url": "https://sakaitomoya.amebaownd.com/"
+        },
+        {
+          "title": "作品集网站",
+          "url": "https://tomoyasakai.com/en/"
+        }
+      ],
+      "instagramHandle": "s_tomoya1212",
+      "published": true
+    },
+    {
+      "slug": "kuwata-takuro",
+      "nameZh": "桑田卓郎",
+      "nameJa": "桑田卓郎",
+      "nameEn": "Kuwata Takuro",
+      "bio": "1981年广岛生；京都嵯峨美术短大陶艺系毕业，2002起师从在间进；现于岐阜多治见制作。以强烈釉色与爆裂质感等实验性技法著称，突破传统侘寂审美。在Salon 94、Kakiden Gallery、三越、黑田陶苑等多次个展与国际展出。",
+      "birthYear": 1981,
+      "region": "岐阜县・多治见市",
+      "style": "实验性釉色、当代茶碗",
+      "awards": ["2018年LOEWE Craft Prize特别提名"],
+      "exhibitions": [
+        {"year": 2018, "title": "LOEWE Craft Prize", "venue": "国际"}
+      ],
+      "sources": [
+        {
+          "title": "Alison Jacques Gallery",
+          "url": "https://alisonjacques.com/artists/takuro-kuwata"
+        },
+        {
+          "title": "Artspace 艺术家页面",
+          "url": "https://www.artspace.com/artists/takuro_kuwata"
+        }
+      ],
+      "instagramHandle": "takurokuwata",
+      "published": true
+    },
+    {
+      "slug": "endo-takashi",
+      "nameZh": "远藤岳",
+      "nameJa": "遠藤岳",
+      "nameEn": "Endo Takashi",
+      "bio": "神奈川在住，自学陶艺；单色、极简与建筑感；使用伊贺/信乐土并以还原烧成呈现粗粝质感与肌理层次。作品以器物与雕塑感器形为主，风格简约现代，深受当代设计界关注。",
+      "birthYear": null,
+      "region": "神奈川县",
+      "style": "极简、建筑感、信乐土",
+      "awards": [],
+      "exhibitions": [],
+      "sources": [
+        {
+          "title": "Koto Tea - 艺术家介绍",
+          "url": "https://www.kototea.com/takashi-endo/"
+        },
+        {
+          "title": "Pen Online 专访",
+          "url": "https://pen-online.com/design/takashi-endo-elevates-ceramics-to-an-art-form/"
+        }
+      ],
+      "instagramHandle": "t_endoh",
+      "published": true
+    },
+    {
+      "slug": "ishida-kazuya",
+      "nameZh": "石田和也",
+      "nameJa": "石田和也",
+      "nameEn": "Ishida Kazuya",
+      "bio": "1986年生于备前；师从人间国宝伊势崎淳；曾在英国进修并参与Oxford Anagama Project；2013年回备前独立。无釉木烧与「螺法/螺旋」纹样；使用登窑/穴窑与自然落灰效果。作品包括备前烧器物与雕塑性作品，参与多国驻留与展览项目。",
+      "birthYear": 1986,
+      "region": "冈山县・备前市",
+      "style": "备前烧、无釉薪烧、螺旋纹样",
+      "awards": [],
+      "exhibitions": [],
+      "sources": [
+        {
+          "title": "个人网站",
+          "url": "https://www.kazuyaishida.com/about"
+        },
+        {
+          "title": "Unearthed Gallery",
+          "url": "https://unearthed-gallery.com/pages/makers/kazuya-ishida"
+        }
+      ],
+      "instagramHandle": "bizen_kazuya",
+      "published": true
+    },
+    {
+      "slug": "iguchi-daisuke",
+      "nameZh": "井口大辅",
+      "nameJa": "井口大輔",
+      "nameEn": "Iguchi Daisuke",
+      "bio": "1975年生于栃木；东北艺术工科大学毕业；1999年起在栃木县产业技术中心浦口雅之工房研修；2004年在真冈建窑。以「侘（Sabi）」与风化质感为核心；手塑器形，表面呈氧化/金属感肌理；常用稻壳灰与灰釉在石质胎上形成锈蚀质感，并辅以金属氧化物或银彩。「锈陶/銹陶」系列代表作包括壶、钵、碗等器形。",
+      "birthYear": 1975,
+      "region": "栃木县・真冈市",
+      "style": "锈陶、侘寂美学、金属感肌理",
+      "awards": [
+        "2019年Paramita Ceramic Arts Exhibition Grand Prize",
+        "2014年东日本传统工艺展 东京都知事赏",
+        "2008年益子陶艺展特别奖",
+        "2025年栃木县文化奨励赏"
+      ],
+      "exhibitions": [
+        {"year": 2019, "title": "Paramita Ceramic Arts Exhibition", "venue": "日本"},
+        {"year": 2014, "title": "东日本传统工艺展", "venue": "东京"}
+      ],
+      "sources": [
+        {
+          "title": "EHC Art - 艺术家档案",
+          "url": "https://ehc.art/artists/daisuke-iguchi"
+        },
+        {
+          "title": "真冈市文化大使",
+          "url": "https://www.city.moka.lg.jp/kakuka/hishokoho/gyomu/1/ambassador/13878.html"
+        }
+      ],
+      "instagramHandle": "daisuke_igucci",
+      "published": true
+    },
+    {
+      "slug": "kurihara-kaori",
+      "nameZh": "栗原香织",
+      "nameJa": "栗原香織",
+      "nameEn": "Kurihara Kaori",
+      "bio": "1987年生于大阪；15岁起学习陶艺；京都精华大学陶艺专业毕业；2010年赴法并在巴黎设工作室。受植物形态与几何秩序启发，创作介于真实与梦幻之间的陶艺雕塑；强调手工塑形与对「自然秩序」的观察。常年在法国与欧洲展出。",
+      "birthYear": 1987,
+      "region": "法国・巴黎",
+      "style": "植物形态陶艺雕塑、几何秩序",
+      "awards": ["2015年Prix de la Jeune Création Métiers d'Art"],
+      "exhibitions": [
+        {"year": 2015, "title": "Prix de la Jeune Création Métiers d'Art", "venue": "法国"}
+      ],
+      "sources": [
+        {
+          "title": "个人网站",
+          "url": "https://www.kaorikurihara.com/about"
+        },
+        {
+          "title": "Homo Faber 艺术家档案",
+          "url": "https://www.homofaber.com/en/artisans/kaori-kurihara-ceramics-france"
+        }
+      ],
+      "instagramHandle": "kaorikurihara.ceramique",
+      "published": true
+    },
+    {
+      "slug": "segawa-yuta",
+      "nameZh": "濑川裕太",
+      "nameJa": "瀬川裕太",
+      "nameEn": "Segawa Yuta",
+      "bio": "1988年生于静冈；武藏野美术大学工业/室内/工艺设计学士；伦敦Camberwell College of Arts MA；现居伦敦。以微缩陶器著称；手拉坯制作迷你壶/钵/杯，使用石器、陶土与瓷等多种泥料并发展500+釉色；受北欧小尺度陶艺家影响。曾在日本、中国、英国、荷兰、迪拜、印度等地展出。",
+      "birthYear": 1988,
+      "region": "英国・伦敦",
+      "style": "微缩陶器、多釉色实验",
+      "awards": [],
+      "exhibitions": [
+        {"year": 2020, "title": "In Miniature", "venue": "The Scottish Gallery"}
+      ],
+      "sources": [
+        {
+          "title": "Patrick Davies CA - 艺术家页面",
+          "url": "https://www.patrickdaviesca.com/artists/44-yuta-segawa/"
+        },
+        {
+          "title": "Cambridge Gallery",
+          "url": "https://www.cambridgegallery.co.uk/yuta-segawa"
+        }
+      ],
+      "instagramHandle": "yutasegawa_ceramics",
+      "published": true
+    }
+  ],
+  "updateExisting": false
+}
