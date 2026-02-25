@@ -62,7 +62,18 @@ export function searchEntries(
   }
 
   const results = miniSearch.search(query, {
-    ...miniSearch.options.searchOptions,
+    boost: {
+      nameZh: 3,
+      nameJa: 3,
+      keywords: 2,
+      nameEn: 1.5,
+      region: 1.5,
+      category: 1.2,
+      description: 1
+    },
+    fuzzy: 0.2,
+    prefix: true,
+    combineWith: 'OR'
   })
 
   const { limit = 20, offset = 0 } = options || {}

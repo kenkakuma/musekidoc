@@ -22,7 +22,8 @@
       "Bash(npx prisma generate:*)",
       "Bash(timeout 3 curl:*)",
       "Bash(tasklist:*)",
-      "Bash(taskkill:*)"
+      "Bash(taskkill:*)",
+      "Bash(pnpm dev)"
     ]
   }
 }
