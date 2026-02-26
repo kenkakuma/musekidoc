@@ -49,6 +49,10 @@ tmpclaude-*
 *.log
 nul
 
+# Database backups (contains sensitive data)
+database-backup/
+check-db.js
+
 # Claude local settings
 .claude/settings.local.json
 
