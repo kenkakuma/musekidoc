@@ -14,6 +14,8 @@ export function SearchBar() {
   const [isLoadingSuggestions, setIsLoadingSuggestions] = useState(false)
   const [selectedIndex, setSelectedIndex] = useState(-1)
   const inputRef = useRef<HTMLInputElement>(null)
+  // 使用ref跟踪上一次的searchQuery值，防止在URL变化时误触发导航
+  const prevSearchQueryRef = useRef(searchQuery)
 
   // 获取搜索建议
   useEffect(() => {
@@ -45,6 +47,14 @@ export function SearchBar() {
 
   // 防抖搜索 - 300ms 延迟
   useEffect(() => {
+    // 只有当searchQuery真正发生变化时才导航
+    // 这样可以避免在组件挂载或URL参数变化时误触发
+    if (prevSearchQueryRef.current === searchQuery) {
+      return
+    }
+
+    prevSearchQueryRef.current = searchQuery
+
     const timer = setTimeout(() => {
       const params = new URLSearchParams(searchParams.toString())
 
@@ -54,14 +64,16 @@ export function SearchBar() {
         params.delete('search')
       }
 
-      // 重置到第一页
+      // 重置到第一页（仅在搜索查询变化时）
       params.delete('page')
 
       router.push(`/?${params.toString()}`)
     }, 300)
 
     return () => clearTimeout(timer)
-  }, [searchQuery, searchParams, router])
+    // 注意：这里只依赖searchQuery，不依赖searchParams，避免page变化时触发
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [searchQuery])
 
   // 键盘导航
   const handleKeyDown = (e: React.KeyboardEvent) => {
