@@ -7,13 +7,10 @@ const globalForPrisma = globalThis as unknown as {
   pool: Pool | undefined
 }
 
+// 使用环境变量中的DATABASE_URL（支持本地和云数据库）
 if (!globalForPrisma.pool) {
   globalForPrisma.pool = new Pool({
-    host: 'localhost',
-    port: 5433,
-    user: 'postgres',
-    password: 'postgres',
-    database: 'pottery_kb',
+    connectionString: process.env.DATABASE_URL,
   })
 }
 
