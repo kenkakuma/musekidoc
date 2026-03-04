@@ -109,21 +109,23 @@ export function ArtistsLayout({ artists, initialSelectedSlug, relatedPotteries =
   }
 
   return (
-    <div className="flex h-[calc(100vh-8rem)] overflow-hidden bg-slate-50">
-      {/* 左侧边栏 - 作家列表 */}
-      <aside className="w-96 border-r border-slate-200 flex flex-col bg-white shadow-lg">
-        {/* 排序控制 */}
-        <div className="p-6 border-b border-slate-200 bg-gradient-to-r from-amber-50 to-orange-50">
-          <div className="flex items-center justify-between mb-4">
-            <h2 className="text-lg font-bold text-slate-900 flex items-center gap-2">
-              <Users className="w-5 h-5 text-amber-600" />
+    <div className="flex h-[calc(100vh-8rem)] overflow-hidden washi-texture">
+      {/* 左侧边栏 - 作家列表 with Japanese Aesthetic */}
+      <aside className="w-96 border-r border-border/50 flex flex-col bg-card shadow-xl">
+        {/* 排序控制 with Zen Design */}
+        <div className="p-6 border-b border-border/50 bg-gradient-to-br from-sand/20 to-ivory/30">
+          <div className="flex items-center justify-between mb-5">
+            <h2 className="text-xl font-serif font-medium text-foreground flex items-center gap-3 seasonal-accent">
+              <Users className="w-6 h-6 text-accent" />
               陶艺作家
             </h2>
-            <Badge className="bg-amber-600">{artists.length} 位</Badge>
+            <Badge className="bg-accent text-accent-foreground px-3 py-1.5 rounded-full">
+              {artists.length} 位
+            </Badge>
           </div>
 
           <Select value={sortBy} onValueChange={(value) => setSortBy(value as SortOption)}>
-            <SelectTrigger className="w-full bg-white">
+            <SelectTrigger className="input-zen h-11">
               <SelectValue placeholder="排序方式" />
             </SelectTrigger>
             <SelectContent>
@@ -136,29 +138,30 @@ export function ArtistsLayout({ artists, initialSelectedSlug, relatedPotteries =
           </Select>
         </div>
 
-        {/* 作家列表 */}
-        <div className="flex-1 overflow-y-auto">
-          {sortedArtists.map((artist) => {
+        {/* 作家列表 with Elegant Transitions */}
+        <div className="flex-1 overflow-y-auto scrollbar-hide">
+          {sortedArtists.map((artist, index) => {
             const isSelected = selectedArtist.id === artist.id
             return (
               <button
                 key={artist.id}
                 onClick={() => handleSelectArtist(artist.slug)}
                 className={`
-                  w-full px-6 py-4 text-left border-b border-slate-100
-                  transition-all duration-200
+                  w-full px-6 py-5 text-left border-b border-border/30
+                  transition-all duration-300 ease-out
                   ${isSelected
-                    ? 'bg-gradient-to-r from-amber-50 to-orange-50 border-l-4 border-l-amber-600 shadow-sm'
-                    : 'hover:bg-slate-50'
+                    ? 'bg-accent/10 border-l-4 border-l-accent shadow-sm'
+                    : 'hover:bg-accent/5 hover:translate-x-1'
                   }
                 `}
+                style={!isSelected ? { animationDelay: `${index * 30}ms` } : undefined}
               >
                 <div className="flex items-start gap-4">
-                  {/* 头像 */}
+                  {/* 头像 with Zen Circle */}
                   <div className={`
-                    flex-shrink-0 w-14 h-14 rounded-full overflow-hidden
-                    ring-2 transition-all
-                    ${isSelected ? 'ring-amber-400' : 'ring-slate-200'}
+                    flex-shrink-0 w-16 h-16 rounded-full overflow-hidden
+                    ring-2 transition-all duration-300
+                    ${isSelected ? 'ring-accent shadow-md' : 'ring-border/50'}
                   `}>
                     {artist.avatar ? (
                       <img
@@ -167,33 +170,34 @@ export function ArtistsLayout({ artists, initialSelectedSlug, relatedPotteries =
                         className="w-full h-full object-cover"
                       />
                     ) : (
-                      <div className="w-full h-full bg-gradient-to-br from-amber-100 to-orange-100 flex items-center justify-center">
-                        <User className="w-7 h-7 text-amber-600" />
+                      <div className="w-full h-full bg-gradient-to-br from-sand/50 to-ivory/70 flex items-center justify-center">
+                        <User className="w-8 h-8 text-accent/60" />
                       </div>
                     )}
                   </div>
 
-                  {/* 信息 */}
+                  {/* 信息 with Japanese Typography */}
                   <div className="flex-1 min-w-0">
                     <h3 className={`
-                      font-semibold truncate mb-1
-                      ${isSelected ? 'text-amber-900' : 'text-slate-900'}
+                      font-serif font-medium text-base truncate mb-1.5
+                      ${isSelected ? 'text-accent' : 'text-foreground'}
+                      transition-colors duration-300
                     `}>
                       {artist.nameZh}
                     </h3>
-                    <p className="text-sm text-slate-600 font-jp truncate mb-1">
+                    <p className="text-sm text-muted-foreground font-jp tracking-wider truncate mb-2">
                       {artist.nameJa}
                     </p>
-                    <div className="flex items-center gap-2 text-xs text-slate-500">
-                      <Calendar className="w-3 h-3" />
+                    <div className="flex items-center gap-2 text-xs text-muted-foreground/80">
+                      <Calendar className="w-3.5 h-3.5" />
                       <span>{getYearInfo(artist)}</span>
                     </div>
                   </div>
 
-                  {/* 选中指示器 */}
+                  {/* 选中指示器 with Subtle Animation */}
                   {isSelected && (
-                    <div className="flex-shrink-0">
-                      <div className="w-2 h-2 rounded-full bg-amber-600 animate-pulse" />
+                    <div className="flex-shrink-0 self-center">
+                      <div className="w-2.5 h-2.5 rounded-full bg-accent animate-pulse shadow-sm" />
                     </div>
                   )}
                 </div>
@@ -203,111 +207,109 @@ export function ArtistsLayout({ artists, initialSelectedSlug, relatedPotteries =
         </div>
       </aside>
 
-      {/* 右侧 - 作家详情 */}
-      <main className="flex-1 overflow-y-auto bg-gradient-to-b from-white to-slate-50">
-        <div className="max-w-5xl mx-auto px-8 py-8">
-          {/* 头部信息 */}
-          <div className="mb-8 pb-6 border-b border-slate-200">
-            <div className="flex items-start justify-between mb-4">
+      {/* 右侧 - 作家详情 with Japanese Aesthetic */}
+      <main className="flex-1 overflow-y-auto bg-gradient-to-b from-background to-sand/5 scrollbar-hide">
+        <div className="max-w-5xl mx-auto px-8 md:px-12 py-10">
+          {/* 头部信息 with Generous Spacing */}
+          <div className="mb-12 pb-8 border-b border-border/50 animate-ink-wash">
+            <div className="flex items-start justify-between mb-6">
               <div className="flex-1">
-                <Badge className="mb-3 bg-amber-600">
-                  <Sparkles className="w-3 h-3 mr-1" />
+                <Badge className="mb-5 bg-accent text-accent-foreground px-4 py-2 rounded-full shadow-sm">
+                  <Sparkles className="w-4 h-4 mr-2" />
                   陶艺作家
                 </Badge>
-                <h1 className="text-4xl font-bold text-slate-900 mb-3">
+                <h1 className="text-5xl md:text-6xl font-serif font-medium text-foreground mb-5 text-balance leading-tight">
                   {selectedArtist.nameZh}
                 </h1>
-                <div className="flex flex-wrap items-center gap-4 text-slate-600 mb-2">
-                  <span className="font-jp text-xl">{selectedArtist.nameJa}</span>
+                <div className="flex flex-wrap items-center gap-5 text-muted-foreground mb-4">
+                  <span className="font-jp text-xl md:text-2xl tracking-wider">{selectedArtist.nameJa}</span>
                   {selectedArtist.nameEn && (
                     <>
-                      <span className="text-slate-300">|</span>
-                      <span className="text-lg">{selectedArtist.nameEn}</span>
+                      <span className="text-border">|</span>
+                      <span className="text-lg md:text-xl font-serif italic">{selectedArtist.nameEn}</span>
                     </>
                   )}
                 </div>
-                <div className="flex items-center gap-2 text-slate-600">
-                  <Calendar className="w-4 h-4 text-amber-600" />
-                  <span className="font-medium">{getYearInfo(selectedArtist)}</span>
+                <div className="flex items-center gap-3 text-muted-foreground">
+                  <Calendar className="w-5 h-5 text-accent" />
+                  <span className="font-medium text-base">{getYearInfo(selectedArtist)}</span>
                 </div>
               </div>
             </div>
           </div>
 
-          {/* 头像/作品图片 */}
-          <div className="mb-8">
+          {/* 头像/作品图片 with Elegant Display */}
+          <div className="mb-10 animate-ink-wash" style={{ animationDelay: '100ms' }}>
             {selectedArtist.avatar || selectedImages.length > 0 ? (
               selectedImages.length > 0 ? (
                 <ImageGallery images={selectedImages} />
               ) : (
-                <div className="aspect-[21/9] w-full overflow-hidden rounded-xl shadow-lg bg-gradient-to-br from-slate-100 to-slate-200">
+                <div className="aspect-[21/9] w-full overflow-hidden rounded-2xl shadow-lg bg-gradient-to-br from-sand/20 to-ivory/30 border border-border/50">
                   <img
                     src={selectedArtist.avatar!}
                     alt={selectedArtist.nameZh}
-                    className="w-full h-full object-cover"
+                    className="w-full h-full object-cover img-zen"
                   />
                 </div>
               )
             ) : (
-              <div className="aspect-[21/9] w-full bg-gradient-to-br from-amber-50 via-orange-50 to-red-50 rounded-xl flex items-center justify-center shadow-lg border border-amber-100">
-                <User className="w-32 h-32 text-amber-300" />
+              <div className="aspect-[21/9] w-full bg-gradient-to-br from-sand/30 via-ivory/40 to-sand/20 rounded-2xl flex items-center justify-center shadow-lg border border-border/50">
+                <div className="w-40 h-40 rounded-full bg-mist-gray/50 flex items-center justify-center">
+                  <User className="w-24 h-24 text-accent/40" />
+                </div>
               </div>
             )}
           </div>
 
-          {/* 信息卡片组 */}
-          <div className="grid grid-cols-1 md:grid-cols-2 gap-6 mb-8">
+          {/* 信息卡片组 with Zen Cards */}
+          <div className="grid grid-cols-1 md:grid-cols-2 gap-8 mb-10">
             {/* 艺术特点 */}
             {(selectedArtist.region || selectedArtist.style) && (
-              <Card className="border-amber-200 bg-gradient-to-br from-white to-amber-50/30">
-                <CardHeader className="pb-3">
-                  <CardTitle className="text-base flex items-center gap-2">
-                    <Palette className="w-4 h-4 text-amber-600" />
-                    艺术特点
-                  </CardTitle>
-                </CardHeader>
-                <CardContent className="space-y-3">
+              <div className="card-zen bg-sand/10 animate-ink-wash" style={{ animationDelay: '200ms' }}>
+                <h3 className="text-lg font-serif font-medium mb-6 flex items-center gap-3 seasonal-accent">
+                  <Palette className="w-5 h-5 text-accent" />
+                  艺术特点
+                </h3>
+                <div className="space-y-5">
                   {selectedArtist.region && (
-                    <div className="flex items-start gap-2">
-                      <MapPin className="w-4 h-4 text-slate-400 mt-0.5" />
+                    <div className="flex items-start gap-3">
+                      <MapPin className="w-5 h-5 text-accent/60 mt-1" />
                       <div>
-                        <span className="text-xs text-slate-500 block">产地/地区</span>
-                        <span className="font-medium text-slate-900">{selectedArtist.region}</span>
+                        <span className="text-xs text-muted-foreground block mb-1">产地/地区</span>
+                        <span className="font-medium text-foreground text-base">{selectedArtist.region}</span>
                       </div>
                     </div>
                   )}
                   {selectedArtist.style && (
-                    <div className="flex items-start gap-2">
-                      <Sparkles className="w-4 h-4 text-slate-400 mt-0.5" />
+                    <div className="flex items-start gap-3">
+                      <Sparkles className="w-5 h-5 text-accent/60 mt-1" />
                       <div>
-                        <span className="text-xs text-slate-500 block">艺术风格</span>
-                        <span className="font-medium text-slate-900">{selectedArtist.style}</span>
+                        <span className="text-xs text-muted-foreground block mb-1">艺术风格</span>
+                        <span className="font-medium text-foreground text-base">{selectedArtist.style}</span>
                       </div>
                     </div>
                   )}
-                </CardContent>
-              </Card>
+                </div>
+              </div>
             )}
 
             {/* 在线资源 */}
             {(selectedArtist.websiteUrl || selectedArtist.instagramHandle) && (
-              <Card className="border-orange-200 bg-gradient-to-br from-white to-orange-50/30">
-                <CardHeader className="pb-3">
-                  <CardTitle className="text-base flex items-center gap-2">
-                    <Globe className="w-4 h-4 text-orange-600" />
-                    在线资源
-                  </CardTitle>
-                </CardHeader>
-                <CardContent className="space-y-3">
+              <div className="card-zen bg-ivory/20 animate-ink-wash" style={{ animationDelay: '250ms' }}>
+                <h3 className="text-lg font-serif font-medium mb-6 flex items-center gap-3 seasonal-accent">
+                  <Globe className="w-5 h-5 text-accent" />
+                  在线资源
+                </h3>
+                <div className="space-y-4">
                   {selectedArtist.websiteUrl && (
                     <a
                       href={selectedArtist.websiteUrl}
                       target="_blank"
                       rel="noopener noreferrer"
-                      className="flex items-center gap-2 text-blue-600 hover:text-blue-700 hover:underline transition-colors"
+                      className="flex items-center gap-3 text-accent hover:text-accent-hover transition-colors group"
                     >
-                      <Globe className="w-4 h-4" />
-                      <span className="font-medium">官方网站</span>
+                      <Globe className="w-5 h-5 group-hover:scale-110 transition-transform" />
+                      <span className="font-medium brush-underline">官方网站</span>
                     </a>
                   )}
                   {selectedArtist.instagramHandle && (
@@ -315,66 +317,68 @@ export function ArtistsLayout({ artists, initialSelectedSlug, relatedPotteries =
                       href={`https://instagram.com/${selectedArtist.instagramHandle}`}
                       target="_blank"
                       rel="noopener noreferrer"
-                      className="flex items-center gap-2 text-pink-600 hover:text-pink-700 hover:underline transition-colors"
+                      className="flex items-center gap-3 text-accent hover:text-accent-hover transition-colors group"
                     >
-                      <Instagram className="w-4 h-4" />
+                      <Instagram className="w-5 h-5 group-hover:scale-110 transition-transform" />
                       <div className="flex flex-col">
-                        <span className="font-medium">@{selectedArtist.instagramHandle}</span>
+                        <span className="font-medium brush-underline">@{selectedArtist.instagramHandle}</span>
                         {selectedArtist.instagramFollowers && (
-                          <span className="text-xs text-slate-500">
+                          <span className="text-xs text-muted-foreground mt-1">
                             {selectedArtist.instagramFollowers.toLocaleString()} 粉丝
                           </span>
                         )}
                       </div>
                     </a>
                   )}
-                </CardContent>
-              </Card>
+                </div>
+              </div>
             )}
 
             {/* 展览信息 */}
             {selectedArtist.exhibitionCount !== null && selectedArtist.exhibitionCount !== undefined && (
-              <Card className="border-red-200 bg-gradient-to-br from-white to-red-50/30">
-                <CardHeader className="pb-3">
-                  <CardTitle className="text-base flex items-center gap-2">
-                    <Award className="w-4 h-4 text-red-600" />
-                    展览记录
-                  </CardTitle>
-                </CardHeader>
-                <CardContent>
-                  <div className="text-2xl font-bold text-slate-900">
-                    {selectedArtist.exhibitionCount} 次
-                  </div>
-                  <p className="text-sm text-slate-600 mt-1">参展次数</p>
-                </CardContent>
-              </Card>
+              <div className="card-zen bg-accent/5 border-accent/20 animate-ink-wash" style={{ animationDelay: '300ms' }}>
+                <h3 className="text-lg font-serif font-medium mb-6 flex items-center gap-3 seasonal-accent">
+                  <Award className="w-5 h-5 text-accent" />
+                  展览记录
+                </h3>
+                <div className="text-4xl font-serif font-medium text-foreground mb-2">
+                  {selectedArtist.exhibitionCount} 次
+                </div>
+                <p className="text-sm text-muted-foreground">参展次数</p>
+              </div>
             )}
           </div>
 
-          {/* 艺术家简介 */}
-          <Card className="mb-8 border-slate-200">
-            <CardHeader>
-              <CardTitle className="text-xl">艺术家简介</CardTitle>
-            </CardHeader>
-            <CardContent>
-              <div className="prose max-w-none">
-                <p className="whitespace-pre-wrap text-slate-700 leading-relaxed text-base">
-                  {selectedArtist.bio}
-                </p>
-              </div>
-            </CardContent>
-          </Card>
+          {/* 艺术家简介 with Generous Leading */}
+          <div className="card-zen mb-10 animate-ink-wash" style={{ animationDelay: '350ms' }}>
+            <h3 className="text-2xl font-serif font-medium mb-6 seasonal-accent">
+              艺术家简介
+            </h3>
+            <div className="prose prose-lg max-w-none">
+              <p className="whitespace-pre-wrap text-foreground/90 leading-loose text-base">
+                {selectedArtist.bio}
+              </p>
+            </div>
+          </div>
 
-          {/* 相关作品 */}
+          {/* 相关作品 with Stagger Animation */}
           {artistRelatedPotteries.length > 0 && (
-            <div className="mt-12">
-              <div className="flex items-center gap-2 mb-6">
-                <Sparkles className="w-6 h-6 text-amber-600" />
-                <h2 className="text-2xl font-bold text-slate-900">相关陶器作品</h2>
+            <div className="mt-16">
+              <div className="flex items-center gap-3 mb-10 animate-ink-wash" style={{ animationDelay: '400ms' }}>
+                <Sparkles className="w-8 h-8 text-accent" />
+                <h2 className="text-3xl md:text-4xl font-serif font-medium text-foreground seasonal-accent">
+                  相关陶器作品
+                </h2>
               </div>
-              <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
-                {artistRelatedPotteries.map((pottery) => (
-                  <PotteryCard key={pottery.id} entry={pottery as any} />
+              <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
+                {artistRelatedPotteries.map((pottery, index) => (
+                  <div
+                    key={pottery.id}
+                    className="animate-ink-wash"
+                    style={{ animationDelay: `${450 + index * 80}ms` }}
+                  >
+                    <PotteryCard entry={pottery as any} />
+                  </div>
                 ))}
               </div>
             </div>

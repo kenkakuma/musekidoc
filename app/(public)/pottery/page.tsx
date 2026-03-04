@@ -101,104 +101,126 @@ export default async function PotteryPage({ searchParams }: PotteryPageProps) {
   const hasFilters = searchParams.search || searchParams.category || searchParams.region
 
   return (
-    <div className="min-h-screen bg-slate-50">
-      {/* 页面头部 */}
-      <div className="bg-white border-b border-slate-200">
-        <div className="container mx-auto px-4 py-8">
-          <div className="max-w-4xl mx-auto">
-            <nav className="text-sm text-slate-600 mb-4">
-              <Link href="/" className="hover:text-amber-600">首页</Link>
-              <span className="mx-2">/</span>
-              <span>陶器条目</span>
-            </nav>
-
-            <h1 className="text-3xl font-bold text-slate-900 mb-4">
-              陶器条目
-            </h1>
-
-            {/* 搜索栏 */}
-            <Suspense fallback={
-              <div className="h-12 w-full bg-slate-100 animate-pulse rounded-md mb-4" />
-            }>
-              <SearchBar />
-            </Suspense>
-          </div>
+    <div className="min-h-screen washi-texture">
+      {/* Breadcrumb Navigation with Japanese Aesthetic */}
+      <nav className="container-zen pb-0">
+        <div className="breadcrumb-zen animate-ink-wash">
+          <Link href="/" className="brush-underline">首页</Link>
+          <ChevronRight className="w-3 h-3 breadcrumb-zen-separator" />
+          <span className="text-foreground">陶器条目</span>
         </div>
+      </nav>
+
+      {/* Hero Section - Title and Search */}
+      <section className="container-zen pt-8">
+        <div className="max-w-4xl stagger-reveal">
+          {/* Page Title with Generous Spacing */}
+          <h1 className="text-5xl md:text-6xl font-serif font-medium mb-8 text-balance leading-tight animate-ink-wash">
+            陶器作品集
+          </h1>
+
+          {/* Search Bar with Zen Styling */}
+          <Suspense fallback={
+            <div className="h-14 w-full max-w-2xl bg-mist-gray/30 animate-pulse rounded-xl mb-6" />
+          }>
+            <SearchBar />
+          </Suspense>
+        </div>
+      </section>
+
+      {/* Brush Divider */}
+      <div className="container-zen py-0">
+        <div className="divider-brush" />
       </div>
 
-      <div className="container mx-auto px-4 py-8">
-        {/* 筛选条件标签 */}
-        <div className="flex items-center justify-between mb-6">
-          <div className="flex items-center gap-2 flex-wrap">
-            <div className="flex items-center gap-2 text-sm text-slate-600">
-              <Filter className="w-4 h-4" />
-              <span>找到 <span className="font-semibold text-slate-900">{total}</span> 个条目</span>
-            </div>
-
-            {hasFilters && (
-              <div className="flex items-center gap-2">
-                {searchParams.search && (
-                  <Badge variant="secondary" className="gap-1">
-                    搜索: {searchParams.search}
-                    <Link href={removeFilter('search')}>
-                      <X className="w-3 h-3 hover:text-red-600" />
-                    </Link>
-                  </Badge>
-                )}
-                {searchParams.category && (
-                  <Badge variant="secondary" className="gap-1">
-                    分类: {searchParams.category}
-                    <Link href={removeFilter('category')}>
-                      <X className="w-3 h-3 hover:text-red-600" />
-                    </Link>
-                  </Badge>
-                )}
-                {searchParams.region && (
-                  <Badge variant="secondary" className="gap-1">
-                    产地: {searchParams.region}
-                    <Link href={removeFilter('region')}>
-                      <X className="w-3 h-3 hover:text-red-600" />
-                    </Link>
-                  </Badge>
-                )}
-                <Link
-                  href="/pottery"
-                  className="text-sm text-blue-600 hover:text-blue-700 hover:underline"
-                >
-                  清除全部
-                </Link>
-              </div>
-            )}
+      {/* Main Content */}
+      <section className="container-zen">
+        {/* Filter Tags with Elegant Design */}
+        <div className="flex items-start justify-between mb-12 flex-wrap gap-4 animate-ink-wash">
+          <div className="flex items-center gap-3 text-muted-foreground">
+            <Filter className="w-5 h-5 text-accent" />
+            <span className="text-base">
+              找到 <span className="font-semibold text-foreground">{total}</span> 个条目
+            </span>
           </div>
+
+          {hasFilters && (
+            <div className="flex items-center gap-3 flex-wrap">
+              {searchParams.search && (
+                <Badge className="bg-accent/10 text-accent border-accent/30 px-4 py-2 rounded-full gap-2 hover:bg-accent/20 transition-colors">
+                  搜索: {searchParams.search}
+                  <Link href={removeFilter('search')}>
+                    <X className="w-3.5 h-3.5 hover:text-accent-hover transition-colors" />
+                  </Link>
+                </Badge>
+              )}
+              {searchParams.category && (
+                <Badge className="bg-accent/10 text-accent border-accent/30 px-4 py-2 rounded-full gap-2 hover:bg-accent/20 transition-colors">
+                  分类: {searchParams.category}
+                  <Link href={removeFilter('category')}>
+                    <X className="w-3.5 h-3.5 hover:text-accent-hover transition-colors" />
+                  </Link>
+                </Badge>
+              )}
+              {searchParams.region && (
+                <Badge className="bg-accent/10 text-accent border-accent/30 px-4 py-2 rounded-full gap-2 hover:bg-accent/20 transition-colors">
+                  产地: {searchParams.region}
+                  <Link href={removeFilter('region')}>
+                    <X className="w-3.5 h-3.5 hover:text-accent-hover transition-colors" />
+                  </Link>
+                </Badge>
+              )}
+              <Link
+                href="/pottery"
+                className="text-sm text-accent hover:text-accent-hover brush-underline transition-colors"
+              >
+                清除全部
+              </Link>
+            </div>
+          )}
         </div>
 
-        {/* 陶器卡片网格 */}
+        {/* Pottery Cards Grid with Stagger Animation */}
         {entries.length > 0 ? (
-          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6 mb-12">
-            {entries.map((entry) => (
-              <PotteryCard key={entry.id} entry={entry} />
+          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-8 mb-16">
+            {entries.map((entry, index) => (
+              <div
+                key={entry.id}
+                className="animate-ink-wash"
+                style={{ animationDelay: `${index * 50}ms` }}
+              >
+                <PotteryCard entry={entry} />
+              </div>
             ))}
           </div>
         ) : (
-          <div className="text-center py-16 bg-white rounded-lg">
-            <p className="text-slate-500 text-lg mb-4">暂无符合条件的陶器条目</p>
-            <Link
-              href="/pottery"
-              className="text-blue-600 hover:text-blue-700 hover:underline"
-            >
-              返回全部条目
-            </Link>
+          <div className="card-zen text-center py-24 bg-accent/5 border-accent/20 animate-ink-wash">
+            <div className="max-w-md mx-auto space-y-6">
+              <div className="w-20 h-20 mx-auto rounded-full bg-mist-gray/50 flex items-center justify-center">
+                <Filter className="w-10 h-10 text-muted-foreground/50" />
+              </div>
+              <p className="text-lg text-muted-foreground leading-relaxed">
+                暂无符合条件的陶器条目
+              </p>
+              <Link
+                href="/pottery"
+                className="btn-zen inline-flex"
+              >
+                返回全部条目
+              </Link>
+            </div>
           </div>
         )}
 
-        {/* 分页控制 */}
+        {/* Pagination with Zen Button Styling */}
         {totalPages > 1 && (
-          <div className="flex justify-center items-center gap-2">
+          <div className="flex justify-center items-center gap-3 animate-ink-wash">
             <Button
               variant="outline"
               size="sm"
               disabled={page <= 1}
               asChild={page > 1}
+              className="btn-zen"
             >
               {page > 1 ? (
                 <Link href={buildPageUrl(page - 1)}>
@@ -213,7 +235,7 @@ export default async function PotteryPage({ searchParams }: PotteryPageProps) {
               )}
             </Button>
 
-            <div className="flex items-center gap-1">
+            <div className="flex items-center gap-2">
               {Array.from({ length: Math.min(totalPages, 5) }, (_, i) => {
                 let pageNum: number
                 if (totalPages <= 5) {
@@ -226,14 +248,17 @@ export default async function PotteryPage({ searchParams }: PotteryPageProps) {
                   pageNum = page - 2 + i
                 }
 
+                const isActive = page === pageNum
+
                 return (
                   <Button
                     key={pageNum}
-                    variant={page === pageNum ? 'default' : 'outline'}
+                    variant={isActive ? 'default' : 'outline'}
                     size="sm"
-                    asChild={page !== pageNum}
+                    asChild={!isActive}
+                    className={isActive ? 'bg-accent text-accent-foreground hover:bg-accent-hover' : 'btn-zen'}
                   >
-                    {page !== pageNum ? (
+                    {!isActive ? (
                       <Link href={buildPageUrl(pageNum)}>{pageNum}</Link>
                     ) : (
                       <span>{pageNum}</span>
@@ -248,6 +273,7 @@ export default async function PotteryPage({ searchParams }: PotteryPageProps) {
               size="sm"
               disabled={page >= totalPages}
               asChild={page < totalPages}
+              className="btn-zen"
             >
               {page < totalPages ? (
                 <Link href={buildPageUrl(page + 1)}>
@@ -263,7 +289,10 @@ export default async function PotteryPage({ searchParams }: PotteryPageProps) {
             </Button>
           </div>
         )}
-      </div>
+      </section>
+
+      {/* Bottom Spacer - Generous Whitespace */}
+      <div className="h-24 md:h-32" />
     </div>
   )
 }

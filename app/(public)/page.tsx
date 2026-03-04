@@ -106,231 +106,319 @@ export default async function HomePage() {
   const { stats, latestEntries, featuredEntries, topRegions, topCategories } = await getHomePageData()
 
   return (
-    <div className="min-h-screen bg-gradient-to-b from-amber-50 via-white to-slate-50">
-      {/* Hero Section */}
-      <section className="relative bg-gradient-to-r from-amber-100 via-orange-50 to-red-50 border-b border-amber-200">
-        <div className="absolute inset-0 bg-[url('/pattern.svg')] opacity-5"></div>
-        <div className="container mx-auto px-4 py-16 relative">
-          <div className="max-w-4xl mx-auto text-center">
-            <Badge className="mb-4 bg-amber-600 hover:bg-amber-700">
-              <Library className="w-3 h-3 mr-1" />
+    <div className="min-h-screen washi-texture">
+      {/* Hero Section with Japanese Aesthetic */}
+      <section className="relative bg-gradient-to-b from-sand/20 via-ivory/10 to-transparent border-b border-border/50">
+        <div className="absolute inset-0 bg-[url('/pattern.svg')] opacity-3"></div>
+        <div className="container-zen relative">
+          <div className="max-w-4xl mx-auto text-center stagger-reveal">
+            {/* Category Badge with Zen Styling */}
+            <Badge className="mb-8 bg-accent text-accent-foreground px-6 py-2 rounded-full shadow-sm hover:shadow-md transition-shadow animate-ink-wash">
+              <Library className="w-4 h-4 mr-2" />
               日本陶艺知识库
             </Badge>
-            <h1 className="text-5xl font-bold text-slate-900 mb-4 tracking-tight">
+
+            {/* Main Title - Elegant Japanese Typography */}
+            <h1 className="text-6xl md:text-7xl font-serif font-medium mb-8 text-balance leading-tight animate-ink-wash">
               探索日本陶艺之美
             </h1>
-            <p className="text-xl text-slate-700 mb-8 leading-relaxed">
+
+            {/* Subtitle with Generous Leading */}
+            <p className="text-xl md:text-2xl text-muted-foreground mb-12 leading-relaxed max-w-3xl mx-auto animate-ink-wash">
               从传统技法到现代创作，深入了解日本陶器的历史、产地与名家作品
             </p>
 
-            {/* 搜索栏 */}
-            <div className="max-w-2xl mx-auto mb-8">
+            {/* Search Bar */}
+            <div className="max-w-2xl mx-auto mb-12 animate-ink-wash">
               <Suspense fallback={
-                <div className="h-14 w-full bg-white/50 animate-pulse rounded-lg shadow-sm" />
+                <div className="h-14 w-full bg-mist-gray/30 animate-pulse rounded-xl shadow-sm" />
               }>
                 <SearchBar />
               </Suspense>
             </div>
 
-            {/* 统计面板 */}
-            <div className="grid grid-cols-2 md:grid-cols-4 gap-4 max-w-3xl mx-auto">
-              <Card className="bg-white/80 backdrop-blur-sm border-amber-200">
-                <CardContent className="pt-6 pb-4 text-center">
-                  <BookOpen className="w-8 h-8 mx-auto mb-2 text-amber-600" />
-                  <div className="text-2xl font-bold text-slate-900">{stats.entries}</div>
-                  <div className="text-sm text-slate-600">陶器条目</div>
-                </CardContent>
-              </Card>
-              <Card className="bg-white/80 backdrop-blur-sm border-orange-200">
-                <CardContent className="pt-6 pb-4 text-center">
-                  <Users className="w-8 h-8 mx-auto mb-2 text-orange-600" />
-                  <div className="text-2xl font-bold text-slate-900">{stats.artists}</div>
-                  <div className="text-sm text-slate-600">知名作家</div>
-                </CardContent>
-              </Card>
-              <Card className="bg-white/80 backdrop-blur-sm border-red-200">
-                <CardContent className="pt-6 pb-4 text-center">
-                  <MapPin className="w-8 h-8 mx-auto mb-2 text-red-600" />
-                  <div className="text-2xl font-bold text-slate-900">{stats.regions}</div>
-                  <div className="text-sm text-slate-600">产地地区</div>
-                </CardContent>
-              </Card>
-              <Card className="bg-white/80 backdrop-blur-sm border-amber-200">
-                <CardContent className="pt-6 pb-4 text-center">
-                  <Sparkles className="w-8 h-8 mx-auto mb-2 text-amber-600" />
-                  <div className="text-2xl font-bold text-slate-900">{stats.categories}</div>
-                  <div className="text-sm text-slate-600">分类类型</div>
-                </CardContent>
-              </Card>
+            {/* Statistics Panel with Washi Aesthetic */}
+            <div className="grid grid-cols-2 md:grid-cols-4 gap-4 md:gap-6 max-w-4xl mx-auto">
+              <div className="card-zen bg-card/80 backdrop-blur-sm hover:bg-accent/5 transition-colors animate-ink-wash">
+                <div className="p-6 text-center">
+                  <BookOpen className="w-10 h-10 mx-auto mb-3 text-accent" />
+                  <div className="text-3xl font-serif font-medium text-foreground mb-1">{stats.entries}</div>
+                  <div className="text-sm text-muted-foreground">陶器条目</div>
+                </div>
+              </div>
+
+              <div className="card-zen bg-card/80 backdrop-blur-sm hover:bg-accent/5 transition-colors animate-ink-wash" style={{ animationDelay: '100ms' }}>
+                <div className="p-6 text-center">
+                  <Users className="w-10 h-10 mx-auto mb-3 text-accent" />
+                  <div className="text-3xl font-serif font-medium text-foreground mb-1">{stats.artists}</div>
+                  <div className="text-sm text-muted-foreground">知名作家</div>
+                </div>
+              </div>
+
+              <div className="card-zen bg-card/80 backdrop-blur-sm hover:bg-accent/5 transition-colors animate-ink-wash" style={{ animationDelay: '200ms' }}>
+                <div className="p-6 text-center">
+                  <MapPin className="w-10 h-10 mx-auto mb-3 text-accent" />
+                  <div className="text-3xl font-serif font-medium text-foreground mb-1">{stats.regions}</div>
+                  <div className="text-sm text-muted-foreground">产地地区</div>
+                </div>
+              </div>
+
+              <div className="card-zen bg-card/80 backdrop-blur-sm hover:bg-accent/5 transition-colors animate-ink-wash" style={{ animationDelay: '300ms' }}>
+                <div className="p-6 text-center">
+                  <Sparkles className="w-10 h-10 mx-auto mb-3 text-accent" />
+                  <div className="text-3xl font-serif font-medium text-foreground mb-1">{stats.categories}</div>
+                  <div className="text-sm text-muted-foreground">分类类型</div>
+                </div>
+              </div>
             </div>
           </div>
         </div>
       </section>
 
-      {/* 快速导航 */}
-      <section className="container mx-auto px-4 py-12">
-        <div className="grid grid-cols-1 md:grid-cols-2 gap-6 max-w-5xl mx-auto">
-          {/* 按产地浏览 */}
-          <Card className="border-2 hover:border-amber-300 transition-colors">
-            <CardHeader>
-              <CardTitle className="flex items-center gap-2">
-                <MapPin className="w-5 h-5 text-amber-600" />
-                按产地浏览
-              </CardTitle>
-            </CardHeader>
-            <CardContent>
-              <div className="space-y-2">
-                {topRegions.map(({ name, count }) => (
-                  <Link
-                    key={name}
-                    href={`/pottery?region=${encodeURIComponent(name)}`}
-                    className="flex items-center justify-between p-2 rounded-md hover:bg-amber-50 transition-colors group"
-                  >
-                    <span className="text-slate-700 group-hover:text-amber-900">
-                      {name}
-                    </span>
-                    <Badge variant="secondary" className="group-hover:bg-amber-200">
-                      {count}
-                    </Badge>
-                  </Link>
-                ))}
-              </div>
-              <Button variant="link" className="w-full mt-4 text-amber-700" asChild>
-                <Link href="/pottery">
-                  查看全部产地
-                  <ArrowRight className="w-4 h-4 ml-2" />
-                </Link>
-              </Button>
-            </CardContent>
-          </Card>
+      {/* Brush Divider */}
+      <div className="container-zen py-0">
+        <div className="divider-brush" />
+      </div>
 
-          {/* 按分类浏览 */}
-          <Card className="border-2 hover:border-orange-300 transition-colors">
-            <CardHeader>
-              <CardTitle className="flex items-center gap-2">
-                <Library className="w-5 h-5 text-orange-600" />
-                按分类浏览
-              </CardTitle>
-            </CardHeader>
-            <CardContent>
-              <div className="space-y-2">
-                {topCategories.map(({ name, count }) => (
-                  <Link
-                    key={name}
-                    href={`/pottery?category=${encodeURIComponent(name)}`}
-                    className="flex items-center justify-between p-2 rounded-md hover:bg-orange-50 transition-colors group"
-                  >
-                    <span className="text-slate-700 group-hover:text-orange-900">
-                      {name}
-                    </span>
-                    <Badge variant="secondary" className="group-hover:bg-orange-200">
-                      {count}
-                    </Badge>
-                  </Link>
-                ))}
-              </div>
-              <Button variant="link" className="w-full mt-4 text-orange-700" asChild>
-                <Link href="/pottery">
-                  查看全部分类
-                  <ArrowRight className="w-4 h-4 ml-2" />
+      {/* Quick Navigation with Zen Cards */}
+      <section className="container-zen">
+        <div className="grid grid-cols-1 md:grid-cols-2 gap-8 max-w-5xl mx-auto">
+          {/* Browse by Region */}
+          <div className="card-zen bg-sand/10 hover:bg-sand/15 animate-ink-wash">
+            <div className="mb-6">
+              <h2 className="text-2xl font-serif font-medium flex items-center gap-3 seasonal-accent">
+                <MapPin className="w-6 h-6 text-accent" />
+                按产地浏览
+              </h2>
+            </div>
+            <div className="space-y-3 mb-6">
+              {topRegions.map(({ name, count }, index) => (
+                <Link
+                  key={name}
+                  href={`/pottery?region=${encodeURIComponent(name)}`}
+                  className="flex items-center justify-between p-3 rounded-lg hover:bg-accent/10 transition-all duration-300 group hover:translate-x-1"
+                >
+                  <span className="text-foreground/90 group-hover:text-accent transition-colors">
+                    {name}
+                  </span>
+                  <Badge className="bg-accent/15 text-accent border-accent/30 group-hover:bg-accent group-hover:text-accent-foreground transition-colors">
+                    {count}
+                  </Badge>
                 </Link>
-              </Button>
-            </CardContent>
-          </Card>
+              ))}
+            </div>
+            <Link href="/pottery" className="btn-zen w-full justify-center">
+              查看全部产地
+              <ArrowRight className="w-4 h-4 ml-2" />
+            </Link>
+          </div>
+
+          {/* Browse by Category */}
+          <div className="card-zen bg-ivory/20 hover:bg-ivory/30 animate-ink-wash" style={{ animationDelay: '100ms' }}>
+            <div className="mb-6">
+              <h2 className="text-2xl font-serif font-medium flex items-center gap-3 seasonal-accent">
+                <Library className="w-6 h-6 text-accent" />
+                按分类浏览
+              </h2>
+            </div>
+            <div className="space-y-3 mb-6">
+              {topCategories.map(({ name, count }, index) => (
+                <Link
+                  key={name}
+                  href={`/pottery?category=${encodeURIComponent(name)}`}
+                  className="flex items-center justify-between p-3 rounded-lg hover:bg-accent/10 transition-all duration-300 group hover:translate-x-1"
+                >
+                  <span className="text-foreground/90 group-hover:text-accent transition-colors">
+                    {name}
+                  </span>
+                  <Badge className="bg-accent/15 text-accent border-accent/30 group-hover:bg-accent group-hover:text-accent-foreground transition-colors">
+                    {count}
+                  </Badge>
+                </Link>
+              ))}
+            </div>
+            <Link href="/pottery" className="btn-zen w-full justify-center">
+              查看全部分类
+              <ArrowRight className="w-4 h-4 ml-2" />
+            </Link>
+          </div>
         </div>
       </section>
 
-      {/* 精选内容 */}
+      {/* Brush Divider */}
+      <div className="container-zen py-0">
+        <div className="divider-brush" />
+      </div>
+
+      {/* Featured Content with Japanese Aesthetic */}
       {featuredEntries.length > 0 && (
-        <section className="container mx-auto px-4 py-12 bg-white">
-          <div className="flex items-center justify-between mb-8">
+        <section className="container-zen bg-gradient-to-b from-transparent to-sand/5 rounded-2xl">
+          <div className="flex flex-col md:flex-row items-start md:items-end justify-between mb-12 gap-4 animate-ink-wash">
             <div>
-              <h2 className="text-3xl font-bold text-slate-900 flex items-center gap-2">
-                <Sparkles className="w-8 h-8 text-amber-600" />
+              <h2 className="text-4xl md:text-5xl font-serif font-medium flex items-center gap-3 mb-3 seasonal-accent">
+                <Sparkles className="w-10 h-10 text-accent" />
                 精选推荐
               </h2>
-              <p className="text-slate-600 mt-2">编辑推荐的优质陶艺内容</p>
+              <p className="text-lg text-muted-foreground leading-relaxed">
+                编辑推荐的优质陶艺内容
+              </p>
             </div>
           </div>
-          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
-            {featuredEntries.map((entry) => (
-              <PotteryCard key={entry.id} entry={entry} />
+          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
+            {featuredEntries.map((entry, index) => (
+              <div
+                key={entry.id}
+                className="animate-ink-wash"
+                style={{ animationDelay: `${index * 100}ms` }}
+              >
+                <PotteryCard entry={entry} />
+              </div>
             ))}
           </div>
         </section>
       )}
 
-      {/* 最新添加 */}
-      <section className="container mx-auto px-4 py-12">
-        <div className="flex items-center justify-between mb-8">
+      {/* Brush Divider */}
+      <div className="container-zen py-0">
+        <div className="divider-brush" />
+      </div>
+
+      {/* Latest Additions with Zen Design */}
+      <section className="container-zen">
+        <div className="flex flex-col md:flex-row items-start md:items-end justify-between mb-12 gap-4 animate-ink-wash">
           <div>
-            <h2 className="text-3xl font-bold text-slate-900 flex items-center gap-2">
-              <TrendingUp className="w-8 h-8 text-orange-600" />
+            <h2 className="text-4xl md:text-5xl font-serif font-medium flex items-center gap-3 mb-3 seasonal-accent">
+              <TrendingUp className="w-10 h-10 text-accent" />
               最新添加
             </h2>
-            <p className="text-slate-600 mt-2">探索最近更新的陶艺条目</p>
+            <p className="text-lg text-muted-foreground leading-relaxed">
+              探索最近更新的陶艺条目
+            </p>
           </div>
-          <Button variant="outline" asChild>
-            <Link href="/pottery">
-              查看全部
-              <ArrowRight className="w-4 h-4 ml-2" />
-            </Link>
-          </Button>
+          <Link href="/pottery" className="btn-zen">
+            查看全部
+            <ArrowRight className="w-4 h-4 ml-2" />
+          </Link>
         </div>
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
-          {latestEntries.map((entry) => (
-            <PotteryCard key={entry.id} entry={entry} />
+        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
+          {latestEntries.map((entry, index) => (
+            <div
+              key={entry.id}
+              className="animate-ink-wash"
+              style={{ animationDelay: `${index * 80}ms` }}
+            >
+              <PotteryCard entry={entry} />
+            </div>
           ))}
         </div>
       </section>
 
-      {/* 快速入口 */}
-      <section className="container mx-auto px-4 py-12 mb-12">
-        <Card className="bg-gradient-to-r from-amber-50 to-orange-50 border-2 border-amber-200">
-          <CardContent className="py-8">
-            <div className="grid grid-cols-1 md:grid-cols-3 gap-6 max-w-4xl mx-auto">
+      {/* Brush Divider */}
+      <div className="container-zen py-0">
+        <div className="divider-brush" />
+      </div>
+
+      {/* Quick Entry with Washi Aesthetic */}
+      <section className="container-zen">
+        <div className="card-zen bg-gradient-to-br from-sand/20 via-ivory/30 to-sand/20 border-accent/20 animate-ink-wash">
+          <div className="p-8 md:p-12">
+            <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 max-w-6xl mx-auto">
+              <Link
+                href="/guide"
+                className="card-zen bg-card flex flex-col items-center p-8 group hover:bg-accent/5 transition-all duration-[600ms]"
+              >
+                <div className="w-20 h-20 rounded-full bg-accent/10 flex items-center justify-center mb-5 group-hover:bg-accent group-hover:scale-110 transition-all duration-[600ms]">
+                  <BookOpen className="w-10 h-10 text-accent group-hover:text-accent-foreground transition-colors" />
+                </div>
+                <h3 className="font-serif font-medium text-xl text-foreground mb-2 group-hover:text-accent transition-colors">
+                  陶艺导览
+                </h3>
+                <p className="text-sm text-muted-foreground text-center leading-relaxed">
+                  入门指南与基础知识
+                </p>
+              </Link>
+
+              <Link
+                href="/categories"
+                className="card-zen bg-card flex flex-col items-center p-8 group hover:bg-accent/5 transition-all duration-[600ms]"
+              >
+                <div className="w-20 h-20 rounded-full bg-accent/10 flex items-center justify-center mb-5 group-hover:bg-accent group-hover:scale-110 transition-all duration-[600ms]">
+                  <Library className="w-10 h-10 text-accent group-hover:text-accent-foreground transition-colors" />
+                </div>
+                <h3 className="font-serif font-medium text-xl text-foreground mb-2 group-hover:text-accent transition-colors">
+                  分类目录
+                </h3>
+                <p className="text-sm text-muted-foreground text-center leading-relaxed">
+                  按产地和类型浏览
+                </p>
+              </Link>
+
+              <Link
+                href="/techniques"
+                className="card-zen bg-card flex flex-col items-center p-8 group hover:bg-accent/5 transition-all duration-[600ms]"
+              >
+                <div className="w-20 h-20 rounded-full bg-accent/10 flex items-center justify-center mb-5 group-hover:bg-accent group-hover:scale-110 transition-all duration-[600ms]">
+                  <Sparkles className="w-10 h-10 text-accent group-hover:text-accent-foreground transition-colors" />
+                </div>
+                <h3 className="font-serif font-medium text-xl text-foreground mb-2 group-hover:text-accent transition-colors">
+                  技法百科
+                </h3>
+                <p className="text-sm text-muted-foreground text-center leading-relaxed">
+                  传统技法详细解说
+                </p>
+              </Link>
+
               <Link
                 href="/artists"
-                className="flex flex-col items-center p-6 bg-white rounded-lg hover:shadow-lg transition-all group"
+                className="card-zen bg-card flex flex-col items-center p-8 group hover:bg-accent/5 transition-all duration-[600ms]"
               >
-                <Users className="w-12 h-12 text-amber-600 mb-3 group-hover:scale-110 transition-transform" />
-                <h3 className="font-semibold text-lg text-slate-900 mb-1">
+                <div className="w-20 h-20 rounded-full bg-accent/10 flex items-center justify-center mb-5 group-hover:bg-accent group-hover:scale-110 transition-all duration-[600ms]">
+                  <Users className="w-10 h-10 text-accent group-hover:text-accent-foreground transition-colors" />
+                </div>
+                <h3 className="font-serif font-medium text-xl text-foreground mb-2 group-hover:text-accent transition-colors">
                   陶艺作家
                 </h3>
-                <p className="text-sm text-slate-600 text-center">
+                <p className="text-sm text-muted-foreground text-center leading-relaxed">
                   探索日本陶艺大师
                 </p>
               </Link>
 
               <Link
                 href="/pottery"
-                className="flex flex-col items-center p-6 bg-white rounded-lg hover:shadow-lg transition-all group"
+                className="card-zen bg-card flex flex-col items-center p-8 group hover:bg-accent/5 transition-all duration-[600ms]"
               >
-                <BookOpen className="w-12 h-12 text-orange-600 mb-3 group-hover:scale-110 transition-transform" />
-                <h3 className="font-semibold text-lg text-slate-900 mb-1">
+                <div className="w-20 h-20 rounded-full bg-accent/10 flex items-center justify-center mb-5 group-hover:bg-accent group-hover:scale-110 transition-all duration-[600ms]">
+                  <MapPin className="w-10 h-10 text-accent group-hover:text-accent-foreground transition-colors" />
+                </div>
+                <h3 className="font-serif font-medium text-xl text-foreground mb-2 group-hover:text-accent transition-colors">
                   陶器条目
                 </h3>
-                <p className="text-sm text-slate-600 text-center">
+                <p className="text-sm text-muted-foreground text-center leading-relaxed">
                   浏览所有陶艺作品
                 </p>
               </Link>
 
               <Link
                 href="/about"
-                className="flex flex-col items-center p-6 bg-white rounded-lg hover:shadow-lg transition-all group"
+                className="card-zen bg-card flex flex-col items-center p-8 group hover:bg-accent/5 transition-all duration-[600ms]"
               >
-                <Info className="w-12 h-12 text-red-600 mb-3 group-hover:scale-110 transition-transform" />
-                <h3 className="font-semibold text-lg text-slate-900 mb-1">
+                <div className="w-20 h-20 rounded-full bg-accent/10 flex items-center justify-center mb-5 group-hover:bg-accent group-hover:scale-110 transition-all duration-[600ms]">
+                  <Info className="w-10 h-10 text-accent group-hover:text-accent-foreground transition-colors" />
+                </div>
+                <h3 className="font-serif font-medium text-xl text-foreground mb-2 group-hover:text-accent transition-colors">
                   关于项目
                 </h3>
-                <p className="text-sm text-slate-600 text-center">
+                <p className="text-sm text-muted-foreground text-center leading-relaxed">
                   了解知识库详情
                 </p>
               </Link>
             </div>
-          </CardContent>
-        </Card>
+          </div>
+        </div>
       </section>
+
+      {/* Bottom Spacer - Generous Whitespace */}
+      <div className="h-24 md:h-32" />
     </div>
   )
 }

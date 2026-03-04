@@ -2,7 +2,6 @@
 
 import { useState, useEffect, useRef } from 'react'
 import { useRouter, useSearchParams } from 'next/navigation'
-import { Input } from '@/components/ui/input'
 import { Search, Loader2 } from 'lucide-react'
 
 export function SearchBar() {
@@ -14,7 +13,6 @@ export function SearchBar() {
   const [isLoadingSuggestions, setIsLoadingSuggestions] = useState(false)
   const [selectedIndex, setSelectedIndex] = useState(-1)
   const inputRef = useRef<HTMLInputElement>(null)
-  // 使用ref跟踪上一次的searchQuery值，防止在URL变化时误触发导航
   const prevSearchQueryRef = useRef(searchQuery)
 
   // 获取搜索建议
@@ -47,8 +45,6 @@ export function SearchBar() {
 
   // 防抖搜索 - 300ms 延迟
   useEffect(() => {
-    // 只有当searchQuery真正发生变化时才导航
-    // 这样可以避免在组件挂载或URL参数变化时误触发
     if (prevSearchQueryRef.current === searchQuery) {
       return
     }
@@ -64,14 +60,11 @@ export function SearchBar() {
         params.delete('search')
       }
 
-      // 重置到第一页（仅在搜索查询变化时）
       params.delete('page')
-
       router.push(`/?${params.toString()}`)
     }, 300)
 
     return () => clearTimeout(timer)
-    // 注意：这里只依赖searchQuery，不依赖searchParams，避免page变化时触发
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [searchQuery])
 
@@ -111,12 +104,17 @@ export function SearchBar() {
   }
 
   return (
-    <div className="relative w-full max-w-2xl">
-      <Search className="absolute left-3 top-1/2 -translate-y-1/2 h-5 w-5 text-slate-400 z-10" />
+    <div className="relative w-full max-w-2xl mb-6">
+      {/* Search Icon */}
+      <Search className="absolute left-4 top-1/2 -translate-y-1/2 h-5 w-5 text-muted-foreground/60 z-10" />
+
+      {/* Loading Spinner */}
       {isLoadingSuggestions && (
-        <Loader2 className="absolute right-3 top-1/2 -translate-y-1/2 h-5 w-5 text-slate-400 animate-spin z-10" />
+        <Loader2 className="absolute right-4 top-1/2 -translate-y-1/2 h-5 w-5 text-accent animate-spin z-10" />
       )}
-      <Input
+
+      {/* Search Input with Zen Styling */}
+      <input
         ref={inputRef}
         type="text"
         placeholder="搜索陶器名称、产地、关键词..."
@@ -125,29 +123,44 @@ export function SearchBar() {
         onKeyDown={handleKeyDown}
         onFocus={() => suggestions.length > 0 && setShowSuggestions(true)}
         onBlur={() => setTimeout(() => setShowSuggestions(false), 200)}
-        className="pl-10 pr-10 h-12 text-base"
+        className="input-zen pl-12 pr-12 h-14 text-base shadow-sm"
       />
 
-      {/* 搜索建议下拉列表 */}
+      {/* Search Suggestions with Ink-Wash Animation */}
       {showSuggestions && suggestions.length > 0 && (
-        <div className="absolute top-full left-0 right-0 mt-1 bg-white border rounded-lg shadow-lg z-50 max-h-60 overflow-y-auto">
+        <div className="absolute top-full left-0 right-0 mt-3 bg-card border border-border/50 rounded-xl shadow-lg z-50 max-h-72 overflow-y-auto animate-ink-wash washi-texture">
+          {/* Decorative top border accent */}
+          <div className="h-px bg-gradient-to-r from-transparent via-accent/30 to-transparent" />
+
           {suggestions.map((suggestion, index) => (
             <button
               key={index}
               type="button"
               onClick={() => handleSuggestionClick(suggestion)}
-              className={`w-full text-left px-4 py-3 hover:bg-slate-50 transition-colors ${
-                index === selectedIndex ? 'bg-slate-100' : ''
-              } ${index === 0 ? 'rounded-t-lg' : ''} ${
-                index === suggestions.length - 1 ? 'rounded-b-lg' : 'border-b'
-              }`}
+              className={`
+                w-full text-left px-5 py-4
+                transition-all duration-300 ease-out
+                hover:bg-accent/10 hover:translate-x-1
+                ${index === selectedIndex ? 'bg-accent/15 translate-x-1 border-l-2 border-accent' : ''}
+                ${index === 0 ? 'rounded-t-xl pt-5' : ''}
+                ${index === suggestions.length - 1 ? 'rounded-b-xl pb-5' : 'border-b border-border/30'}
+              `}
             >
-              <div className="flex items-center gap-2">
-                <Search className="h-4 w-4 text-slate-400" />
-                <span className="text-sm">{suggestion}</span>
+              <div className="flex items-center gap-3">
+                <Search className={`h-4 w-4 transition-colors ${
+                  index === selectedIndex ? 'text-accent' : 'text-muted-foreground/50'
+                }`} />
+                <span className={`text-sm transition-colors ${
+                  index === selectedIndex ? 'text-foreground font-medium' : 'text-foreground/80'
+                }`}>
+                  {suggestion}
+                </span>
               </div>
             </button>
           ))}
+
+          {/* Decorative bottom border accent */}
+          <div className="h-px bg-gradient-to-r from-transparent via-accent/30 to-transparent" />
         </div>
       )}
     </div>
