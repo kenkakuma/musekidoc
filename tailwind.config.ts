@@ -64,7 +64,16 @@ const config: Config = {
   				'3': 'hsl(var(--chart-3))',
   				'4': 'hsl(var(--chart-4))',
   				'5': 'hsl(var(--chart-5))'
-  			}
+  			},
+				// Notion-style Washi Paper Colors
+				'washi-white': 'var(--washi-white)',
+				'washi-cream': 'var(--washi-cream)',
+				'clay-warm': 'var(--clay-warm)',
+				'ink-light': 'var(--ink-light)',
+				'ink-medium': 'var(--ink-medium)',
+				'ink-dark': 'var(--ink-dark)',
+				'clay-terracotta': 'var(--clay-terracotta)',
+				'glaze-celadon': 'var(--glaze-celadon)',
   		}
   	}
   },

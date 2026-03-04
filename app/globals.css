@@ -24,6 +24,15 @@
     --clay-red: 18 26% 59%;        /* #B8866F 陶土红 */
     --mist-gray: 48 8% 82%;        /* #D6D1C4 雾灰 */
 
+    /* === Notion-style Washi Paper Colors === */
+    --washi-white: #faf8f3;        /* 和纸白 */
+    --clay-warm: #e8dcc8;          /* 陶土暖色 */
+    --ink-light: #9b8b7e;          /* 淡墨 */
+    --ink-medium: #6b5d52;         /* 中墨 */
+    --ink-dark: #3d3530;           /* 浓墨 */
+    --clay-terracotta: #d4a574;    /* 赤陶土 */
+    --glaze-celadon: #a8c5b0;      /* 青瓷绿 */
+
     /* === Semantic Colors for shadcn/ui === */
     --background: var(--washi-cream);
     --foreground: var(--charcoal);
@@ -269,5 +278,44 @@
   .seasonal-accent::before {
     content: '◆';
     @apply absolute -left-6 text-accent/30 text-xs;
+  }
+
+  /* Fade In Up Animation for Database Views */
+  @keyframes fadeInUp {
+    from {
+      opacity: 0;
+      transform: translateY(20px);
+    }
+    to {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+
+  /* Thin Scrollbar */
+  .scrollbar-thin::-webkit-scrollbar {
+    width: 6px;
+    height: 6px;
+  }
+
+  .scrollbar-thin::-webkit-scrollbar-track {
+    background: transparent;
+  }
+
+  .scrollbar-thin::-webkit-scrollbar-thumb {
+    background: var(--ink-light);
+    border-radius: 3px;
+  }
+
+  .scrollbar-thin::-webkit-scrollbar-thumb:hover {
+    background: var(--ink-medium);
+  }
+
+  .scrollbar-thumb-ink-light\/20::-webkit-scrollbar-thumb {
+    background: rgba(155, 139, 126, 0.2);
+  }
+
+  .scrollbar-track-transparent::-webkit-scrollbar-track {
+    background: transparent;
   }
 }
