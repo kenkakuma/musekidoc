@@ -1,0 +1,144 @@
+[
+  {
+    "slug": "kogane-akari",
+    "awards": [
+      "武藏野美术大学毕业",
+      "多治见市陶磁器意匠研究所研修"
+    ],
+    "exhibitions": [
+      {"year": 2026, "title": "光庭 ―ヒカリニワ―", "venue": "多治见市美浓烧博物馆"},
+      {"year": 2024, "title": "色化粧土作品展", "venue": "岐阜县多治见市"}
+    ],
+    "exhibitionCount": 8
+  },
+  {
+    "slug": "iwakiri-shuo",
+    "awards": [
+      "ONE KILN工作经历",
+      "2021年独立开窑"
+    ],
+    "exhibitions": [
+      {"year": 2023, "title": "个展", "venue": "东京浅草gallery白日"},
+      {"year": 2021, "title": "独立开窑纪念展", "venue": "鹿儿岛"}
+    ],
+    "exhibitionCount": 6
+  },
+  {
+    "slug": "segawa-yuta",
+    "awards": [
+      "武藏野美术大学学士",
+      "英国坎伯韦尔艺术学院硕士",
+      "伦敦陶艺周Featured Artist"
+    ],
+    "exhibitions": [
+      {"year": 2024, "title": "Ceramic Art London", "venue": "伦敦"},
+      {"year": 2023, "title": "个展", "venue": "荷兰阿姆斯特丹"},
+      {"year": 2022, "title": "个展", "venue": "迪拜"},
+      {"year": 2021, "title": "个展", "venue": "东京"},
+      {"year": 2020, "title": "个展", "venue": "中国"}
+    ],
+    "exhibitionCount": 18
+  },
+  {
+    "slug": "fukumura-ryuta",
+    "awards": [
+      "九州造形短期大学毕业",
+      "日月窑第二代传承"
+    ],
+    "exhibitions": [
+      {"year": 2025, "title": "二人展（与野口寛斎）", "venue": "福冈Artist Cafe"},
+      {"year": 2024, "title": "银釉半磁器作品展", "venue": "福冈县うきは市"}
+    ],
+    "exhibitionCount": 7
+  },
+  {
+    "slug": "sakai-tomoya",
+    "awards": [
+      "2014年第10回国际陶艺美浓竞赛入选",
+      "2017年金泽世界工艺竞赛入选",
+      "2019年金泽世界工艺竞赛入选",
+      "2020年台湾国际陶艺双年展入选",
+      "2013年西尾市美术展市长奖",
+      "NHK岐阜局长鼓励奖"
+    ],
+    "exhibitions": [
+      {"year": 2023, "title": "个展", "venue": "法国"},
+      {"year": 2022, "title": "个展", "venue": "中国"},
+      {"year": 2021, "title": "群展", "venue": "台湾"},
+      {"year": 2020, "title": "群展", "venue": "韩国"},
+      {"year": 2019, "title": "群展", "venue": "斯德哥尔摩"},
+      {"year": 2018, "title": "群展", "venue": "澳大利亚"}
+    ],
+    "exhibitionCount": 25
+  },
+  {
+    "slug": "ujiie-kodai",
+    "awards": [
+      "东北艺术工科大学毕业",
+      "第18回Paramita陶艺展入选"
+    ],
+    "exhibitions": [
+      {"year": 2024, "title": "个展", "venue": "B-OWND Gallery"},
+      {"year": 2023, "title": "个展", "venue": "纽约Ippodo Gallery"},
+      {"year": 2022, "title": "第18回Paramita陶艺展", "venue": "三重县"},
+      {"year": 2021, "title": "群展", "venue": "岐阜县多治见市"}
+    ],
+    "exhibitionCount": 12
+  },
+  {
+    "slug": "umano-shingo",
+    "awards": [
+      "德岛当地原土与天然灰釉创作",
+      "侘寂美学实践者"
+    ],
+    "exhibitions": [
+      {"year": 2024, "title": "Art on The Table精选展", "venue": "德岛县"},
+      {"year": 2023, "title": "天然灰釉作品展", "venue": "德岛县阿波市"}
+    ],
+    "exhibitionCount": 8
+  },
+  {
+    "slug": "kurihara-kaori",
+    "awards": [
+      "京都精华大学艺术学部毕业",
+      "巴黎常驻艺术家"
+    ],
+    "exhibitions": [
+      {"year": 2024, "title": "Les Journées de la céramique", "venue": "巴黎"},
+      {"year": 2023, "title": "陶艺展", "venue": "法国南部"},
+      {"year": 2022, "title": "陶艺展", "venue": "瑞士"}
+    ],
+    "exhibitionCount": 10
+  },
+  {
+    "slug": "shuno-maki",
+    "awards": [
+      "多摩美术大学工艺学科毕业",
+      "2019年移居京都南丹市",
+      "'家具与陶瓷Yagatte'主理人"
+    ],
+    "exhibitions": [
+      {"year": 2024, "title": "器物与雕塑二人展", "venue": "京都南丹市"},
+      {"year": 2023, "title": "功能性器皿展", "venue": "京都"},
+      {"year": 2022, "title": "雕塑作品展", "venue": "京都"}
+    ],
+    "exhibitionCount": 9
+  },
+  {
+    "slug": "ishida-kazuya",
+    "awards": [
+      "师从人间国宝伊势崎淳",
+      "菊池双年展鼓励奖",
+      "日本传统工艺展首次入选",
+      "牛津大学穴窑计划首席驻场陶艺家",
+      "独创'螺法'（Rahou）技术"
+    ],
+    "exhibitions": [
+      {"year": 2024, "title": "自然磁器新作展", "venue": "冈山县备前市"},
+      {"year": 2023, "title": "牛津大学穴窑计划展", "venue": "英国牛津"},
+      {"year": 2022, "title": "日本传统工艺展", "venue": "东京"},
+      {"year": 2021, "title": "菊池双年展", "venue": "日本"}
+    ],
+    "exhibitionCount": 15
+  }
+]

@@ -1,0 +1,75 @@
+[
+  {
+    "slug": "yoshikawa-yuko",
+    "awards": [
+      "1990年武藏野美术大学短期大学部空间演出设计科毕业",
+      "意大利工艺学习经历（1995-1999）",
+      "陶制灯光艺术创作者"
+    ],
+    "exhibitions": [
+      {"year": 2026, "title": "个展巡回", "venue": "大阪高槻、东京国分寺、台湾台北、东京国立"},
+      {"year": 2025, "title": "个展", "venue": "东京"},
+      {"year": 2024, "title": "个展", "venue": "日本"}
+    ],
+    "exhibitionCount": 20
+  },
+  {
+    "slug": "ishihara-yukie",
+    "awards": [
+      "1997年爱知县立窑业高等技术专门校修了",
+      "2007年在爱知县津岛市筑窑",
+      "使用信乐土创作",
+      "简洁线条与柔和风格"
+    ],
+    "exhibitions": [
+      {"year": 2024, "title": "个展", "venue": "爱知县"},
+      {"year": 2023, "title": "企画展", "venue": "日本各地"},
+      {"year": 2022, "title": "工艺展", "venue": "名古屋"}
+    ],
+    "exhibitionCount": 15
+  },
+  {
+    "slug": "torii-miki",
+    "awards": [
+      "2022年第6回First Patronage Program入选",
+      "陶艺雕塑与功能器皿创作"
+    ],
+    "exhibitions": [
+      {"year": 2022, "title": "First Patronage Program展", "venue": "日本"},
+      {"year": 2023, "title": "群展", "venue": "k-and-a-so-co画廊"}
+    ],
+    "exhibitionCount": 8
+  },
+  {
+    "slug": "kaketani-yasuki",
+    "awards": [
+      "1992年玉川大学艺术学科陶艺专攻毕业",
+      "1998年惣堂窑设立",
+      "2002年日本工艺设计协会正会员",
+      "2006年朝日现代工艺展招待出品",
+      "2006年日本民艺馆展初入选",
+      "练上技法专家"
+    ],
+    "exhibitions": [
+      {"year": 2026, "title": "惣堂窑 掛谷康树 练上的器", "venue": "东京世田谷工艺喜頓"},
+      {"year": 1999, "title": "初个展", "venue": "福山"},
+      {"year": 2024, "title": "各地个展群展", "venue": "日本全国"}
+    ],
+    "exhibitionCount": 30
+  },
+  {
+    "slug": "ando-masanobu",
+    "awards": [
+      "知名陶艺家、雕塑家、茶道师",
+      "Galerie Momogusa画廊主理人",
+      "制作超过1000种标准餐具",
+      "华语世界粉丝最多的日本陶艺家之一"
+    ],
+    "exhibitions": [
+      {"year": 2024, "title": "Nao Masaki画廊展", "venue": "国际"},
+      {"year": 2023, "title": "Galerie Momogusa展", "venue": "岐阜县美浓"},
+      {"year": 2022, "title": "越后妻有艺术节", "venue": "新潟县"}
+    ],
+    "exhibitionCount": 35
+  }
+]
