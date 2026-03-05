@@ -6,6 +6,42 @@ import Image from 'next/image'
 import Link from 'next/link'
 import { ExternalLink, Award, Calendar, MapPin, Palette } from 'lucide-react'
 
+function normalizeStringList(value: unknown): string[] {
+  if (!Array.isArray(value)) return []
+
+  return value
+    .map((item) => {
+      if (typeof item === 'string') return item.trim()
+      if (typeof item === 'number') return String(item)
+      return ''
+    })
+    .filter((item) => item.length > 0)
+}
+
+function normalizeExhibitions(value: unknown): string[] {
+  if (!Array.isArray(value)) return []
+
+  return value
+    .map((item) => {
+      if (typeof item === 'string') return item.trim()
+
+      if (item && typeof item === 'object') {
+        const record = item as { year?: unknown; title?: unknown; venue?: unknown }
+        const year =
+          typeof record.year === 'number' || typeof record.year === 'string'
+            ? String(record.year).trim()
+            : ''
+        const title = typeof record.title === 'string' ? record.title.trim() : ''
+        const venue = typeof record.venue === 'string' ? record.venue.trim() : ''
+
+        return [year, title, venue].filter(Boolean).join(' · ')
+      }
+
+      return ''
+    })
+    .filter((item) => item.length > 0)
+}
+
 async function getArtist(slug: string) {
   const artist = await prisma.artist.findUnique({
     where: { slug, published: true },
@@ -40,6 +76,8 @@ export default async function ArtistDetailPage({
   params: { slug: string }
 }) {
   const artist = await getArtist(params.slug)
+  const awards = normalizeStringList(artist.awards)
+  const exhibitions = normalizeExhibitions(artist.exhibitions)
 
   return (
     <NotionLayout>
@@ -160,14 +198,14 @@ export default async function ArtistDetailPage({
       </div>
 
       {/* Awards */}
-      {artist.awards && artist.awards.length > 0 && (
+      {awards.length > 0 && (
         <div className="mb-12">
           <h2 className="font-serif text-2xl text-ink-dark mb-6 flex items-center gap-3">
             <Award className="w-6 h-6 text-clay-terracotta" />
             荣誉与奖项
           </h2>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
-            {(artist.awards as string[]).map((award, index) => (
+            {awards.map((award, index) => (
               <div
                 key={index}
                 className="p-4 bg-white/60 border border-ink-light/20 rounded-lg"
@@ -180,14 +218,14 @@ export default async function ArtistDetailPage({
       )}
 
       {/* Exhibitions */}
-      {artist.exhibitions && artist.exhibitions.length > 0 && (
+      {exhibitions.length > 0 && (
         <div className="mb-12">
           <h2 className="font-serif text-2xl text-ink-dark mb-6 flex items-center gap-3">
             <div className="w-1.5 h-6 bg-clay-terracotta rounded-full" />
             展览记录
           </h2>
           <div className="space-y-3">
-            {(artist.exhibitions as string[]).map((exhibition, index) => (
+            {exhibitions.map((exhibition, index) => (
               <div
                 key={index}
                 className="p-4 bg-white/60 border border-ink-light/20 rounded-lg hover:border-clay-terracotta/30 transition-colors"
