@@ -8,7 +8,7 @@
     "region": "日本",
     "type": "陶艺术语",
     "positioning": "日本陶艺鉴赏核心术语，指烧制中自然形成的美学特征",
-    "description": "景色（けしき）在日语中原意为风景、景观，但在陶艺术语中有特殊含义。在陶瓷特别是茶具的鉴赏中，景色指的是视觉上引人注目的区域，包括意外的变化如釉药流淌（たれ）、窑变（ようへん）和纹理等。更具体地说，景色用于指釉药施用或熔化方式所创造的视觉独特区域，以及由烧制条件（如烧痕或火焰痕迹）导致的外观变化。这些并非人为刻意制造，而是火与土、偶然与必然交织的自然产物。优秀的景色可以大大提升器物的美学价值和收藏价值，茶道中尤其重视茶碗上自然形成的景色，认为这是天地造化的艺术。景色体现了日本美学中对自然、偶然和不可预测之美的推崇，是侘寂美学的重要体现。每一件茶碗的景色都是独一无二的，无法复制，这也是手工陶艺的魅力所在。",
+    "description": "景色在陶艺与茶道中并非单指“好看”，而是指器物在烧成、施釉、使用过程中形成的可供观赏与玩味的局部表情。它可能来自釉流、火痕、落灰、窑变、土裂、贯入，甚至长期使用后的渗色与磨耗。与刻意装饰不同，景色强调偶然性与时间性，是火与材料共同留下的痕迹。茶人看景色，会同时观察见込、胴部、口缘、高台周围等部位，判断其是否与器形气质呼应。日本陶艺审美之所以重视景色，是因为它承认器物不是静态设计品，而是经历生成过程后留下的“事件痕迹”，这正是侘寂与用之美的交汇处。",
     "signatureFeatures": [
       "釉药自然流淌形成的纹理",
       "窑变产生的色彩变化",
@@ -16,9 +16,26 @@
       "不可复制的独特性",
       "侘寂美学的体现"
     ],
-    "keywords": ["景色", "keshiki", "窑变", "釉药", "茶道", "自然美", "偶然性", "火痕"],
-    "notableArtists": [],
-    "representativeForms": ["茶碗", "茶入", "花入"],
+    "keywords": [
+      "景色",
+      "keshiki",
+      "窑变",
+      "釉药",
+      "茶道",
+      "自然美",
+      "偶然性",
+      "火痕"
+    ],
+    "notableArtists": [
+      "金重陶陽",
+      "石田和也",
+      "遠藤岳"
+    ],
+    "representativeForms": [
+      "茶碗",
+      "茶入",
+      "花入"
+    ],
     "sources": [
       {
         "title": "陶芸用語集 | 景色（けしき）",
@@ -29,6 +46,11 @@
         "title": "景色(ケシキ)とは？",
         "url": "https://kotobank.jp/word/%E6%99%AF%E8%89%B2-488813",
         "type": "词典"
+      },
+      {
+        "title": "陶器の日 用語辞典",
+        "url": "https://yakimono.or.jp/information/glossary",
+        "type": "协会资料"
       }
     ],
     "published": true
@@ -50,9 +72,26 @@
       "鉴赏的重要部位",
       "体现工匠技艺"
     ],
-    "keywords": ["高台", "kodai", "足圈", "茶碗底部", "器物结构", "鉴赏", "工艺", "窑印"],
-    "notableArtists": [],
-    "representativeForms": ["茶碗", "盏", "碗"],
+    "keywords": [
+      "高台",
+      "kodai",
+      "足圈",
+      "茶碗底部",
+      "器物结构",
+      "鉴赏",
+      "工艺",
+      "窑印"
+    ],
+    "notableArtists": [
+      "長次郎",
+      "鈴木藏",
+      "市野雅彦"
+    ],
+    "representativeForms": [
+      "茶碗",
+      "盏",
+      "碗"
+    ],
     "sources": [
       {
         "title": "茶碗の高台とは？—器の美しさと機能を支える縁の下の力持ち",
@@ -63,6 +102,11 @@
         "title": "高台 (容器) - Wikipedia",
         "url": "https://ja.wikipedia.org/wiki/%E9%AB%98%E5%8F%B0_(%E5%AE%B9%E5%99%A8)",
         "type": "百科"
+      },
+      {
+        "title": "陶器の日 用語辞典",
+        "url": "https://yakimono.or.jp/information/glossary",
+        "type": "协会资料"
       }
     ],
     "published": true
@@ -84,9 +128,26 @@
       "包含茶溜部分",
       "影响品茶体验"
     ],
-    "keywords": ["见込", "mikomi", "茶碗内部", "茶溜", "鉴赏", "釉色", "天目", "内侧"],
-    "notableArtists": [],
-    "representativeForms": ["茶碗", "天目", "井户茶碗"],
+    "keywords": [
+      "见込",
+      "mikomi",
+      "茶碗内部",
+      "茶溜",
+      "鉴赏",
+      "釉色",
+      "天目",
+      "内侧"
+    ],
+    "notableArtists": [
+      "長次郎",
+      "林恭助",
+      "井上萬二"
+    ],
+    "representativeForms": [
+      "茶碗",
+      "天目",
+      "井户茶碗"
+    ],
     "sources": [
       {
         "title": "陶芸用語集 | 見込（みこみ）",
@@ -97,6 +158,11 @@
         "title": "見込みとは？-困った時にパッと見れる【骨董品用語一覧】",
         "url": "https://maruo-kodogu.com/yougo/mikomi/",
         "type": "鉴赏指南"
+      },
+      {
+        "title": "陶器の日 用語辞典",
+        "url": "https://yakimono.or.jp/information/glossary",
+        "type": "协会资料"
       }
     ],
     "published": true
@@ -118,9 +184,26 @@
       "茶道鉴赏重点",
       "流派风格的体现"
     ],
-    "keywords": ["口造", "kuchizukuri", "口缘", "口部", "茶碗", "口感", "玉缘", "造型"],
-    "notableArtists": [],
-    "representativeForms": ["茶碗", "酒器", "汤吞"],
+    "keywords": [
+      "口造",
+      "kuchizukuri",
+      "口缘",
+      "口部",
+      "茶碗",
+      "口感",
+      "玉缘",
+      "造型"
+    ],
+    "notableArtists": [
+      "樂吉左衛門",
+      "十五代酒井田柿右衛門",
+      "市野雅彦"
+    ],
+    "representativeForms": [
+      "茶碗",
+      "酒器",
+      "汤吞"
+    ],
     "sources": [
       {
         "title": "陶器の口造り",
@@ -131,6 +214,11 @@
         "title": "陶芸用語集 | 口縁（こうえん）",
         "url": "http://www.tougeishop.com/glossary/p2138.php",
         "type": "术语词典"
+      },
+      {
+        "title": "陶器の日 用語辞典",
+        "url": "https://yakimono.or.jp/information/glossary",
+        "type": "协会资料"
       }
     ],
     "published": true
@@ -152,9 +240,26 @@
       "形成独特纹理",
       "体现工匠个人风格"
     ],
-    "keywords": ["削制", "kezuri", "削り", "高台", "鎬", "修整", "装饰", "工艺"],
-    "notableArtists": [],
-    "representativeForms": ["茶碗", "鎬纹器物", "陶器"],
+    "keywords": [
+      "削制",
+      "kezuri",
+      "削り",
+      "高台",
+      "鎬",
+      "修整",
+      "装饰",
+      "工艺"
+    ],
+    "notableArtists": [
+      "片瀬和宏",
+      "竹内真吾",
+      "橋本知成"
+    ],
+    "representativeForms": [
+      "茶碗",
+      "鎬纹器物",
+      "陶器"
+    ],
     "sources": [
       {
         "title": "削り陶芸体验",
@@ -165,6 +270,11 @@
         "title": "鎬（しのぎ）の技法",
         "url": "https://touroji.com/technique/shinoginogihou.html",
         "type": "技法解析"
+      },
+      {
+        "title": "陶器の日 用語辞典",
+        "url": "https://yakimono.or.jp/information/glossary",
+        "type": "协会资料"
       }
     ],
     "published": true
@@ -186,9 +296,26 @@
       "影响最终烧制效果",
       "需要精湛技艺"
     ],
-    "keywords": ["施釉", "seyuu", "上釉", "釉药", "釉掛け", "浸釉", "装饰", "保护"],
-    "notableArtists": [],
-    "representativeForms": ["施釉陶器", "彩瓷", "釉陶"],
+    "keywords": [
+      "施釉",
+      "seyuu",
+      "上釉",
+      "釉药",
+      "釉掛け",
+      "浸釉",
+      "装饰",
+      "保护"
+    ],
+    "notableArtists": [
+      "近藤悠三",
+      "三浦小平二",
+      "今泉今右衛門"
+    ],
+    "representativeForms": [
+      "施釉陶器",
+      "彩瓷",
+      "釉陶"
+    ],
     "sources": [
       {
         "title": "陶芸用語集 | 施釉（せゆう）",
@@ -199,6 +326,11 @@
         "title": "施釉（せゆう）について",
         "url": "https://marushin-pottery.jp/2023/01/20/795/",
         "type": "技法解说"
+      },
+      {
+        "title": "萩陶芸家協会 萩焼ができるまで",
+        "url": "https://hagi-tougei.com/hagiyaki_about/until/",
+        "type": "协会资料"
       }
     ],
     "published": true
@@ -220,9 +352,25 @@
       "增加坯体强度",
       "便于后续施釉"
     ],
-    "keywords": ["素烧", "suyaki", "bisque firing", "第一次烧", "素地", "预烧", "低温", "坯体"],
-    "notableArtists": [],
-    "representativeForms": ["陶器", "瓷器"],
+    "keywords": [
+      "素烧",
+      "suyaki",
+      "bisque firing",
+      "第一次烧",
+      "素地",
+      "预烧",
+      "低温",
+      "坯体"
+    ],
+    "notableArtists": [
+      "井上萬二",
+      "今泉今右衛門",
+      "下村淳"
+    ],
+    "representativeForms": [
+      "陶器",
+      "瓷器"
+    ],
     "sources": [
       {
         "title": "素焼き - Wikipedia",
@@ -233,6 +381,11 @@
         "title": "素烧，是优质瓷器的必经之路",
         "url": "https://zhuanlan.zhihu.com/p/42082940",
         "type": "技术文章"
+      },
+      {
+        "title": "コトバンク 素焼き",
+        "url": "https://kotobank.jp/word/%E7%B4%A0%E7%84%BC%E3%81%8D-768104",
+        "type": "辞书"
       }
     ],
     "published": true
@@ -254,9 +407,26 @@
       "决定最终品质",
       "产生窑变景色"
     ],
-    "keywords": ["本烧", "honyaki", "glaze firing", "高温烧", "窑烧", "最终烧", "窑变", "釉熔"],
-    "notableArtists": [],
-    "representativeForms": ["陶器", "瓷器", "釉陶"],
+    "keywords": [
+      "本烧",
+      "honyaki",
+      "glaze firing",
+      "高温烧",
+      "窑烧",
+      "最终烧",
+      "窑变",
+      "釉熔"
+    ],
+    "notableArtists": [
+      "鈴木藏",
+      "林恭助",
+      "徳田八十吉"
+    ],
+    "representativeForms": [
+      "陶器",
+      "瓷器",
+      "釉陶"
+    ],
     "sources": [
       {
         "title": "火烧三味，一文读懂瓷器的烧制全过程",
@@ -267,6 +437,11 @@
         "title": "陶瓷的九种烧成方法",
         "url": "https://www.sohu.com/a/162022379_488712",
         "type": "工艺介绍"
+      },
+      {
+        "title": "Kogei Japonica Media 伝統工芸品用語全集",
+        "url": "https://kogei-japonica.com/media/feature/glossary/",
+        "type": "工艺媒体"
       }
     ],
     "published": true
@@ -280,7 +455,7 @@
     "region": "日本",
     "type": "陶艺术语",
     "positioning": "烧制过程中的偶然变化，形成独特釉色和纹理",
-    "description": "窑变（ようへん）是指陶瓷在高温烧制过程中，由于窑内温度、气氛、釉料成分等因素的不可预测变化，使釉面呈现出意想不到的色彩、纹理和光泽效果。窑变是火与土、偶然与必然相结合的产物，每一次窑变都是独一无二的，无法精确复制。窑变的形成受多种因素影响：窑内不同位置的温度差异、氧化焰或还原焰的气氛变化、釉料中微量元素的反应、柴灰落在器物上的化学作用等。著名的窑变作品如曜变天目、油滴天目、兔毫盏等，都是因窑变而产生的珍贵器物。在日本美学中，窑变被视为天赐之美，体现了'无常'的哲学思想和对自然力量的敬畏。现代陶艺家虽然可以通过控制一些变量来增加窑变的概率，但仍然无法完全掌控最终效果，这种不确定性正是窑变的魅力所在。窑变作品往往价值不菲，因为其独特性和稀有性。",
+    "description": "窑变是指陶瓷在高温烧成中因温度梯度、局部气氛、釉层厚薄、灰落与冷却曲线变化而自然出现的非完全可控表情。它并不只是“颜色意外变化”，还包括结晶、光泽、晕染、边界扩散和局部失透等复杂结果。茶碗、花器与无釉高火陶最重视窑变，因为这些器类能充分显露火路与窑位的差异。日本审美把窑变视作人力控制与自然介入之间的共作，因此即便现代窑炉能精确设定曲线，优秀作家仍把它当作与材料对话的结果，而非单纯的特效。曜变天目、油滴天目、薪窑灰被与天目结晶，都是窑变价值的典型体现。",
     "signatureFeatures": [
       "烧制中的偶然变化",
       "独特不可复制",
@@ -288,14 +463,52 @@
       "体现无常之美",
       "形成珍贵景色"
     ],
-    "keywords": ["窑变", "youhen", "曜变", "天目", "釉色", "偶然", "景色", "独特性"],
-    "notableArtists": [],
-    "representativeForms": ["曜变天目", "油滴天目", "兔毫盏", "柴烧"],
+    "keywords": [
+      "窑变",
+      "youhen",
+      "曜变",
+      "天目",
+      "釉色",
+      "偶然",
+      "景色",
+      "独特性"
+    ],
+    "notableArtists": [
+      "林恭助",
+      "桑田卓郎",
+      "遠藤岳"
+    ],
+    "representativeForms": [
+      "曜变天目",
+      "油滴天目",
+      "兔毫盏",
+      "柴烧"
+    ],
     "sources": [
       {
-        "title": "陶芸用語集 | 景色（けしき）",
+        "title": "陶芸用語集 景色",
         "url": "http://www.tougeishop.com/glossary/p2126.php",
         "type": "术语解释"
+      },
+      {
+        "title": "文化遺産オンライン 耀変天目",
+        "url": "https://bunka.nii.ac.jp/heritages/detail/144254",
+        "type": "官方资料"
+      },
+      {
+        "title": "文化遺産オンライン 玳玻天目茶碗",
+        "url": "https://bunka.nii.ac.jp/heritages/detail/77352",
+        "type": "官方资料"
+      },
+      {
+        "title": "Art Platform Japan 油滴天目",
+        "url": "https://artplatform.go.jp/ja/collections/W509352",
+        "type": "官方资料"
+      },
+      {
+        "title": "陶器の日 用語辞典",
+        "url": "https://yakimono.or.jp/information/glossary",
+        "type": "协会资料"
       }
     ],
     "published": true
@@ -317,9 +530,28 @@
       "季节性命名传统",
       "体现文化修养"
     ],
-    "keywords": ["銘", "mei", "命名", "茶道具", "茶碗", "茶杓", "季语", "禅语", "和歌"],
-    "notableArtists": [],
-    "representativeForms": ["茶碗", "茶杓", "茶入", "花入"],
+    "keywords": [
+      "銘",
+      "mei",
+      "命名",
+      "茶道具",
+      "茶碗",
+      "茶杓",
+      "季语",
+      "禅语",
+      "和歌"
+    ],
+    "notableArtists": [
+      "長次郎",
+      "本阿弥光悦",
+      "樂吉左衛門"
+    ],
+    "representativeForms": [
+      "茶碗",
+      "茶杓",
+      "茶入",
+      "花入"
+    ],
     "sources": [
       {
         "title": "茶道具にみる 銘(めい)の趣き",
@@ -330,6 +562,11 @@
         "title": "月別 茶杓の銘一覧",
         "url": "https://wabunka.riverf.com/chasyaku-name",
         "type": "名录"
+      },
+      {
+        "title": "陶器の日 用語辞典",
+        "url": "https://yakimono.or.jp/information/glossary",
+        "type": "协会资料"
       }
     ],
     "published": true
