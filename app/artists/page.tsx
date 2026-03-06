@@ -75,19 +75,19 @@ export default async function ArtistsPage({
       <div className="mb-8 flex items-center gap-3">
         <span className="font-serif text-sm text-ink-light">排序：</span>
         <div className="flex gap-2">
-          <SortButton href="/notion/artists?sort=name-asc" active={searchParams.sort === 'name-asc'}>
+          <SortButton href="/artists?sort=name-asc" active={searchParams.sort === 'name-asc'}>
             姓名 ↑
           </SortButton>
-          <SortButton href="/notion/artists?sort=name-desc" active={searchParams.sort === 'name-desc'}>
+          <SortButton href="/artists?sort=name-desc" active={searchParams.sort === 'name-desc'}>
             姓名 ↓
           </SortButton>
-          <SortButton href="/notion/artists?sort=birth-asc" active={searchParams.sort === 'birth-asc'}>
+          <SortButton href="/artists?sort=birth-asc" active={searchParams.sort === 'birth-asc'}>
             出生年份 ↑
           </SortButton>
-          <SortButton href="/notion/artists?sort=birth-desc" active={searchParams.sort === 'birth-desc'}>
+          <SortButton href="/artists?sort=birth-desc" active={searchParams.sort === 'birth-desc'}>
             出生年份 ↓
           </SortButton>
-          <SortButton href="/notion/artists" active={!searchParams.sort}>
+          <SortButton href="/artists" active={!searchParams.sort}>
             最新添加
           </SortButton>
         </div>
@@ -99,7 +99,7 @@ export default async function ArtistsPage({
           {artists.map((artist, index) => (
             <Link
               key={artist.id}
-              href={`/notion/artists/${artist.slug}`}
+              href={`/artists/${artist.slug}`}
               className="group block"
               style={{
                 animation: 'fadeInUp 0.5s ease-out forwards',

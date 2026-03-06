@@ -41,9 +41,9 @@ export default async function PotteryDetailPage({
       {/* Breadcrumb */}
       <NotionBreadcrumb
         items={[
-          { label: '陶器条目', labelJa: '陶器', href: '/notion/pottery' },
+          { label: '陶器条目', labelJa: '陶器', href: '/pottery' },
           ...(entry.category
-            ? [{ label: entry.category.split('/')[0], href: `/notion/pottery?category=${entry.category.split('/')[0]}` }]
+            ? [{ label: entry.category.split('/')[0], href: `/pottery?category=${entry.category.split('/')[0]}` }]
             : []),
           { label: entry.nameZh, labelJa: entry.nameJa || undefined },
         ]}
@@ -146,7 +146,7 @@ export default async function PotteryDetailPage({
           {entry.artist && (
             <InfoCard icon={<User className="w-5 h-5" />} title="相关作家">
               <Link
-                href={`/notion/artists/${entry.artist.slug}`}
+                href={`/artists/${entry.artist.slug}`}
                 className="flex items-center gap-3 group"
               >
                 {entry.artist.avatar ? (

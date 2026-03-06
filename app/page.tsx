@@ -112,7 +112,7 @@ export default async function NotionHomePage() {
         </a>
 
         <a
-          href="/notion/artists"
+          href="/artists"
           className="group p-8 bg-gradient-to-br from-white/60 to-clay-warm/20 border border-ink-light/20 rounded-xl hover:shadow-xl hover:border-clay-terracotta/30 transition-all duration-300"
         >
           <div className="font-serif text-4xl mb-3 text-ink-dark group-hover:text-clay-terracotta transition-colors">

@@ -84,7 +84,7 @@ export default async function ArtistDetailPage({
       {/* Breadcrumb */}
       <NotionBreadcrumb
         items={[
-          { label: '陶艺作家', labelJa: '陶芸作家', href: '/notion/artists' },
+          { label: '陶艺作家', labelJa: '陶芸作家', href: '/artists' },
           { label: artist.nameZh, labelJa: artist.nameJa || undefined },
         ]}
       />

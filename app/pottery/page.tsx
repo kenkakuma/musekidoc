@@ -71,7 +71,7 @@ export default async function PotteryDatabasePage({
       {/* Breadcrumb */}
       <NotionBreadcrumb
         items={[
-          { label: '陶器条目', labelJa: '陶器', href: '/notion/pottery' },
+          { label: '陶器条目', labelJa: '陶器', href: '/pottery' },
           ...(searchParams.category ? [{ label: searchParams.category }] : []),
         ]}
       />
