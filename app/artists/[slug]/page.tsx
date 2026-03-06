@@ -139,11 +139,61 @@ export default async function ArtistDetailPage({
                 </div>
               )}
 
-              {artist.region && (
+              {artist.kilnName && (
+                <div className="flex items-start gap-3">
+                  <span className="text-lg mt-0.5">🏺</span>
+                  <div>
+                    <div className="font-serif text-xs text-ink-light mb-1">窑名</div>
+                    <div className="font-serif text-sm text-ink-dark">
+                      {artist.kilnName}
+                    </div>
+                  </div>
+                </div>
+              )}
+
+              {artist.studioName && (
+                <div className="flex items-start gap-3">
+                  <span className="text-lg mt-0.5">🏠</span>
+                  <div>
+                    <div className="font-serif text-xs text-ink-light mb-1">工作室</div>
+                    <div className="font-serif text-sm text-ink-dark">
+                      {artist.studioName}
+                    </div>
+                  </div>
+                </div>
+              )}
+
+              {artist.locationPrefecture && (
                 <div className="flex items-start gap-3">
                   <MapPin className="w-5 h-5 text-ink-light mt-0.5" />
                   <div>
-                    <div className="font-serif text-xs text-ink-light mb-1">地区</div>
+                    <div className="font-serif text-xs text-ink-light mb-1">所在地</div>
+                    <div className="font-serif text-sm text-ink-dark">
+                      {artist.locationPrefecture}
+                      {artist.locationCity && artist.locationCity !== artist.locationPrefecture && ` ${artist.locationCity}`}
+                      {artist.locationArea && artist.locationArea !== artist.locationCity && artist.locationArea !== artist.locationPrefecture && ` ${artist.locationArea}`}
+                    </div>
+                  </div>
+                </div>
+              )}
+
+              {artist.kilnType && (
+                <div className="flex items-start gap-3">
+                  <span className="text-lg mt-0.5">🔥</span>
+                  <div>
+                    <div className="font-serif text-xs text-ink-light mb-1">窑类型</div>
+                    <div className="font-serif text-sm text-ink-dark">
+                      {artist.kilnType}
+                    </div>
+                  </div>
+                </div>
+              )}
+
+              {artist.region && (
+                <div className="flex items-start gap-3">
+                  <Palette className="w-5 h-5 text-ink-light mt-0.5" />
+                  <div>
+                    <div className="font-serif text-xs text-ink-light mb-1">产地</div>
                     <div className="font-serif text-sm text-ink-dark">
                       {artist.region}
                     </div>

@@ -83,6 +83,8 @@ export interface ArtistData {
   bio: string
   birthYear?: number | null
   deathYear?: number | null
+  region?: string | null
+  style?: string | null
   instagramHandle?: string | null
   instagramFollowers?: number | null
   websiteUrl?: string | null
@@ -90,6 +92,12 @@ export interface ArtistData {
   avgPriceRange?: string | null
   avatar?: string | null
   images?: ImageAsset[]
+  kilnName?: string | null
+  studioName?: string | null
+  locationPrefecture?: string | null
+  locationCity?: string | null
+  locationArea?: string | null
+  kilnType?: string | null
   published: boolean
   createdAt: Date
   updatedAt: Date

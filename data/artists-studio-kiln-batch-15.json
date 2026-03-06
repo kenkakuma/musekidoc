@@ -1,0 +1,97 @@
+[
+  {
+    "slug": "maeda-akihiro",
+    "kilnName": "やなせ窯",
+    "studioName": "Yanase Kiln",
+    "locationPrefecture": "鳥取県",
+    "locationCity": "鳥取市",
+    "locationArea": "河原町",
+    "kilnType": "白磁窯",
+    "studioInfo": {
+      "birthYear": 1954,
+      "birthMonth": 5,
+      "birthDay": 1,
+      "birthplace": "鳥取県",
+      "education": "1977年大阪芸術大学工芸学科卒業",
+      "established": "1977年在自宅建造やなせ窯开始创作",
+      "recognition": "2013年白磁重要無形文化財保持者（人間国宝）认定",
+      "specialty": "白磁制作",
+      "philosophy": "以山陰雪的白色为灵感，创造冷暖兼具、湿润感的白色",
+      "international": "作品收藏于瑞士Ariana美术馆、韩国利川世界陶瓷中心、英国大英博物馆"
+    }
+  },
+  {
+    "slug": "imaizumi-imaemon",
+    "kilnName": "今右衛門窯",
+    "studioName": "Imaemon Kiln",
+    "locationPrefecture": "佐賀県",
+    "locationCity": "西松浦郡有田町",
+    "locationArea": "有田",
+    "kilnType": "色絵磁器窯",
+    "studioInfo": {
+      "history": "江戸时代至今370年历史传统窯元",
+      "generation": "十四代今泉今右衛門（现任）",
+      "address": "佐賀県西松浦郡有田町赤絵町2-1-15",
+      "specialty": "色鍋島（Iro-Nabeshima）技法，江户时代鍋島藩向将军家献上品的御用赤絵師传承",
+      "recognition": "国家重要無形文化財保持团体",
+      "technique": "全工序自社完成：轆轤、染付线描·浓、釉药、窯焚等",
+      "evaluation": "日本磁器最高峰，国际高度评价",
+      "website": "imaemon.co.jp"
+    }
+  },
+  {
+    "slug": "tokuda-yasokichi",
+    "kilnName": "徳田八十吉窯",
+    "studioName": "Tokuda Yasokichi Kiln",
+    "locationPrefecture": "石川県",
+    "locationCity": "小松市",
+    "locationArea": "金平町",
+    "kilnType": "九谷焼窯",
+    "studioInfo": {
+      "generations": "四代传承（1873年至今）",
+      "thirdGeneration": "三代（1933-2009）Living National Treasure, 1997年认定，创造燿彩技法",
+      "fourthGeneration": "四代（1961年生）三代长女，2010年继承名号",
+      "address": "石川県小松市金平町新五字",
+      "technique": "燿彩技法（yōsai）- 古九谷五彩中四色结合创造新表现",
+      "fourthEducation": "青山学院女子短期大学毕业，NHK金泽放送台主播，1990年石川県立九谷焼技術研修所毕业",
+      "international": "三代致力于九谷焼国际传播"
+    }
+  },
+  {
+    "slug": "shibuya-eiichi",
+    "kilnName": "御台場窯",
+    "studioName": "Odaiba-gama",
+    "locationPrefecture": "山口県",
+    "locationCity": "萩市",
+    "locationArea": "明木",
+    "kilnType": "萩焼窯",
+    "studioInfo": {
+      "birthYear": 1979,
+      "training": "25-29岁师从祖父学习萩焼传统技法（练土与白萩）",
+      "address": "山口県萩市明木2856-4",
+      "awards": "2011年第30回長三賞記念大賞，2016年「陶の造形」萩大賞IV大賞，2018年第5回陶芸作品展最高賞（日本陶芸学会賞）及山口県芸術文化振興奖励賞",
+      "series": "2020年1月开始全面创作「地の器」系列食器",
+      "style": "不拘泥传统框架的独特表现，赋予现代造型时间感",
+      "instagram": "@eiichi.shibuya"
+    }
+  },
+  {
+    "slug": "mishima-kimiyo",
+    "kilnName": "三島喜美代工房",
+    "studioName": "Mishima Kimiyo Atelier",
+    "locationPrefecture": "大阪府／岐阜県",
+    "locationCity": "大阪市／土岐市",
+    "locationArea": "十三／土岐",
+    "kilnType": "現代陶芸窯",
+    "studioInfo": {
+      "birthYear": 1932,
+      "deathYear": 2024,
+      "birthplace": "大阪府",
+      "timeline": "1986-1987年洛克菲勒基金会奖学金纽约驻留后，在岐阜県土岐市建立工房",
+      "bases": "大阪与岐阜県土岐市两地创作",
+      "style": "以陶瓷表现报纸、传单、空罐等日常垃圾，薄陶片上丝网印刷或手写文字转印",
+      "concept": "「割れる印刷物」（易碎印刷品），革命性陶艺表现",
+      "recognition": "国际当代艺术界高度评价，作品被多家美术馆收藏"
+    }
+  }
+]

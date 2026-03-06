@@ -205,6 +205,48 @@ export default async function ArtistDetailPage({ params }: ArtistDetailPageProps
             </CardContent>
           </Card>
 
+          {/* 窑/工房信息卡片 */}
+          {(artist.kilnName || artist.studioName || artist.locationPrefecture) && (
+            <Card>
+              <CardHeader>
+                <CardTitle className="text-lg">窑/工房信息</CardTitle>
+              </CardHeader>
+              <CardContent className="space-y-4">
+                {artist.kilnName && (
+                  <div>
+                    <p className="text-sm text-slate-500 mb-1">窑名</p>
+                    <p className="font-medium">{artist.kilnName}</p>
+                  </div>
+                )}
+
+                {artist.studioName && (
+                  <div>
+                    <p className="text-sm text-slate-500 mb-1">工作室</p>
+                    <p className="font-medium">{artist.studioName}</p>
+                  </div>
+                )}
+
+                {artist.kilnType && (
+                  <div>
+                    <p className="text-sm text-slate-500 mb-1">窑类型</p>
+                    <p className="font-medium">{artist.kilnType}</p>
+                  </div>
+                )}
+
+                {artist.locationPrefecture && (
+                  <div>
+                    <p className="text-sm text-slate-500 mb-1">所在地</p>
+                    <p className="font-medium">
+                      {artist.locationPrefecture}
+                      {artist.locationCity && artist.locationCity !== artist.locationPrefecture && ` ${artist.locationCity}`}
+                      {artist.locationArea && artist.locationArea !== artist.locationCity && artist.locationArea !== artist.locationPrefecture && ` ${artist.locationArea}`}
+                    </p>
+                  </div>
+                )}
+              </CardContent>
+            </Card>
+          )}
+
           {/* 在线资源 */}
           {(artist.websiteUrl || artist.instagramHandle) && (
             <Card>

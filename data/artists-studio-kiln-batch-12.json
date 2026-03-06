@@ -1,0 +1,74 @@
+[
+  {
+    "slug": "shimomura-atsushi",
+    "kilnName": "下村淳工房",
+    "studioName": "Shimomura Atsushi Studio",
+    "locationPrefecture": "神奈川県",
+    "locationCity": "相模原市",
+    "locationArea": "相模原",
+    "kilnType": "現代窯",
+    "studioInfo": {
+      "birthYear": 1985,
+      "birthplace": "神奈川県",
+      "training": "師從唐津龙田窯中里隆",
+      "independent": "2020年独立创作",
+      "specialty": "白化妆土（kohiki）与黑釉陶器",
+      "style": "现代温暖陶器，粘土魅力与温和造型融合，窯痕（meato）增添手工质朴魅力",
+      "philosophy": "传统技法根基，追求自然融入日常生活的精致简约",
+      "instagram": "@atsushi_shimomura"
+    }
+  },
+  {
+    "slug": "yoshikawa-yuko",
+    "kilnName": "吉川優子工房",
+    "studioName": "Yoshikawa Yuko Studio",
+    "locationPrefecture": "大阪府／東京都",
+    "locationCity": "大阪／東京",
+    "locationArea": "大阪／東京",
+    "kilnType": "現代窯",
+    "studioInfo": {
+      "exhibitions": "2026年展览：3月大阪高槻, 6月东京国分寺, 10月台北台湾, 11月东京国立",
+      "instagram": "@yucomeva",
+      "followers": "4.5K",
+      "posts": "1594"
+    }
+  },
+  {
+    "slug": "goshima-honami",
+    "kilnName": "五嶋穂波工房",
+    "studioName": "Honami Goshima Studio",
+    "locationPrefecture": "岐阜県",
+    "locationCity": "岐阜県",
+    "locationArea": "岐阜",
+    "kilnType": "現代窯",
+    "studioInfo": {
+      "birthYear": 1996,
+      "birthplace": "岐阜県",
+      "education": "2021年多治見市陶磁器意匠研究所設計課程（第62期）",
+      "family": "父亲经营窯場",
+      "inspiration": "自然启发，色彩渐变与柔和质感",
+      "technique": "研究釉药混合与土壤相容性，投入大量时间烧制达到色彩与质感的微妙平衡",
+      "distribution": "at Kiln, Orné de Feuilles等经销",
+      "instagram": "@honameg"
+    }
+  },
+  {
+    "slug": "mizutani-tomomi",
+    "kilnName": "水谷智美窯",
+    "studioName": "Tomomi Mizutani Studio",
+    "locationPrefecture": "佐賀県",
+    "locationCity": "多久市",
+    "locationArea": "多久",
+    "kilnType": "現代窯",
+    "studioInfo": {
+      "birthYear": 1977,
+      "birthplace": "福岡県",
+      "education": "愛知県立芸術大学卒業",
+      "timeline": "飞驒市建窯创作 → 现于佐賀県多久市工作室",
+      "inspiration": "柔软粘土转化为坚固陶器的变化过程",
+      "style": "明亮色彩与可爱造型，坚实质朴，宁静而愉悦的色彩",
+      "works": "碗、盘、花器、植物盆等功能器物",
+      "distribution": "日本及国际多家画廊经销"
+    }
+  }
+]

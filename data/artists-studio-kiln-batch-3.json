@@ -1,0 +1,163 @@
+[
+  {
+    "slug": "kogane-akari",
+    "kilnName": "故金あかり工房",
+    "studioName": "Akari Karugane Studio",
+    "locationPrefecture": "岐阜県",
+    "locationCity": "多治見市",
+    "locationArea": "多治見",
+    "kilnType": "現代窯",
+    "studioInfo": {
+      "birthYear": 1995,
+      "birthplace": "岐阜県",
+      "education": "2015年武蔵野美術大学工芸工業設計科, 2022年多治見市陶磁器意匠研究所設計技術課修了",
+      "independent": "2022年在多治見独立",
+      "instagram": "@karugane_akari",
+      "followers": "52K",
+      "gallery": "at Kiln TOKYO"
+    }
+  },
+  {
+    "slug": "iwakiri-shuo",
+    "kilnName": "岩切秀央工房",
+    "studioName": "Shuo Iwakiri Studio",
+    "locationPrefecture": "鹿児島県",
+    "locationCity": "鹿児島県",
+    "locationArea": "古民家工作室",
+    "kilnType": "現代窯",
+    "studioInfo": {
+      "birthYear": 1991,
+      "birthplace": "鹿児島県",
+      "independent": "2021年独立",
+      "technique": "板作り（tatara）技法",
+      "instagram": "@shuo_iwakiri",
+      "followers": "13K"
+    }
+  },
+  {
+    "slug": "segawa-yuta",
+    "kilnName": "Segawa Yuta Studio",
+    "studioName": "sgwlab",
+    "locationPrefecture": "静岡県／英国",
+    "locationCity": "静岡／London",
+    "locationArea": "London",
+    "kilnType": "現代窯",
+    "studioInfo": {
+      "birthYear": 1988,
+      "birthplace": "静岡県",
+      "currentLocation": "伦敦",
+      "specialty": "Miniature pottery（微型陶艺）",
+      "glazes": "開發500種獨特釉藥",
+      "instagram": "@yutasegawa_ceramics",
+      "followers": "39K",
+      "website": "yutasegawa.com / sgwlab.com"
+    }
+  },
+  {
+    "slug": "fukumura-ryuta",
+    "kilnName": "日月窯",
+    "studioName": "Ryuta Fukumura Studio",
+    "locationPrefecture": "佐賀県",
+    "locationCity": "唐津市",
+    "locationArea": "唐津",
+    "kilnType": "唐津焼窯",
+    "studioInfo": {
+      "website": "ryutagama.com",
+      "blog": "nichigetu-gama (Ameba)",
+      "instagram": "@ryutafukumura",
+      "followers": "25K",
+      "shipping": "國際配送"
+    }
+  },
+  {
+    "slug": "sakai-tomoya",
+    "kilnName": "酒井智也工房",
+    "studioName": "Tomoya Sakai Studio",
+    "locationPrefecture": "愛知県",
+    "locationCity": "瀬戸市",
+    "locationArea": "瀬戸",
+    "kilnType": "現代窯",
+    "studioInfo": {
+      "birthYear": 1989,
+      "birthplace": "愛知県",
+      "education": "名古屋藝術大学陶艺科, 多治見市陶磁器設計技術中心",
+      "theme": "自我記憶、他人記憶、時間記憶",
+      "collections": "Faenza國際陶瓷藝術博物館（意大利）、京畿道當代陶瓷美術館（韓國）、新北市鶯歌陶瓷博物館（台灣）",
+      "instagram": "@s_tomoya1212",
+      "followers": "77K",
+      "website": "tomoyasakai.com"
+    }
+  },
+  {
+    "slug": "ujiie-kodai",
+    "kilnName": "氏家昂大窯",
+    "studioName": "Kodai Ujiie Studio",
+    "locationPrefecture": "岐阜県",
+    "locationCity": "多治見市",
+    "locationArea": "多治見",
+    "kilnType": "現代窯",
+    "studioInfo": {
+      "birthYear": 1990,
+      "education": "2013年東北大學畢業, 碩士研究學位",
+      "debut": "2014年首次個展",
+      "technique": "金繕（kintsugi）技法結合貫入釉藥，用漆或呉須染色裂紋",
+      "instagram": "@koudaiujiie",
+      "followers": "24K",
+      "website": "kodaiujiie.com"
+    }
+  },
+  {
+    "slug": "umano-shingo",
+    "kilnName": "馬野真吾工房",
+    "studioName": "Shingo Umano Studio",
+    "locationPrefecture": "広島県／徳島県",
+    "locationCity": "広島／阿波市",
+    "locationArea": "阿波市",
+    "kilnType": "自然釉窯",
+    "studioInfo": {
+      "birthplace": "広島県",
+      "training": "益子師從若林研伍，吉澤窯工作",
+      "relocated": "2020年遷至德島県阿波市",
+      "technique": "生土和自然灰釉",
+      "philosophy": "侘寂美學",
+      "instagram": "@shingo.umano",
+      "followers": "1.4K"
+    }
+  },
+  {
+    "slug": "kurihara-kaori",
+    "kilnName": "栗原香織工房",
+    "studioName": "Kaori Kurihara Ceramique",
+    "locationPrefecture": "京都府／フランス",
+    "locationCity": "京都／Paris",
+    "locationArea": "Paris",
+    "kilnType": "現代窯",
+    "studioInfo": {
+      "education": "京都精華大學陶藝科，巴黎珠寶製作和琺瑯技法",
+      "currentLocation": "法國巴黎",
+      "specialty": "幻想植物和果實陶瓷雕塑",
+      "technique": "陶藝結合珠寶設計技法",
+      "instagram": "@kaorikurihara.ceramique",
+      "followers": "52K"
+    }
+  },
+  {
+    "slug": "ishida-kazuya",
+    "kilnName": "石田和也工房",
+    "studioName": "Kazuya Ishida Studio",
+    "locationPrefecture": "岡山県",
+    "locationCity": "備前市",
+    "locationArea": "備前",
+    "kilnType": "薪窯（備前焼）",
+    "studioInfo": {
+      "birthplace": "備前市陶藝家家庭",
+      "training": "師從人間國寶伊勢崎淳4年",
+      "ukResidency": "英國Leach Pottery駐留",
+      "technique": "螺法（Rahou）獨創螺旋技法，英國slip wear結合備前無釉薪燒",
+      "inspiration": "海洋和地質形態",
+      "instagram": "@bizen_kazuya / @kaz__gallery",
+      "followers": "43K",
+      "website": "kazuyaishida.com"
+    }
+  }
+]

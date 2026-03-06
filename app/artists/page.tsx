@@ -146,6 +146,23 @@ export default async function ArtistsPage({
                     </div>
                   )}
 
+                  {/* Kiln & Location */}
+                  {(artist.kilnName || artist.locationPrefecture) && (
+                    <div className="text-center mb-3">
+                      {artist.kilnName && (
+                        <div className="font-serif text-xs text-ink-medium mb-1">
+                          🏺 {artist.kilnName}
+                        </div>
+                      )}
+                      {artist.locationPrefecture && (
+                        <div className="font-serif text-xs text-ink-light">
+                          📍 {artist.locationPrefecture}
+                          {artist.locationCity && artist.locationCity !== artist.locationPrefecture && ` ${artist.locationCity}`}
+                        </div>
+                      )}
+                    </div>
+                  )}
+
                   {/* Region & Style */}
                   <div className="flex flex-wrap gap-2 justify-center mb-4">
                     {artist.region && (

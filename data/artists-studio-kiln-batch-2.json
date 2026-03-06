@@ -1,0 +1,80 @@
+[
+  {
+    "slug": "imaizumi-imaemon-xiii",
+    "kilnName": "今右衛門窯",
+    "studioName": "色鍋島今右衛門窯",
+    "locationPrefecture": "佐賀県",
+    "locationCity": "西松浦郡有田町",
+    "locationArea": "赤絵町2-1-15",
+    "kilnType": "色絵磁器窯",
+    "studioInfo": {
+      "postalCode": "844-0006",
+      "website": "imaemon.co.jp",
+      "notes": "赤絵町地名源於此處曾聚集眾多赤繪師工坊",
+      "specialty": "色鍋島",
+      "currentGeneration": "十四代"
+    }
+  },
+  {
+    "slug": "shimizu-uichi",
+    "kilnName": "蓬莱窯",
+    "studioName": "清水卯一工房",
+    "locationPrefecture": "京都府／滋賀県",
+    "locationCity": "京都市東山区／滋賀県琵琶湖西岸",
+    "locationArea": "五条坂／琵琶湖西岸",
+    "kilnType": "登窯",
+    "studioInfo": {
+      "gojozakaKiln": "1945年開窯於京都五条坂",
+      "horaiKiln": "1970年遷至滋賀県琵琶湖西岸建蓬莱窯",
+      "designation": "1985年人間國寶（鐵釉）",
+      "group": "四耕会成員"
+    }
+  },
+  {
+    "slug": "yamamoto-toshu",
+    "kilnName": "山本陶秀窯",
+    "studioName": "山本陶秀工房",
+    "locationPrefecture": "岡山県",
+    "locationCity": "備前市",
+    "locationArea": "伊部",
+    "kilnType": "備前焼窯",
+    "studioInfo": {
+      "established": 1933,
+      "training": "15歳起在幸梅堂窯学徒",
+      "nickname": "轆轤名手",
+      "designation": "1987年人間國寶（備前燒）"
+    }
+  },
+  {
+    "slug": "ishiguro-munemaro",
+    "kilnName": "八瀬豊窯",
+    "studioName": "石黒宗麿工房",
+    "locationPrefecture": "富山県／京都府",
+    "locationCity": "富山市／京都市左京区",
+    "locationArea": "富山／八瀬",
+    "kilnType": "登窯",
+    "studioInfo": {
+      "birthplace": "1893年富山県出生",
+      "tokyoKiln": "1919年東京渋谷建窯",
+      "imakumanoKiln": "1927年京都今熊野蛇谷建窯",
+      "yaseKiln": "1935年建住宅和窯場於京都八瀬，1936年正式建立八瀬豊窯",
+      "designation": "1955年人間國寶（鐵釉）"
+    }
+  },
+  {
+    "slug": "kinjo-jiro",
+    "kilnName": "金城次郎窯",
+    "studioName": "金城次郎工房",
+    "locationPrefecture": "沖縄県",
+    "locationCity": "那霸市／読谷村",
+    "locationArea": "壺屋／読谷村",
+    "kilnType": "登窯",
+    "studioInfo": {
+      "tsuboyaWorkshop": "1946年在壺屋開設工房",
+      "yomitanKiln": "1972年因窯煙污染問題遷至読谷村建登窯",
+      "designation": "1985年人間國寶（琉球陶器），沖縄首位",
+      "specialty": "魚蝦圖案，民藝風格",
+      "successor": "兒子金城吉彦、金城敏男繼承"
+    }
+  }
+]

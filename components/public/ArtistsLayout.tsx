@@ -263,6 +263,58 @@ export function ArtistsLayout({ artists, initialSelectedSlug, relatedPotteries =
 
           {/* 信息卡片组 with Zen Cards */}
           <div className="grid grid-cols-1 md:grid-cols-2 gap-10 mb-16">
+            {/* 窑/工房信息 */}
+            {(selectedArtist.kilnName || selectedArtist.studioName || selectedArtist.locationPrefecture) && (
+              <div className="card-zen bg-accent/5 animate-ink-wash p-10" style={{ animationDelay: '150ms' }}>
+                <h3 className="text-2xl font-serif font-medium mb-8 flex items-center gap-4 seasonal-accent tracking-wide">
+                  <MapPin className="w-6 h-6 text-accent" />
+                  窑/工房信息
+                </h3>
+                <div className="space-y-7">
+                  {selectedArtist.kilnName && (
+                    <div className="flex items-start gap-4">
+                      <span className="text-lg text-accent/60 mt-1">🏺</span>
+                      <div>
+                        <span className="text-sm text-muted-foreground block mb-2 font-serif tracking-wide">窑名</span>
+                        <span className="font-serif font-medium text-foreground text-lg tracking-wide">{selectedArtist.kilnName}</span>
+                      </div>
+                    </div>
+                  )}
+                  {selectedArtist.studioName && (
+                    <div className="flex items-start gap-4">
+                      <span className="text-lg text-accent/60 mt-1">🏠</span>
+                      <div>
+                        <span className="text-sm text-muted-foreground block mb-2 font-serif tracking-wide">工作室</span>
+                        <span className="font-serif font-medium text-foreground text-lg tracking-wide">{selectedArtist.studioName}</span>
+                      </div>
+                    </div>
+                  )}
+                  {selectedArtist.kilnType && (
+                    <div className="flex items-start gap-4">
+                      <span className="text-lg text-accent/60 mt-1">🔥</span>
+                      <div>
+                        <span className="text-sm text-muted-foreground block mb-2 font-serif tracking-wide">窑类型</span>
+                        <span className="font-serif font-medium text-foreground text-lg tracking-wide">{selectedArtist.kilnType}</span>
+                      </div>
+                    </div>
+                  )}
+                  {selectedArtist.locationPrefecture && (
+                    <div className="flex items-start gap-4">
+                      <MapPin className="w-6 h-6 text-accent/60 mt-1" />
+                      <div>
+                        <span className="text-sm text-muted-foreground block mb-2 font-serif tracking-wide">所在地</span>
+                        <span className="font-serif font-medium text-foreground text-lg tracking-wide">
+                          {selectedArtist.locationPrefecture}
+                          {selectedArtist.locationCity && selectedArtist.locationCity !== selectedArtist.locationPrefecture && ` ${selectedArtist.locationCity}`}
+                          {selectedArtist.locationArea && selectedArtist.locationArea !== selectedArtist.locationCity && selectedArtist.locationArea !== selectedArtist.locationPrefecture && ` ${selectedArtist.locationArea}`}
+                        </span>
+                      </div>
+                    </div>
+                  )}
+                </div>
+              </div>
+            )}
+
             {/* 艺术特点 */}
             {(selectedArtist.region || selectedArtist.style) && (
               <div className="card-zen bg-sand/10 animate-ink-wash p-10" style={{ animationDelay: '200ms' }}>

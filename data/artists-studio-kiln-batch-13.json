@@ -1,0 +1,75 @@
+[
+  {
+    "slug": "kaketani-yasuki",
+    "kilnName": "惣堂窯",
+    "studioName": "Shōdō Kiln",
+    "locationPrefecture": "広島県",
+    "locationCity": "福山市",
+    "locationArea": "福山",
+    "kilnType": "現代窯",
+    "studioInfo": {
+      "birthYear": 1969,
+      "birthplace": "広島県福山市",
+      "education": "1992年玉川大学艺术学科陶艺专攻",
+      "established": "1998年开设惣堂窯",
+      "debut": "1999年福山首次个展",
+      "membership": "2002年起日本工艺设计协会会员",
+      "technique": "練上げ（neriage）技法专家 - 不同颜色粘土混合创造图案",
+      "philosophy": "随时间粘土特性变化，neriage作品结合变化创造新表现",
+      "exhibitions": "朝日现代工艺展邀请作家，日本民艺馆展等"
+    }
+  },
+  {
+    "slug": "shuno-maki",
+    "kilnName": "秀野真希工房",
+    "studioName": "Maki Shuno Studio",
+    "locationPrefecture": "日本",
+    "locationCity": "日本",
+    "locationArea": "日本",
+    "kilnType": "現代窯",
+    "studioInfo": {
+      "instagram": "@maki_shuno"
+    }
+  },
+  {
+    "slug": "takada-kae",
+    "kilnName": "高田香枝工房",
+    "studioName": "Takada Kae Studio",
+    "locationPrefecture": "静岡県",
+    "locationCity": "森町",
+    "locationArea": "森町",
+    "kilnType": "現代窯",
+    "studioInfo": {
+      "birthYear": 1971,
+      "birthplace": "愛知県名古屋市",
+      "education": "名古屋造形大学產品設計科, 愛知県立窯業高等技術専門校瀬戸校",
+      "experience": "瀬戸市陶器工場工作，名古屋市陶艺教室运营",
+      "relocated": "现于静冈县森町制作陶艺作品",
+      "technique": "手捏成形（tebineri/himozukuri），完全手工建造",
+      "style": "有机质感表面与柔和不规则性，精确几何形态与圆润封闭造型，柔和土色调",
+      "philosophy": "时间塑造的风化感与自然启发",
+      "distribution": "Maud and Mabel等国际画廊经销"
+    }
+  },
+  {
+    "slug": "ishihara-yukie",
+    "kilnName": "石原幸枝窯",
+    "studioName": "Ishihara Yukie Studio",
+    "locationPrefecture": "愛知県",
+    "locationCity": "津島市",
+    "locationArea": "津島",
+    "kilnType": "現代窯",
+    "studioInfo": {
+      "birthYear": 1964,
+      "birthplace": "愛知県",
+      "training": "大学后在瀬戸学习陶艺",
+      "education": "1993年愛知県立陶磁器試験場",
+      "established": "2003年开设工作室",
+      "kilnBuilt": "2007年在津島市建窯",
+      "material": "主要使用信楽土",
+      "glazes": "黑白釉药，创造柔和质感与丰富层次色彩",
+      "style": "简单造型，柔和圆润外观",
+      "philosophy": "舒适愉悦的器物让人更多使用更加喜爱"
+    }
+  }
+]

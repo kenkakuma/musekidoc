@@ -1,0 +1,66 @@
+[
+  {
+    "slug": "fujimoto-yoshimichi",
+    "kilnName": "藤本能道窯",
+    "studioName": "Fujimoto Yoshimichi Kiln",
+    "locationPrefecture": "東京都",
+    "locationCity": "青梅市",
+    "locationArea": "梅郷",
+    "kilnType": "色絵磁器窯",
+    "studioInfo": {
+      "birthYear": 1919,
+      "deathYear": 1992,
+      "birthplace": "東京",
+      "education": "1941年東京美術学校工芸科卒業",
+      "training": "師從加藤土師萌，在富本憲吉助手期间学习九谷色絵磁器技法",
+      "established": "1973年在東京都青梅市梅郷建窯",
+      "recognition": "1986年4月28日認定為「色絵磁器」重要無形文化財保持者（Living National Treasure）",
+      "technique": "釉描加彩（yuubyo kasai）技法 - 创立独特的彩色釉料绘画技法，主窯烧成前施加彩色釉",
+      "position": "東京芸術大学名誉教授",
+      "awards": "1965年日本工芸会東京支部展獎，同年Geneva国际陶瓷展銀獎",
+      "evaluation": "建立独特yuubyo kasai技法，色絵磁器领域开创性贡献"
+    }
+  },
+  {
+    "slug": "nakazato-muan",
+    "kilnName": "御茶碗窯",
+    "studioName": "Ochabawan Kiln",
+    "locationPrefecture": "佐賀県",
+    "locationCity": "唐津市",
+    "locationArea": "唐津",
+    "kilnType": "唐津焼窯",
+    "studioInfo": {
+      "birthYear": 1895,
+      "birthMonth": 4,
+      "birthDay": 11,
+      "birthplace": "佐賀県唐津市",
+      "generation": "十二代中里太郎右衛門",
+      "family": "中里天祐（十一代中里太郎右衛門）次子",
+      "education": "佐賀県立有田工業学校卒業",
+      "succession": "1927年父亲去世后继承十二代中里太郎右衛門之名",
+      "achievement": "从1946年左右开始研究桃山时代唐津烧，通过考古发掘陶片成功复原古唐津烧",
+      "retirement": "1969年隐退，号無庵",
+      "recognition": "1976年认定为國家Living National Treasure（重要無形文化財保持者）",
+      "museum": "御茶碗窯記念館位于唐津市町田3-6-29",
+      "legacy": "唐津烧中兴之祖，将古唐津烧复原并发扬光大"
+    }
+  },
+  {
+    "slug": "tsukamoto-kaiji",
+    "kilnName": "快山窯",
+    "studioName": "Kaizan-gama",
+    "locationPrefecture": "岐阜県",
+    "locationCity": "土岐市",
+    "locationArea": "駄知町",
+    "kilnType": "白磁窯／青磁窯",
+    "studioInfo": {
+      "deathYear": 1990,
+      "address": "岐阜県土岐市駄知町1805",
+      "successor": "长子塚本満继承快山窯",
+      "currentGeneration": "塚本満与其子英貴继承家业",
+      "technique": "手雕刻与模压技术，精致白磁与青磁器物",
+      "legacy": "快山窯持续运营，保持传统技法与精致工艺",
+      "style": "白磁、青磁器物制作"
+    }
+  }
+]

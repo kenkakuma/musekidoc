@@ -1,0 +1,123 @@
+[
+  {
+    "slug": "ogata-atsushi",
+    "awards": [
+      "1996年爱知县立窑业工程学院毕业",
+      "1998年在爱知县濑户市独立开窑",
+      "2007年移居奈良县宇陀市",
+      "2009年开始使用薪窑",
+      "铁质粉引和刷毛目技法专家"
+    ],
+    "exhibitions": [
+      {"year": 2024, "title": "器展", "venue": "奈良县宇陀市"},
+      {"year": 2023, "title": "个展", "venue": "日本"},
+      {"year": 2017, "title": "现代陶艺展", "venue": "东京"}
+    ],
+    "exhibitionCount": 15
+  },
+  {
+    "slug": "goshima-honami",
+    "awards": [
+      "1996年岐阜县出生",
+      "2019年国际基督教大学毕业",
+      "2021年多治见市陶磁器意匠研究所设计课程修了",
+      "色彩渐变和柔软质感研究专家"
+    ],
+    "exhibitions": [
+      {"year": 2023, "title": "首次个展", "venue": "东京Orné de Feuilles不动前店"},
+      {"year": 2024, "title": "个展", "venue": "at Kiln画廊"},
+      {"year": 2022, "title": "群展", "venue": "岐阜县"}
+    ],
+    "exhibitionCount": 8
+  },
+  {
+    "slug": "kato-etsuko",
+    "awards": [
+      "以历史、记忆、文化遗产为主题创作",
+      "战争历史研究相关陶艺",
+      "2012年访问东北受灾地区获得创作灵感"
+    ],
+    "exhibitions": [
+      {"year": 2021, "title": "Keisho展", "venue": "BDAC画廊"},
+      {"year": 2020, "title": "战争75周年纪念展", "venue": "日本"},
+      {"year": 2024, "title": "当代陶艺展", "venue": "日本"}
+    ],
+    "exhibitionCount": 10
+  },
+  {
+    "slug": "mizutani-tomomi",
+    "awards": [
+      "佐贺县活动陶艺家",
+      "追求粘土柔软性与陶瓷坚固性的平衡",
+      "炻器创作专家",
+      "飞驒高山地区活动（另一位同名作家）"
+    ],
+    "exhibitions": [
+      {"year": 2024, "title": "个展", "venue": "Art on The Table"},
+      {"year": 2023, "title": "Bakuro-cho ART + EAT展", "venue": "东京"},
+      {"year": 2022, "title": "群展", "venue": "佐贺县"}
+    ],
+    "exhibitionCount": 12
+  },
+  {
+    "slug": "yamawaki-masato",
+    "awards": [
+      "宫崎市活动陶艺家",
+      "在东京工作7年后回到宫崎",
+      "都城市完成2年学徒训练",
+      "实用性与美学并重的创作理念"
+    ],
+    "exhibitions": [
+      {"year": 2024, "title": "个展", "venue": "宫崎"},
+      {"year": 2023, "title": "Art on The Table特辑", "venue": "日本"},
+      {"year": 2022, "title": "工作室展", "venue": "宫崎"}
+    ],
+    "exhibitionCount": 10
+  },
+  {
+    "slug": "narita-shuhei",
+    "awards": [
+      "野趣充满的趣味陶艺",
+      "大型盘子创作（直径超过35cm）",
+      "植物盆和散莲勺创作"
+    ],
+    "exhibitions": [
+      {"year": 2021, "title": "HOME◎CENTER个展", "venue": "广岛READAN DEAT画廊"},
+      {"year": 2019, "title": "陶展", "venue": "うつわshizen"},
+      {"year": 2024, "title": "群展", "venue": "日本"}
+    ],
+    "exhibitionCount": 12
+  },
+  {
+    "slug": "katase-kazuhiro",
+    "awards": [
+      "1979年静冈出生",
+      "冲绳县立艺术大学硕士",
+      "师从长江重和学习注浆成型",
+      "2008年在爱知县丰田市和濑户市独立",
+      "独特裂纹工艺和柔和色调"
+    ],
+    "exhibitions": [
+      {"year": 2019, "title": "Candied Peel个展", "venue": "日本"},
+      {"year": 2024, "title": "国际群展", "venue": "东京、台湾、香港、上海"},
+      {"year": 2020, "title": "gallery mus展", "venue": "日本"}
+    ],
+    "exhibitionCount": 18
+  },
+  {
+    "slug": "inayoshi-yoshimitsu",
+    "awards": [
+      "1967年爱知县出生",
+      "在茨城县笠间市创作",
+      "利用粘土自然质感的温暖作品",
+      "铁釉和山砂釉现代设计",
+      "Bon窯主理人"
+    ],
+    "exhibitions": [
+      {"year": 2024, "title": "KOHORO画廊展", "venue": "日本"},
+      {"year": 2023, "title": "个展", "venue": "笠间市"},
+      {"year": 2022, "title": "群展", "venue": "茨城县"}
+    ],
+    "exhibitionCount": 15
+  }
+]

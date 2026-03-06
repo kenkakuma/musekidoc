@@ -1,0 +1,52 @@
+[
+  {
+    "slug": "inayoshi-yoshimitsu",
+    "kilnName": "Bon窯",
+    "studioName": "Bon Kiln",
+    "locationPrefecture": "茨城県",
+    "locationCity": "笠間市",
+    "locationArea": "笠間",
+    "kilnType": "現代窯",
+    "studioInfo": {
+      "birthYear": 1967,
+      "birthplace": "愛知県",
+      "location": "茨城県笠間市创作",
+      "style": "粘土简朴与现代设计感性结合",
+      "blog": "Bon窯日記（陶艺博客）",
+      "instagram": "@yoshimitsu_inayoshi"
+    }
+  },
+  {
+    "slug": "kato-ai",
+    "kilnName": "加藤愛工房",
+    "studioName": "Kato Ai Studio",
+    "locationPrefecture": "愛知県",
+    "locationCity": "愛知県",
+    "locationArea": "愛知",
+    "kilnType": "現代窯",
+    "studioInfo": {
+      "website": "ai-kato.com",
+      "instagram": "@ai.kato_",
+      "followers": "4.6K",
+      "works": "陶器与器物"
+    }
+  },
+  {
+    "slug": "uchida-kaori",
+    "kilnName": "studio knot",
+    "studioName": "Studio Knot",
+    "locationPrefecture": "愛知県／岐阜県",
+    "locationCity": "愛知県",
+    "locationArea": "愛知",
+    "kilnType": "現代窯",
+    "studioInfo": {
+      "education": "油画学习后转向陶艺，大学陶艺课程启发",
+      "specialty": "土锅（clay pots）专家，温暖设计与自然土色",
+      "recognition": "世界著名餐厅集团Noma京都Pop-up采用",
+      "philosophy": "重视实用性，重量分配、防溢出、防粘、易操作等细节考量",
+      "timeline": "初期创作艺术对象，25岁后转向生活器物，30岁后开始制作土锅",
+      "studio": "studio knot（アトリエ兼陶艺教室）",
+      "website": "uchidakaori.com"
+    }
+  }
+]

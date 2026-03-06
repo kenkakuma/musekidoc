@@ -1,0 +1,95 @@
+[
+  {
+    "slug": "yamawaki-masato",
+    "kilnName": "山脇雅人工房",
+    "studioName": "Masato Yamawaki Studio",
+    "locationPrefecture": "宮崎県",
+    "locationCity": "宮崎市",
+    "locationArea": "宮崎",
+    "kilnType": "現代窯",
+    "studioInfo": {
+      "background": "东京工作7年后回宫崎，都城市学徒2年",
+      "location": "工房位于母亲悉心照料的宁静庭园中",
+      "philosophy": "日常实用与审美之美无缝融合，强调实用性与精致美学",
+      "atmosphere": "工房周围宁静庭园为作品注入和谐与安宁"
+    }
+  },
+  {
+    "slug": "yamada-yoji",
+    "kilnName": "山田洋次窯",
+    "studioName": "Yoji Yamada Studio",
+    "locationPrefecture": "滋賀県",
+    "locationCity": "信楽",
+    "locationArea": "信楽",
+    "kilnType": "薪窯",
+    "studioInfo": {
+      "education": "伦敦学习陶艺",
+      "established": "2008年开始在日本制作传统陶瓷",
+      "technique": "Slipware（17世纪英格兰流行），绘画、挤压或刮削化妆土于器表创造图案",
+      "innovation": "开发非釉化妆土（non-glazed slipware）适应日本饮食习惯",
+      "firing": "薪窯烧制",
+      "instagram": "@yamadyoji",
+      "followers": "21K"
+    }
+  },
+  {
+    "slug": "ishihara-yoshimitsu",
+    "kilnName": "石原祥充窯",
+    "studioName": "Yoshimitsu Ishihara Studio",
+    "locationPrefecture": "福岡県",
+    "locationCity": "宮若市",
+    "locationArea": "宮若市山間部",
+    "kilnType": "薪窯／登窯",
+    "studioInfo": {
+      "birthYear": 1971,
+      "birthplace": "大阪府茨木市",
+      "relocated": "1976年移居福岡県直方市",
+      "education": "1996年多摩美術大学雕刻科, 1998年京都市立芸術大学大学院雕刻科",
+      "independent": "2006年在宫若市山间部建薪窯独立",
+      "couple": "与妻子野枝田共同建造登窯",
+      "firing": "春秋各烧一次窯（年2次）",
+      "technique": "手捏造型，使用当地土，薪窯烧制富有特色",
+      "lifestyle": "山林与竹林管理，劈柴，观察鸟声风声准备烧窯"
+    }
+  },
+  {
+    "slug": "ogawa-aya",
+    "kilnName": "小川綾工房",
+    "studioName": "Aya Ogawa Ceramics",
+    "locationPrefecture": "東京都",
+    "locationCity": "東京都",
+    "locationArea": "東京",
+    "kilnType": "現代窯",
+    "studioInfo": {
+      "background": "网页设计师转向陶艺，周末陶艺课发现模拟世界",
+      "training": "大阪TOON Ceramic Studio師從木村明宏，丹麦TORTUS COPENHAGEN工作坊",
+      "relocated": "丹麦工作坊后迁工房至东京",
+      "awards": "2019年第51回欧洲美国国际公开征集芬兰艺术奖展优秀奖",
+      "project": "2018年参与丹麦餐厅INUA食器开发团队",
+      "series": "MIDNIGHT STARDUST（夜空星光），Antique Blue（怀旧天空蓝），极简线条设计",
+      "instagram": "@aya_ogawa_ig / @little07tokyo",
+      "followers": "12K",
+      "website": "ayaogawa.net"
+    }
+  },
+  {
+    "slug": "katase-kazuhiro",
+    "kilnName": "片瀬和宏工房",
+    "studioName": "Kazuhiro Katase Studio",
+    "locationPrefecture": "愛知県",
+    "locationCity": "豊田市／瀬戸市",
+    "locationArea": "豊田／瀬戸",
+    "kilnType": "現代窯",
+    "studioInfo": {
+      "birthYear": 1979,
+      "birthplace": "静岡県",
+      "education": "沖縄県立芸術大学大学院MA",
+      "training": "師從永江重一学习注浆成型（slip casting）",
+      "established": "2008年在丰田市与瀬戸市开始独立创作",
+      "technique": "手成形技法与开裂过程，烧成决定质感，独特裂纹釉",
+      "style": "功能性、简洁与简单，复杂造型与多样釉药，柔和粉彩色调",
+      "metaphor": "裂纹与色彩隐喻时间侵蚀",
+      "exhibitions": "东京、冲绳、台湾、香港、上海（2003-2020）"
+    }
+  }
+]
