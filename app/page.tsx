@@ -88,7 +88,7 @@ export default async function NotionHomePage() {
       {/* Quick Links */}
       <div className="mt-20 grid grid-cols-1 md:grid-cols-3 gap-6">
         <a
-          href="/notion/pottery?category=六古窯"
+          href="/pottery?category=六古窯"
           className="group p-8 bg-gradient-to-br from-white/60 to-clay-warm/20 border border-ink-light/20 rounded-xl hover:shadow-xl hover:border-clay-terracotta/30 transition-all duration-300"
         >
           <div className="font-serif text-4xl mb-3 text-ink-dark group-hover:text-clay-terracotta transition-colors">
@@ -100,7 +100,7 @@ export default async function NotionHomePage() {
         </a>
 
         <a
-          href="/notion/pottery?category=技法"
+          href="/pottery?category=技法"
           className="group p-8 bg-gradient-to-br from-white/60 to-glaze-celadon/20 border border-ink-light/20 rounded-xl hover:shadow-xl hover:border-clay-terracotta/30 transition-all duration-300"
         >
           <div className="font-serif text-4xl mb-3 text-ink-dark group-hover:text-clay-terracotta transition-colors">
