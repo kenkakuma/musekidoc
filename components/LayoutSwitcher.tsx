@@ -6,14 +6,14 @@ import { LayoutGrid, Layers } from 'lucide-react'
 
 export default function LayoutSwitcher() {
   const pathname = usePathname()
-  const isLegacyLayout = pathname.startsWith('/legacy')
+  const isLegacyLayout = pathname.startsWith('/legacy-ui')
 
   return (
     <div className="fixed bottom-6 right-6 z-50">
       <div className="flex flex-col gap-2">
         {/* Layout Toggle Button */}
         <Link
-          href={isLegacyLayout ? '/' : '/legacy'}
+          href={isLegacyLayout ? '/' : '/legacy-ui'}
           className="
             group flex items-center gap-3 px-4 py-3
             bg-white/90 backdrop-blur-sm border border-ink-light/30 rounded-xl

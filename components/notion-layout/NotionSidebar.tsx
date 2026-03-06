@@ -32,7 +32,7 @@ const navigationData: NavItem[] = [
     id: 'home',
     label: '首页',
     icon: <Home className="w-4 h-4" />,
-    href: '/notion',
+    href: '/',
   },
   {
     id: 'kilns',
@@ -43,30 +43,30 @@ const navigationData: NavItem[] = [
         id: 'rokkoyo',
         label: '六古窑',
         icon: null,
-        href: '/notion/pottery?category=六古窑',
+        href: '//pottery?category=六古窑',
         children: [
-          { id: 'bizen', label: '备前烧', icon: null, href: '/notion/pottery?category=六古窑&region=备前' },
-          { id: 'shigaraki', label: '信乐烧', icon: null, href: '/notion/pottery?category=六古窑&region=信乐' },
-          { id: 'tokoname', label: '常滑烧', icon: null, href: '/notion/pottery?category=六古窑&region=常滑' },
-          { id: 'seto', label: '濑户烧', icon: null, href: '/notion/pottery?category=六古窑&region=濑户' },
-          { id: 'tanba', label: '丹波烧', icon: null, href: '/notion/pottery?category=六古窑&region=丹波' },
-          { id: 'echizen', label: '越前烧', icon: null, href: '/notion/pottery?category=六古窑&region=越前' },
+          { id: 'bizen', label: '备前烧', icon: null, href: '//pottery?category=六古窑&region=备前' },
+          { id: 'shigaraki', label: '信乐烧', icon: null, href: '//pottery?category=六古窑&region=信乐' },
+          { id: 'tokoname', label: '常滑烧', icon: null, href: '//pottery?category=六古窑&region=常滑' },
+          { id: 'seto', label: '濑户烧', icon: null, href: '//pottery?category=六古窑&region=濑户' },
+          { id: 'tanba', label: '丹波烧', icon: null, href: '//pottery?category=六古窑&region=丹波' },
+          { id: 'echizen', label: '越前烧', icon: null, href: '//pottery?category=六古窑&region=越前' },
         ]
       },
       {
         id: 'modern-kilns',
         label: '现代名窑',
         icon: null,
-        href: '/notion/pottery?category=现代名窑',
+        href: '//pottery?category=现代名窑',
         children: [
-          { id: 'arita', label: '有田·伊万里', icon: null, href: '/notion/pottery?category=现代名窑&region=有田' },
-          { id: 'hagi', label: '萩烧', icon: null, href: '/notion/pottery?category=现代名窑&region=萩' },
-          { id: 'karatsu', label: '唐津烧', icon: null, href: '/notion/pottery?category=现代名窑&region=唐津' },
-          { id: 'kutani', label: '九谷烧', icon: null, href: '/notion/pottery?category=现代名窑&region=九谷' },
-          { id: 'mino', label: '美浓烧', icon: null, href: '/notion/pottery?category=现代名窑&region=美浓' },
-          { id: 'mashiko', label: '益子烧', icon: null, href: '/notion/pottery?category=现代名窑&region=益子' },
-          { id: 'raku', label: '乐烧', icon: null, href: '/notion/pottery?category=现代名窑&region=乐' },
-          { id: 'kyo', label: '京烧·清水烧', icon: null, href: '/notion/pottery?category=现代名窑&region=京都' },
+          { id: 'arita', label: '有田·伊万里', icon: null, href: '//pottery?category=现代名窑&region=有田' },
+          { id: 'hagi', label: '萩烧', icon: null, href: '//pottery?category=现代名窑&region=萩' },
+          { id: 'karatsu', label: '唐津烧', icon: null, href: '//pottery?category=现代名窑&region=唐津' },
+          { id: 'kutani', label: '九谷烧', icon: null, href: '//pottery?category=现代名窑&region=九谷' },
+          { id: 'mino', label: '美浓烧', icon: null, href: '//pottery?category=现代名窑&region=美浓' },
+          { id: 'mashiko', label: '益子烧', icon: null, href: '//pottery?category=现代名窑&region=益子' },
+          { id: 'raku', label: '乐烧', icon: null, href: '//pottery?category=现代名窑&region=乐' },
+          { id: 'kyo', label: '京烧·清水烧', icon: null, href: '//pottery?category=现代名窑&region=京都' },
         ]
       },
     ],
@@ -76,10 +76,10 @@ const navigationData: NavItem[] = [
     label: '制作技法',
     icon: <Palette className="w-4 h-4" />,
     children: [
-      { id: 'forming', label: '成型技法', icon: null, href: '/notion/pottery?category=成型技法' },
-      { id: 'decoration', label: '装饰技法', icon: null, href: '/notion/pottery?category=装饰技法' },
-      { id: 'glaze', label: '釉药技法', icon: null, href: '/notion/pottery?category=釉药技法' },
-      { id: 'firing', label: '烧成技法', icon: null, href: '/notion/pottery?category=烧成技法' },
+      { id: 'forming', label: '成型技法', icon: null, href: '//pottery?category=成型技法' },
+      { id: 'decoration', label: '装饰技法', icon: null, href: '//pottery?category=装饰技法' },
+      { id: 'glaze', label: '釉药技法', icon: null, href: '//pottery?category=釉药技法' },
+      { id: 'firing', label: '烧成技法', icon: null, href: '//pottery?category=烧成技法' },
     ],
   },
   {
@@ -87,10 +87,10 @@ const navigationData: NavItem[] = [
     label: '器物用途',
     icon: <Coffee className="w-4 h-4" />,
     children: [
-      { id: 'tea-ware', label: '茶道具', icon: null, href: '/notion/pottery?category=茶道具' },
-      { id: 'sake-ware', label: '酒器', icon: null, href: '/notion/pottery?category=酒器' },
-      { id: 'tableware', label: '日用器', icon: null, href: '/notion/pottery?category=日用器' },
-      { id: 'storage', label: '储藏器', icon: null, href: '/notion/pottery?category=储藏器' },
+      { id: 'tea-ware', label: '茶道具', icon: null, href: '//pottery?category=茶道具' },
+      { id: 'sake-ware', label: '酒器', icon: null, href: '//pottery?category=酒器' },
+      { id: 'tableware', label: '日用器', icon: null, href: '//pottery?category=日用器' },
+      { id: 'storage', label: '储藏器', icon: null, href: '//pottery?category=储藏器' },
     ],
   },
   {
@@ -98,10 +98,10 @@ const navigationData: NavItem[] = [
     label: '历史文化',
     icon: <BookOpen className="w-4 h-4" />,
     children: [
-      { id: 'aesthetics', label: '美学思想', icon: null, href: '/notion/pottery?category=美学思想' },
-      { id: 'history', label: '文化史', icon: null, href: '/notion/pottery?category=文化史' },
-      { id: 'tea-culture', label: '茶道文化', icon: null, href: '/notion/pottery?category=茶道文化' },
-      { id: 'mingei', label: '民艺运动', icon: null, href: '/notion/pottery?category=民艺运动' },
+      { id: 'aesthetics', label: '美学思想', icon: null, href: '//pottery?category=美学思想' },
+      { id: 'history', label: '文化史', icon: null, href: '//pottery?category=文化史' },
+      { id: 'tea-culture', label: '茶道文化', icon: null, href: '//pottery?category=茶道文化' },
+      { id: 'mingei', label: '民艺运动', icon: null, href: '//pottery?category=民艺运动' },
     ],
   },
   {
@@ -109,22 +109,24 @@ const navigationData: NavItem[] = [
     label: '基础知识',
     icon: <BookOpen className="w-4 h-4" />,
     children: [
-      { id: 'terms', label: '术语解释', icon: null, href: '/notion/pottery?category=术语解释' },
-      { id: 'appreciation', label: '鉴赏体系', icon: null, href: '/notion/pottery?category=鉴赏体系' },
-      { id: 'certification', label: '文化认定', icon: null, href: '/notion/pottery?category=文化认定' },
+      { id: 'terms', label: '术语解释', icon: null, href: '//pottery?category=术语解释' },
+      { id: 'appreciation', label: '鉴赏体系', icon: null, href: '//pottery?category=鉴赏体系' },
+      { id: 'certification', label: '文化认定', icon: null, href: '//pottery?category=文化认定' },
     ],
   },
   {
     id: 'artists',
     label: '陶艺作家',
     icon: <Users className="w-4 h-4" />,
-    href: '/notion/artists',
+    href: '//artists',
   },
 ]
 
 export default function NotionSidebar() {
   const [collapsed, setCollapsed] = useState(false)
-  const [expandedItems, setExpandedItems] = useState<Set<string>>(new Set(['rokkoyo', 'modern-kilns']))
+  const [expandedItems, setExpandedItems] = useState<Set<string>>(
+    new Set(['kilns', 'rokkoyo', 'modern-kilns', 'techniques', 'vessels', 'culture', 'basics'])
+  )
   const pathname = usePathname()
 
   const toggleExpand = (id: string) => {
@@ -233,7 +235,7 @@ export default function NotionSidebar() {
         <div className="flex flex-col h-full">
           {/* Header */}
           <div className="flex-shrink-0 p-6 pb-4 border-b border-ink-light/10">
-            <Link href="/notion" className="block group">
+            <Link href="/" className="block group">
               <h1 className="font-serif text-xl text-ink-dark mb-1 tracking-wide">
                 陶芸知識庫
               </h1>
