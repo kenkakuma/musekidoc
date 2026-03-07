@@ -1,0 +1,211 @@
+{
+  "importDate": "2026-03-07T02:58:25.678Z",
+  "artists": {
+    "total": 33,
+    "success": 0,
+    "skipped": 0,
+    "failed": 33,
+    "errors": [
+      {
+        "artist": "鈴木藏",
+        "error": "\nInvalid `prisma.artist.findUnique()` invocation in\n/Users/eric/musekidoc/scripts/import-task01-final.ts:37:44\n\n  34 for (const artist of relatedArtists) {\n  35   try {\n  36     // 检查是否已存在\n→ 37     const existing = await prisma.artist.findUnique(\n"
+      },
+      {
+        "artist": "荒川丰藏",
+        "error": "\nInvalid `prisma.artist.findUnique()` invocation in\n/Users/eric/musekidoc/scripts/import-task01-final.ts:37:44\n\n  34 for (const artist of relatedArtists) {\n  35   try {\n  36     // 检查是否已存在\n→ 37     const existing = await prisma.artist.findUnique(\n"
+      },
+      {
+        "artist": "加藤孝造",
+        "error": "\nInvalid `prisma.artist.findUnique()` invocation in\n/Users/eric/musekidoc/scripts/import-task01-final.ts:37:44\n\n  34 for (const artist of relatedArtists) {\n  35   try {\n  36     // 检查是否已存在\n→ 37     const existing = await prisma.artist.findUnique(\n"
+      },
+      {
+        "artist": "加藤唐九郎",
+        "error": "\nInvalid `prisma.artist.findUnique()` invocation in\n/Users/eric/musekidoc/scripts/import-task01-final.ts:37:44\n\n  34 for (const artist of relatedArtists) {\n  35   try {\n  36     // 检查是否已存在\n→ 37     const existing = await prisma.artist.findUnique(\n"
+      },
+      {
+        "artist": "三浦小平二",
+        "error": "\nInvalid `prisma.artist.findUnique()` invocation in\n/Users/eric/musekidoc/scripts/import-task01-final.ts:37:44\n\n  34 for (const artist of relatedArtists) {\n  35   try {\n  36     // 检查是否已存在\n→ 37     const existing = await prisma.artist.findUnique(\n"
+      },
+      {
+        "artist": "塚本快示",
+        "error": "\nInvalid `prisma.artist.findUnique()` invocation in\n/Users/eric/musekidoc/scripts/import-task01-final.ts:37:44\n\n  34 for (const artist of relatedArtists) {\n  35   try {\n  36     // 检查是否已存在\n→ 37     const existing = await prisma.artist.findUnique(\n"
+      },
+      {
+        "artist": "十三代今泉今右卫门",
+        "error": "\nInvalid `prisma.artist.findUnique()` invocation in\n/Users/eric/musekidoc/scripts/import-task01-final.ts:37:44\n\n  34 for (const artist of relatedArtists) {\n  35   try {\n  36     // 检查是否已存在\n→ 37     const existing = await prisma.artist.findUnique(\n"
+      },
+      {
+        "artist": "井上萬二",
+        "error": "\nInvalid `prisma.artist.findUnique()` invocation in\n/Users/eric/musekidoc/scripts/import-task01-final.ts:37:44\n\n  34 for (const artist of relatedArtists) {\n  35   try {\n  36     // 检查是否已存在\n→ 37     const existing = await prisma.artist.findUnique(\n"
+      },
+      {
+        "artist": "前田昭博",
+        "error": "\nInvalid `prisma.artist.findUnique()` invocation in\n/Users/eric/musekidoc/scripts/import-task01-final.ts:37:44\n\n  34 for (const artist of relatedArtists) {\n  35   try {\n  36     // 检查是否已存在\n→ 37     const existing = await prisma.artist.findUnique(\n"
+      },
+      {
+        "artist": "十五代酒井田柿右卫门",
+        "error": "\nInvalid `prisma.artist.findUnique()` invocation in\n/Users/eric/musekidoc/scripts/import-task01-final.ts:37:44\n\n  34 for (const artist of relatedArtists) {\n  35   try {\n  36     // 检查是否已存在\n→ 37     const existing = await prisma.artist.findUnique(\n"
+      },
+      {
+        "artist": "清水卯一",
+        "error": "\nInvalid `prisma.artist.findUnique()` invocation in\n/Users/eric/musekidoc/scripts/import-task01-final.ts:37:44\n\n  34 for (const artist of relatedArtists) {\n  35   try {\n  36     // 检查是否已存在\n→ 37     const existing = await prisma.artist.findUnique(\n"
+      },
+      {
+        "artist": "石黑宗麿",
+        "error": "\nInvalid `prisma.artist.findUnique()` invocation in\n/Users/eric/musekidoc/scripts/import-task01-final.ts:37:44\n\n  34 for (const artist of relatedArtists) {\n  35   try {\n  36     // 检查是否已存在\n→ 37     const existing = await prisma.artist.findUnique(\n"
+      },
+      {
+        "artist": "林恭助",
+        "error": "\nInvalid `prisma.artist.findUnique()` invocation in\n/Users/eric/musekidoc/scripts/import-task01-final.ts:37:44\n\n  34 for (const artist of relatedArtists) {\n  35   try {\n  36     // 检查是否已存在\n→ 37     const existing = await prisma.artist.findUnique(\n"
+      },
+      {
+        "artist": "岛冈达三",
+        "error": "\nInvalid `prisma.artist.findUnique()` invocation in\n/Users/eric/musekidoc/scripts/import-task01-final.ts:37:44\n\n  34 for (const artist of relatedArtists) {\n  35   try {\n  36     // 检查是否已存在\n→ 37     const existing = await prisma.artist.findUnique(\n"
+      },
+      {
+        "artist": "大谷哲也",
+        "error": "\nInvalid `prisma.artist.findUnique()` invocation in\n/Users/eric/musekidoc/scripts/import-task01-final.ts:37:44\n\n  34 for (const artist of relatedArtists) {\n  35   try {\n  36     // 检查是否已存在\n→ 37     const existing = await prisma.artist.findUnique(\n"
+      },
+      {
+        "artist": "古谷宣幸",
+        "error": "\nInvalid `prisma.artist.findUnique()` invocation in\n/Users/eric/musekidoc/scripts/import-task01-final.ts:37:44\n\n  34 for (const artist of relatedArtists) {\n  35   try {\n  36     // 检查是否已存在\n→ 37     const existing = await prisma.artist.findUnique(\n"
+      },
+      {
+        "artist": "村木雄児",
+        "error": "\nInvalid `prisma.artist.findUnique()` invocation in\n/Users/eric/musekidoc/scripts/import-task01-final.ts:37:44\n\n  34 for (const artist of relatedArtists) {\n  35   try {\n  36     // 检查是否已存在\n→ 37     const existing = await prisma.artist.findUnique(\n"
+      },
+      {
+        "artist": "富本宪吉",
+        "error": "\nInvalid `prisma.artist.findUnique()` invocation in\n/Users/eric/musekidoc/scripts/import-task01-final.ts:37:44\n\n  34 for (const artist of relatedArtists) {\n  35   try {\n  36     // 检查是否已存在\n→ 37     const existing = await prisma.artist.findUnique(\n"
+      },
+      {
+        "artist": "近藤悠三",
+        "error": "\nInvalid `prisma.artist.findUnique()` invocation in\n/Users/eric/musekidoc/scripts/import-task01-final.ts:37:44\n\n  34 for (const artist of relatedArtists) {\n  35   try {\n  36     // 检查是否已存在\n→ 37     const existing = await prisma.artist.findUnique(\n"
+      },
+      {
+        "artist": "藤本能道",
+        "error": "\nInvalid `prisma.artist.findUnique()` invocation in\n/Users/eric/musekidoc/scripts/import-task01-final.ts:37:44\n\n  34 for (const artist of relatedArtists) {\n  35   try {\n  36     // 检查是否已存在\n→ 37     const existing = await prisma.artist.findUnique(\n"
+      },
+      {
+        "artist": "中里无庵（十二代中里太郎右卫门）",
+        "error": "\nInvalid `prisma.artist.findUnique()` invocation in\n/Users/eric/musekidoc/scripts/import-task01-final.ts:37:44\n\n  34 for (const artist of relatedArtists) {\n  35   try {\n  36     // 检查是否已存在\n→ 37     const existing = await prisma.artist.findUnique(\n"
+      },
+      {
+        "artist": "十五代乐吉左卫门",
+        "error": "\nInvalid `prisma.artist.findUnique()` invocation in\n/Users/eric/musekidoc/scripts/import-task01-final.ts:37:44\n\n  34 for (const artist of relatedArtists) {\n  35   try {\n  36     // 检查是否已存在\n→ 37     const existing = await prisma.artist.findUnique(\n"
+      },
+      {
+        "artist": "长次郎",
+        "error": "\nInvalid `prisma.artist.findUnique()` invocation in\n/Users/eric/musekidoc/scripts/import-task01-final.ts:37:44\n\n  34 for (const artist of relatedArtists) {\n  35   try {\n  36     // 检查是否已存在\n→ 37     const existing = await prisma.artist.findUnique(\n"
+      },
+      {
+        "artist": "本阿弥光悦",
+        "error": "\nInvalid `prisma.artist.findUnique()` invocation in\n/Users/eric/musekidoc/scripts/import-task01-final.ts:37:44\n\n  34 for (const artist of relatedArtists) {\n  35   try {\n  36     // 检查是否已存在\n→ 37     const existing = await prisma.artist.findUnique(\n"
+      },
+      {
+        "artist": "三轮壽雪",
+        "error": "\nInvalid `prisma.artist.findUnique()` invocation in\n/Users/eric/musekidoc/scripts/import-task01-final.ts:37:44\n\n  34 for (const artist of relatedArtists) {\n  35   try {\n  36     // 检查是否已存在\n→ 37     const existing = await prisma.artist.findUnique(\n"
+      },
+      {
+        "artist": "内田鋼一",
+        "error": "\nInvalid `prisma.artist.findUnique()` invocation in\n/Users/eric/musekidoc/scripts/import-task01-final.ts:37:44\n\n  34 for (const artist of relatedArtists) {\n  35   try {\n  36     // 检查是否已存在\n→ 37     const existing = await prisma.artist.findUnique(\n"
+      },
+      {
+        "artist": "三代德田八十吉",
+        "error": "\nInvalid `prisma.artist.findUnique()` invocation in\n/Users/eric/musekidoc/scripts/import-task01-final.ts:37:44\n\n  34 for (const artist of relatedArtists) {\n  35   try {\n  36     // 检查是否已存在\n→ 37     const existing = await prisma.artist.findUnique(\n"
+      },
+      {
+        "artist": "加藤土师萌",
+        "error": "\nInvalid `prisma.artist.findUnique()` invocation in\n/Users/eric/musekidoc/scripts/import-task01-final.ts:37:44\n\n  34 for (const artist of relatedArtists) {\n  35   try {\n  36     // 检查是否已存在\n→ 37     const existing = await prisma.artist.findUnique(\n"
+      },
+      {
+        "artist": "桑田卓郎",
+        "error": "\nInvalid `prisma.artist.findUnique()` invocation in\n/Users/eric/musekidoc/scripts/import-task01-final.ts:37:44\n\n  34 for (const artist of relatedArtists) {\n  35   try {\n  36     // 检查是否已存在\n→ 37     const existing = await prisma.artist.findUnique(\n"
+      },
+      {
+        "artist": "下村淳",
+        "error": "\nInvalid `prisma.artist.findUnique()` invocation in\n/Users/eric/musekidoc/scripts/import-task01-final.ts:37:44\n\n  34 for (const artist of relatedArtists) {\n  35   try {\n  36     // 检查是否已存在\n→ 37     const existing = await prisma.artist.findUnique(\n"
+      },
+      {
+        "artist": "市野雅彦",
+        "error": "\nInvalid `prisma.artist.findUnique()` invocation in\n/Users/eric/musekidoc/scripts/import-task01-final.ts:37:44\n\n  34 for (const artist of relatedArtists) {\n  35   try {\n  36     // 检查是否已存在\n→ 37     const existing = await prisma.artist.findUnique(\n"
+      },
+      {
+        "artist": "濱田庄司",
+        "error": "\nInvalid `prisma.artist.findUnique()` invocation in\n/Users/eric/musekidoc/scripts/import-task01-final.ts:37:44\n\n  34 for (const artist of relatedArtists) {\n  35   try {\n  36     // 检查是否已存在\n→ 37     const existing = await prisma.artist.findUnique(\n"
+      },
+      {
+        "artist": "滨田友绪",
+        "error": "\nInvalid `prisma.artist.findUnique()` invocation in\n/Users/eric/musekidoc/scripts/import-task01-final.ts:37:44\n\n  34 for (const artist of relatedArtists) {\n  35   try {\n  36     // 检查是否已存在\n→ 37     const existing = await prisma.artist.findUnique(\n"
+      }
+    ]
+  },
+  "techniques": {
+    "total": 15,
+    "success": 0,
+    "skipped": 0,
+    "failed": 15,
+    "errors": [
+      {
+        "technique": "志野釉",
+        "error": "\nInvalid `prisma.potteryEntry.findUnique()` invocation in\n/Users/eric/musekidoc/scripts/import-task01-final.ts:110:50\n\n  107 for (const technique of glazeTechniques) {\n  108   try {\n  109     // 检查是否已存在\n→ 110     const existing = await prisma.potteryEntry.findUnique(\n"
+      },
+      {
+        "technique": "织部釉",
+        "error": "\nInvalid `prisma.potteryEntry.findUnique()` invocation in\n/Users/eric/musekidoc/scripts/import-task01-final.ts:110:50\n\n  107 for (const technique of glazeTechniques) {\n  108   try {\n  109     // 检查是否已存在\n→ 110     const existing = await prisma.potteryEntry.findUnique(\n"
+      },
+      {
+        "technique": "青磁釉",
+        "error": "\nInvalid `prisma.potteryEntry.findUnique()` invocation in\n/Users/eric/musekidoc/scripts/import-task01-final.ts:110:50\n\n  107 for (const technique of glazeTechniques) {\n  108   try {\n  109     // 检查是否已存在\n→ 110     const existing = await prisma.potteryEntry.findUnique(\n"
+      },
+      {
+        "technique": "白磁釉",
+        "error": "\nInvalid `prisma.potteryEntry.findUnique()` invocation in\n/Users/eric/musekidoc/scripts/import-task01-final.ts:110:50\n\n  107 for (const technique of glazeTechniques) {\n  108   try {\n  109     // 检查是否已存在\n→ 110     const existing = await prisma.potteryEntry.findUnique(\n"
+      },
+      {
+        "technique": "天目釉",
+        "error": "\nInvalid `prisma.potteryEntry.findUnique()` invocation in\n/Users/eric/musekidoc/scripts/import-task01-final.ts:110:50\n\n  107 for (const technique of glazeTechniques) {\n  108   try {\n  109     // 检查是否已存在\n→ 110     const existing = await prisma.potteryEntry.findUnique(\n"
+      },
+      {
+        "technique": "铁釉",
+        "error": "\nInvalid `prisma.potteryEntry.findUnique()` invocation in\n/Users/eric/musekidoc/scripts/import-task01-final.ts:110:50\n\n  107 for (const technique of glazeTechniques) {\n  108   try {\n  109     // 检查是否已存在\n→ 110     const existing = await prisma.potteryEntry.findUnique(\n"
+      },
+      {
+        "technique": "灰釉",
+        "error": "\nInvalid `prisma.potteryEntry.findUnique()` invocation in\n/Users/eric/musekidoc/scripts/import-task01-final.ts:110:50\n\n  107 for (const technique of glazeTechniques) {\n  108   try {\n  109     // 检查是否已存在\n→ 110     const existing = await prisma.potteryEntry.findUnique(\n"
+      },
+      {
+        "technique": "辰砂釉",
+        "error": "\nInvalid `prisma.potteryEntry.findUnique()` invocation in\n/Users/eric/musekidoc/scripts/import-task01-final.ts:110:50\n\n  107 for (const technique of glazeTechniques) {\n  108   try {\n  109     // 检查是否已存在\n→ 110     const existing = await prisma.potteryEntry.findUnique(\n"
+      },
+      {
+        "technique": "瑠璃釉",
+        "error": "\nInvalid `prisma.potteryEntry.findUnique()` invocation in\n/Users/eric/musekidoc/scripts/import-task01-final.ts:110:50\n\n  107 for (const technique of glazeTechniques) {\n  108   try {\n  109     // 检查是否已存在\n→ 110     const existing = await prisma.potteryEntry.findUnique(\n"
+      },
+      {
+        "technique": "黄濑户",
+        "error": "\nInvalid `prisma.potteryEntry.findUnique()` invocation in\n/Users/eric/musekidoc/scripts/import-task01-final.ts:110:50\n\n  107 for (const technique of glazeTechniques) {\n  108   try {\n  109     // 检查是否已存在\n→ 110     const existing = await prisma.potteryEntry.findUnique(\n"
+      },
+      {
+        "technique": "乐釉",
+        "error": "\nInvalid `prisma.potteryEntry.findUnique()` invocation in\n/Users/eric/musekidoc/scripts/import-task01-final.ts:110:50\n\n  107 for (const technique of glazeTechniques) {\n  108   try {\n  109     // 检查是否已存在\n→ 110     const existing = await prisma.potteryEntry.findUnique(\n"
+      },
+      {
+        "technique": "粉引",
+        "error": "\nInvalid `prisma.potteryEntry.findUnique()` invocation in\n/Users/eric/musekidoc/scripts/import-task01-final.ts:110:50\n\n  107 for (const technique of glazeTechniques) {\n  108   try {\n  109     // 检查是否已存在\n→ 110     const existing = await prisma.potteryEntry.findUnique(\n"
+      },
+      {
+        "technique": "结晶釉",
+        "error": "\nInvalid `prisma.potteryEntry.findUnique()` invocation in\n/Users/eric/musekidoc/scripts/import-task01-final.ts:110:50\n\n  107 for (const technique of glazeTechniques) {\n  108   try {\n  109     // 检查是否已存在\n→ 110     const existing = await prisma.potteryEntry.findUnique(\n"
+      },
+      {
+        "technique": "御本手",
+        "error": "\nInvalid `prisma.potteryEntry.findUnique()` invocation in\n/Users/eric/musekidoc/scripts/import-task01-final.ts:110:50\n\n  107 for (const technique of glazeTechniques) {\n  108   try {\n  109     // 检查是否已存在\n→ 110     const existing = await prisma.potteryEntry.findUnique(\n"
+      },
+      {
+        "technique": "柿釉",
+        "error": "\nInvalid `prisma.potteryEntry.findUnique()` invocation in\n/Users/eric/musekidoc/scripts/import-task01-final.ts:110:50\n\n  107 for (const technique of glazeTechniques) {\n  108   try {\n  109     // 检查是否已存在\n→ 110     const existing = await prisma.potteryEntry.findUnique(\n"
+      }
+    ]
+  }
+}

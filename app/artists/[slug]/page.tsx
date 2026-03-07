@@ -302,7 +302,7 @@ export default async function ArtistDetailPage({
             {artist.potteryEntries.map((entry, index) => (
               <Link
                 key={entry.id}
-                href={`/notion/pottery/${entry.slug}`}
+                href={`/pottery/${entry.slug}`}
                 className="group block"
                 style={{
                   animation: 'fadeInUp 0.5s ease-out forwards',

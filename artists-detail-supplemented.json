@@ -37,12 +37,14 @@
       {
         "title": "KOGEI Art Fair Kanazawa 作家信息",
         "url": "https://kogei-artfair.jp/artists/280/",
-        "accessedAt": "2026-03-06"
+        "accessedAt": "2026-03-06",
+        "type": "展讯媒体"
       },
       {
         "title": "Instagram @karugane_akari",
         "url": "https://www.instagram.com/karugane_akari/",
-        "accessedAt": "2026-03-06"
+        "accessedAt": "2026-03-06",
+        "type": "社交媒体"
       },
       {
         "title": "Mahteh Ceramic Akari Karugane",
@@ -89,12 +91,14 @@
       {
         "title": "BRUTUS 文章",
         "url": "https://brutus.jp/new_utsuwa_iwakiri/",
-        "accessedAt": "2026-03-06"
+        "accessedAt": "2026-03-06",
+        "type": "生活方式媒体"
       },
       {
         "title": "Instagram @shuo_iwakiri",
         "url": "https://www.instagram.com/shuo_iwakiri/",
-        "accessedAt": "2026-03-06"
+        "accessedAt": "2026-03-06",
+        "type": "社交媒体"
       },
       {
         "title": "CLEAR GALLERY TOKYO 岩切秀央",
@@ -152,22 +156,26 @@
       {
         "title": "橋本知成 公式プロフィール",
         "url": "https://tomonarihashimoto.com/profile/",
-        "accessedAt": "2026-03-06"
+        "accessedAt": "2026-03-06",
+        "type": "作家官网"
       },
       {
         "title": "Instagram @hashimoto_tomonari",
         "url": "https://www.instagram.com/hashimoto_tomonari/",
-        "accessedAt": "2026-03-06"
+        "accessedAt": "2026-03-06",
+        "type": "社交媒体"
       },
       {
         "title": "Kura Monzen Gallery Hashimoto Tomonari",
         "url": "https://kuramonzen.com/pages/hashimoto-tomonari-%E6%A9%8B%E6%9C%AC-%E7%9F%A5%E6%88%90",
-        "accessedAt": "2026-03-06"
+        "accessedAt": "2026-03-06",
+        "type": "画廊资料"
       },
       {
         "title": "WWDJAPAN LOEWE Craft Prize 2019",
         "url": "https://www.wwdjapan.com/articles/789121",
-        "accessedAt": "2026-03-06"
+        "accessedAt": "2026-03-06",
+        "type": "专题资料"
       }
     ]
   },
@@ -219,12 +227,14 @@
       {
         "title": "Ippodo Gallery 作家简介",
         "url": "https://www.ippodogallery.com/artists/85-kodai-ujiie/biography/",
-        "accessedAt": "2026-03-06"
+        "accessedAt": "2026-03-06",
+        "type": "画廊资料"
       },
       {
         "title": "Instagram @koudaiujiie",
         "url": "https://www.instagram.com/koudaiujiie/",
-        "accessedAt": "2026-03-06"
+        "accessedAt": "2026-03-06",
+        "type": "社交媒体"
       },
       {
         "title": "氏家昂大 公式网站",
@@ -271,12 +281,14 @@
       {
         "title": "福村龍太 个人网站",
         "url": "https://www.ryutafukumura.com/about",
-        "accessedAt": "2026-03-06"
+        "accessedAt": "2026-03-06",
+        "type": "作家官网"
       },
       {
         "title": "Instagram @ryutafukumura",
         "url": "https://www.instagram.com/ryutafukumura/",
-        "accessedAt": "2026-03-06"
+        "accessedAt": "2026-03-06",
+        "type": "社交媒体"
       },
       {
         "title": "福村龍太 公式网站",
@@ -347,17 +359,20 @@
       {
         "title": "酒井智也 个人网站",
         "url": "https://tomoyasakai.com/en/",
-        "accessedAt": "2026-03-06"
+        "accessedAt": "2026-03-06",
+        "type": "作家官网"
       },
       {
         "title": "个人网站",
         "url": "https://sakaitomoya.amebaownd.com/",
-        "accessedAt": "2026-03-06"
+        "accessedAt": "2026-03-06",
+        "type": "作家官网"
       },
       {
         "title": "Instagram @s_tomoya1212",
         "url": "https://www.instagram.com/s_tomoya1212/",
-        "accessedAt": "2026-03-06"
+        "accessedAt": "2026-03-06",
+        "type": "社交媒体"
       },
       {
         "title": "酒井智也 公式网站",
@@ -420,17 +435,20 @@
       {
         "title": "Patrick Davies CA - 艺术家页面",
         "url": "https://www.patrickdaviesca.com/artists/44-yuta-segawa/",
-        "accessedAt": "2026-03-06"
+        "accessedAt": "2026-03-06",
+        "type": "专题资料"
       },
       {
         "title": "Cambridge Gallery",
         "url": "https://www.cambridgegallery.co.uk/yuta-segawa",
-        "accessedAt": "2026-03-06"
+        "accessedAt": "2026-03-06",
+        "type": "画廊资料"
       },
       {
         "title": "Instagram @yutasegawa_ceramics",
         "url": "https://www.instagram.com/yutasegawa_ceramics/",
-        "accessedAt": "2026-03-06"
+        "accessedAt": "2026-03-06",
+        "type": "社交媒体"
       },
       {
         "title": "瀬川裕太 公式网站",
@@ -482,17 +500,20 @@
       {
         "title": "栗原香織 个人网站",
         "url": "https://www.kaorikurihara.com/about",
-        "accessedAt": "2026-03-06"
+        "accessedAt": "2026-03-06",
+        "type": "作家官网"
       },
       {
         "title": "Homo Faber 艺术家档案",
         "url": "https://www.homofaber.com/en/artisans/kaori-kurihara-ceramics-france",
-        "accessedAt": "2026-03-06"
+        "accessedAt": "2026-03-06",
+        "type": "专题资料"
       },
       {
         "title": "Instagram @kaorikurihara.ceramique",
         "url": "https://www.instagram.com/kaorikurihara.ceramique/",
-        "accessedAt": "2026-03-06"
+        "accessedAt": "2026-03-06",
+        "type": "社交媒体"
       }
     ]
   },
@@ -534,12 +555,14 @@
       {
         "title": "株式会社織部 展讯",
         "url": "https://oribe-minoyaki.com/events/%E9%A6%AC%E9%87%8E%E7%9C%9F%E5%90%BE%E9%99%B6%E5%B1%95/",
-        "accessedAt": "2026-03-06"
+        "accessedAt": "2026-03-06",
+        "type": "专题资料"
       },
       {
         "title": "Instagram @shingo.umano",
         "url": "https://www.instagram.com/shingo.umano/",
-        "accessedAt": "2026-03-06"
+        "accessedAt": "2026-03-06",
+        "type": "社交媒体"
       },
       {
         "title": "Monoina 馬野真吾 6.5寸浅鉢",
@@ -593,23 +616,26 @@
         "venue": "日本"
       }
     ],
-    "instagramHandle": "bizen_kazuya / @kaz__gallery",
+    "instagramHandle": "bizen_kazuya",
     "websiteUrl": "https://kazuyaishida.com",
     "sources": [
       {
         "title": "石田和也 个人网站",
         "url": "https://www.kazuyaishida.com/about",
-        "accessedAt": "2026-03-06"
+        "accessedAt": "2026-03-06",
+        "type": "作家官网"
       },
       {
         "title": "Unearthed Gallery",
         "url": "https://unearthed-gallery.com/pages/makers/kazuya-ishida",
-        "accessedAt": "2026-03-06"
+        "accessedAt": "2026-03-06",
+        "type": "画廊资料"
       },
       {
-        "title": "Instagram @bizen_kazuya / @kaz__gallery",
-        "url": "https://www.instagram.com/bizen_kazuya / @kaz__gallery/",
-        "accessedAt": "2026-03-06"
+        "title": "Instagram @bizen_kazuya",
+        "url": "https://www.instagram.com/bizen_kazuya/",
+        "accessedAt": "2026-03-06",
+        "type": "社交媒体"
       },
       {
         "title": "石田和也 公式网站",
@@ -662,12 +688,14 @@
       {
         "title": "oku 商品页与简介",
         "url": "https://store.oku-tokyo.com/products/%E7%A7%80%E9%87%8E%E7%9C%9F%E5%B8%8C-%E6%B1%B2%E3%81%BF%E5%87%BA%E3%81%97",
-        "accessedAt": "2026-03-06"
+        "accessedAt": "2026-03-06",
+        "type": "专题资料"
       },
       {
         "title": "Instagram @maki_shuno",
         "url": "https://www.instagram.com/maki_shuno/",
-        "accessedAt": "2026-03-06"
+        "accessedAt": "2026-03-06",
+        "type": "社交媒体"
       },
       {
         "title": "煎茶堂東京 首藤麻紀",
@@ -734,17 +762,20 @@
       {
         "title": "YUGEN 下村淳介绍",
         "url": "https://www.yugen-kyoto.com/ja-ar/collections/shimomura-atsushi-tw",
-        "accessedAt": "2026-03-06"
+        "accessedAt": "2026-03-06",
+        "type": "专题资料"
       },
       {
         "title": "下村淳展讯",
         "url": "https://www.eyl.co.jp/collections/atsushi-shimomura",
-        "accessedAt": "2026-03-06"
+        "accessedAt": "2026-03-06",
+        "type": "专题资料"
       },
       {
         "title": "Instagram @atsushi_shimomura",
         "url": "https://www.instagram.com/atsushi_shimomura/",
-        "accessedAt": "2026-03-06"
+        "accessedAt": "2026-03-06",
+        "type": "社交媒体"
       }
     ]
   },
@@ -798,12 +829,14 @@
       {
         "title": "N'so Kyoto - 艺术家介绍",
         "url": "https://nsokyoto.art/members/toru-kurokawa/",
-        "accessedAt": "2026-03-06"
+        "accessedAt": "2026-03-06",
+        "type": "专题资料"
       },
       {
         "title": "Garland Magazine 专访",
         "url": "https://garlandmag.com/toru-kuwakawa/",
-        "accessedAt": "2026-03-06"
+        "accessedAt": "2026-03-06",
+        "type": "专题资料"
       },
       {
         "title": "Art Platform Japan 黒川徹",
@@ -857,12 +890,14 @@
       {
         "title": "Wan KOGEI 作家档案",
         "url": "https://wankogei.com/collections/ryutaroyamada",
-        "accessedAt": "2026-03-06"
+        "accessedAt": "2026-03-06",
+        "type": "专题资料"
       },
       {
         "title": "Instagram @ryutaro4126",
         "url": "https://www.instagram.com/ryutaro4126/",
-        "accessedAt": "2026-03-06"
+        "accessedAt": "2026-03-06",
+        "type": "社交媒体"
       },
       {
         "title": "ぴあ 山田隆太郎 陶展",
@@ -909,12 +944,14 @@
       {
         "title": "KOHORO 作家介绍",
         "url": "https://kohoro.jp/collections/suzukikeiko",
-        "accessedAt": "2026-03-06"
+        "accessedAt": "2026-03-06",
+        "type": "电商"
       },
       {
         "title": "Instagram @keik0suzuki",
         "url": "https://www.instagram.com/keik0suzuki/",
-        "accessedAt": "2026-03-06"
+        "accessedAt": "2026-03-06",
+        "type": "社交媒体"
       },
       {
         "title": "KOHORO 鈴木敬子 展",
@@ -968,12 +1005,14 @@
       {
         "title": "ISOLATION JEWELRY 作家档案",
         "url": "https://isolation-jewelry.jp/collections/tetsuhiro-iwata-1",
-        "accessedAt": "2026-03-06"
+        "accessedAt": "2026-03-06",
+        "type": "专题资料"
       },
       {
         "title": "BRUTUS 文章",
         "url": "https://brutus.jp/new_utsuwa_iwata/",
-        "accessedAt": "2026-03-06"
+        "accessedAt": "2026-03-06",
+        "type": "生活方式媒体"
       },
       {
         "title": "BRUTUS 岩田哲宏 エッジプレート",
@@ -1036,22 +1075,26 @@
       {
         "title": "Alison Jacques - Takuro Kuwata",
         "url": "https://alisonjacques.com/artists/takuro-kuwata",
-        "accessedAt": "2026-03-06"
+        "accessedAt": "2026-03-06",
+        "type": "专题资料"
       },
       {
         "title": "Takuro Kuwata 作品页",
         "url": "https://www.artspace.com/artists/takuro_kuwata",
-        "accessedAt": "2026-03-06"
+        "accessedAt": "2026-03-06",
+        "type": "专题资料"
       },
       {
         "title": "Takuro Kuwata Official Site",
         "url": "https://takurokuwata.com/",
-        "accessedAt": "2026-03-06"
+        "accessedAt": "2026-03-06",
+        "type": "专题资料"
       },
       {
         "title": "Almine Rech Takuro Kuwata",
         "url": "https://www.alminerech.com/artists/3488-takuro-kuwata",
-        "accessedAt": "2026-03-06"
+        "accessedAt": "2026-03-06",
+        "type": "专题资料"
       },
       {
         "title": "桑田卓郎 公式网站",
@@ -1098,12 +1141,14 @@
       {
         "title": "filament 作家档案",
         "url": "https://filament-jp.net/hito/creator/takayuki-watanabe.html",
-        "accessedAt": "2026-03-06"
+        "accessedAt": "2026-03-06",
+        "type": "专题资料"
       },
       {
         "title": "Instagram @watanabe.takayuki",
         "url": "https://www.instagram.com/watanabe.takayuki/",
-        "accessedAt": "2026-03-06"
+        "accessedAt": "2026-03-06",
+        "type": "社交媒体"
       },
       {
         "title": "渡辺隆之 公式サイト",
@@ -1157,12 +1202,14 @@
       {
         "title": "Discover Japan - 八田亨介绍",
         "url": "https://discoverjapan-web.com/article/72301",
-        "accessedAt": "2026-03-06"
+        "accessedAt": "2026-03-06",
+        "type": "专题资料"
       },
       {
         "title": "Discover Japan - 作品集",
         "url": "https://discoverjapan-web.com/article/112647",
-        "accessedAt": "2026-03-06"
+        "accessedAt": "2026-03-06",
+        "type": "专题资料"
       },
       {
         "title": "チルチンびと広場 八田亨",
@@ -1221,12 +1268,14 @@
       {
         "title": "はなうつわ 作家信息",
         "url": "https://www.hanautsuwa.jp/staff/nikaidou/",
-        "accessedAt": "2026-03-06"
+        "accessedAt": "2026-03-06",
+        "type": "电商"
       },
       {
         "title": "Instagram @akihiro_nikaido",
         "url": "https://www.instagram.com/akihiro_nikaido/",
-        "accessedAt": "2026-03-06"
+        "accessedAt": "2026-03-06",
+        "type": "社交媒体"
       },
       {
         "title": "朝日新聞 Business Hub 二階堂明弘",
@@ -1280,12 +1329,14 @@
       {
         "title": "Gallery Japan 作家页",
         "url": "https://www.galleryjapan.com/locale/en_US/artist/1752/",
-        "accessedAt": "2026-03-06"
+        "accessedAt": "2026-03-06",
+        "type": "画廊资料"
       },
       {
         "title": "Instagram @?",
         "url": "https://www.instagram.com/?/",
-        "accessedAt": "2026-03-06"
+        "accessedAt": "2026-03-06",
+        "type": "社交媒体"
       },
       {
         "title": "山梨県立美術館 星野友幸展",
@@ -1333,12 +1384,14 @@
       {
         "title": "京都で遊ぼうART 展讯与简介",
         "url": "https://www.kyotodeasobo.com/art/exhibitions/atsukawa-fumiko/",
-        "accessedAt": "2026-03-06"
+        "accessedAt": "2026-03-06",
+        "type": "专题资料"
       },
       {
         "title": "うつわ魯庵",
         "url": "https://utsuwa-ku.com/library/2020-9-works3.html",
-        "accessedAt": "2026-03-06"
+        "accessedAt": "2026-03-06",
+        "type": "专题资料"
       },
       {
         "title": "Pinkoi 日本作家 厚川文子",
@@ -1390,17 +1443,20 @@
       {
         "title": "EHC Art - 艺术家档案",
         "url": "https://ehc.art/artists/daisuke-iguchi",
-        "accessedAt": "2026-03-06"
+        "accessedAt": "2026-03-06",
+        "type": "专题资料"
       },
       {
         "title": "真冈市文化大使",
         "url": "https://www.city.moka.lg.jp/kakuka/hishokoho/gyomu/1/ambassador/13878.html",
-        "accessedAt": "2026-03-06"
+        "accessedAt": "2026-03-06",
+        "type": "专题资料"
       },
       {
         "title": "Instagram @daisuke_igucci",
         "url": "https://www.instagram.com/daisuke_igucci/",
-        "accessedAt": "2026-03-06"
+        "accessedAt": "2026-03-06",
+        "type": "社交媒体"
       }
     ]
   },
@@ -1454,12 +1510,14 @@
       {
         "title": "Kaikai Kiki 画廊",
         "url": "https://en.gallery-kaikaikiki.com/category/artists/yuji-ueda/",
-        "accessedAt": "2026-03-06"
+        "accessedAt": "2026-03-06",
+        "type": "画廊资料"
       },
       {
         "title": "Instagram @yuji____ueda",
         "url": "https://www.instagram.com/yuji____ueda/",
-        "accessedAt": "2026-03-06"
+        "accessedAt": "2026-03-06",
+        "type": "社交媒体"
       },
       {
         "title": "Gendai Tojiki Yuji Ueda",
@@ -1513,12 +1571,14 @@
       {
         "title": "amane 商品与作家说明",
         "url": "https://www.amane-shop.net/items/67143756",
-        "accessedAt": "2026-03-06"
+        "accessedAt": "2026-03-06",
+        "type": "专题资料"
       },
       {
         "title": "Instagram @onthetable_mashiko（可能）",
         "url": "https://www.instagram.com/onthetable_mashiko（可能）/",
-        "accessedAt": "2026-03-06"
+        "accessedAt": "2026-03-06",
+        "type": "社交媒体"
       },
       {
         "title": "三越伊勢丹ふるさと納税 吉沢寛郎",
@@ -1594,12 +1654,14 @@
       {
         "title": "丹羽茶舗 展讯",
         "url": "https://niwachaho.jp/news/24049",
-        "accessedAt": "2026-03-06"
+        "accessedAt": "2026-03-06",
+        "type": "专题资料"
       },
       {
         "title": "Instagram @1480toshihisa",
         "url": "https://www.instagram.com/1480toshihisa/",
-        "accessedAt": "2026-03-06"
+        "accessedAt": "2026-03-06",
+        "type": "社交媒体"
       },
       {
         "title": "チルチンびと広場 石原稔久 個展",
@@ -1660,12 +1722,14 @@
       {
         "title": "煎茶堂东京访谈",
         "url": "https://shop.senchado.jp/blogs/dougu/20211105_interview_kameda-fumi",
-        "accessedAt": "2026-03-06"
+        "accessedAt": "2026-03-06",
+        "type": "电商"
       },
       {
         "title": "Instagram @daisukekameta",
         "url": "https://www.instagram.com/daisukekameta/",
-        "accessedAt": "2026-03-06"
+        "accessedAt": "2026-03-06",
+        "type": "社交媒体"
       },
       {
         "title": "KOHORO 亀田文",
@@ -1726,17 +1790,20 @@
       {
         "title": "湘南经济新闻",
         "url": "https://shonan.keizai.biz/headline/2162/",
-        "accessedAt": "2026-03-06"
+        "accessedAt": "2026-03-06",
+        "type": "专题资料"
       },
       {
         "title": "secret2019.thebase.in",
         "url": "https://secret2019.thebase.in/items/61046542",
-        "accessedAt": "2026-03-06"
+        "accessedAt": "2026-03-06",
+        "type": "专题资料"
       },
       {
         "title": "ギャラリー雅楽",
         "url": "https://www.gallery-garaku.ecnet.jp/past/2008/index.html",
-        "accessedAt": "2026-03-06"
+        "accessedAt": "2026-03-06",
+        "type": "画廊资料"
       }
     ]
   },
@@ -1779,23 +1846,26 @@
         "venue": "信乐"
       }
     ],
-    "instagramHandle": "otnps / @otntty",
+    "instagramHandle": "otnps",
     "websiteUrl": "https://ootanis.com",
     "sources": [
       {
         "title": "大谷制陶所",
         "url": "https://ootanis.com/",
-        "accessedAt": "2026-03-06"
+        "accessedAt": "2026-03-06",
+        "type": "专题资料"
       },
       {
         "title": "OKAZ DESIGN 商店简介",
         "url": "https://shop.okaz-design.jp/store/%E5%A4%A7%E8%B0%B7%E5%93%B2%E4%B9%9F-c119714013",
-        "accessedAt": "2026-03-06"
+        "accessedAt": "2026-03-06",
+        "type": "专题资料"
       },
       {
-        "title": "Instagram @otnps / @otntty",
-        "url": "https://www.instagram.com/otnps / @otntty/",
-        "accessedAt": "2026-03-06"
+        "title": "Instagram @otnps",
+        "url": "https://www.instagram.com/otnps/",
+        "accessedAt": "2026-03-06",
+        "type": "社交媒体"
       },
       {
         "title": "大谷哲也 公式网站",
@@ -1851,17 +1921,20 @@
       {
         "title": "日々の暮らし 作家简介",
         "url": "https://www.hibinokurashi.com/jp/pottery/11",
-        "accessedAt": "2026-03-06"
+        "accessedAt": "2026-03-06",
+        "type": "专题资料"
       },
       {
         "title": "日々の暮らし",
         "url": "https://www.hibinokurashi.com/jp/pottery/11）",
-        "accessedAt": "2026-03-06"
+        "accessedAt": "2026-03-06",
+        "type": "专题资料"
       },
       {
         "title": "chilchinbito-hiroba.jp",
         "url": "https://www.chilchinbito-hiroba.jp/event/24884/",
-        "accessedAt": "2026-03-06"
+        "accessedAt": "2026-03-06",
+        "type": "生活方式媒体"
       }
     ]
   },
@@ -1913,12 +1986,14 @@
       {
         "title": "G-Call 内田鋼一介绍",
         "url": "https://www.g-call.com/art/uchida/",
-        "accessedAt": "2026-03-06"
+        "accessedAt": "2026-03-06",
+        "type": "专题资料"
       },
       {
         "title": "BANKO archive design museum",
         "url": "https://banko.info/",
-        "accessedAt": "2026-03-06"
+        "accessedAt": "2026-03-06",
+        "type": "机构资料"
       },
       {
         "title": "KOGEI Art Fair Kanazawa 内田鋼一",
@@ -1972,17 +2047,20 @@
       {
         "title": "濱田窑 / 濱田友绪资料",
         "url": "https://mashiko-hamada.com/",
-        "accessedAt": "2026-03-06"
+        "accessedAt": "2026-03-06",
+        "type": "专题资料"
       },
       {
         "title": "濱田友绪工房信息",
         "url": "https://mashiko-hamada.com/tomoo/",
-        "accessedAt": "2026-03-06"
+        "accessedAt": "2026-03-06",
+        "type": "专题资料"
       },
       {
         "title": "益子观光协会访谈",
         "url": "https://mashiko-tourism.com/interview/tomoo_hamada.php",
-        "accessedAt": "2026-03-06"
+        "accessedAt": "2026-03-06",
+        "type": "专题资料"
       }
     ]
   },
@@ -2033,12 +2111,14 @@
       {
         "title": "IDEE 访谈",
         "url": "https://www.idee-lifeinart.com/interview/akio_nukaga/index.html",
-        "accessedAt": "2026-03-06"
+        "accessedAt": "2026-03-06",
+        "type": "专题资料"
       },
       {
         "title": "Instagram @nceramicstudio",
         "url": "https://www.instagram.com/nceramicstudio/",
-        "accessedAt": "2026-03-06"
+        "accessedAt": "2026-03-06",
+        "type": "社交媒体"
       },
       {
         "title": "額賀章夫 公式网站",
@@ -2094,27 +2174,32 @@
       {
         "title": "もみじ市 作家介绍",
         "url": "https://momijiichi.com/2019/creators/wakastudio",
-        "accessedAt": "2026-03-06"
+        "accessedAt": "2026-03-06",
+        "type": "专题资料"
       },
       {
         "title": "もみじ市",
         "url": "https://momijiichi.com/2019/creators/wakastudio）",
-        "accessedAt": "2026-03-06"
+        "accessedAt": "2026-03-06",
+        "type": "专题资料"
       },
       {
         "title": "にわのわ",
         "url": "https://niwanowa.info/2017/04/02/5476/",
-        "accessedAt": "2026-03-06"
+        "accessedAt": "2026-03-06",
+        "type": "专题资料"
       },
       {
         "title": "Discover Japan",
         "url": "https://discoverjapan-web.com/article/144300",
-        "accessedAt": "2026-03-06"
+        "accessedAt": "2026-03-06",
+        "type": "专题资料"
       },
       {
         "title": "FB Terrace",
         "url": "https://fb-terrace.shop/items/637601f34aed197959a8f992",
-        "accessedAt": "2026-03-06"
+        "accessedAt": "2026-03-06",
+        "type": "专题资料"
       }
     ]
   },
@@ -2164,32 +2249,38 @@
       {
         "title": "UTSUWA HIYORI 作家简介",
         "url": "https://utsuwahiyori.com/collections/atsushi-ogata",
-        "accessedAt": "2026-03-06"
+        "accessedAt": "2026-03-06",
+        "type": "专题资料"
       },
       {
         "title": "utsuwahiyori.com",
         "url": "https://utsuwahiyori.com/collections/atsushi-ogata）",
-        "accessedAt": "2026-03-06"
+        "accessedAt": "2026-03-06",
+        "type": "专题资料"
       },
       {
         "title": "note",
         "url": "https://note.com/kdesign1331/n/n9f3100206db5",
-        "accessedAt": "2026-03-06"
+        "accessedAt": "2026-03-06",
+        "type": "专题资料"
       },
       {
         "title": "YUGEN Kyoto",
         "url": "https://www.yugen-kyoto.com/en-us/collections/ogata-atsushi-tw",
-        "accessedAt": "2026-03-06"
+        "accessedAt": "2026-03-06",
+        "type": "专题资料"
       },
       {
         "title": "hitonoto store",
         "url": "https://store.hitonoto.com/collections/ogataatsushi",
-        "accessedAt": "2026-03-06"
+        "accessedAt": "2026-03-06",
+        "type": "电商"
       },
       {
         "title": "hitonoto store",
         "url": "https://store.hitonoto.com/products/atsushi-oogata-work-1",
-        "accessedAt": "2026-03-06"
+        "accessedAt": "2026-03-06",
+        "type": "电商"
       }
     ]
   },
@@ -2249,27 +2340,32 @@
       {
         "title": "Daiichi Arts 作家简介",
         "url": "https://www.daiichiarts.com/artists/112-takeuchi-shingo/biography/",
-        "accessedAt": "2026-03-06"
+        "accessedAt": "2026-03-06",
+        "type": "专题资料"
       },
       {
         "title": "instagram.com",
         "url": "https://www.instagram.com/shingo_takeuchi_/`。",
-        "accessedAt": "2026-03-06"
+        "accessedAt": "2026-03-06",
+        "type": "社交媒体"
       },
       {
         "title": "Terra Delft",
         "url": "https://www.terra-delft.nl/en/artist/-shingo-takeuchi",
-        "accessedAt": "2026-03-06"
+        "accessedAt": "2026-03-06",
+        "type": "专题资料"
       },
       {
         "title": "infldb.com",
         "url": "https://infldb.com/top-influencers-by-category/ceramic%20art",
-        "accessedAt": "2026-03-06"
+        "accessedAt": "2026-03-06",
+        "type": "专题资料"
       },
       {
         "title": "Instagram @shingo_takeuchi_",
         "url": "https://www.instagram.com/shingo_takeuchi_/",
-        "accessedAt": "2026-03-06"
+        "accessedAt": "2026-03-06",
+        "type": "社交媒体"
       }
     ]
   },
@@ -2336,12 +2432,14 @@
       {
         "title": "G-Call 作家介绍",
         "url": "https://www.g-call.com/art/muraki/",
-        "accessedAt": "2026-03-06"
+        "accessedAt": "2026-03-06",
+        "type": "专题资料"
       },
       {
         "title": "G-Call 作家プロフィール",
         "url": "https://www.g-call.com/art/muraki/profile.php",
-        "accessedAt": "2026-03-06"
+        "accessedAt": "2026-03-06",
+        "type": "专题资料"
       },
       {
         "title": "Japan House London Muraki Yuji",
@@ -2397,12 +2495,14 @@
       {
         "title": "卒寿纪念 人间国宝 鈴木藏的志野展",
         "url": "https://www.momat.go.jp/craft-museum/exhibitions/570",
-        "accessedAt": "2026-03-06"
+        "accessedAt": "2026-03-06",
+        "type": "机构资料"
       },
       {
         "title": "鈴木藏工房",
         "url": "https://www.suzuki-osamu.jp/",
-        "accessedAt": "2026-03-06"
+        "accessedAt": "2026-03-06",
+        "type": "专题资料"
       },
       {
         "title": "ぴあ 米寿記念 人間国宝 鈴木藏展",
@@ -2461,17 +2561,20 @@
       {
         "title": "安来市加納美術館 藤原雄",
         "url": "https://www.art-kano.jp/collection/bizenyaki/50",
-        "accessedAt": "2026-03-06"
+        "accessedAt": "2026-03-06",
+        "type": "专题资料"
       },
       {
         "title": "インターネットミュージアム The 備前",
         "url": "https://www.museum.or.jp/news/4312",
-        "accessedAt": "2026-03-06"
+        "accessedAt": "2026-03-06",
+        "type": "专题资料"
       },
       {
         "title": "アート買取協会 藤原雄",
         "url": "https://www.artkaitori.com/artwork/%E5%82%99%E5%89%8D%E5%A3%BA/",
-        "accessedAt": "2026-03-06"
+        "accessedAt": "2026-03-06",
+        "type": "专题资料"
       }
     ]
   },
@@ -2530,12 +2633,14 @@
       {
         "title": "井上萬二官方站",
         "url": "https://www.manjiinoue.com/",
-        "accessedAt": "2026-03-06"
+        "accessedAt": "2026-03-06",
+        "type": "专题资料"
       },
       {
         "title": "井上萬二 白磁资料",
         "url": "https://www.arita.jp/kouryu/jinbutsu/inouemanji/",
-        "accessedAt": "2026-03-06"
+        "accessedAt": "2026-03-06",
+        "type": "专题资料"
       },
       {
         "title": "井上萬二 公式网站",
@@ -2597,12 +2702,14 @@
       {
         "title": "今右卫门官方站",
         "url": "https://www.imaemon.co.jp/",
-        "accessedAt": "2026-03-06"
+        "accessedAt": "2026-03-06",
+        "type": "专题资料"
       },
       {
         "title": "今右卫门相关资料",
         "url": "https://www.imaemon.co.jp/about/",
-        "accessedAt": "2026-03-06"
+        "accessedAt": "2026-03-06",
+        "type": "专题资料"
       },
       {
         "title": "十三代今泉今右衛門 公式网站",
@@ -2660,12 +2767,14 @@
       {
         "title": "清水卯一资料",
         "url": "https://www.kogei-japan.com/locale/ja_JP/shimizuuichi/",
-        "accessedAt": "2026-03-06"
+        "accessedAt": "2026-03-06",
+        "type": "专题资料"
       },
       {
         "title": "蓬莱窑相关资料",
         "url": "https://www.city.otsu.lg.jp/museum/uchii/",
-        "accessedAt": "2026-03-06"
+        "accessedAt": "2026-03-06",
+        "type": "专题资料"
       },
       {
         "title": "Art Platform Japan 清水卯一 青瓷茶碗",
@@ -2743,17 +2852,20 @@
       {
         "title": "藤本能道相关展讯",
         "url": "https://www.musee-tomo.or.jp/exhibitions/2025/toridori/",
-        "accessedAt": "2026-03-06"
+        "accessedAt": "2026-03-06",
+        "type": "专题资料"
       },
       {
         "title": "青梅市立美术馆 藤本能道展",
         "url": "https://www.city.ome.tokyo.jp/site/art-museum/75121.html",
-        "accessedAt": "2026-03-06"
+        "accessedAt": "2026-03-06",
+        "type": "机构资料"
       },
       {
         "title": "今右衛門 三人の人間国宝による色絵磁器",
         "url": "https://www.imaemon.co.jp/information/imaemongama/000326.html",
-        "accessedAt": "2026-03-06"
+        "accessedAt": "2026-03-06",
+        "type": "专题资料"
       }
     ]
   },
@@ -2809,12 +2921,14 @@
       {
         "title": "島岡達三相关资料",
         "url": "https://www.mashiko-museum.jp/collection/shimaoka/",
-        "accessedAt": "2026-03-06"
+        "accessedAt": "2026-03-06",
+        "type": "专题资料"
       },
       {
         "title": "島岡達三与縄文象嵌",
         "url": "https://masuken.jp/column/ningenkokuhou14/",
-        "accessedAt": "2026-03-06"
+        "accessedAt": "2026-03-06",
+        "type": "专题资料"
       },
       {
         "title": "Art Platform Japan 島岡達三",
@@ -2871,17 +2985,20 @@
       {
         "title": "金城次郎館 公式サイト",
         "url": "https://www.kinjojirokan.com/",
-        "accessedAt": "2026-03-06"
+        "accessedAt": "2026-03-06",
+        "type": "专题资料"
       },
       {
         "title": "読谷村 金城次郎展",
         "url": "https://www.vill.yomitan.okinawa.jp/soshiki/bunka_shinko/gyomu/6111.html",
-        "accessedAt": "2026-03-06"
+        "accessedAt": "2026-03-06",
+        "type": "专题资料"
       },
       {
         "title": "沖縄タイムス 金城次郎館オープン",
         "url": "https://www.okinawatimes.co.jp/articles/-/1095470",
-        "accessedAt": "2026-03-06"
+        "accessedAt": "2026-03-06",
+        "type": "专题资料"
       }
     ]
   },
@@ -2954,12 +3071,14 @@
       {
         "title": "塚本快示资料",
         "url": "https://www.kogei-japan.com/locale/ja_JP/tsukamotokaiji/",
-        "accessedAt": "2026-03-06"
+        "accessedAt": "2026-03-06",
+        "type": "专题资料"
       },
       {
         "title": "快山窑介绍",
         "url": "https://kaizan-gama.com/",
-        "accessedAt": "2026-03-06"
+        "accessedAt": "2026-03-06",
+        "type": "专题资料"
       },
       {
         "title": "Art Platform Japan 塚本快示 白瓷高杯",
@@ -3018,12 +3137,14 @@
       {
         "title": "三轮窑官方站",
         "url": "https://www.hagiyaki-miwa.com/",
-        "accessedAt": "2026-03-06"
+        "accessedAt": "2026-03-06",
+        "type": "专题资料"
       },
       {
         "title": "三轮壽雪相关资料",
         "url": "https://www.hagishi.com/search/detail.php?d=900013",
-        "accessedAt": "2026-03-06"
+        "accessedAt": "2026-03-06",
+        "type": "专题资料"
       },
       {
         "title": "Art Platform Japan 三輪壽雪 鬼萩",
@@ -3082,17 +3203,20 @@
       {
         "title": "安来市加納美術館 山本陶秀",
         "url": "https://www.art-kano.jp/collection/bizenyaki/51",
-        "accessedAt": "2026-03-06"
+        "accessedAt": "2026-03-06",
+        "type": "专题资料"
       },
       {
         "title": "安来市加納美術館 山本陶秀と青戸慧",
         "url": "https://www.art-kano.jp/exhibition/kako/y2016/100",
-        "accessedAt": "2026-03-06"
+        "accessedAt": "2026-03-06",
+        "type": "专题资料"
       },
       {
         "title": "おいだ美術 山本陶秀「備前」",
         "url": "https://www.oida-art.com/archives/works/w7848",
-        "accessedAt": "2026-03-06"
+        "accessedAt": "2026-03-06",
+        "type": "专题资料"
       }
     ]
   },
@@ -3142,22 +3266,26 @@
       {
         "title": "加藤土师萌资料",
         "url": "https://www.pref.kanagawa.jp/docs/yi4/cnt/f530136/",
-        "accessedAt": "2026-03-06"
+        "accessedAt": "2026-03-06",
+        "type": "专题资料"
       },
       {
         "title": "加藤土师萌介绍",
         "url": "https://www.kurodatoen.co.jp/artist/katohajime/",
-        "accessedAt": "2026-03-06"
+        "accessedAt": "2026-03-06",
+        "type": "专题资料"
       },
       {
         "title": "神奈川県立歴史博物館 加藤土師萌",
         "url": "https://ch.kanagawa-museum.jp/permanent_exhibition/category/collect/katohajime_04",
-        "accessedAt": "2026-03-06"
+        "accessedAt": "2026-03-06",
+        "type": "专题资料"
       },
       {
         "title": "銀座黒田陶苑 加藤土師萌",
         "url": "https://kurodatouen.com/gallerydata/311",
-        "accessedAt": "2026-03-06"
+        "accessedAt": "2026-03-06",
+        "type": "画廊资料"
       }
     ]
   },
@@ -3210,17 +3338,20 @@
       {
         "title": "FAN美術館・藤原啓記念館",
         "url": "https://www.museum.or.jp/museum/17689",
-        "accessedAt": "2026-03-06"
+        "accessedAt": "2026-03-06",
+        "type": "专题资料"
       },
       {
         "title": "安来市加納美術館 藤原啓",
         "url": "https://www.art-kano.jp/collection/bizenyaki/53",
-        "accessedAt": "2026-03-06"
+        "accessedAt": "2026-03-06",
+        "type": "专题资料"
       },
       {
         "title": "おいだ美術 藤原啓「備前片口」",
         "url": "https://www.oida-art.com/archives/works/w12390",
-        "accessedAt": "2026-03-06"
+        "accessedAt": "2026-03-06",
+        "type": "专题资料"
       }
     ]
   },
@@ -3274,17 +3405,20 @@
       {
         "title": "倉敷市立美術館 金重陶陽「閑古鳥香炉」",
         "url": "https://www.city.kurashiki.okayama.jp/kcam/collection/1012675/1012684/1012728/1012861.html",
-        "accessedAt": "2026-03-06"
+        "accessedAt": "2026-03-06",
+        "type": "专题资料"
       },
       {
         "title": "アートコモンズ 金重陶陽 没後50年展",
         "url": "https://www.nact.jp/artcommons/user/detail/55003",
-        "accessedAt": "2026-03-06"
+        "accessedAt": "2026-03-06",
+        "type": "专题资料"
       },
       {
         "title": "APJ 金重陶陽《備前酒呑》",
         "url": "https://artplatform.go.jp/ja/collections/W1132124",
-        "accessedAt": "2026-03-06"
+        "accessedAt": "2026-03-06",
+        "type": "官方资料"
       }
     ]
   },
@@ -3332,17 +3466,20 @@
       {
         "title": "三輪窯 公式サイト",
         "url": "https://www.hagiyaki-miwa.com/",
-        "accessedAt": "2026-03-06"
+        "accessedAt": "2026-03-06",
+        "type": "专题资料"
       },
       {
         "title": "しぶや黒田陶苑 三輪休和",
         "url": "https://kurodatouen.com/gallerydata/554",
-        "accessedAt": "2026-03-06"
+        "accessedAt": "2026-03-06",
+        "type": "画廊资料"
       },
       {
         "title": "山口県立萩美術館・浦上記念館",
         "url": "https://hum-web.jp/",
-        "accessedAt": "2026-03-06"
+        "accessedAt": "2026-03-06",
+        "type": "专题资料"
       }
     ]
   },
@@ -3398,12 +3535,14 @@
       {
         "title": "中里太郎右卫门陶房",
         "url": "https://www.nakazato-taroemon.com/",
-        "accessedAt": "2026-03-06"
+        "accessedAt": "2026-03-06",
+        "type": "专题资料"
       },
       {
         "title": "中里无庵相关资料",
         "url": "https://www.karatsu-kankou.jp/feature/nakazato.html",
-        "accessedAt": "2026-03-06"
+        "accessedAt": "2026-03-06",
+        "type": "专题资料"
       },
       {
         "title": "Art Platform Japan 中里無庵 唐津井戸茶盌",
@@ -3461,12 +3600,14 @@
       {
         "title": "荒川豊藏资料 - 岐阜县现代陶艺美术馆",
         "url": "https://www.cpm-gifu.jp/museum/02.exhibition/02_1.exhibition/exhibition/2022/07/post-9.html",
-        "accessedAt": "2026-03-06"
+        "accessedAt": "2026-03-06",
+        "type": "机构资料"
       },
       {
         "title": "荒川豊藏工房资料",
         "url": "https://www.tajimi-bunka.or.jp/toyozo/",
-        "accessedAt": "2026-03-06"
+        "accessedAt": "2026-03-06",
+        "type": "专题资料"
       },
       {
         "title": "Art Platform Japan 荒川豊藏 志野山之絵徳利",
@@ -3523,12 +3664,14 @@
       {
         "title": "民艺运动中的濱田庄司",
         "url": "https://www.douban.com/note/621280159/",
-        "accessedAt": "2026-03-06"
+        "accessedAt": "2026-03-06",
+        "type": "专题资料"
       },
       {
         "title": "濱田庄司相关资料",
         "url": "https://www.mashiko-sankokan.net/hamadasyoji/",
-        "accessedAt": "2026-03-06"
+        "accessedAt": "2026-03-06",
+        "type": "专题资料"
       },
       {
         "title": "日本民藝館 濱田庄司作品",
@@ -3597,12 +3740,14 @@
       {
         "title": "石黑宗麿资料 - 东京国立近代美术馆",
         "url": "https://www.momat.go.jp/craft-museum/collections/items/munemaro-ishiguro",
-        "accessedAt": "2026-03-06"
+        "accessedAt": "2026-03-06",
+        "type": "机构资料"
       },
       {
         "title": "石黑宗麿介绍",
         "url": "https://www.kurodatoen.co.jp/artist/ishiguromunemaro/",
-        "accessedAt": "2026-03-06"
+        "accessedAt": "2026-03-06",
+        "type": "专题资料"
       },
       {
         "title": "新湊博物館 石黒宗麿",
@@ -3655,12 +3800,14 @@
       {
         "title": "富本宪吉相关资料",
         "url": "https://www.town.ando.nara.jp/0000001115.html",
-        "accessedAt": "2026-03-06"
+        "accessedAt": "2026-03-06",
+        "type": "专题资料"
       },
       {
         "title": "京都国立近代美术馆 富本宪吉展资料",
         "url": "https://www.momak.go.jp/Japanese/exhibitionArchive/2006/363.html",
-        "accessedAt": "2026-03-06"
+        "accessedAt": "2026-03-06",
+        "type": "官方资料"
       },
       {
         "title": "Art Platform Japan 富本憲吉案 富泉蓋物",
@@ -3717,17 +3864,20 @@
       {
         "title": "Koto Tea - 艺术家介绍",
         "url": "https://www.kototea.com/takashi-endo/",
-        "accessedAt": "2026-03-06"
+        "accessedAt": "2026-03-06",
+        "type": "专题资料"
       },
       {
         "title": "Pen Online 专访",
         "url": "https://pen-online.com/design/takashi-endo-elevates-ceramics-to-an-art-form/",
-        "accessedAt": "2026-03-06"
+        "accessedAt": "2026-03-06",
+        "type": "专题资料"
       },
       {
         "title": "Instagram @t_endoh",
         "url": "https://www.instagram.com/t_endoh/",
-        "accessedAt": "2026-03-06"
+        "accessedAt": "2026-03-06",
+        "type": "社交媒体"
       }
     ]
   },
@@ -3776,12 +3926,14 @@
       {
         "title": "KACF First Patronage Program",
         "url": "https://fpf.kacf.jp/2024/06/21/%E6%BC%86%E8%8A%B8%E4%BD%9C%E5%AE%B6%E3%83%BB%E4%BA%94%E5%B6%8B-%E7%A9%82%E6%B3%A2-%E4%BD%9C%E5%93%81%E7%B4%B9%E4%BB%8B-%EF%BC%8D%E3%80%8Cbowl-flowering%E3%80%8D/",
-        "accessedAt": "2026-03-06"
+        "accessedAt": "2026-03-06",
+        "type": "专题资料"
       },
       {
         "title": "Instagram @honameg",
         "url": "https://www.instagram.com/honameg/",
-        "accessedAt": "2026-03-06"
+        "accessedAt": "2026-03-06",
+        "type": "社交媒体"
       },
       {
         "title": "FIRST PATRONAGE PROGRAM 五嶋穂波",
@@ -3836,12 +3988,14 @@
       {
         "title": "益子陶器市 出店者信息",
         "url": "https://toukiichi.mashiko-db.net/exhibitor/579/",
-        "accessedAt": "2026-03-06"
+        "accessedAt": "2026-03-06",
+        "type": "专题资料"
       },
       {
         "title": "Instagram @yoshimitsu_inayoshi",
         "url": "https://www.instagram.com/yoshimitsu_inayoshi/",
-        "accessedAt": "2026-03-06"
+        "accessedAt": "2026-03-06",
+        "type": "社交媒体"
       },
       {
         "title": "KOHORO 稲吉善光",
@@ -3914,12 +4068,14 @@
       {
         "title": "gallery soyo 商品说明",
         "url": "https://gallery-soyo.com/products/%E7%82%AD%E5%8C%96%E9%99%B6%E6%9D%BF",
-        "accessedAt": "2026-03-06"
+        "accessedAt": "2026-03-06",
+        "type": "画廊资料"
       },
       {
         "title": "おこげ職場",
         "url": "https://ocogeshokuba.com/pages/yoshimitsu-ishihara-vase",
-        "accessedAt": "2026-03-06"
+        "accessedAt": "2026-03-06",
+        "type": "专题资料"
       },
       {
         "title": "Achsone 石原祥充 鉄絵広口湯呑",
@@ -3973,12 +4129,14 @@
       {
         "title": "gallery 一白 作家介绍",
         "url": "https://www.ippaku.jp/blog/2022/01/22/233201",
-        "accessedAt": "2026-03-06"
+        "accessedAt": "2026-03-06",
+        "type": "画廊资料"
       },
       {
         "title": "Yahoo!ショッピング 石原ゆきえ リムプレート",
         "url": "https://store.shopping.yahoo.co.jp/bamboo-leaf/is-01.html",
-        "accessedAt": "2026-03-06"
+        "accessedAt": "2026-03-06",
+        "type": "专题资料"
       },
       {
         "title": "savi no niwa 石原ゆきえ",
@@ -4034,17 +4192,20 @@
       {
         "title": "Wonder Mug - 艺术家档案",
         "url": "https://www.wondermug.jp/artist/ryuji-iwasaki/",
-        "accessedAt": "2026-03-06"
+        "accessedAt": "2026-03-06",
+        "type": "专题资料"
       },
       {
         "title": "个人网站展览信息",
         "url": "https://iwasakiryuji.com/event/20250215umedahankyu/",
-        "accessedAt": "2026-03-06"
+        "accessedAt": "2026-03-06",
+        "type": "作家官网"
       },
       {
         "title": "Instagram @iwasakiryuji",
         "url": "https://www.instagram.com/iwasakiryuji/",
-        "accessedAt": "2026-03-06"
+        "accessedAt": "2026-03-06",
+        "type": "社交媒体"
       }
     ]
   },
@@ -4094,17 +4255,20 @@
       {
         "title": "momofuku",
         "url": "https://www.momofuku.jp/2022/01/31/post-10867/",
-        "accessedAt": "2026-03-06"
+        "accessedAt": "2026-03-06",
+        "type": "专题资料"
       },
       {
         "title": "cooan",
         "url": "https://cooan-g.com/kazuhiro_katase/",
-        "accessedAt": "2026-03-06"
+        "accessedAt": "2026-03-06",
+        "type": "专题资料"
       },
       {
         "title": "沖縄shop",
         "url": "https://okinishop.easy.co/collections/%E7%89%87%E7%80%A8%E5%92%8C%E5%AE%8F",
-        "accessedAt": "2026-03-06"
+        "accessedAt": "2026-03-06",
+        "type": "专题资料"
       }
     ]
   },
@@ -4153,12 +4317,14 @@
       {
         "title": "PR TIMES 加藤あゐ展讯与略历",
         "url": "https://prtimes.jp/main/html/rd/p/000000005.000110030.html",
-        "accessedAt": "2026-03-06"
+        "accessedAt": "2026-03-06",
+        "type": "专题资料"
       },
       {
         "title": "Instagram @ai.kato_",
         "url": "https://www.instagram.com/ai.kato_/",
-        "accessedAt": "2026-03-06"
+        "accessedAt": "2026-03-06",
+        "type": "社交媒体"
       },
       {
         "title": "加藤あゐ 公式网站",
@@ -4211,12 +4377,14 @@
       {
         "title": "KIKIKIKRAFT",
         "url": "https://kikikikraft.com/etsukokato",
-        "accessedAt": "2026-03-06"
+        "accessedAt": "2026-03-06",
+        "type": "专题资料"
       },
       {
         "title": "黄色い鳥器店 加藤恵津子",
         "url": "https://kiiroi-tori.shop/items/63ec7ba37c42ee62d8f090ff",
-        "accessedAt": "2026-03-06"
+        "accessedAt": "2026-03-06",
+        "type": "专题资料"
       },
       {
         "title": "EDAHA 加藤悦子",
@@ -4263,12 +4431,14 @@
       {
         "title": "chilchinbito-hiroba.jp",
         "url": "https://www.chilchinbito-hiroba.jp/event/25021/",
-        "accessedAt": "2026-03-06"
+        "accessedAt": "2026-03-06",
+        "type": "生活方式媒体"
       },
       {
         "title": "暮らし用品 川原幸子",
         "url": "https://www.kurashi-yohin.com/creator/kawaharasachiko/013_page.shtml",
-        "accessedAt": "2026-03-06"
+        "accessedAt": "2026-03-06",
+        "type": "专题资料"
       },
       {
         "title": "Cherie amie 川原幸子 个展",
@@ -4329,12 +4499,14 @@
       {
         "title": "mushimegane books 展讯页",
         "url": "https://mushimeganebooks.com/%E6%9C%AA%E5%88%86%E9%A1%9E/2729",
-        "accessedAt": "2026-03-06"
+        "accessedAt": "2026-03-06",
+        "type": "专题资料"
       },
       {
         "title": "Obscura Magazine 专访",
         "url": "https://www.obscura-magazine.com/all/stories/craft/mushimegane-books/",
-        "accessedAt": "2026-03-06"
+        "accessedAt": "2026-03-06",
+        "type": "专题资料"
       },
       {
         "title": "COVERCHORD mushimegane books 熊淵未紗",
@@ -4388,12 +4560,14 @@
       {
         "title": "Tokyo Art Beat 展讯",
         "url": "https://www.tokyoartbeat.com/events/-/2018%2F0433",
-        "accessedAt": "2026-03-06"
+        "accessedAt": "2026-03-06",
+        "type": "专题资料"
       },
       {
         "title": "pota-pota",
         "url": "https://pota-pota.com/mizutani1.html",
-        "accessedAt": "2026-03-06"
+        "accessedAt": "2026-03-06",
+        "type": "专题资料"
       },
       {
         "title": "KOHORO 水谷智美",
@@ -4446,12 +4620,14 @@
       {
         "title": "Galerie NUAGE 展讯",
         "url": "https://www.g-nuage.co.jp/%E6%88%90%E7%94%B0%E5%91%A8%E5%B9%B3-%E5%80%8B%E5%B1%95-2019/",
-        "accessedAt": "2026-03-06"
+        "accessedAt": "2026-03-06",
+        "type": "专题资料"
       },
       {
         "title": "Instagram @narita_shuhei",
         "url": "https://www.instagram.com/narita_shuhei/",
-        "accessedAt": "2026-03-06"
+        "accessedAt": "2026-03-06",
+        "type": "社交媒体"
       },
       {
         "title": "Highsnobiety 成田周平 企画展",
@@ -4501,18 +4677,20 @@
         "venue": "Kurashi Japanese Crafts"
       }
     ],
-    "instagramHandle": "aya_ogawa_ig / @little07tokyo",
+    "instagramHandle": "aya_ogawa_ig",
     "websiteUrl": "https://ayaogawa.net",
     "sources": [
       {
         "title": "Fashion Headline 展讯",
         "url": "https://www.fashion-headline.com/en/article/266223/2305082",
-        "accessedAt": "2026-03-06"
+        "accessedAt": "2026-03-06",
+        "type": "专题资料"
       },
       {
-        "title": "Instagram @aya_ogawa_ig / @little07tokyo",
-        "url": "https://www.instagram.com/aya_ogawa_ig / @little07tokyo/",
-        "accessedAt": "2026-03-06"
+        "title": "Instagram @aya_ogawa_ig",
+        "url": "https://www.instagram.com/aya_ogawa_ig/",
+        "accessedAt": "2026-03-06",
+        "type": "社交媒体"
       },
       {
         "title": "小川彩 公式网站",
@@ -4567,12 +4745,14 @@
       {
         "title": "ideot 展讯",
         "url": "https://ideot.net/news/3461/",
-        "accessedAt": "2026-03-06"
+        "accessedAt": "2026-03-06",
+        "type": "专题资料"
       },
       {
         "title": "people",
         "url": "https://people-jp.shop/products/asmg_06",
-        "accessedAt": "2026-03-06"
+        "accessedAt": "2026-03-06",
+        "type": "专题资料"
       },
       {
         "title": "PEOPLE 阿加利佐藤",
@@ -4634,37 +4814,44 @@
       {
         "title": "taliki-okinawa 作家页",
         "url": "https://taliki-okinawa.com/collections/%E4%BD%90%E8%97%A4-%E5%B0%9A%E7%90%86-naomichi-sato",
-        "accessedAt": "2026-03-06"
+        "accessedAt": "2026-03-06",
+        "type": "专题资料"
       },
       {
         "title": "instagram.com",
         "url": "https://www.instagram.com/bonoho_/`。",
-        "accessedAt": "2026-03-06"
+        "accessedAt": "2026-03-06",
+        "type": "社交媒体"
       },
       {
         "title": "infldb.com",
         "url": "https://infldb.com/top-influencers-by-category/ceramic%20art",
-        "accessedAt": "2026-03-06"
+        "accessedAt": "2026-03-06",
+        "type": "专题资料"
       },
       {
         "title": "SISON GALLERY 佐藤尚理",
         "url": "https://sison.tokyo/info/6173260",
-        "accessedAt": "2026-03-06"
+        "accessedAt": "2026-03-06",
+        "type": "专题资料"
       },
       {
         "title": "水犀 佐藤尚理",
         "url": "https://mizusai.jp/artist/satonaomichi/",
-        "accessedAt": "2026-03-06"
+        "accessedAt": "2026-03-06",
+        "type": "专题资料"
       },
       {
         "title": "atpress 佐藤尚理個展",
         "url": "https://www.atpress.ne.jp/news/312357",
-        "accessedAt": "2026-03-06"
+        "accessedAt": "2026-03-06",
+        "type": "专题资料"
       },
       {
         "title": "Instagram @bonoho_",
         "url": "https://www.instagram.com/bonoho_/",
-        "accessedAt": "2026-03-06"
+        "accessedAt": "2026-03-06",
+        "type": "社交媒体"
       }
     ]
   },
@@ -4716,12 +4903,14 @@
       {
         "title": "KIKIKIKRAFT",
         "url": "https://kikikikraft.com/kaetakada",
-        "accessedAt": "2026-03-06"
+        "accessedAt": "2026-03-06",
+        "type": "专题资料"
       },
       {
         "title": "かたくち屋ほとり 高田かえ",
         "url": "https://www.katakuchi.jp/products/takadakae-bowl02",
-        "accessedAt": "2026-03-06"
+        "accessedAt": "2026-03-06",
+        "type": "专题资料"
       },
       {
         "title": "SOU・SOU 高田かえ",
@@ -4781,12 +4970,14 @@
       {
         "title": "LAPIN ART GALLERY 展讯",
         "url": "https://note.com/daisakamoto/n/n33b0e973dc1e",
-        "accessedAt": "2026-03-06"
+        "accessedAt": "2026-03-06",
+        "type": "专题资料"
       },
       {
         "title": "ろばの家",
         "url": "https://www.robanoie.com/people/2023/09/masahiro-takataya-solo-exhibitionvol-1/",
-        "accessedAt": "2026-03-06"
+        "accessedAt": "2026-03-06",
+        "type": "专题资料"
       },
       {
         "title": "ろばの家 高田谷将宏 Best盤",
@@ -4833,12 +5024,14 @@
       {
         "title": "K&A so-co 作家页",
         "url": "https://www.k-and-a-so-co.net/miki-torii",
-        "accessedAt": "2026-03-06"
+        "accessedAt": "2026-03-06",
+        "type": "专题资料"
       },
       {
         "title": "k-and-a-so-co",
         "url": "https://www.k-and-a-so-co.net/",
-        "accessedAt": "2026-03-06"
+        "accessedAt": "2026-03-06",
+        "type": "专题资料"
       },
       {
         "title": "京都芸術センター 鳥居美希 インタビュー",
@@ -4898,17 +5091,20 @@
       {
         "title": "uchidakaori.com",
         "url": "https://www.uchidakaori.com/",
-        "accessedAt": "2026-03-06"
+        "accessedAt": "2026-03-06",
+        "type": "专题资料"
       },
       {
         "title": "Discover Japan 内田可織",
         "url": "https://discoverjapan-web.com/article/150005",
-        "accessedAt": "2026-03-06"
+        "accessedAt": "2026-03-06",
+        "type": "专题资料"
       },
       {
         "title": "studio knot 内田可織",
         "url": "https://s-knot.com/about.html",
-        "accessedAt": "2026-03-06"
+        "accessedAt": "2026-03-06",
+        "type": "专题资料"
       },
       {
         "title": "内田可織 公式网站",
@@ -4970,12 +5166,14 @@
       {
         "title": "OPENERS 展讯",
         "url": "https://openers.jp/design/design_product/796654",
-        "accessedAt": "2026-03-06"
+        "accessedAt": "2026-03-06",
+        "type": "专题资料"
       },
       {
         "title": "Instagram @yamadyoji",
         "url": "https://www.instagram.com/yamadyoji/",
-        "accessedAt": "2026-03-06"
+        "accessedAt": "2026-03-06",
+        "type": "社交媒体"
       },
       {
         "title": "山田洋次の器 Contact",
@@ -5029,12 +5227,14 @@
       {
         "title": "art-onthetable 商品页",
         "url": "https://www.art-onthetable.com/products/yamawaki25",
-        "accessedAt": "2026-03-06"
+        "accessedAt": "2026-03-06",
+        "type": "专题资料"
       },
       {
         "title": "monoina",
         "url": "https://www.monoina.com/collections/masato-yamawaki",
-        "accessedAt": "2026-03-06"
+        "accessedAt": "2026-03-06",
+        "type": "电商"
       },
       {
         "title": "Art on The Table Masato Yamawaki Visit",
@@ -5087,12 +5287,14 @@
       {
         "title": "piccolo studio 博客",
         "url": "https://piccolo-studio.doorblog.jp/",
-        "accessedAt": "2026-03-06"
+        "accessedAt": "2026-03-06",
+        "type": "专题资料"
       },
       {
         "title": "Instagram @yucomeva",
         "url": "https://www.instagram.com/yucomeva/",
-        "accessedAt": "2026-03-06"
+        "accessedAt": "2026-03-06",
+        "type": "社交媒体"
       },
       {
         "title": "iichi 吉川裕子 プロフィール",

@@ -150,7 +150,7 @@ function TableView({ items }: { items: DatabaseItem[] }) {
               style={{ animationDelay: `${index * 30}ms` }}
             >
               <td className="px-6 py-4">
-                <Link href={`/notion/pottery/${item.slug}`} className="block group-hover:text-clay-terracotta transition-colors">
+                <Link href={`/pottery/${item.slug}`} className="block group-hover:text-clay-terracotta transition-colors">
                   <div className="font-serif text-ink-dark">{item.nameZh}</div>
                   {item.nameJa && (
                     <div className="font-serif text-xs text-ink-light mt-0.5">{item.nameJa}</div>
@@ -179,7 +179,7 @@ function GalleryView({ items }: { items: DatabaseItem[] }) {
       {items.map((item, index) => (
         <Link
           key={item.id}
-          href={`/notion/pottery/${item.slug}`}
+          href={`/pottery/${item.slug}`}
           className="group block"
           style={{
             animation: 'fadeInUp 0.5s ease-out forwards',
@@ -265,7 +265,7 @@ function ListView({ items }: { items: DatabaseItem[] }) {
       {items.map((item, index) => (
         <Link
           key={item.id}
-          href={`/notion/pottery/${item.slug}`}
+          href={`/pottery/${item.slug}`}
           className="
             block p-5 bg-white/60 border border-ink-light/20 rounded-xl
             hover:shadow-lg hover:border-clay-terracotta/30
