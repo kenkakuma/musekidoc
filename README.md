@@ -2,9 +2,10 @@
 
 > A comprehensive knowledge base for Japanese pottery, ceramics, and artists, built with Next.js 14, TypeScript, and PostgreSQL.
 
-**Version**: 1.0.0 (MVP)
-**Status**: Phase 1 Complete ✅
-**Progress**: 83% (15/18 core tasks completed)
+**Version**: v0.3.0
+**Status**: Instagram Discovery Complete ✅
+**Database**: 110 artists + 85 pottery entries
+**Latest Update**: 2026-03-07
 
 ---
 
