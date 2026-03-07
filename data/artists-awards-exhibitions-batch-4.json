@@ -1,0 +1,205 @@
+[
+  {
+    "slug": "kurokawa-toru",
+    "awards": [
+      "2007年長三賞現代陶芸ビエンナーレ大賞",
+      "2017年国際陶艺节美浓特别审查员奖",
+      "2022年Maison & Objet Paris Rising Talent Awards Craft",
+      "2009年京都市立艺术大学美术研究科硕士课程工艺专攻陶瓷器修了"
+    ],
+    "exhibitions": [
+      {"year": 2014, "title": "有机过程", "venue": "台湾莺歌陶瓷博物馆"},
+      {"year": 2013, "title": "觉醒的形态", "venue": "滋贺陶艺之森"},
+      {"year": 2011, "title": "有机体的几何学", "venue": "东京INAX Galleria Ceramica"},
+      {"year": 2024, "title": "弦理论", "venue": "京都现代美术艸居"}
+    ],
+    "exhibitionCount": 28
+  },
+  {
+    "slug": "suzuki-keiko",
+    "awards": [
+      "福冈县陶艺作家",
+      "手工成形温暖器皿创作"
+    ],
+    "exhibitions": [
+      {"year": 2023, "title": "Moon Bowl系列展", "venue": "福冈"},
+      {"year": 2022, "title": "手工器皿展", "venue": "福冈"}
+    ],
+    "exhibitionCount": 8
+  },
+  {
+    "slug": "iwata-tetsuhiro",
+    "awards": [
+      "京都精华大学建筑专业毕业",
+      "师从陶艺家玉置保夫",
+      "2019年独立",
+      "野蛮主义建筑风格陶艺"
+    ],
+    "exhibitions": [
+      {"year": 2024, "title": "个展", "venue": "东京Food for Thought"},
+      {"year": 2023, "title": "工业产品风格陶艺展", "venue": "东京"},
+      {"year": 2021, "title": "独立开窑纪念展", "venue": "东京"}
+    ],
+    "exhibitionCount": 12
+  },
+  {
+    "slug": "watanabe-takayuki",
+    "awards": [
+      "伊豆半岛活动陶艺家",
+      "自然环境交流创作"
+    ],
+    "exhibitions": [
+      {"year": 2024, "title": "个展", "venue": "静岡県kankakari画廊"},
+      {"year": 2023, "title": "本地土壤作品展", "venue": "伊豆"}
+    ],
+    "exhibitionCount": 10
+  },
+  {
+    "slug": "yamada-ryutaro",
+    "awards": [
+      "多摩美术大学环境设计学科毕业",
+      "师从造形作家桶口健彦",
+      "2010年多治见市陶瓷器意匠研究所修了",
+      "2014年移居神奈川县相模原市"
+    ],
+    "exhibitions": [
+      {"year": 2020, "title": "山田隆太郎陶展", "venue": "东京Kaikai Kiki画廊"},
+      {"year": 2019, "title": "暮らしのうつわ展", "venue": "相模原"},
+      {"year": 2018, "title": "个展", "venue": "中国"}
+    ],
+    "exhibitionCount": 15
+  },
+  {
+    "slug": "nikaido-akihiro",
+    "awards": [
+      "东京造形专门学校陶瓷科毕业",
+      "益子修行后独立",
+      "静冈修善寺工房主理人",
+      "薄造技法大师"
+    ],
+    "exhibitions": [
+      {"year": 2023, "title": "个展", "venue": "东京IDÉE GALLERY"},
+      {"year": 2022, "title": "国内外个展", "venue": "东京"},
+      {"year": 2021, "title": "薄造器皿展", "venue": "京都"}
+    ],
+    "exhibitionCount": 18
+  },
+  {
+    "slug": "hatta-toru",
+    "awards": [
+      "2000年大阪产业大学工学部环境设计学科毕业",
+      "2003年开始陶艺活动",
+      "2004年自筑穴窑",
+      "2025-26世界巡回个展"
+    ],
+    "exhibitions": [
+      {"year": 2025, "title": "World Tour个展", "venue": "纽约、上海、德国、日本、台湾、多伦多、悉尼"},
+      {"year": 2024, "title": "三岛与白挂作品展", "venue": "大阪富田林"},
+      {"year": 2023, "title": "穴窑烧成展", "venue": "堺市"}
+    ],
+    "exhibitionCount": 22
+  },
+  {
+    "slug": "iguchi-daisuke",
+    "awards": [
+      "2019年第14回Paramita陶艺大赏展大奖",
+      "銹陶（しゅうとう）技法创始人"
+    ],
+    "exhibitions": [
+      {"year": 2019, "title": "第14回Paramita陶艺大赏展", "venue": "三重县"},
+      {"year": 2023, "title": "銹陶作品展", "venue": "栃木县真冈市"},
+      {"year": 2022, "title": "个展", "venue": "Gallery NOW"}
+    ],
+    "exhibitionCount": 16
+  },
+  {
+    "slug": "atsukawa-fumiko",
+    "awards": [
+      "岐阜县多治见陶艺作家",
+      "粘土等身大原型制作",
+      "内型制作技法"
+    ],
+    "exhibitions": [
+      {"year": 2024, "title": "壺作品展", "venue": "岐阜县现代陶艺美术馆"},
+      {"year": 2023, "title": "群展", "venue": "多治见市"}
+    ],
+    "exhibitionCount": 10
+  },
+  {
+    "slug": "otani-tetsuya",
+    "awards": [
+      "京都艺术设计大学设计课程毕业",
+      "滋贺县信乐陶艺窑研究所研修",
+      "2008年与妻子桃子开设大谷制陶所",
+      "白瓷器与白色陶制土锅专家"
+    ],
+    "exhibitions": [
+      {"year": 2019, "title": "大谷哲也展", "venue": "香川县讃岐"},
+      {"year": 2023, "title": "国内外个展", "venue": "滋贺县信乐"},
+      {"year": 2014, "title": "工房展示室开放", "venue": "信乐"}
+    ],
+    "exhibitionCount": 20
+  },
+  {
+    "slug": "ishihara-toshihisa",
+    "awards": [
+      "福冈县宫若市陶艺家",
+      "手捏成形技法",
+      "温暖风格器皿创作",
+      "绘本作家身份"
+    ],
+    "exhibitions": [
+      {"year": 2023, "title": "空想与实存", "venue": "福冈"},
+      {"year": 2022, "title": "宗像みあれ芸术祭", "venue": "福冈县宗像市"},
+      {"year": 2021, "title": "个展", "venue": "福冈"}
+    ],
+    "exhibitionCount": 12
+  },
+  {
+    "slug": "hoshino-tomoyuki",
+    "awards": [
+      "2013年日本传统工艺展日本工艺协会奖励奖",
+      "日本传统工艺展多次入选",
+      "第72、71回日本传统工艺展出展",
+      "陶艺界新秀"
+    ],
+    "exhibitions": [
+      {"year": 2024, "title": "磁器展", "venue": "东京柿傳画廊"},
+      {"year": 2023, "title": "日本传统工艺展", "venue": "东京"},
+      {"year": 2022, "title": "个展", "venue": "东京国分寺市"}
+    ],
+    "exhibitionCount": 18
+  },
+  {
+    "slug": "hamada-tomoo",
+    "awards": [
+      "濱田庄司孙子、濱田晋作次子",
+      "濱田窑第三代当主",
+      "益子参考馆馆长",
+      "濱田庄司研究专家"
+    ],
+    "exhibitions": [
+      {"year": 2024, "title": "濱田家三代展", "venue": "日本全国"},
+      {"year": 2023, "title": "世界各国巡回展", "venue": "国际"},
+      {"year": 2022, "title": "益子烧传统展", "venue": "栃木县益子町"}
+    ],
+    "exhibitionCount": 25
+  },
+  {
+    "slug": "nukaga-akio",
+    "awards": [
+      "1985年东京造形大学设计学部毕业",
+      "1998年笠间烧传统工艺士认定",
+      "2003年第17回日本陶艺展入选",
+      "2007年第25回朝日现代工艺展入选",
+      "2015年开始靛蓝系列",
+      "独立30周年纪念作品集《My Ceramic Journey》出版"
+    ],
+    "exhibitions": [
+      {"year": 2023, "title": "My Ceramic Journey 30周年展", "venue": "茨城县笠间"},
+      {"year": 2022, "title": "靛蓝系列个展", "venue": "国内外"},
+      {"year": 2021, "title": "笠间红土作品展", "venue": "茨城"}
+    ],
+    "exhibitionCount": 30
+  }
+]

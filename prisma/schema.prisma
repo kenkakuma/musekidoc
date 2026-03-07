@@ -91,6 +91,15 @@ model Artist {
   awards Json?   // string[] - 奖项列表
   exhibitions Json? // {year, title, venue}[] - 展览记录
 
+  // 窑场/工作室信息
+  kilnName           String? // 窑场名称
+  studioName         String? // 工作室名称
+  locationPrefecture String? // 都道府県
+  locationCity       String? // 市区町村
+  locationArea       String? // 地区
+  kilnType           String? // 窑炉类型
+  studioInfo         Json?   // 额外工作室信息（JSON）
+
   // 社交媒体
   instagramHandle    String?   @unique
   instagramFollowers Int?

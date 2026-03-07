@@ -1,0 +1,220 @@
+[
+  {
+    "slug": "hamada-shoji",
+    "awards": [
+      "1955年认定为重要无形文化财保持者（人间国宝）- 民艺陶器（益子烧）",
+      "文化勋章获得者"
+    ],
+    "exhibitions": [
+      {"year": 1920, "title": "伦敦个人展览", "venue": "伦敦"},
+      {"year": 1952, "title": "与河井宽次郎、柳宗悦发起民艺运动展览", "venue": "日本各地"},
+      {"year": 1960, "title": "国际巡回展", "venue": "欧美多国"},
+      {"year": 1975, "title": "濱田庄司回顾展", "venue": "东京国立近代美术馆"}
+    ],
+    "exhibitionCount": 50
+  },
+  {
+    "slug": "arakawa-toyozo",
+    "awards": [
+      "1955年志野烧认定为重要无形文化财保持者（人间国宝）",
+      "1971年濑户黑认定为重要无形文化财保持者（人间国宝）",
+      "日本陶瓷协会奖"
+    ],
+    "exhibitions": [
+      {"year": 1930, "title": "桃山陶器再现展", "venue": "岐阜县"},
+      {"year": 1956, "title": "人间国宝认定纪念展", "venue": "东京"},
+      {"year": 1980, "title": "荒川豊藏回顾展", "venue": "岐阜县现代陶艺美术馆"},
+      {"year": 2018, "title": "日本巨匠陶艺名品展", "venue": "浙江赛丽美术馆"}
+    ],
+    "exhibitionCount": 40
+  },
+  {
+    "slug": "tomimoto-kenkichi",
+    "awards": [
+      "1955年认定为重要无形文化财保持者（人间国宝）- 色绘磁器",
+      "1961年文化勋章",
+      "1950年京都市立艺术大学教授委任"
+    ],
+    "exhibitions": [
+      {"year": 1936, "title": "九谷色绘磁器研究展", "venue": "石川县九谷"},
+      {"year": 1955, "title": "陶艺45周年纪念展", "venue": "东京"},
+      {"year": 2006, "title": "诞辰120周年 富本憲吉展", "venue": "京都国立近代美术馆、茨城陶艺美术馆、世田谷美术馆、岐阜现代陶艺美术馆、山口县立萩美术馆"}
+    ],
+    "exhibitionCount": 35
+  },
+  {
+    "slug": "kaneshige-toyo",
+    "awards": [
+      "1956年认定为重要无形文化财保持者（人间国宝）- 备前烧",
+      "1960年山阳新闻文化奖",
+      "1960年冈山县文化奖",
+      "备前烧再兴之父"
+    ],
+    "exhibitions": [
+      {"year": 1930, "title": "备前古陶复兴展", "venue": "冈山"},
+      {"year": 1956, "title": "人间国宝认定纪念展", "venue": "东京"},
+      {"year": 1967, "title": "天皇陛下御前实演", "venue": "备前市"},
+      {"year": 1970, "title": "金重陶陽追悼展", "venue": "冈山县立备前陶艺美术馆"}
+    ],
+    "exhibitionCount": 45
+  },
+  {
+    "slug": "fujiwara-kei",
+    "awards": [
+      "1970年4月25日认定为重要无形文化财保持者（人间国宝）- 备前烧",
+      "1972年勲四等旭日章",
+      "1976年备前市名誉市民"
+    ],
+    "exhibitions": [
+      {"year": 1941, "title": "师从金重陶陽后首次个展", "venue": "冈山"},
+      {"year": 1970, "title": "人间国宝认定纪念展", "venue": "东京"},
+      {"year": 1976, "title": "藤原啓纪念馆开馆展", "venue": "备前市"},
+      {"year": 1980, "title": "藤原啓回顾展", "venue": "冈山县立美术馆"}
+    ],
+    "exhibitionCount": 38
+  },
+  {
+    "slug": "shimaoka-tatsuzo",
+    "awards": [
+      "1962年日本民艺馆奖",
+      "1980年栃木县文化功劳奖",
+      "1994年日本陶瓷协会金奖",
+      "1996年认定为重要无形文化财保持者（人间国宝）- 民艺陶器（绳文象嵌）",
+      "1999年勲三等旭日章",
+      "2002年栃木县名誉县民"
+    ],
+    "exhibitions": [
+      {"year": 1960, "title": "绳文象嵌技法确立展", "venue": "益子町"},
+      {"year": 1970, "title": "益子陶艺展", "venue": "东京国立近代美术馆"},
+      {"year": 1996, "title": "人间国宝认定纪念展", "venue": "栃木县立美术馆"},
+      {"year": 2007, "title": "島岡達三追悼展", "venue": "益子陶艺美术馆"}
+    ],
+    "exhibitionCount": 42
+  },
+  {
+    "slug": "fujiwara-yu",
+    "awards": [
+      "1963年国际陶艺展大奖",
+      "1973年金重陶陽奖",
+      "1996年认定为重要无形文化财保持者（人间国宝）- 备前烧",
+      "父子两代人间国宝（日本陶艺界首次）"
+    ],
+    "exhibitions": [
+      {"year": 1963, "title": "国际陶艺展", "venue": "欧洲"},
+      {"year": 1988, "title": "备前千年与现在·藤原雄的世界", "venue": "韩国国立现代美术馆"},
+      {"year": 1996, "title": "人间国宝认定纪念展", "venue": "冈山"},
+      {"year": 2000, "title": "藤原雄作品回顾展", "venue": "备前市"}
+    ],
+    "exhibitionCount": 35
+  },
+  {
+    "slug": "suzuki-osamu",
+    "awards": [
+      "1961年第10回现代日本陶艺展朝日新闻社赏（首位）",
+      "1962年捷克国际陶艺展大奖",
+      "1987年艺术选奖文部大臣赏",
+      "1994年认定为重要无形文化财保持者（人间国宝）- 志野",
+      "1995年紫绶褒章",
+      "2006年勲三等旭日章"
+    ],
+    "exhibitions": [
+      {"year": 1968, "title": "独立开窑纪念展", "venue": "岐阜县土岐市"},
+      {"year": 1994, "title": "人间国宝认定纪念展", "venue": "岐阜县现代陶艺美术馆"},
+      {"year": 2024, "title": "卒寿纪念 人间国宝 鈴木藏的志野展", "venue": "东根市美术馆、东京国立近代美术馆工艺馆"}
+    ],
+    "exhibitionCount": 30
+  },
+  {
+    "slug": "inoue-manji",
+    "awards": [
+      "1979年现代名工（劳动大臣奖）",
+      "1987年日本工艺展文部大臣奖",
+      "1995年认定为重要无形文化财保持者（人间国宝）- 白磁",
+      "2015年旭日中授章"
+    ],
+    "exhibitions": [
+      {"year": 1987, "title": "日本工艺展获奖作品展", "venue": "东京"},
+      {"year": 1997, "title": "白磁作品展", "venue": "东京国立近代美术馆收藏"},
+      {"year": 2000, "title": "白磁艺术展", "venue": "茨城县陶艺美术馆收藏"},
+      {"year": 2001, "title": "白磁作品展", "venue": "岐阜县美术馆收藏"},
+      {"year": 2015, "title": "井上萬二白磁展", "venue": "有田陶瓷美术馆"}
+    ],
+    "exhibitionCount": 28
+  },
+  {
+    "slug": "miwa-kyuwa",
+    "awards": [
+      "1970年认定为重要无形文化财保持者（人间国宝）- 萩烧"
+    ],
+    "exhibitions": [
+      {"year": 1950, "title": "萩烧传统技法展", "venue": "山口县萩市"},
+      {"year": 1970, "title": "人间国宝认定纪念展", "venue": "山口县"},
+      {"year": 1980, "title": "三輪休雪回顾展", "venue": "山口县立美术馆"}
+    ],
+    "exhibitionCount": 25
+  },
+  {
+    "slug": "miwa-jusetsu",
+    "awards": [
+      "1976年紫绶褒章",
+      "1982年认定为重要无形文化财保持者（人间国宝）- 萩烧",
+      "兄弟两人均获人间国宝称号（日本唯一）",
+      "创作'休雪白'作品"
+    ],
+    "exhibitions": [
+      {"year": 1960, "title": "休雪白首次发表展", "venue": "萩市"},
+      {"year": 1982, "title": "人间国宝认定纪念展", "venue": "山口县"},
+      {"year": 1990, "title": "三輪壽雪作品回顾展", "venue": "山口县立美术馆"},
+      {"year": 2010, "title": "百岁纪念展", "venue": "萩市"}
+    ],
+    "exhibitionCount": 32
+  },
+  {
+    "slug": "kuwata-takuro",
+    "awards": [
+      "2018年LOEWE Craft Prize特别提名"
+    ],
+    "exhibitions": [
+      {"year": 2018, "title": "LOEWE Craft Prize Exhibition", "venue": "东京草月会馆、维多利亚和阿尔伯特博物馆伦敦、洛杉矶郡艺术博物馆"},
+      {"year": 2020, "title": "当代陶艺展", "venue": "岐阜县现代陶艺美术馆"}
+    ],
+    "exhibitionCount": 15
+  },
+  {
+    "slug": "hashimoto-tomonari",
+    "awards": [
+      "2019年LOEWE Craft Prize入选"
+    ],
+    "exhibitions": [
+      {"year": 2019, "title": "LOEWE Craft Prize Exhibition", "venue": "东京草月会馆、维多利亚和阿尔伯特博物馆伦敦、洛杉矶郡艺术博物馆、马德里LOEWE Foundation"},
+      {"year": 2020, "title": "信乐陶艺之森展览", "venue": "滋贺县立陶艺之森"}
+    ],
+    "exhibitionCount": 12
+  },
+  {
+    "slug": "uchida-koichi",
+    "awards": [
+      "2018年日本陶瓷协会奖",
+      "2024年KO+GEI 2024 '中田英寿奖'"
+    ],
+    "exhibitions": [
+      {"year": 1992, "title": "独立开窑纪念展", "venue": "四日市"},
+      {"year": 2003, "title": "内田鋼一展", "venue": "三重县凯旋美术馆"},
+      {"year": 2018, "title": "日本陶瓷协会奖获奖纪念展", "venue": "东京"},
+      {"year": 2024, "title": "KO+GEI 2024展", "venue": "日本"}
+    ],
+    "exhibitionCount": 25
+  },
+  {
+    "slug": "kato-hajime",
+    "awards": [
+      "1961年认定为重要无形文化财保持者（人间国宝）- 色绘磁器"
+    ],
+    "exhibitions": [
+      {"year": 1950, "title": "色绘磁器作品展", "venue": "东京"},
+      {"year": 1961, "title": "人间国宝认定纪念展", "venue": "东京国立近代美术馆"},
+      {"year": 1968, "title": "加藤土師萌追悼展", "venue": "日本陶瓷协会"}
+    ],
+    "exhibitionCount": 20
+  }
+]

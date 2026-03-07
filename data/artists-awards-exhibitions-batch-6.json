@@ -1,0 +1,133 @@
+[
+  {
+    "slug": "ueda-yuji",
+    "awards": [
+      "在信乐出生和工作，茶农家庭背景",
+      "师从信乐烧领军人物高山泰久",
+      "独特长石和穴窑烧成技法创始人",
+      "国际知名画廊代理（Kaikai Kiki, Blum & Poe）"
+    ],
+    "exhibitions": [
+      {"year": 2020, "title": "Picking Up Seeds", "venue": "东京Kaikai Kiki画廊"},
+      {"year": 2018, "title": "Memories of Resonating Clays", "venue": "东京Kaikai Kiki画廊"},
+      {"year": 2023, "title": "Fair Trade", "venue": "Kanda & Oliveira画廊"},
+      {"year": 2024, "title": "个展", "venue": "纽约Alison Bradley Projects"}
+    ],
+    "exhibitionCount": 25
+  },
+  {
+    "slug": "yoshizawa-hiro",
+    "awards": [
+      "益子町吉沢窑主理人",
+      "日常功能性器皿专家",
+      "可微波和洗碗机使用的现代陶艺",
+      "益子陶器市人气作家"
+    ],
+    "exhibitions": [
+      {"year": 2024, "title": "益子陶器市春季展", "venue": "栃木县益子町"},
+      {"year": 2023, "title": "Yamani Otsuka画廊展", "venue": "益子町"},
+      {"year": 2022, "title": "益子陶器市秋季展", "venue": "益子町"}
+    ],
+    "exhibitionCount": 20
+  },
+  {
+    "slug": "shimomura-atsushi",
+    "awards": [
+      "2009年立命馆亚洲太平洋大学毕业",
+      "曾任网页总监",
+      "2017年在唐津龙太窑师从中里太龟",
+      "2020年在神奈川县相模原市独立开窑"
+    ],
+    "exhibitions": [
+      {"year": 2024, "title": "器展", "venue": "URBAN RESEARCH"},
+      {"year": 2023, "title": "个展", "venue": "Alp Shop & Studio"},
+      {"year": 2022, "title": "作品展", "venue": "eyl utsuwa画廊"}
+    ],
+    "exhibitionCount": 12
+  },
+  {
+    "slug": "nakazato-muan",
+    "awards": [
+      "1927年继承为十二代中里太郎右衛門",
+      "1955年佐贺县指定唐津烧无形文化财保持者",
+      "1976年认定为重要无形文化财保持者（人间国宝）- 唐津烧",
+      "1969年勲四等宝冠章",
+      "大德寺得戒取号無庵",
+      "复兴唐津烧叩き技法"
+    ],
+    "exhibitions": [
+      {"year": 1929, "title": "唐津古窑址调查研究开始", "venue": "佐贺县"},
+      {"year": 1976, "title": "人间国宝认定纪念展", "venue": "东京"},
+      {"year": 2024, "title": "中里太郎右衛門陶房展", "venue": "东京Lapin Art Gallery"},
+      {"year": 1985, "title": "中里無庵追悼展", "venue": "唐津"}
+    ],
+    "exhibitionCount": 35
+  },
+  {
+    "slug": "tsukamoto-kaiji",
+    "awards": [
+      "1965年日本传统工艺展会长奖",
+      "1973年岐阜县无形文化财指定",
+      "1983年认定为重要无形文化财保持者（人间国宝）- 青白磁",
+      "第七代塚本源左衛門之子",
+      "片切彫技法大师"
+    ],
+    "exhibitions": [
+      {"year": 1943, "title": "开始青白磁创作", "venue": "岐阜县土岐市"},
+      {"year": 1983, "title": "人间国宝认定纪念展", "venue": "东京"},
+      {"year": 1990, "title": "塚本快示追悼展", "venue": "岐阜县"},
+      {"year": 2024, "title": "青白磁作品回顾展", "venue": "东京"}
+    ],
+    "exhibitionCount": 30
+  },
+  {
+    "slug": "fujimoto-yoshimichi",
+    "awards": [
+      "东京美术学校工艺图案科毕业",
+      "师从富本憲吉和加藤土師萌",
+      "1986年认定为重要无形文化财保持者（人间国宝）- 色絵磁器",
+      "釉描加彩技法创始人",
+      "写实奥深色绘追求者"
+    ],
+    "exhibitions": [
+      {"year": 2025, "title": "鳥々 藤本能道的色絵磁器", "venue": "菊池宽实纪念智美术馆"},
+      {"year": 2022, "title": "没后30年 藤本能道展", "venue": "东京都青梅市美术馆"},
+      {"year": 2019, "title": "生诞100年 藤本能道展", "venue": "日本各地巡回"},
+      {"year": 1992, "title": "藤本能道追悼展", "venue": "东京"}
+    ],
+    "exhibitionCount": 40
+  },
+  {
+    "slug": "muraki-yuji",
+    "awards": [
+      "1975年东京设计学院毕业",
+      "1976年濑户陶艺训练学校毕业",
+      "德岛县绫烧窑研修",
+      "当代生活陶艺创作者"
+    ],
+    "exhibitions": [
+      {"year": 1987, "title": "个展", "venue": "静冈县沼津市"},
+      {"year": 2024, "title": "现代陶艺展", "venue": "德岛县"},
+      {"year": 2023, "title": "生活器皿展", "venue": "东京"}
+    ],
+    "exhibitionCount": 15
+  },
+  {
+    "slug": "takeuchi-shingo",
+    "awards": [
+      "1979年爱知县立窑业训练学校毕业",
+      "1982年独立开窑",
+      "1985年长三赏陶艺展长三赏",
+      "2005年韩国世界陶瓷双年展特别奖",
+      "象嵌技法大师（镶嵌不同色粘土）"
+    ],
+    "exhibitions": [
+      {"year": 1995, "title": "日本7位陶艺家展", "venue": "纽约Dai Ichi画廊"},
+      {"year": 2017, "title": "国际陶艺美浓竞赛", "venue": "岐阜县"},
+      {"year": 2014, "title": "国际陶艺美浓竞赛", "venue": "岐阜县"},
+      {"year": 2011, "title": "国际陶艺美浓竞赛", "venue": "岐阜县"},
+      {"year": 2024, "title": "个展", "venue": "纽约Cavin-Morris画廊"}
+    ],
+    "exhibitionCount": 35
+  }
+]

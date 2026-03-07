@@ -1,0 +1,60 @@
+[
+  {
+    "slug": "maeda-akihiro",
+    "kilnName": "柳瀬窯",
+    "studioName": "Yanase Kiln",
+    "locationPrefecture": "鳥取県",
+    "locationCity": "八頭郡",
+    "locationArea": "河原町",
+    "kilnType": "白磁窯",
+    "studioInfo": {
+      "birthYear": 1954,
+      "birthplace": "鳥取県八頭郡河原町",
+      "education": "1977年大阪芸術大学陶芸科卒業",
+      "established": "1977年回乡建柳瀬窯",
+      "technique": "轆轤成形后手指加压，创造面取与捻转，半透明釉",
+      "designation": "2013年重要無形文化財保持者（白磁）",
+      "awards": "1991年日本陶芸展毎日新闻奖, 1993年新匠工芸展富本奖, 2000年日本传统工芸展朝日新闻奖, 2007年紫绶褒章",
+      "collections": "英国大英博物馆, 瑞士Ariana美术馆, 韩国利川世界陶瓷中心"
+    }
+  },
+  {
+    "slug": "ogata-atsushi",
+    "kilnName": "尾形アツシ窯",
+    "studioName": "Atsushi Ogata Studio",
+    "locationPrefecture": "奈良県",
+    "locationCity": "宇陀市",
+    "locationArea": "宇陀山間",
+    "kilnType": "薪窯",
+    "studioInfo": {
+      "birthYear": 1960,
+      "birthplace": "東京都",
+      "timeline": "出版社工作 → 1995年愛知県立窯業高等技術専門校 → 1998年瀬戸建工房 → 2007年移居奈良宇陀市",
+      "anagamaBuilt": "2009年开始薪窯烧制",
+      "technique": "高鉄分土，粉引、刷毛目、灰釉",
+      "style": "薪窯烧成，深色调",
+      "location": "山间谷地工房"
+    }
+  },
+  {
+    "slug": "tabuchi-taro",
+    "kilnName": "田淵太郎穴窯",
+    "studioName": "Taro Tabuchi Studio",
+    "locationPrefecture": "香川県",
+    "locationCity": "香川県",
+    "locationArea": "香川山間部",
+    "kilnType": "穴窯（薪窯）",
+    "studioInfo": {
+      "birthYear": 1977,
+      "birthplace": "香川県",
+      "education": "大阪芸術大学陶艺科",
+      "anagamaBuilt": "2007年回故乡香川，建造穴窯",
+      "technique": "白磁，薪窯烧制",
+      "philosophy": "自己采集劈柴，薪灰与火焰变化产生微妙色彩",
+      "challenge": "50%作品可能毁于窯中",
+      "award": "2003年第21回朝日现代工芸展大奖",
+      "instagram": "@tarotabuchi",
+      "followers": "3.4K"
+    }
+  }
+]

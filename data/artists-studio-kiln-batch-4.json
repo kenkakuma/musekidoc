@@ -1,0 +1,149 @@
+[
+  {
+    "slug": "otani-tetsuya",
+    "kilnName": "大谷製陶所",
+    "studioName": "Otani Pottery Studio",
+    "locationPrefecture": "滋賀県",
+    "locationCity": "甲賀市",
+    "locationArea": "信楽町田代",
+    "kilnType": "現代窯",
+    "studioInfo": {
+      "established": 2008,
+      "founders": "大谷哲也 & 大谷桃子（夫妇）",
+      "tetsuya": "白磁碗和白土锅",
+      "momoko": "粉引装饰植物纹様",
+      "instagram": "@otnps / @otntty",
+      "website": "ootanis.com"
+    }
+  },
+  {
+    "slug": "ishihara-toshihisa",
+    "kilnName": "石原稔久工房",
+    "studioName": "Toshihisa Ishihara Studio",
+    "locationPrefecture": "福岡県",
+    "locationCity": "宮若市",
+    "locationArea": "宮若市",
+    "kilnType": "現代窯",
+    "studioInfo": {
+      "birthYear": 1973,
+      "birthplace": "福岡県直方市",
+      "education": "1996年武蔵野美術大学雕刻科, 1998年茨城県笠间窑业指导所",
+      "established": 2000,
+      "technique": "手捏成形为主",
+      "creativity": "创作陶人形和绘本",
+      "instagram": "@1480toshihisa"
+    }
+  },
+  {
+    "slug": "yamada-ryutaro",
+    "kilnName": "山田隆太郎窯",
+    "studioName": "Ryutaro Yamada Studio",
+    "locationPrefecture": "神奈川県",
+    "locationCity": "相模原市",
+    "locationArea": "相模原",
+    "kilnType": "薪窯／油窯（複合）",
+    "studioInfo": {
+      "birthYear": 1984,
+      "birthplace": "埼玉県",
+      "education": "多摩美術大学環境設計科, 2010年多治見市陶磁器意匠研究所",
+      "relocated": "2014年移工房至相模原，继承故青木亮氏窑場",
+      "kilns": "薪窯3基 + 油窯3基",
+      "philosophy": "平熱的造物 - 36.2℃不过热的创作",
+      "instagram": "@ryutaro4126",
+      "followers": "14K"
+    }
+  },
+  {
+    "slug": "nikaido-akihiro",
+    "kilnName": "二階堂明弘窯",
+    "studioName": "Akihiro Nikaido Studio",
+    "locationPrefecture": "静岡県",
+    "locationCity": "伊豆市",
+    "locationArea": "修善寺近郊山間部",
+    "kilnType": "現代窯",
+    "studioInfo": {
+      "birthYear": 1977,
+      "birthplace": "北海道",
+      "currentLocation": "伊豆市修善寺近郊自然豊富な山間部",
+      "technique": "益子土追求薄与轻",
+      "philosophy": "日用食器是人类扩展与生活本质的艺术",
+      "support": "国内外著名厨师支持",
+      "instagram": "@akihiro_nikaido",
+      "followers": "57K"
+    }
+  },
+  {
+    "slug": "watanabe-takayuki",
+    "kilnName": "渡辺隆之窯",
+    "studioName": "Takayuki Watanabe Studio",
+    "locationPrefecture": "静岡県",
+    "locationCity": "伊豆の国市",
+    "locationArea": "伊豆の国市",
+    "kilnType": "薪窯／穴窯（自建）",
+    "studioInfo": {
+      "birthYear": 1981,
+      "birthplace": "静岡県",
+      "training": "2005年师从黑田泰蔵",
+      "timeline": "2008年移住南伊豆 → 2010年建穴窯 → 2018年迁居伊豆の国市建薪窯",
+      "material": "从伊豆半岛多样土壤中取土创作",
+      "philosophy": "与自然环境的能量交换",
+      "instagram": "@watanabe.takayuki"
+    }
+  },
+  {
+    "slug": "suzuki-keiko",
+    "kilnName": "鈴木惠子工房",
+    "studioName": "Keiko Suzuki Studio",
+    "locationPrefecture": "福岡県",
+    "locationCity": "福岡市",
+    "locationArea": "福岡",
+    "kilnType": "現代窯",
+    "studioInfo": {
+      "birthYear": 1982,
+      "birthplace": "福岡県",
+      "technique": "手捏成形（不使用轆轤）",
+      "style": "器形大方朴拙",
+      "instagram": "@keik0suzuki",
+      "followers": "3.3K"
+    }
+  },
+  {
+    "slug": "iwata-tetsuhiro",
+    "kilnName": "岩田徹広工房",
+    "studioName": "Tetsuhiro Iwata Studio",
+    "locationPrefecture": "東京都",
+    "locationCity": "東京都",
+    "locationArea": "東京",
+    "kilnType": "現代窯",
+    "studioInfo": {
+      "birthYear": 1981,
+      "birthplace": "鳥取県",
+      "training": "学习建筑后转向陶艺，师从伊藤環",
+      "established": "2019年在东京设工房",
+      "style": "简素・工業感造型，保留制作痕迹",
+      "works": "罐、花器、马克杯、盘、杯、造型对象",
+      "distribution": "FOOD FOR THOUGHT等经销"
+    }
+  },
+  {
+    "slug": "hoshino-tomoyuki",
+    "kilnName": "由木窯",
+    "studioName": "Yuki Kiln",
+    "locationPrefecture": "東京都",
+    "locationCity": "国分寺市",
+    "locationArea": "東元町2-20-12",
+    "kilnType": "現代窯",
+    "studioInfo": {
+      "birthYear": 1976,
+      "birthplace": "山梨県甲府市",
+      "established": 2006,
+      "location": "JR中央線国分寺駅徒步5分钟",
+      "education": "京都府立陶磁器技術專門校",
+      "technique": "練継技法（練込+土継）独創技法",
+      "awards": "日本工芸協会展多次获奖",
+      "specialty": "粉红色调表达，多材料混合",
+      "instagram": "@?",
+      "followers": "11.4K"
+    }
+  }
+]

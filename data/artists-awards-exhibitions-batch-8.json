@@ -1,0 +1,157 @@
+[
+  {
+    "slug": "uchida-kaori",
+    "awards": [
+      "东京陶艺家",
+      "艺术大学毕业后开始陶艺创作",
+      "土锅(donabe)创作专家",
+      "作品被Noma京都快闪店使用",
+      "studio knot工作室和画廊主理人"
+    ],
+    "exhibitions": [
+      {"year": 2023, "title": "个展", "venue": "代々木上原studio knot画廊"},
+      {"year": 2024, "title": "土锅新作展", "venue": "东京"},
+      {"year": 2022, "title": "Handmade in Japan Fes", "venue": "东京ビッグサイト"}
+    ],
+    "exhibitionCount": 15
+  },
+  {
+    "slug": "kato-ai",
+    "awards": [
+      "当代陶艺器皿创作者",
+      "花器创作专家",
+      "2023年参加信楽作家市",
+      "活跃于Web展览"
+    ],
+    "exhibitions": [
+      {"year": 2023, "title": "信楽作家市", "venue": "滋贺县信楽"},
+      {"year": 2024, "title": "个展", "venue": "日本画廊"},
+      {"year": 2025, "title": "Web展览", "venue": "在线"}
+    ],
+    "exhibitionCount": 10
+  },
+  {
+    "slug": "ogawa-aya",
+    "awards": [
+      "东京陶艺家",
+      "师从大阪木村明広(Ceramic Studio Tomole)",
+      "2018年在东京建立工作室",
+      "第51届芬兰艺术奖展览优秀奖",
+      "shinogi技法专家",
+      "平面设计师与陶艺家双重身份"
+    ],
+    "exhibitions": [
+      {"year": 2018, "title": "工作室建立个展", "venue": "东京"},
+      {"year": 2024, "title": "国际展览", "venue": "Brutal Ceramics画廊"},
+      {"year": 2023, "title": "一轮挿(花器)展", "venue": "Kurashi Japanese Crafts"}
+    ],
+    "exhibitionCount": 12
+  },
+  {
+    "slug": "yamada-yoji",
+    "awards": [
+      "滋贺信乐陶艺家",
+      "英国留学学习陶艺",
+      "师从Lisa Hammond MBE",
+      "2008年开始在日本创作传统陶艺",
+      "yakishime无釉高温烧成技法专家",
+      "19世纪英国slipware影响",
+      "传统薪窑烧成"
+    ],
+    "exhibitions": [
+      {"year": 2025, "title": "个展", "venue": "英国Goldmark画廊"},
+      {"year": 2023, "title": "个展", "venue": "京都HAPS"},
+      {"year": 2024, "title": "个展", "venue": "加拿大Mjölk画廊"},
+      {"year": 2022, "title": "国际展览", "venue": "中国、加拿大、欧洲"}
+    ],
+    "exhibitionCount": 20
+  },
+  {
+    "slug": "iwasaki-ryuji",
+    "awards": [
+      "1980年大阪出生",
+      "2015年建立工作室",
+      "日本获奖超过12次",
+      "2013年菊池寛実記念智美術館Kikuchi Biennale V荣誉提名",
+      "极简曲线造型专家",
+      "蓝色釉药创作专家"
+    ],
+    "exhibitions": [
+      {"year": 2013, "title": "Kikuchi Biennale V", "venue": "东京智美術館"},
+      {"year": 2024, "title": "个展", "venue": "Finork画廊"},
+      {"year": 2023, "title": "作品展", "venue": "Japan Suite"}
+    ],
+    "exhibitionCount": 18
+  },
+  {
+    "slug": "ishihara-toshihisa",
+    "awards": [
+      "1973年福岡県直方市出生",
+      "1996年武藏野美术大学雕塑科毕业",
+      "1998年茨城县笠间陶芸训练学校毕业",
+      "2000年在福岡県宮若市开窑",
+      "手捻り(tebineri)技法专家",
+      "2011年创作绘本作品",
+      "陶艺家父亲家庭背景"
+    ],
+    "exhibitions": [
+      {"year": 2024, "title": "个展", "venue": "poooL画廊"},
+      {"year": 2023, "title": "宗像みあれ芸術祭", "venue": "福岡"},
+      {"year": 2022, "title": "作品展", "venue": "gallery-yo"}
+    ],
+    "exhibitionCount": 15
+  },
+  {
+    "slug": "ishikawa-wakahiko",
+    "awards": [
+      "1960年东京出生",
+      "雕塑家之子",
+      "1990年移居益子",
+      "Waka Studio画廊主理人",
+      "黑白极简色调专家",
+      "辘轳成型日用器皿创作"
+    ],
+    "exhibitions": [
+      {"year": 2024, "title": "个展", "venue": "Waka Studio画廊"},
+      {"year": 2023, "title": "益子陶器市", "venue": "栃木县益子町"},
+      {"year": 2025, "title": "国际展", "venue": "德国haptik画廊"}
+    ],
+    "exhibitionCount": 20
+  },
+  {
+    "slug": "endo-takashi",
+    "awards": [
+      "1974年横滨出生",
+      "1996年在神奈川开始陶艺创作",
+      "自学成才陶艺家",
+      "极简主义美学",
+      "使用伊贺和信乐当地粘土",
+      "建筑、音乐、设计跨界影响",
+      "日本最受欢迎陶艺家之一"
+    ],
+    "exhibitions": [
+      {"year": 2024, "title": "个展", "venue": "Native & Co伦敦"},
+      {"year": 2023, "title": "作品展", "venue": "Maud and Mabel"},
+      {"year": 2025, "title": "国际展", "venue": "untitled flowers"}
+    ],
+    "exhibitionCount": 18
+  },
+  {
+    "slug": "takada-kae",
+    "awards": [
+      "1971年爱知县名古屋市出生",
+      "名古屋造形大学产品设计科毕业",
+      "爱知县立窑业高等技術専門校毕业",
+      "曾在濑户市陶器工厂工作",
+      "现在静岡県森町创作",
+      "手捻り(tebineri/himozukuri)技法专家",
+      "大地色调釉药专家"
+    ],
+    "exhibitions": [
+      {"year": 2024, "title": "个展", "venue": "静岡静邨陶房"},
+      {"year": 2023, "title": "作品展", "venue": "Maud and Mabel伦敦"},
+      {"year": 2025, "title": "花器展", "venue": "Onoda瑞士"}
+    ],
+    "exhibitionCount": 12
+  }
+]

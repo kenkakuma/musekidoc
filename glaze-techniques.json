@@ -1,0 +1,3011 @@
+[
+  {
+    "slug": "shino-yaku",
+    "nameZh": "志野釉",
+    "nameJa": "志野釉（しのゆう）",
+    "nameEn": "Shino Glaze",
+    "category": "釉药技法",
+    "region": "岐阜县・美浓",
+    "type": "长石釉",
+    "description": "志野釉是一种白色釉药，起源于日本桃山时代的美浓地区，是日本陶艺史上最重要的釉药之一。志野釉以长石为主要成分，厚施釉是其特征，白釉面上出现绯色（火色）和针孔是其标志性特征。厚釉面增加白度并容易产生针孔，同时也存在釉不溶解、溶解过度流淌或绯色完全不出现等技术难题。志野烧使用厚实的长石釉，具有半透明性质、不规则分布的蜂窝孔和绝美的火色变化。制作志野的土需要含铁量少，传统的百草土中铁含量仅约1.5%，既保证烧结小、绯色易出，又与志野釉相性好。",
+    "positioning": "桃山茶陶核心白釉，以厚釉、绯色和针孔见长。",
+    "signatureFeatures": [
+      "白色长石釉厚施工艺",
+      "釉面呈现橙红色绯色（火色）",
+      "表面有不规则针孔（蜂窝状）",
+      "半透明质感",
+      "需要低铁含量的特殊胎土"
+    ],
+    "keywords": [
+      "志野釉",
+      "美浓烧",
+      "桃山茶陶",
+      "长石釉",
+      "绯色",
+      "针孔",
+      "鈴木藏",
+      "荒川丰藏",
+      "加藤孝造",
+      "白釉",
+      "桃山时代"
+    ],
+    "notableArtists": [
+      "鈴木藏",
+      "荒川丰藏",
+      "加藤孝造"
+    ],
+    "representativeForms": [
+      "茶碗",
+      "向付",
+      "水指",
+      "香合",
+      "花入"
+    ],
+    "images": [],
+    "sources": [
+      {
+        "title": "志野釉专业资料",
+        "url": "https://touroji.com/yuuyakunosyurui/shinoyuu.html",
+        "accessedAt": "2026-03-06"
+      },
+      {
+        "title": "鈴木藏工房",
+        "url": "https://www.suzuki-osamu.jp/",
+        "accessedAt": "2026-03-06"
+      },
+      {
+        "title": "陶瓷百科︱志野烧的前世今生 - 知乎",
+        "url": "https://zhuanlan.zhihu.com/p/405043342",
+        "accessedAt": "2026-03-06"
+      }
+    ],
+    "relatedArtistsDetail": [
+      {
+        "artistSlug": "suzuki-osamu",
+        "nameZh": "鈴木藏",
+        "nameJa": "鈴木藏",
+        "nameEn": "Suzuki Osamu",
+        "birthYear": 1934,
+        "deathYear": null,
+        "bio": "1934年生于岐阜县土岐市。长期专注志野研究，尤其以乳白厚釉与绯色控制见长，发展出被称为“志野白”的高度完成样式。1968年独立后持续研究桃山时代半地下式窑烧成逻辑，并以现代窑炉重建传统志野语汇，1994年被认定为“志野”重要无形文化财保持者。",
+        "kilnName": "鈴木藏工房",
+        "studioName": "鈴木藏窯",
+        "locationPrefecture": "岐阜県",
+        "locationCity": "土岐市",
+        "region": "岐阜县・土岐市",
+        "style": "志野烧、长石白釉、桃山茶陶研究",
+        "awards": [
+          "1961年第10回现代日本陶艺展朝日新闻社赏（首位）",
+          "1962年捷克国际陶艺展大奖",
+          "1987年艺术选奖文部大臣赏",
+          "1994年认定为重要无形文化财保持者（人间国宝）- 志野",
+          "1995年紫绶褒章",
+          "2006年勲三等旭日章"
+        ],
+        "exhibitions": [
+          {
+            "year": 1968,
+            "title": "独立开窑纪念展",
+            "venue": "岐阜县土岐市"
+          },
+          {
+            "year": 1994,
+            "title": "人间国宝认定纪念展",
+            "venue": "岐阜县现代陶艺美术馆"
+          },
+          {
+            "year": 2024,
+            "title": "卒寿纪念 人间国宝 鈴木藏的志野展",
+            "venue": "东根市美术馆、东京国立近代美术馆工艺馆"
+          }
+        ],
+        "instagramHandle": null,
+        "websiteUrl": "https://www.suzuki-osamu.jp/",
+        "sources": [
+          {
+            "title": "卒寿纪念 人间国宝 鈴木藏的志野展",
+            "url": "https://www.momat.go.jp/craft-museum/exhibitions/570",
+            "accessedAt": "2026-03-06"
+          },
+          {
+            "title": "鈴木藏工房",
+            "url": "https://www.suzuki-osamu.jp/",
+            "accessedAt": "2026-03-06"
+          }
+        ]
+      },
+      {
+        "artistSlug": "arakawa-toyozo",
+        "nameZh": "荒川丰藏",
+        "nameJa": "荒川豊藏",
+        "nameEn": "Arakawa Toyozo",
+        "birthYear": 1894,
+        "deathYear": 1985,
+        "bio": "1894年生于岐阜县。1930年在美浓大萱发现桃山时代志野陶片，成为志野与濑户黑复兴的决定性契机。其后在大萱与多治见建窑，系统研究桃山茶陶，以志野、濑户黑、黄濑户和织部等美浓系茶陶闻名，被认定为重要无形文化财保持者，是现代日本茶陶复兴的关键人物。",
+        "kilnName": "大萱窯／水月窯",
+        "studioName": "荒川豊蔵工房",
+        "locationPrefecture": "岐阜県",
+        "locationCity": "可児市／多治見市",
+        "region": "岐阜县・美浓",
+        "style": "志野、濑户黑、黄濑户、织部等桃山茶陶复兴",
+        "awards": [
+          "1955年志野烧认定为重要无形文化财保持者（人间国宝）",
+          "1971年濑户黑认定为重要无形文化财保持者（人间国宝）",
+          "日本陶瓷协会奖"
+        ],
+        "exhibitions": [
+          {
+            "year": 1930,
+            "title": "桃山陶器再现展",
+            "venue": "岐阜县"
+          },
+          {
+            "year": 1956,
+            "title": "人间国宝认定纪念展",
+            "venue": "东京"
+          },
+          {
+            "year": 1980,
+            "title": "荒川豊藏回顾展",
+            "venue": "岐阜县现代陶艺美术馆"
+          },
+          {
+            "year": 2018,
+            "title": "日本巨匠陶艺名品展",
+            "venue": "浙江赛丽美术馆"
+          }
+        ],
+        "instagramHandle": null,
+        "websiteUrl": null,
+        "sources": [
+          {
+            "title": "荒川豊藏资料 - 岐阜县现代陶艺美术馆",
+            "url": "https://www.cpm-gifu.jp/museum/02.exhibition/02_1.exhibition/exhibition/2022/07/post-9.html",
+            "accessedAt": "2026-03-06"
+          },
+          {
+            "title": "荒川豊藏工房资料",
+            "url": "https://www.tajimi-bunka.or.jp/toyozo/",
+            "accessedAt": "2026-03-06"
+          }
+        ]
+      },
+      {
+        "artistSlug": "kato-takao",
+        "nameZh": "加藤孝造",
+        "nameJa": "加藤孝造",
+        "nameEn": "Kato Takao",
+        "birthYear": 1935,
+        "deathYear": null,
+        "bio": "岐阜县出身的美浓茶陶巨匠，长期以志野、濑户黑、黄濑户等桃山茶陶为研究核心。其作品以厚釉、强烈火色与沉稳器形著称，延续了荒川丰藏之后的美浓系复兴路径。作为黄濑户与志野的重要当代代表，他将桃山茶碗语言持续推进到现代展览语境之中。",
+        "kilnName": null,
+        "studioName": null,
+        "locationPrefecture": null,
+        "locationCity": null,
+        "region": "岐阜县・美浓",
+        "style": "志野、黄濑户、濑户黑等美浓茶陶",
+        "awards": [],
+        "exhibitions": [],
+        "instagramHandle": null,
+        "websiteUrl": null,
+        "sources": [
+          {
+            "title": "加藤孝造资料 - 岐阜县现代陶艺美术馆",
+            "url": "https://www.cpm-gifu.jp/museum/02.exhibition/02_1.exhibition/exhibition/2023/07/post-31.html",
+            "accessedAt": "2026-03-06"
+          },
+          {
+            "title": "美浓陶艺家 加藤孝造作品页",
+            "url": "https://www.kurodatoen.co.jp/artist/katotakao/",
+            "accessedAt": "2026-03-06"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "oribe-yaku",
+    "nameZh": "织部釉",
+    "nameJa": "織部釉（おりべゆう）",
+    "nameEn": "Oribe Glaze",
+    "category": "釉药技法",
+    "region": "岐阜县・美浓",
+    "type": "铜绿釉",
+    "description": "织部釉是日本桃山时代由茶人古田织部（千利休之弟子）所创的釉药技法，以其独特的深绿色、扭曲的器型和大胆的几何纹样而闻名于世。织部釉以铜为主要着色剂，在氧化气氛中呈现绿色。织部茶碗以绿色或黑色伴随褐色的古朴图案，表现出彻底的恬静和自然为主要特征。织部烧突破了传统茶陶的保守风格，体现了桃山时代自由奔放的美学精神。古田织部将茶道美学与陶艺创作完美结合，创造出极具个性和现代感的陶瓷艺术。",
+    "positioning": "以铜绿色为标志，体现桃山时代最自由的茶陶语言。",
+    "signatureFeatures": [
+      "铜绿釉呈现深绿色",
+      "大胆的几何图案和纹样",
+      "常见扭曲变形的器型",
+      "绿色与褐色、黑色的对比",
+      "自由不羁的造型风格"
+    ],
+    "keywords": [
+      "织部釉",
+      "铜绿釉",
+      "青织部",
+      "黑织部",
+      "古田织部",
+      "美浓烧",
+      "加藤唐九郎",
+      "荒川丰藏",
+      "桃山时代",
+      "茶陶"
+    ],
+    "notableArtists": [
+      "荒川丰藏",
+      "加藤唐九郎",
+      "鈴木藏"
+    ],
+    "representativeForms": [
+      "沓形茶碗",
+      "向付",
+      "盘",
+      "花入",
+      "食笼"
+    ],
+    "images": [],
+    "sources": [
+      {
+        "title": "织部相关专业资料",
+        "url": "https://touroji.com/choice/oribe.html",
+        "accessedAt": "2026-03-06"
+      },
+      {
+        "title": "爱知县陶瓷美术馆 加藤唐九郎资料",
+        "url": "https://www.pref.aichi.jp/touji/exhibition/2019/special_tokuro/",
+        "accessedAt": "2026-03-06"
+      },
+      {
+        "title": "赏析 | 盘点日本瓷器的特色 - 中国工艺美术学会",
+        "url": "https://www.cnacs.net.cn/19/202502/6902.html",
+        "accessedAt": "2026-03-06"
+      },
+      {
+        "title": "日本各时代陶瓷发展及艺术特色 - 新浪收藏",
+        "url": "http://collection.sina.com.cn/cqty/20120904/162283060.shtml",
+        "accessedAt": "2026-03-06"
+      }
+    ],
+    "relatedArtistsDetail": [
+      {
+        "artistSlug": "arakawa-toyozo",
+        "nameZh": "荒川丰藏",
+        "nameJa": "荒川豊藏",
+        "nameEn": "Arakawa Toyozo",
+        "birthYear": 1894,
+        "deathYear": 1985,
+        "bio": "1894年生于岐阜县。1930年在美浓大萱发现桃山时代志野陶片，成为志野与濑户黑复兴的决定性契机。其后在大萱与多治见建窑，系统研究桃山茶陶，以志野、濑户黑、黄濑户和织部等美浓系茶陶闻名，被认定为重要无形文化财保持者，是现代日本茶陶复兴的关键人物。",
+        "kilnName": "大萱窯／水月窯",
+        "studioName": "荒川豊蔵工房",
+        "locationPrefecture": "岐阜県",
+        "locationCity": "可児市／多治見市",
+        "region": "岐阜县・美浓",
+        "style": "志野、濑户黑、黄濑户、织部等桃山茶陶复兴",
+        "awards": [
+          "1955年志野烧认定为重要无形文化财保持者（人间国宝）",
+          "1971年濑户黑认定为重要无形文化财保持者（人间国宝）",
+          "日本陶瓷协会奖"
+        ],
+        "exhibitions": [
+          {
+            "year": 1930,
+            "title": "桃山陶器再现展",
+            "venue": "岐阜县"
+          },
+          {
+            "year": 1956,
+            "title": "人间国宝认定纪念展",
+            "venue": "东京"
+          },
+          {
+            "year": 1980,
+            "title": "荒川豊藏回顾展",
+            "venue": "岐阜县现代陶艺美术馆"
+          },
+          {
+            "year": 2018,
+            "title": "日本巨匠陶艺名品展",
+            "venue": "浙江赛丽美术馆"
+          }
+        ],
+        "instagramHandle": null,
+        "websiteUrl": null,
+        "sources": [
+          {
+            "title": "荒川豊藏资料 - 岐阜县现代陶艺美术馆",
+            "url": "https://www.cpm-gifu.jp/museum/02.exhibition/02_1.exhibition/exhibition/2022/07/post-9.html",
+            "accessedAt": "2026-03-06"
+          },
+          {
+            "title": "荒川豊藏工房资料",
+            "url": "https://www.tajimi-bunka.or.jp/toyozo/",
+            "accessedAt": "2026-03-06"
+          }
+        ]
+      },
+      {
+        "artistSlug": "kato-tokuro",
+        "nameZh": "加藤唐九郎",
+        "nameJa": "加藤唐九郎",
+        "nameEn": "Kato Tokuro",
+        "birthYear": 1897,
+        "deathYear": 1985,
+        "bio": "1897年生于濑户。以对桃山陶的强烈再发现意识推动了志野、织部、黄濑户等美浓与濑户系茶陶的再评价。其创作兼具考古意识与强烈个人风格，不仅烧制传统类型，也通过豪迈的器形和粗野肌理赋予传统茶陶新的现代生命，被视为20世纪日本茶陶史上的关键人物之一。",
+        "kilnName": null,
+        "studioName": null,
+        "locationPrefecture": null,
+        "locationCity": null,
+        "region": "爱知县・濑户 / 岐阜县・美浓",
+        "style": "桃山茶陶复兴、织部、黄濑户、志野",
+        "awards": [],
+        "exhibitions": [],
+        "instagramHandle": null,
+        "websiteUrl": null,
+        "sources": [
+          {
+            "title": "加藤唐九郎资料 - 爱知县陶瓷美术馆",
+            "url": "https://www.pref.aichi.jp/touji/exhibition/2019/special_tokuro/",
+            "accessedAt": "2026-03-06"
+          },
+          {
+            "title": "加藤唐九郎介绍",
+            "url": "https://www.seto-cul.jp/information/index.php?s=1617034224",
+            "accessedAt": "2026-03-06"
+          }
+        ]
+      },
+      {
+        "artistSlug": "suzuki-osamu",
+        "nameZh": "鈴木藏",
+        "nameJa": "鈴木藏",
+        "nameEn": "Suzuki Osamu",
+        "birthYear": 1934,
+        "deathYear": null,
+        "bio": "1934年生于岐阜县土岐市。长期专注志野研究，尤其以乳白厚釉与绯色控制见长，发展出被称为“志野白”的高度完成样式。1968年独立后持续研究桃山时代半地下式窑烧成逻辑，并以现代窑炉重建传统志野语汇，1994年被认定为“志野”重要无形文化财保持者。",
+        "kilnName": "鈴木藏工房",
+        "studioName": "鈴木藏窯",
+        "locationPrefecture": "岐阜県",
+        "locationCity": "土岐市",
+        "region": "岐阜县・土岐市",
+        "style": "志野烧、长石白釉、桃山茶陶研究",
+        "awards": [
+          "1961年第10回现代日本陶艺展朝日新闻社赏（首位）",
+          "1962年捷克国际陶艺展大奖",
+          "1987年艺术选奖文部大臣赏",
+          "1994年认定为重要无形文化财保持者（人间国宝）- 志野",
+          "1995年紫绶褒章",
+          "2006年勲三等旭日章"
+        ],
+        "exhibitions": [
+          {
+            "year": 1968,
+            "title": "独立开窑纪念展",
+            "venue": "岐阜县土岐市"
+          },
+          {
+            "year": 1994,
+            "title": "人间国宝认定纪念展",
+            "venue": "岐阜县现代陶艺美术馆"
+          },
+          {
+            "year": 2024,
+            "title": "卒寿纪念 人间国宝 鈴木藏的志野展",
+            "venue": "东根市美术馆、东京国立近代美术馆工艺馆"
+          }
+        ],
+        "instagramHandle": null,
+        "websiteUrl": "https://www.suzuki-osamu.jp/",
+        "sources": [
+          {
+            "title": "卒寿纪念 人间国宝 鈴木藏的志野展",
+            "url": "https://www.momat.go.jp/craft-museum/exhibitions/570",
+            "accessedAt": "2026-03-06"
+          },
+          {
+            "title": "鈴木藏工房",
+            "url": "https://www.suzuki-osamu.jp/",
+            "accessedAt": "2026-03-06"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "seiji-yu",
+    "nameZh": "青磁釉",
+    "nameJa": "青磁釉（せいじゆう）",
+    "nameEn": "Celadon Glaze",
+    "category": "釉药技法",
+    "region": "日本全国（以佐渡、美浓、有田为线索）",
+    "type": "青绿色透明釉",
+    "description": "青磁（せいじ）是施加透明青绿色釉的瓷器，起源于中国商代（约公元前14世纪），在后汉时代开始流行，后来制造技术传播到日本和朝鲜半岛。青磁独特的青绿色调源于釉药和胎土中的氧化铁在高温还原烧成时转化为氧化亚铁，当釉中矽酸含量较高时呈现蓝色调，石灰含量较多时则呈现橄榄绿色调。\n\n中国青磁的发展在宋代达到巅峰，各地窑场生产出特色各异的青磁。著名的汝窑（汝窯）、哥窑（哥窯）和龙泉窑（龍泉窯）的青磁，特别是龙泉窑明亮的淡色青磁，从镰倉时代至安土桃山时代深受日本茶人、武士和文化人的喜爱，被称为「砧青磁」。\n\n日本的青磁发展初期主要依赖中国进口，本土制作技术发展缓慢。江户时代以后，日本陶工逐渐掌握青磁制作技术，发展出独特的日本青磁风格，代表性产地包括锅島烧和三田烧。现代日本青磁继续传承传统技法，同时探索新的釉色和造型表现。\n\n青磁的魅力在于其釉色的深邃和宁静，宛如青翠的玉石，体现了东亚陶瓷美学中对自然之美的追求。优质的青磁釉面光洁如镜，釉色均匀透亮，是陶瓷技艺的高峰体现。",
+    "positioning": "以还原烧成下的青绿色透明感，呈现玉质般的宁静气息。",
+    "signatureFeatures": [
+      "青绿色透明釉",
+      "氧化铁在还原烧成中发色",
+      "起源于中国商代",
+      "宋代龙泉窑青磁最为著名",
+      "江户时代日本发展出本土风格"
+    ],
+    "keywords": [
+      "青磁",
+      "瓷器",
+      "还原烧成",
+      "龙泉窑",
+      "汝窑",
+      "锅島焼",
+      "三田焼",
+      "釉药"
+    ],
+    "notableArtists": [
+      "三浦小平二",
+      "塚本快示",
+      "十三代今泉今右卫门"
+    ],
+    "representativeForms": [
+      "壶",
+      "花器",
+      "水指",
+      "盒",
+      "香炉"
+    ],
+    "images": [],
+    "sources": [
+      {
+        "title": "青磁概述",
+        "url": "https://ja.wikipedia.org/wiki/%E9%9D%92%E7%A3%81",
+        "accessedAt": "2026-03-06"
+      },
+      {
+        "title": "三浦小平二作品资料",
+        "url": "https://www.momat.go.jp/craft-museum/collections/items/koheiji-miura",
+        "accessedAt": "2026-03-06"
+      },
+      {
+        "title": "陶磁器の青磁とは - sanka-antique",
+        "url": "https://sanka-antique.com/en/pages/pottery-celadon",
+        "accessedAt": "2026-03-06"
+      },
+      {
+        "title": "青磁の歴史と名窯 - touji-gvm",
+        "url": "https://touji-gvm.com/celadon-glaze/",
+        "accessedAt": "2026-03-06"
+      }
+    ],
+    "relatedArtistsDetail": [
+      {
+        "artistSlug": "miura-koheiji",
+        "nameZh": "三浦小平二",
+        "nameJa": "三浦小平二",
+        "nameEn": "Miura Koheiji",
+        "birthYear": 1933,
+        "deathYear": 2006,
+        "bio": "1933年生于新潟县佐渡。以青磁与青白磁中细腻含蓄的蓝绿色调闻名，尤其擅长在釉层中呈现海与岛屿般的静谧光泽。其作品多为壶、花器、盒与茶器，在现代日本青磁谱系中具有鲜明个人面貌，1982年被认定为“青磁”重要无形文化财保持者。",
+        "kilnName": null,
+        "studioName": null,
+        "locationPrefecture": null,
+        "locationCity": null,
+        "region": "新潟县・佐渡",
+        "style": "青磁、青白磁、含蓄蓝绿色调",
+        "awards": [],
+        "exhibitions": [],
+        "instagramHandle": null,
+        "websiteUrl": null,
+        "sources": [
+          {
+            "title": "三浦小平二作品资料 - 东京国立近代美术馆",
+            "url": "https://www.momat.go.jp/craft-museum/collections/items/koheiji-miura",
+            "accessedAt": "2026-03-06"
+          },
+          {
+            "title": "三浦小平二介绍",
+            "url": "https://www.sado-biyori.com/feature/koheiji/",
+            "accessedAt": "2026-03-06"
+          }
+        ]
+      },
+      {
+        "artistSlug": "tsukamoto-kaiji",
+        "nameZh": "塚本快示",
+        "nameJa": "塚本快示",
+        "nameEn": "Tsukamoto Kaiji",
+        "birthYear": 1912,
+        "deathYear": 1990,
+        "bio": "1912年生于岐阜县土岐市，快山窑代表人物。其青白磁作品以刻线、片切雕与细致透明釉层著称，在青磁与白磁之间建立温润的半透明层次。1983年被认定为“青白磁”重要无形文化财保持者，是日本现代青磁谱系中不可回避的关键人物。",
+        "kilnName": "快山窯",
+        "studioName": "Kaizan-gama",
+        "locationPrefecture": "岐阜県",
+        "locationCity": "土岐市",
+        "region": "岐阜县・土岐市",
+        "style": "青白磁、片切雕、快山窑",
+        "awards": [
+          "1965年日本传统工艺展会长奖",
+          "1973年岐阜县无形文化财指定",
+          "1983年认定为重要无形文化财保持者（人间国宝）- 青白磁",
+          "第七代塚本源左衛門之子",
+          "片切彫技法大师"
+        ],
+        "exhibitions": [
+          {
+            "year": 1943,
+            "title": "开始青白磁创作",
+            "venue": "岐阜县土岐市"
+          },
+          {
+            "year": 1983,
+            "title": "人间国宝认定纪念展",
+            "venue": "东京"
+          },
+          {
+            "year": 1990,
+            "title": "塚本快示追悼展",
+            "venue": "岐阜县"
+          },
+          {
+            "year": 2024,
+            "title": "青白磁作品回顾展",
+            "venue": "东京"
+          }
+        ],
+        "instagramHandle": null,
+        "websiteUrl": null,
+        "sources": [
+          {
+            "title": "塚本快示资料",
+            "url": "https://www.kogei-japan.com/locale/ja_JP/tsukamotokaiji/",
+            "accessedAt": "2026-03-06"
+          },
+          {
+            "title": "快山窑介绍",
+            "url": "https://kaizan-gama.com/",
+            "accessedAt": "2026-03-06"
+          }
+        ]
+      },
+      {
+        "artistSlug": "imaizumi-imaemon-xiii",
+        "nameZh": "十三代今泉今右卫门",
+        "nameJa": "十三代今泉今右衛門",
+        "nameEn": "Imaizumi Imaemon XIII",
+        "birthYear": 1926,
+        "deathYear": 2001,
+        "bio": "1926年生于有田赤绘世家，1975年袭名十三代今右卫门。其代表性贡献在于把色锅岛系统重新整理为现代展示语言，并持续提升白磁胎、瑠璃与赤绘装饰之间的均衡。1989年被认定为“色绘磁器”重要无形文化财保持者，也是有田磁器现代传承体系中的核心人物。",
+        "kilnName": "今右衛門窯",
+        "studioName": "色鍋島今右衛門窯",
+        "locationPrefecture": "佐賀県",
+        "locationCity": "西松浦郡有田町",
+        "region": "佐贺县・有田町",
+        "style": "色锅岛、瑠璃与赤绘磁器",
+        "awards": [
+          "1975年襲名十三代今泉今右衛門",
+          "1979年日本传统工艺展NHK会长奖",
+          "1981年日本陶艺展最优秀作品奖秩父宫赐杯",
+          "1988年每日艺术奖",
+          "1989年认定为重要无形文化财'色绘磁器'保持者（人间国宝）",
+          "1989年日本陶瓷协会金奖",
+          "组织'色鍋岛今右衛門技术保存会'获国家重要无形文化财综合指定"
+        ],
+        "exhibitions": [
+          {
+            "year": 1975,
+            "title": "十三代襲名纪念展",
+            "venue": "佐贺县有田町"
+          },
+          {
+            "year": 1989,
+            "title": "人间国宝认定纪念展",
+            "venue": "东京"
+          },
+          {
+            "year": 1995,
+            "title": "色锅岛今右衛門展",
+            "venue": "兵库陶艺美术馆"
+          },
+          {
+            "year": 2000,
+            "title": "今右衛門的色锅岛回顾展",
+            "venue": "佐贺县立九州陶瓷文化馆"
+          }
+        ],
+        "instagramHandle": null,
+        "websiteUrl": "https://www.imaemon.co.jp/",
+        "sources": [
+          {
+            "title": "今右卫门官方站",
+            "url": "https://www.imaemon.co.jp/",
+            "accessedAt": "2026-03-06"
+          },
+          {
+            "title": "今右卫门相关资料",
+            "url": "https://www.imaemon.co.jp/about/",
+            "accessedAt": "2026-03-06"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "hakuji-yu",
+    "nameZh": "白磁釉",
+    "nameJa": "白磁釉（はくじゆう）",
+    "nameEn": "White Porcelain Glaze",
+    "category": "釉药技法",
+    "region": "佐贺县・有田 / 鸟取县",
+    "type": "透明釉磁器",
+    "description": "白磁（はくじ）是在白色瓷土上施加透明釉烧成的瓷器，以其纯洁的白色和光滑的质感著称。白磁的制作需要极高的技术水平：瓷土必须含铁量极低，釉药配方要精确，烧成温度和气氛控制要严格，任何微小的瑕疵都会在纯白的表面上清晰可见。\n\n白磁起源于中国，隋唐时代已有成熟的制作技术，宋代定窑、景德镇窑等产地的白磁达到技艺巅峰。朝鲜半岛在高丽和朝鲜王朝时代也发展出独特的白磁风格，以简洁优雅的造型著称。\n\n日本白磁的发展始于江户时代初期，有田地区从朝鲜陶工学习制瓷技术，逐渐掌握白磁制作工艺。日本白磁在继承东亚传统的基础上，发展出符合日本美学的纤细优雅风格，代表性产地包括有田、九谷、京都等。\n\n白磁的美学价值在于其「纯粋性」——不依赖任何装饰，仅凭材料本身的质感和造型的完美呈现艺术性。优质的白磁釉面温润如玉，白中透出淡淡的青色调或温暖的米白色调，在光线下呈现出柔和的光泽。现代陶艺家将白磁视为极简主义美学的物质载体，通过造型的微妙变化和釉面的细腻处理，探索「留白」的艺术哲学。\n\n白磁也是其他装饰技法的重要基础，如染付（青花）、色绘（彩绘）等都以白磁为底，白色背景能够最大限度地突显装饰的美感。",
+    "positioning": "以极高纯度白瓷胎和透明釉追求无装饰之美。",
+    "signatureFeatures": [
+      "纯白色瓷器",
+      "需要低铁分的优质瓷土",
+      "施透明釉高温烧成",
+      "起源于中国隋唐时代",
+      "日本江户时代有田地区发展"
+    ],
+    "keywords": [
+      "白磁",
+      "瓷器",
+      "纯白",
+      "定窑",
+      "有田焼",
+      "九谷焼",
+      "极简",
+      "纯粋性"
+    ],
+    "notableArtists": [
+      "井上萬二",
+      "前田昭博",
+      "十五代酒井田柿右卫门"
+    ],
+    "representativeForms": [
+      "壶",
+      "钵",
+      "皿",
+      "花瓶",
+      "香炉"
+    ],
+    "images": [],
+    "sources": [
+      {
+        "title": "井上萬二官方站",
+        "url": "https://www.manjiinoue.com/",
+        "accessedAt": "2026-03-06"
+      },
+      {
+        "title": "柿右卫门官方站",
+        "url": "https://www.kakiemon.co.jp/",
+        "accessedAt": "2026-03-06"
+      },
+      {
+        "title": "白磁 - Wikipedia",
+        "url": "https://ja.wikipedia.org/wiki/%E7%99%BD%E7%A3%81",
+        "accessedAt": "2026-03-06"
+      },
+      {
+        "title": "中国陶磁概説 - 大阪市立東洋陶磁美術館",
+        "url": "https://www.moco.or.jp/intro/history_c/china.php",
+        "accessedAt": "2026-03-06"
+      }
+    ],
+    "relatedArtistsDetail": [
+      {
+        "artistSlug": "inoue-manji",
+        "nameZh": "井上萬二",
+        "nameJa": "井上萬二",
+        "nameEn": "Inoue Manji",
+        "birthYear": 1929,
+        "deathYear": null,
+        "bio": "1929年生于佐贺县有田町。以极纯净的白磁轆轤成形和流畅线条著称，强调“白磁不容谎言”的制作伦理。其作品追求无装饰状态下的造型与光泽完整度，1995年被认定为“白磁”重要无形文化财保持者，是有田白磁体系的当代核心代表。",
+        "kilnName": "井上萬二窯",
+        "studioName": "INOUE MANJI KILN",
+        "locationPrefecture": "佐賀県",
+        "locationCity": "西松浦郡有田町",
+        "region": "佐贺县・有田町",
+        "style": "白磁、轆轤成形、极简器形",
+        "awards": [
+          "1979年现代名工（劳动大臣奖）",
+          "1987年日本工艺展文部大臣奖",
+          "1995年认定为重要无形文化财保持者（人间国宝）- 白磁",
+          "2015年旭日中授章"
+        ],
+        "exhibitions": [
+          {
+            "year": 1987,
+            "title": "日本工艺展获奖作品展",
+            "venue": "东京"
+          },
+          {
+            "year": 1997,
+            "title": "白磁作品展",
+            "venue": "东京国立近代美术馆收藏"
+          },
+          {
+            "year": 2000,
+            "title": "白磁艺术展",
+            "venue": "茨城县陶艺美术馆收藏"
+          },
+          {
+            "year": 2001,
+            "title": "白磁作品展",
+            "venue": "岐阜县美术馆收藏"
+          },
+          {
+            "year": 2015,
+            "title": "井上萬二白磁展",
+            "venue": "有田陶瓷美术馆"
+          }
+        ],
+        "instagramHandle": null,
+        "websiteUrl": "https://www.manjiinoue.com/",
+        "sources": [
+          {
+            "title": "井上萬二官方站",
+            "url": "https://www.manjiinoue.com/",
+            "accessedAt": "2026-03-06"
+          },
+          {
+            "title": "井上萬二 白磁资料",
+            "url": "https://www.arita.jp/kouryu/jinbutsu/inouemanji/",
+            "accessedAt": "2026-03-06"
+          }
+        ]
+      },
+      {
+        "artistSlug": "maeda-akihiro",
+        "nameZh": "前田昭博",
+        "nameJa": "前田昭博",
+        "nameEn": "Maeda Akihiro",
+        "birthYear": 1954,
+        "deathYear": null,
+        "bio": "1954年生于鸟取县，1977年自建柳濑窑后长期专注白磁创作。其作品以极其克制的线条、柔润的白色层次和稳定而精密的拉坯技术见长，既保留山阴地区的清冷气息，又具强烈现代感。2013年被认定为“白磁”重要无形文化财保持者，是井上萬二之外观察现代日本白磁时不可绕开的代表人物。",
+        "kilnName": "やなせ窯",
+        "studioName": "Yanase Kiln",
+        "locationPrefecture": "鳥取県",
+        "locationCity": "鳥取市",
+        "region": "鸟取县",
+        "style": "白磁、拉坯成形、山阴系清冷白感",
+        "awards": [],
+        "exhibitions": [],
+        "instagramHandle": null,
+        "websiteUrl": null,
+        "sources": [
+          {
+            "title": "前田昭博资料",
+            "url": "https://www.kogei-japan.com/locale/ja_JP/maedaakihiro/",
+            "accessedAt": "2026-03-06"
+          },
+          {
+            "title": "前田昭博展览资料",
+            "url": "https://www.momat.go.jp/craft-museum/exhibitions/554",
+            "accessedAt": "2026-03-06"
+          }
+        ]
+      },
+      {
+        "artistSlug": "sakaida-kakiemon-xv",
+        "nameZh": "十五代酒井田柿右卫门",
+        "nameJa": "十五代酒井田柿右衛門",
+        "nameEn": "Sakaida Kakiemon XV",
+        "birthYear": 1968,
+        "deathYear": null,
+        "bio": "柿右卫门窑第十五代。继承有田白磁与柿右卫门样式的乳白素地与清朗彩绘传统，在现代展览与窑元经营之间延续家族风格。虽然更为人熟知的是色绘体系，但其作品基础仍建立在高纯度白磁胎与透明釉的稳定控制之上，因此也是现代白磁与有田磁器系统的重要观察点。",
+        "kilnName": null,
+        "studioName": null,
+        "locationPrefecture": null,
+        "locationCity": null,
+        "region": "佐贺县・有田町",
+        "style": "有田白磁、柿右卫门样式、色绘磁器",
+        "awards": [],
+        "exhibitions": [],
+        "instagramHandle": null,
+        "websiteUrl": "https://www.kakiemon.co.jp/",
+        "sources": [
+          {
+            "title": "柿右卫门官方站",
+            "url": "https://www.kakiemon.co.jp/",
+            "accessedAt": "2026-03-06"
+          },
+          {
+            "title": "柿右卫门历史",
+            "url": "https://www.kakiemon.co.jp/contents/history/",
+            "accessedAt": "2026-03-06"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "tenmoku-yu",
+    "nameZh": "天目釉",
+    "nameJa": "天目釉（てんもくゆう）",
+    "nameEn": "Tenmoku Glaze",
+    "category": "釉药技法",
+    "region": "濑户 / 美浓 / 京都",
+    "type": "铁结晶黑釉",
+    "description": "天目釉是瓷器釉色之一，指施黑釉的瓷器，又称雨点釉，因宋代由浙江天目山传入日本而得名。其初见于东汉，东晋德清窑实现批量生产，宋代建窑利用铁结晶烧制出'油滴''兔毫'纹样。天目釉以铁为主要着色剂，在高温还原焰中烧成，釉层透暗蓝或深黑色。天目陶瓷难以烧制，关键在于炉温难以控制，温度稍有偏差极有可能烧制失败，而且烧制的作品由于温度的细微变化，形成的图案也千变万化，每件都堪称孤品。高温和还原气氛是天目作品质量的关键因素。",
+    "positioning": "以高铁黑釉与结晶斑纹见长，是茶碗世界中的深色经典。",
+    "signatureFeatures": [
+      "深黑色或暗蓝色釉面",
+      "铁为主要着色剂",
+      "高温还原焰烧成",
+      "釉面出现各种结晶纹理",
+      "烧制难度极高"
+    ],
+    "keywords": [
+      "天目釉",
+      "黑釉",
+      "铁结晶",
+      "油滴",
+      "曜变",
+      "茶碗",
+      "清水卯一",
+      "石黑宗麿",
+      "铁釉",
+      "建窑",
+      "还原焰"
+    ],
+    "notableArtists": [
+      "清水卯一",
+      "石黑宗麿",
+      "林恭助"
+    ],
+    "representativeForms": [
+      "茶碗",
+      "盏",
+      "壶",
+      "盘",
+      "花器"
+    ],
+    "images": [],
+    "sources": [
+      {
+        "title": "天目釉条目",
+        "url": "https://ja.wikipedia.org/wiki/%E5%A4%A9%E7%9B%AE",
+        "accessedAt": "2026-03-06"
+      },
+      {
+        "title": "现代天目资料",
+        "url": "https://www.kurodatoen.co.jp/artist/hayashikyosuke/",
+        "accessedAt": "2026-03-06"
+      },
+      {
+        "title": "天目釉 - 百度百科",
+        "url": "https://baike.baidu.com/item/%E5%A4%A9%E7%9B%AE%E9%87%89/3416133",
+        "accessedAt": "2026-03-06"
+      },
+      {
+        "title": "天目茶碗 - 维基百科",
+        "url": "https://zh.wikipedia.org/zh-tw/%E5%A4%A9%E7%9B%AE%E8%8C%B6%E7%A2%97",
+        "accessedAt": "2026-03-06"
+      }
+    ],
+    "relatedArtistsDetail": [
+      {
+        "artistSlug": "shimizu-uichi",
+        "nameZh": "清水卯一",
+        "nameJa": "清水卯一",
+        "nameEn": "Shimizu Uichi",
+        "birthYear": 1926,
+        "deathYear": 2004,
+        "bio": "京都出生的陶艺家，以铁釉、柿釉与天目系高温黑釉研究著称。其作品在京都传统审美与滋贺蓬莱窑的厚重土味之间取得平衡，既重视釉层深度，也追求器形的静穆气息。1985年被认定为“铁釉陶器”重要无形文化财保持者。",
+        "kilnName": "蓬莱窯",
+        "studioName": "清水卯一工房",
+        "locationPrefecture": "京都府／滋賀県",
+        "locationCity": "京都市東山区／滋賀県琵琶湖西岸",
+        "region": "京都 / 滋贺",
+        "style": "铁釉、柿釉、天目系黑釉",
+        "awards": [
+          "1985年4月13日认定为重要无形文化财'铁釉陶器'保持者（人间国宝）",
+          "1986年紫绶勋章",
+          "1992年京都市文化功劳者表彰"
+        ],
+        "exhibitions": [
+          {
+            "year": 1955,
+            "title": "日本传统工艺展首次参展",
+            "venue": "东京"
+          },
+          {
+            "year": 1970,
+            "title": "蓬莱山建窑纪念展",
+            "venue": "滋贺县"
+          },
+          {
+            "year": 1985,
+            "title": "人间国宝认定纪念展",
+            "venue": "京都"
+          },
+          {
+            "year": 1999,
+            "title": "清水卯一作品捐赠展",
+            "venue": "滋贺县立近代美术馆"
+          }
+        ],
+        "instagramHandle": null,
+        "websiteUrl": null,
+        "sources": [
+          {
+            "title": "清水卯一资料",
+            "url": "https://www.kogei-japan.com/locale/ja_JP/shimizuuichi/",
+            "accessedAt": "2026-03-06"
+          },
+          {
+            "title": "蓬莱窑相关资料",
+            "url": "https://www.city.otsu.lg.jp/museum/uchii/",
+            "accessedAt": "2026-03-06"
+          }
+        ]
+      },
+      {
+        "artistSlug": "ishiguro-munemaro",
+        "nameZh": "石黑宗麿",
+        "nameJa": "石黒宗麿",
+        "nameEn": "Ishiguro Munemaro",
+        "birthYear": 1893,
+        "deathYear": 1968,
+        "bio": "1893年生于富山，后在京都八濑建立“八濑丰窑”。其长期研究中国古代黑釉与铁釉系统，以天目、铁釉与唐风趣味见长，作品具有浓厚的古陶致敬意味。1955年被认定为“铁釉陶器”重要无形文化财保持者，是日本现代铁釉研究的重要奠基者。",
+        "kilnName": "八瀬豊窯",
+        "studioName": "石黒宗麿工房",
+        "locationPrefecture": "富山県／京都府",
+        "locationCity": "富山市／京都市左京区",
+        "region": "京都・八濑",
+        "style": "铁釉、天目、唐风陶艺研究",
+        "awards": [
+          "1955年认定为重要无形文化财'铁釉陶器'保持者（人间国宝）",
+          "日本陶瓷协会奖"
+        ],
+        "exhibitions": [
+          {
+            "year": 1930,
+            "title": "中国陶瓷研究成果展",
+            "venue": "东京"
+          },
+          {
+            "year": 1955,
+            "title": "人间国宝认定纪念展",
+            "venue": "东京"
+          },
+          {
+            "year": 1968,
+            "title": "石黒宗麿追悼展",
+            "venue": "东京国立近代美术馆"
+          }
+        ],
+        "instagramHandle": null,
+        "websiteUrl": null,
+        "sources": [
+          {
+            "title": "石黑宗麿资料 - 东京国立近代美术馆",
+            "url": "https://www.momat.go.jp/craft-museum/collections/items/munemaro-ishiguro",
+            "accessedAt": "2026-03-06"
+          },
+          {
+            "title": "石黑宗麿介绍",
+            "url": "https://www.kurodatoen.co.jp/artist/ishiguromunemaro/",
+            "accessedAt": "2026-03-06"
+          }
+        ]
+      },
+      {
+        "artistSlug": "hayashi-kyosuke",
+        "nameZh": "林恭助",
+        "nameJa": "林恭助",
+        "nameEn": "Hayashi Kyosuke",
+        "birthYear": 1948,
+        "deathYear": null,
+        "bio": "现代日本天目研究的重要作家之一，长期挑战油滴、曜变与高难度铁结晶表情。其作品多以碗、盏和壶为中心，强调高温窑内铁结晶与冷却曲线对斑纹生成的决定性作用，是当代天目系实践中常被提及的名字。",
+        "kilnName": null,
+        "studioName": null,
+        "locationPrefecture": null,
+        "locationCity": null,
+        "region": "日本",
+        "style": "天目、曜变、油滴、铁结晶釉",
+        "awards": [],
+        "exhibitions": [],
+        "instagramHandle": null,
+        "websiteUrl": null,
+        "sources": [
+          {
+            "title": "林恭助 天目作品资料",
+            "url": "https://www.tenmokugallery.com/",
+            "accessedAt": "2026-03-06"
+          },
+          {
+            "title": "现代天目资料",
+            "url": "https://www.kurodatoen.co.jp/artist/hayashikyosuke/",
+            "accessedAt": "2026-03-06"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "tetsu-yu",
+    "nameZh": "铁釉",
+    "nameJa": "鉄釉（てつゆう）",
+    "nameEn": "Iron Glaze",
+    "category": "釉药技法",
+    "region": "京都 / 益子 / 美浓",
+    "type": "高铁发色釉",
+    "description": "铁釉是以氧化铁为主要着色来源的高温釉药总称，在日本茶陶与民艺器物体系中具有极高覆盖率。根据釉方、胎土和气氛差异，铁釉可以呈现漆黑、赤褐、柿色、飴色甚至近似天目的结晶表情，因此既是传统窑场中最基础的发色系统之一，也是最能体现材料和火候微差的釉层类型。京都系铁釉重视器形和釉色的凝练，益子与民艺系统则常把铁釉与流挂、刷毛目和象嵌并置，形成更生活化的审美。现代作家如清水卯一和石黑宗麿将铁釉推向高度精神性表达，而岛冈达三、濱田系作家则让铁釉继续服务于“用之美”。",
+    "positioning": "从黑釉到柿釉，铁分控制决定了日本高温釉的深色骨架。",
+    "signatureFeatures": [
+      "以氧化铁作为主要着色源",
+      "同一系统可呈现黑、褐、柿、飴等变化",
+      "与还原或氧化气氛高度相关",
+      "常见于茶碗、壶、钵等高温器物",
+      "能与流挂、象嵌、刷毛目组合使用"
+    ],
+    "keywords": [
+      "铁釉",
+      "黑釉",
+      "柿釉",
+      "天目",
+      "高温釉",
+      "茶陶",
+      "清水卯一",
+      "石黑宗麿"
+    ],
+    "notableArtists": [
+      "清水卯一",
+      "石黑宗麿",
+      "岛冈达三"
+    ],
+    "representativeForms": [
+      "茶碗",
+      "壶",
+      "钵",
+      "皿",
+      "花器"
+    ],
+    "images": [],
+    "sources": [
+      {
+        "title": "清水卯一资料",
+        "url": "https://www.kogei-japan.com/locale/ja_JP/shimizuuichi/",
+        "accessedAt": "2026-03-06"
+      },
+      {
+        "title": "石黑宗麿资料",
+        "url": "https://www.kurodatoen.co.jp/artist/ishiguromunemaro/",
+        "accessedAt": "2026-03-06"
+      }
+    ],
+    "relatedArtistsDetail": [
+      {
+        "artistSlug": "shimizu-uichi",
+        "nameZh": "清水卯一",
+        "nameJa": "清水卯一",
+        "nameEn": "Shimizu Uichi",
+        "birthYear": 1926,
+        "deathYear": 2004,
+        "bio": "京都出生的陶艺家，以铁釉、柿釉与天目系高温黑釉研究著称。其作品在京都传统审美与滋贺蓬莱窑的厚重土味之间取得平衡，既重视釉层深度，也追求器形的静穆气息。1985年被认定为“铁釉陶器”重要无形文化财保持者。",
+        "kilnName": "蓬莱窯",
+        "studioName": "清水卯一工房",
+        "locationPrefecture": "京都府／滋賀県",
+        "locationCity": "京都市東山区／滋賀県琵琶湖西岸",
+        "region": "京都 / 滋贺",
+        "style": "铁釉、柿釉、天目系黑釉",
+        "awards": [
+          "1985年4月13日认定为重要无形文化财'铁釉陶器'保持者（人间国宝）",
+          "1986年紫绶勋章",
+          "1992年京都市文化功劳者表彰"
+        ],
+        "exhibitions": [
+          {
+            "year": 1955,
+            "title": "日本传统工艺展首次参展",
+            "venue": "东京"
+          },
+          {
+            "year": 1970,
+            "title": "蓬莱山建窑纪念展",
+            "venue": "滋贺县"
+          },
+          {
+            "year": 1985,
+            "title": "人间国宝认定纪念展",
+            "venue": "京都"
+          },
+          {
+            "year": 1999,
+            "title": "清水卯一作品捐赠展",
+            "venue": "滋贺县立近代美术馆"
+          }
+        ],
+        "instagramHandle": null,
+        "websiteUrl": null,
+        "sources": [
+          {
+            "title": "清水卯一资料",
+            "url": "https://www.kogei-japan.com/locale/ja_JP/shimizuuichi/",
+            "accessedAt": "2026-03-06"
+          },
+          {
+            "title": "蓬莱窑相关资料",
+            "url": "https://www.city.otsu.lg.jp/museum/uchii/",
+            "accessedAt": "2026-03-06"
+          }
+        ]
+      },
+      {
+        "artistSlug": "ishiguro-munemaro",
+        "nameZh": "石黑宗麿",
+        "nameJa": "石黒宗麿",
+        "nameEn": "Ishiguro Munemaro",
+        "birthYear": 1893,
+        "deathYear": 1968,
+        "bio": "1893年生于富山，后在京都八濑建立“八濑丰窑”。其长期研究中国古代黑釉与铁釉系统，以天目、铁釉与唐风趣味见长，作品具有浓厚的古陶致敬意味。1955年被认定为“铁釉陶器”重要无形文化财保持者，是日本现代铁釉研究的重要奠基者。",
+        "kilnName": "八瀬豊窯",
+        "studioName": "石黒宗麿工房",
+        "locationPrefecture": "富山県／京都府",
+        "locationCity": "富山市／京都市左京区",
+        "region": "京都・八濑",
+        "style": "铁釉、天目、唐风陶艺研究",
+        "awards": [
+          "1955年认定为重要无形文化财'铁釉陶器'保持者（人间国宝）",
+          "日本陶瓷协会奖"
+        ],
+        "exhibitions": [
+          {
+            "year": 1930,
+            "title": "中国陶瓷研究成果展",
+            "venue": "东京"
+          },
+          {
+            "year": 1955,
+            "title": "人间国宝认定纪念展",
+            "venue": "东京"
+          },
+          {
+            "year": 1968,
+            "title": "石黒宗麿追悼展",
+            "venue": "东京国立近代美术馆"
+          }
+        ],
+        "instagramHandle": null,
+        "websiteUrl": null,
+        "sources": [
+          {
+            "title": "石黑宗麿资料 - 东京国立近代美术馆",
+            "url": "https://www.momat.go.jp/craft-museum/collections/items/munemaro-ishiguro",
+            "accessedAt": "2026-03-06"
+          },
+          {
+            "title": "石黑宗麿介绍",
+            "url": "https://www.kurodatoen.co.jp/artist/ishiguromunemaro/",
+            "accessedAt": "2026-03-06"
+          }
+        ]
+      },
+      {
+        "artistSlug": "shimaoka-tatsuzo",
+        "nameZh": "岛冈达三",
+        "nameJa": "島岡達三",
+        "nameEn": "Shimaoka Tatsuzo",
+        "birthYear": 1919,
+        "deathYear": 2007,
+        "bio": "1919年生，战后在濱田庄司指导下于益子独立，后发展出著名的縄文象嵌技法。除象嵌外，他也大量运用柿釉、糠釉、黑釉等民艺系统釉药来支撑朴实厚重的器形。1996年被认定为“民艺陶器（縄文象嵌）”重要无形文化财保持者，是益子传统釉药系统的重要传承者。",
+        "kilnName": "島岡製陶所",
+        "studioName": "島岡達三工房",
+        "locationPrefecture": "栃木県",
+        "locationCity": "芳賀郡益子町",
+        "region": "栃木县・益子町",
+        "style": "民艺陶器、縄文象嵌、柿釉、糠釉",
+        "awards": [
+          "1962年日本民艺馆奖",
+          "1980年栃木县文化功劳奖",
+          "1994年日本陶瓷协会金奖",
+          "1996年认定为重要无形文化财保持者（人间国宝）- 民艺陶器（绳文象嵌）",
+          "1999年勲三等旭日章",
+          "2002年栃木县名誉县民"
+        ],
+        "exhibitions": [
+          {
+            "year": 1960,
+            "title": "绳文象嵌技法确立展",
+            "venue": "益子町"
+          },
+          {
+            "year": 1970,
+            "title": "益子陶艺展",
+            "venue": "东京国立近代美术馆"
+          },
+          {
+            "year": 1996,
+            "title": "人间国宝认定纪念展",
+            "venue": "栃木县立美术馆"
+          },
+          {
+            "year": 2007,
+            "title": "島岡達三追悼展",
+            "venue": "益子陶艺美术馆"
+          }
+        ],
+        "instagramHandle": null,
+        "websiteUrl": null,
+        "sources": [
+          {
+            "title": "島岡達三相关资料",
+            "url": "https://www.mashiko-museum.jp/collection/shimaoka/",
+            "accessedAt": "2026-03-06"
+          },
+          {
+            "title": "島岡達三与縄文象嵌",
+            "url": "https://masuken.jp/column/ningenkokuhou14/",
+            "accessedAt": "2026-03-06"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "hai-yu",
+    "nameZh": "灰釉",
+    "nameJa": "灰釉（はいゆう）",
+    "nameEn": "Ash Glaze",
+    "category": "釉药技法",
+    "region": "信乐 / 静冈 / 日本各地木烧系",
+    "type": "植物灰釉",
+    "description": "灰釉是由各种木材或稻草的灰烬制成的陶瓷釉料，在东亚历史上，尤其是中国、韩国和日本陶器史上具有重要地位。在日本，从平安时代末期开始，濑户窑就出现了以稻草和其他植物灰为原料的灰釉陶。灰釉的表面纹理具有玻璃状和垂釉特征，釉面大多呈现深棕色或绿色的大地色系。灰釉使用1200度以上高温烧制，以植物灰为主要成分，含有氧化铁，烧成时通过还原处理产生青绿色调。这种釉药是日本六古窑时代的主要釉色，至今仍在传统窑口中被广泛应用。",
+    "positioning": "以草木灰为基础，是最能体现柴烧自然性的传统釉药。",
+    "signatureFeatures": [
+      "使用木材或稻草灰烬作为主要原料",
+      "高温烧制（1200℃以上）",
+      "表面呈现玻璃质感和垂釉效果",
+      "色调多为深棕色或绿色大地色系",
+      "釉面具有自然流动的美感"
+    ],
+    "keywords": [
+      "灰釉",
+      "植物灰",
+      "柴烧",
+      "穴窑",
+      "自然落灰",
+      "信乐",
+      "大谷哲也",
+      "古谷宣幸",
+      "村木雄児",
+      "还原焰",
+      "濑户窑",
+      "传统釉药",
+      "高温釉"
+    ],
+    "notableArtists": [
+      "大谷哲也",
+      "古谷宣幸",
+      "村木雄児"
+    ],
+    "representativeForms": [
+      "碗",
+      "壶",
+      "皿",
+      "土锅",
+      "花器"
+    ],
+    "images": [],
+    "sources": [
+      {
+        "title": "灰釉条目",
+        "url": "https://zh.wikipedia.org/zh-hans/%E7%81%B0%E9%87%89",
+        "accessedAt": "2026-03-06"
+      },
+      {
+        "title": "古谷製陶所",
+        "url": "https://galleryfumoto.com/collections/%E5%8F%A4%E8%B0%B7%E8%A3%BD%E9%99%B6%E6%89%80",
+        "accessedAt": "2026-03-06"
+      },
+      {
+        "title": "日本陶瓷｜故事与导览｜JNTO",
+        "url": "https://www.japan-travel.cn/guide/ceramics/",
+        "accessedAt": "2026-03-06"
+      }
+    ],
+    "relatedArtistsDetail": [
+      {
+        "artistSlug": "otani-tetsuya",
+        "nameZh": "大谷哲也",
+        "nameJa": "大谷哲也",
+        "nameEn": "Otani Tetsuya",
+        "birthYear": 1971,
+        "deathYear": null,
+        "bio": "1971年生于神户，后在信乐相关研究机构工作并独立作陶。其创作以白磁器、锅类和日用器见长，但在信乐木灰环境与材料控制上同样积累深厚，工作室体系也涵盖灰釉与粉引语言。2008年与大谷桃子共同创立大谷制陶所后，成为当代信乐生活器领域最具辨识度的窑场之一。",
+        "kilnName": "大谷製陶所",
+        "studioName": "Otani Pottery Studio",
+        "locationPrefecture": "滋賀県",
+        "locationCity": "甲賀市",
+        "region": "滋贺县・信乐",
+        "style": "白磁、灰釉、信乐系生活器",
+        "awards": [
+          "京都艺术设计大学设计课程毕业",
+          "滋贺县信乐陶艺窑研究所研修",
+          "2008年与妻子桃子开设大谷制陶所",
+          "白瓷器与白色陶制土锅专家"
+        ],
+        "exhibitions": [
+          {
+            "year": 2019,
+            "title": "大谷哲也展",
+            "venue": "香川县讃岐"
+          },
+          {
+            "year": 2023,
+            "title": "国内外个展",
+            "venue": "滋贺县信乐"
+          },
+          {
+            "year": 2014,
+            "title": "工房展示室开放",
+            "venue": "信乐"
+          }
+        ],
+        "instagramHandle": "otnps / @otntty",
+        "websiteUrl": "https://ootanis.com/",
+        "sources": [
+          {
+            "title": "大谷制陶所",
+            "url": "https://ootanis.com/",
+            "accessedAt": "2026-03-06"
+          },
+          {
+            "title": "大谷哲也商店档案",
+            "url": "https://shop.okaz-design.jp/store/%E5%A4%A7%E8%B0%B7%E5%93%B2%E4%B9%9F-c119714013",
+            "accessedAt": "2026-03-06"
+          }
+        ]
+      },
+      {
+        "artistSlug": "furutani-nobuyuki",
+        "nameZh": "古谷宣幸",
+        "nameJa": "古谷宣幸",
+        "nameEn": "Furutani Nobuyuki",
+        "birthYear": 1976,
+        "deathYear": null,
+        "bio": "滋贺县信乐的当代陶艺家，以柴烧、穴窑与自然落灰效果著称。其作品常以粗陶胎与灰釉、铁釉之间的自然过渡来营造温暖且厚重的表情，在茶器、食器与花器中都能看到鲜明的木烧痕迹。古谷一脉也是现代信乐灰釉和薪窑审美的重要传播者。",
+        "kilnName": null,
+        "studioName": null,
+        "locationPrefecture": null,
+        "locationCity": null,
+        "region": "滋贺县・信乐",
+        "style": "柴烧、自然灰釉、穴窑木烧",
+        "awards": [],
+        "exhibitions": [],
+        "instagramHandle": null,
+        "websiteUrl": null,
+        "sources": [
+          {
+            "title": "古谷製陶所 / gallery fumoto",
+            "url": "https://galleryfumoto.com/collections/%E5%8F%A4%E8%B0%B7%E8%A3%BD%E9%99%B6%E6%89%80",
+            "accessedAt": "2026-03-06"
+          },
+          {
+            "title": "古谷宣幸作品页",
+            "url": "https://www.utsuwa-uta.com/?mode=cate&cbid=2114831&csid=0",
+            "accessedAt": "2026-03-06"
+          }
+        ]
+      },
+      {
+        "artistSlug": "muraki-yuji",
+        "nameZh": "村木雄児",
+        "nameJa": "村木雄児",
+        "nameEn": "Muraki Yuji",
+        "birthYear": 1953,
+        "deathYear": null,
+        "bio": "1953年生于神奈川县。1970年代在濑户与大谷烧系窑元修业，1980年于静冈伊东市独立。其器物大量使用未精制山土、天然灰釉和登窑薪烧效果，强调土味与日常使用的可靠性，是当代生活陶器中自然灰釉路径的稳定代表。",
+        "kilnName": null,
+        "studioName": null,
+        "locationPrefecture": null,
+        "locationCity": null,
+        "region": "静冈县・伊东市",
+        "style": "天然灰釉、登窑薪烧、生活器",
+        "awards": [
+          "1975年东京设计学院毕业",
+          "1976年濑户陶艺训练学校毕业",
+          "德岛县绫烧窑研修",
+          "当代生活陶艺创作者"
+        ],
+        "exhibitions": [
+          {
+            "year": 1987,
+            "title": "个展",
+            "venue": "静冈县沼津市"
+          },
+          {
+            "year": 2024,
+            "title": "现代陶艺展",
+            "venue": "德岛县"
+          },
+          {
+            "year": 2023,
+            "title": "生活器皿展",
+            "venue": "东京"
+          }
+        ],
+        "instagramHandle": null,
+        "websiteUrl": null,
+        "sources": [
+          {
+            "title": "G-Call 作家介绍",
+            "url": "https://www.g-call.com/art/muraki/",
+            "accessedAt": "2026-03-06"
+          },
+          {
+            "title": "G-Call 作家档案",
+            "url": "https://www.g-call.com/art/muraki/profile.php",
+            "accessedAt": "2026-03-06"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "shinsha-yu",
+    "nameZh": "辰砂釉",
+    "nameJa": "辰砂釉（しんしゃゆう）",
+    "nameEn": "Copper Red Glaze",
+    "category": "釉药技法",
+    "region": "京都 / 奈良 / 东京",
+    "type": "铜红釉",
+    "description": "辰砂（しんしゃ）是在透明釉中添加氧化铜，通过还原烧成使器物呈现血红色的釉药技法。所需的铜含量极少，仅为釉药总量的0.3-0.5%，但烧成控制极为困难，是陶艺中最具挑战性的技法之一。\n\n辰砂的发色原理是：在还原气氛中烧成时，青绿色的氧化铜（CuO）被还原为氧化亚铜（Cu2O），从而产生美丽的红色。根据烧成条件的微妙差异，辰砂可以呈现不同的色调：「牛血红」（ぎゅうけつこう）呈现ruby般的深红色，「火焰红」（かえんこう）带有紫色或蓝色调，「桃花红」（とうかこう）则是淡雅的粉红色。\n\n辰砂技法起源于中国，在中国被称为「紅釉」（こうゆう）或「釉裏紅」（ゆうりこう），后来传入朝鲜半岛和日本。日本陶工将这一技法与本土审美结合，发展出独特的表现方式。由于烧成难度极高，成功率低，辰砂作品历来被视为珍品。\n\n现代日本陶艺家继续挑战辰砂技法，通过精确控制窑内气氛、温度曲线和釉药配方，追求理想的红色发色。辰砂的魅力不仅在于其鲜艳的色彩，更在于其制作过程中人与窑火的对话，体现了陶艺「不完全控制之美」的哲学。",
+    "positioning": "以微量铜在还原气氛中发出红色，是高温色釉中的难点项目。",
+    "signatureFeatures": [
+      "透明釉中添加0.3-0.5%氧化铜",
+      "还原烧成呈现血红色",
+      "色调分为牛血红、火焰红、桃花红",
+      "起源于中国（紅釉、釉裏紅）",
+      "烧成难度极高，成功率低"
+    ],
+    "keywords": [
+      "辰砂",
+      "銅紅釉",
+      "还原烧成",
+      "氧化铜",
+      "釉裏紅",
+      "紅釉",
+      "牛血红",
+      "火焰红"
+    ],
+    "notableArtists": [
+      "富本宪吉",
+      "近藤悠三",
+      "藤本能道"
+    ],
+    "representativeForms": [
+      "花瓶",
+      "壶",
+      "皿",
+      "盒",
+      "装饰器"
+    ],
+    "images": [],
+    "sources": [
+      {
+        "title": "辰砂条目",
+        "url": "https://ja.wikipedia.org/wiki/%E8%BE%B0%E7%A0%82",
+        "accessedAt": "2026-03-06"
+      },
+      {
+        "title": "辰砂说明 - 三池烧",
+        "url": "https://miikeyaki.net/sinsya_ni_tuite/",
+        "accessedAt": "2026-03-06"
+      },
+      {
+        "title": "釉の話 ２４ （銅釉１辰砂釉１）",
+        "url": "https://blog.goo.ne.jp/meisogama-ita/e/27f395b4046a408af1dd19eeebe3e2b6",
+        "accessedAt": "2026-03-06"
+      }
+    ],
+    "relatedArtistsDetail": [
+      {
+        "artistSlug": "tomimoto-kenkichi",
+        "nameZh": "富本宪吉",
+        "nameJa": "富本憲吉",
+        "nameEn": "Tomimoto Kenkichi",
+        "birthYear": 1886,
+        "deathYear": 1963,
+        "bio": "1886年生于奈良。早年深耕图案与工艺教育，后在白磁、色绘与釉色体系上建立鲜明风格，是现代日本陶艺教育与设计观念的重要人物。其作品在白磁素地之上展开几何与植物纹样，同时也在辰砂等高难度发色中探索近代陶艺表达，1955年被认定为“色绘磁器”重要无形文化财保持者。",
+        "kilnName": "富本憲吉窯",
+        "studioName": "富本憲吉工房",
+        "locationPrefecture": "奈良県",
+        "locationCity": "生駒郡安堵町",
+        "region": "奈良 / 京都",
+        "style": "白磁、色绘磁器、近代工艺设计",
+        "awards": [
+          "1955年认定为重要无形文化财保持者（人间国宝）- 色绘磁器",
+          "1961年文化勋章",
+          "1950年京都市立艺术大学教授委任"
+        ],
+        "exhibitions": [
+          {
+            "year": 1936,
+            "title": "九谷色绘磁器研究展",
+            "venue": "石川县九谷"
+          },
+          {
+            "year": 1955,
+            "title": "陶艺45周年纪念展",
+            "venue": "东京"
+          },
+          {
+            "year": 2006,
+            "title": "诞辰120周年 富本憲吉展",
+            "venue": "京都国立近代美术馆、茨城陶艺美术馆、世田谷美术馆、岐阜现代陶艺美术馆、山口县立萩美术馆"
+          }
+        ],
+        "instagramHandle": null,
+        "websiteUrl": null,
+        "sources": [
+          {
+            "title": "富本宪吉相关资料",
+            "url": "https://www.town.ando.nara.jp/0000001115.html",
+            "accessedAt": "2026-03-06"
+          },
+          {
+            "title": "京都国立近代美术馆 富本宪吉展资料",
+            "url": "https://www.momak.go.jp/Japanese/exhibitionArchive/2006/363.html",
+            "accessedAt": "2026-03-06"
+          }
+        ]
+      },
+      {
+        "artistSlug": "kondo-yuzo",
+        "nameZh": "近藤悠三",
+        "nameJa": "近藤悠三",
+        "nameEn": "Kondo Yuzo",
+        "birthYear": 1902,
+        "deathYear": 1985,
+        "bio": "1902年生于京都，近代京烧与染付磁器的重要代表。虽然其最著名的是“染付”，但也以辰砂与瑠璃等强色釉对器物表层进行严格控制，在传统京烧体系中体现出强烈现代感。其作品重视白磁胎的纯净度、发色稳定性和器形清整度，对京都磁器系统影响深远。",
+        "kilnName": null,
+        "studioName": null,
+        "locationPrefecture": null,
+        "locationCity": null,
+        "region": "京都",
+        "style": "染付、辰砂、瑠璃等京烧色釉研究",
+        "awards": [],
+        "exhibitions": [],
+        "instagramHandle": null,
+        "websiteUrl": null,
+        "sources": [
+          {
+            "title": "近藤悠三馆",
+            "url": "https://kondoyuzo.jp/",
+            "accessedAt": "2026-03-06"
+          },
+          {
+            "title": "近藤悠三资料",
+            "url": "https://www.kyohaku.go.jp/jp/project/related/yuzo/",
+            "accessedAt": "2026-03-06"
+          }
+        ]
+      },
+      {
+        "artistSlug": "fujimoto-yoshimichi",
+        "nameZh": "藤本能道",
+        "nameJa": "藤本能道",
+        "nameEn": "Fujimoto Yoshimichi",
+        "birthYear": 1919,
+        "deathYear": 1992,
+        "bio": "1919年生于东京，师承富本宪吉与加藤土师萌。其最知名的是色绘磁器与自创“釉描加彩”技法，擅长在高纯度素地上构筑细腻而稳定的色层。虽然不以单一辰砂闻名，但在近现代日本高温色釉控制和磁器彩绘系统中具有承上启下的重要位置。",
+        "kilnName": "藤本能道窯",
+        "studioName": "Fujimoto Yoshimichi Kiln",
+        "locationPrefecture": "東京都",
+        "locationCity": "青梅市",
+        "region": "东京",
+        "style": "色绘磁器、釉描加彩、高温色釉控制",
+        "awards": [
+          "东京美术学校工艺图案科毕业",
+          "师从富本憲吉和加藤土師萌",
+          "1986年认定为重要无形文化财保持者（人间国宝）- 色絵磁器",
+          "釉描加彩技法创始人",
+          "写实奥深色绘追求者"
+        ],
+        "exhibitions": [
+          {
+            "year": 2025,
+            "title": "鳥々 藤本能道的色絵磁器",
+            "venue": "菊池宽实纪念智美术馆"
+          },
+          {
+            "year": 2022,
+            "title": "没后30年 藤本能道展",
+            "venue": "东京都青梅市美术馆"
+          },
+          {
+            "year": 2019,
+            "title": "生诞100年 藤本能道展",
+            "venue": "日本各地巡回"
+          },
+          {
+            "year": 1992,
+            "title": "藤本能道追悼展",
+            "venue": "东京"
+          }
+        ],
+        "instagramHandle": null,
+        "websiteUrl": null,
+        "sources": [
+          {
+            "title": "藤本能道相关展讯",
+            "url": "https://www.musee-tomo.or.jp/exhibitions/2025/toridori/",
+            "accessedAt": "2026-03-06"
+          },
+          {
+            "title": "青梅市立美术馆 藤本能道展",
+            "url": "https://www.city.ome.tokyo.jp/site/art-museum/75121.html",
+            "accessedAt": "2026-03-06"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "ruri-yu",
+    "nameZh": "瑠璃釉",
+    "nameJa": "瑠璃釉（るりゆう）",
+    "nameEn": "Lapis Blue Glaze",
+    "category": "釉药技法",
+    "region": "有田 / 唐津",
+    "type": "钴蓝釉",
+    "description": "瑠璃釉是以氧化钴为主要着色剂烧成的深蓝色釉药，在日本磁器体系中常与白磁胎、赤绘和金彩形成鲜明对比。其色泽可以从近乎夜空的深蓝到带紫调的明亮钴蓝不等，既可整器满施，也可作为局部色块或口沿、盖钮等视觉重心使用。在有田和色锅岛系统中，瑠璃常被用来衬托赤绘、金彩和白磁的层次；在唐津与京烧语境中，它又经常承担更厚重的背景色或器形轮廓强化功能。瑠璃釉最困难的部分在于发色均匀和釉层深度控制，过厚会失去透明感，过薄则难以形成庄重蓝调，因此历来被视为高阶色釉。",
+    "positioning": "深蓝钴釉让白磁和色绘拥有最强烈的视觉对比。",
+    "signatureFeatures": [
+      "以氧化钴作为主要着色剂",
+      "呈现从深蓝到紫蓝的高饱和色层",
+      "常与白磁胎、赤绘或金彩并置",
+      "整器施釉与局部施色都常见",
+      "要求釉层均匀且厚薄精准"
+    ],
+    "keywords": [
+      "瑠璃釉",
+      "钴蓝釉",
+      "色锅岛",
+      "有田烧",
+      "白磁",
+      "高温色釉",
+      "今右卫门",
+      "柿右卫门"
+    ],
+    "notableArtists": [
+      "十三代今泉今右卫门",
+      "十五代酒井田柿右卫门",
+      "中里无庵（十二代中里太郎右卫门）"
+    ],
+    "representativeForms": [
+      "香炉",
+      "花瓶",
+      "皿",
+      "盒",
+      "茶器"
+    ],
+    "images": [],
+    "sources": [
+      {
+        "title": "今右卫门官方站",
+        "url": "https://www.imaemon.co.jp/",
+        "accessedAt": "2026-03-06"
+      },
+      {
+        "title": "柿右卫门官方站",
+        "url": "https://www.kakiemon.co.jp/",
+        "accessedAt": "2026-03-06"
+      }
+    ],
+    "relatedArtistsDetail": [
+      {
+        "artistSlug": "imaizumi-imaemon-xiii",
+        "nameZh": "十三代今泉今右卫门",
+        "nameJa": "十三代今泉今右衛門",
+        "nameEn": "Imaizumi Imaemon XIII",
+        "birthYear": 1926,
+        "deathYear": 2001,
+        "bio": "1926年生于有田赤绘世家，1975年袭名十三代今右卫门。其代表性贡献在于把色锅岛系统重新整理为现代展示语言，并持续提升白磁胎、瑠璃与赤绘装饰之间的均衡。1989年被认定为“色绘磁器”重要无形文化财保持者，也是有田磁器现代传承体系中的核心人物。",
+        "kilnName": "今右衛門窯",
+        "studioName": "色鍋島今右衛門窯",
+        "locationPrefecture": "佐賀県",
+        "locationCity": "西松浦郡有田町",
+        "region": "佐贺县・有田町",
+        "style": "色锅岛、瑠璃与赤绘磁器",
+        "awards": [
+          "1975年襲名十三代今泉今右衛門",
+          "1979年日本传统工艺展NHK会长奖",
+          "1981年日本陶艺展最优秀作品奖秩父宫赐杯",
+          "1988年每日艺术奖",
+          "1989年认定为重要无形文化财'色绘磁器'保持者（人间国宝）",
+          "1989年日本陶瓷协会金奖",
+          "组织'色鍋岛今右衛門技术保存会'获国家重要无形文化财综合指定"
+        ],
+        "exhibitions": [
+          {
+            "year": 1975,
+            "title": "十三代襲名纪念展",
+            "venue": "佐贺县有田町"
+          },
+          {
+            "year": 1989,
+            "title": "人间国宝认定纪念展",
+            "venue": "东京"
+          },
+          {
+            "year": 1995,
+            "title": "色锅岛今右衛門展",
+            "venue": "兵库陶艺美术馆"
+          },
+          {
+            "year": 2000,
+            "title": "今右衛門的色锅岛回顾展",
+            "venue": "佐贺县立九州陶瓷文化馆"
+          }
+        ],
+        "instagramHandle": null,
+        "websiteUrl": "https://www.imaemon.co.jp/",
+        "sources": [
+          {
+            "title": "今右卫门官方站",
+            "url": "https://www.imaemon.co.jp/",
+            "accessedAt": "2026-03-06"
+          },
+          {
+            "title": "今右卫门相关资料",
+            "url": "https://www.imaemon.co.jp/about/",
+            "accessedAt": "2026-03-06"
+          }
+        ]
+      },
+      {
+        "artistSlug": "sakaida-kakiemon-xv",
+        "nameZh": "十五代酒井田柿右卫门",
+        "nameJa": "十五代酒井田柿右衛門",
+        "nameEn": "Sakaida Kakiemon XV",
+        "birthYear": 1968,
+        "deathYear": null,
+        "bio": "柿右卫门窑第十五代。继承有田白磁与柿右卫门样式的乳白素地与清朗彩绘传统，在现代展览与窑元经营之间延续家族风格。虽然更为人熟知的是色绘体系，但其作品基础仍建立在高纯度白磁胎与透明釉的稳定控制之上，因此也是现代白磁与有田磁器系统的重要观察点。",
+        "kilnName": null,
+        "studioName": null,
+        "locationPrefecture": null,
+        "locationCity": null,
+        "region": "佐贺县・有田町",
+        "style": "有田白磁、柿右卫门样式、色绘磁器",
+        "awards": [],
+        "exhibitions": [],
+        "instagramHandle": null,
+        "websiteUrl": "https://www.kakiemon.co.jp/",
+        "sources": [
+          {
+            "title": "柿右卫门官方站",
+            "url": "https://www.kakiemon.co.jp/",
+            "accessedAt": "2026-03-06"
+          },
+          {
+            "title": "柿右卫门历史",
+            "url": "https://www.kakiemon.co.jp/contents/history/",
+            "accessedAt": "2026-03-06"
+          }
+        ]
+      },
+      {
+        "artistSlug": "nakazato-muan",
+        "nameZh": "中里无庵（十二代中里太郎右卫门）",
+        "nameJa": "中里無庵（十二代中里太郎右衛門）",
+        "nameEn": "Nakazato Muan",
+        "birthYear": 1895,
+        "deathYear": 1985,
+        "bio": "1895年生于唐津窑业世家，1927年继承十二代中里太郎右卫门。其最重要的贡献是通过古窑址调查与烧成实验复兴古唐津技法，使斑唐津、刷毛目、御本手等桃山系表情重新回到现代视野。1976年被认定为“唐津烧”重要无形文化财保持者，是近现代唐津复兴的核心人物。",
+        "kilnName": "御茶碗窯",
+        "studioName": "Ochabawan Kiln",
+        "locationPrefecture": "佐賀県",
+        "locationCity": "唐津市",
+        "region": "佐贺县・唐津",
+        "style": "古唐津复兴、御本手、刷毛目、粉引",
+        "awards": [
+          "1927年继承为十二代中里太郎右衛門",
+          "1955年佐贺县指定唐津烧无形文化财保持者",
+          "1976年认定为重要无形文化财保持者（人间国宝）- 唐津烧",
+          "1969年勲四等宝冠章",
+          "大德寺得戒取号無庵",
+          "复兴唐津烧叩き技法"
+        ],
+        "exhibitions": [
+          {
+            "year": 1929,
+            "title": "唐津古窑址调查研究开始",
+            "venue": "佐贺县"
+          },
+          {
+            "year": 1976,
+            "title": "人间国宝认定纪念展",
+            "venue": "东京"
+          },
+          {
+            "year": 2024,
+            "title": "中里太郎右衛門陶房展",
+            "venue": "东京Lapin Art Gallery"
+          },
+          {
+            "year": 1985,
+            "title": "中里無庵追悼展",
+            "venue": "唐津"
+          }
+        ],
+        "instagramHandle": null,
+        "websiteUrl": null,
+        "sources": [
+          {
+            "title": "中里太郎右卫门陶房",
+            "url": "https://www.nakazato-taroemon.com/",
+            "accessedAt": "2026-03-06"
+          },
+          {
+            "title": "中里无庵相关资料",
+            "url": "https://www.karatsu-kankou.jp/feature/nakazato.html",
+            "accessedAt": "2026-03-06"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "ki-seto-yu",
+    "nameZh": "黄濑户",
+    "nameJa": "黄瀬戸（きせと）",
+    "nameEn": "Ki-Seto Glaze",
+    "category": "釉药技法",
+    "region": "濑户 / 美浓",
+    "type": "黄釉",
+    "description": "黄濑户釉是美浓地区产出的代表品种之一，使用挂釉工艺烧制而成。黄濑户诞生很早，在志野烧出现后逐渐减少，在织部烧出现后几乎消失，但其温润的黄色调和典雅的气质一直被茶人所珍视。黄濑户釉的特征是呈现淡黄色至黄绿色的釉色，釉面温润，常见胆矾色（硫酸铜）的绿色斑点装饰。黄濑户制作需要氧化焰烧成，温度控制在1200-1250℃之间。这种釉药代表了日本陶艺从中国风格向本土化转变的重要时期。",
+    "positioning": "以温润黄调和胆矾绿彩构成桃山茶陶中的暖色系经典。",
+    "signatureFeatures": [
+      "温润的黄色至黄绿色调",
+      "釉面光滑细腻",
+      "常见胆矾色绿色斑点装饰",
+      "氧化焰烧成",
+      "体现桃山早期美学"
+    ],
+    "keywords": [
+      "黄濑户",
+      "黄釉",
+      "胆矾绿彩",
+      "美浓烧",
+      "濑户",
+      "桃山茶陶",
+      "荒川丰藏",
+      "加藤唐九郎",
+      "加藤孝造",
+      "桃山时代",
+      "茶陶",
+      "胆矾"
+    ],
+    "notableArtists": [
+      "荒川丰藏",
+      "加藤唐九郎",
+      "加藤孝造"
+    ],
+    "representativeForms": [
+      "茶碗",
+      "向付",
+      "香合",
+      "花入",
+      "盘"
+    ],
+    "images": [],
+    "sources": [
+      {
+        "title": "黄濑户相关资料",
+        "url": "https://www.pref.aichi.jp/touji/exhibition/2019/special_tokuro/",
+        "accessedAt": "2026-03-06"
+      },
+      {
+        "title": "黄濑户基础条目",
+        "url": "https://ja.wikipedia.org/wiki/%E9%BB%84%E7%80%AC%E6%88%B8",
+        "accessedAt": "2026-03-06"
+      },
+      {
+        "title": "赏析 | 盘点日本瓷器的特色 - 中国工艺美术学会",
+        "url": "https://www.cnacs.net.cn/19/202502/6902.html",
+        "accessedAt": "2026-03-06"
+      },
+      {
+        "title": "美浓烧、九谷烧等日本陶瓷特点 - 知乎",
+        "url": "https://www.zhihu.com/question/29594335",
+        "accessedAt": "2026-03-06"
+      }
+    ],
+    "relatedArtistsDetail": [
+      {
+        "artistSlug": "arakawa-toyozo",
+        "nameZh": "荒川丰藏",
+        "nameJa": "荒川豊藏",
+        "nameEn": "Arakawa Toyozo",
+        "birthYear": 1894,
+        "deathYear": 1985,
+        "bio": "1894年生于岐阜县。1930年在美浓大萱发现桃山时代志野陶片，成为志野与濑户黑复兴的决定性契机。其后在大萱与多治见建窑，系统研究桃山茶陶，以志野、濑户黑、黄濑户和织部等美浓系茶陶闻名，被认定为重要无形文化财保持者，是现代日本茶陶复兴的关键人物。",
+        "kilnName": "大萱窯／水月窯",
+        "studioName": "荒川豊蔵工房",
+        "locationPrefecture": "岐阜県",
+        "locationCity": "可児市／多治見市",
+        "region": "岐阜县・美浓",
+        "style": "志野、濑户黑、黄濑户、织部等桃山茶陶复兴",
+        "awards": [
+          "1955年志野烧认定为重要无形文化财保持者（人间国宝）",
+          "1971年濑户黑认定为重要无形文化财保持者（人间国宝）",
+          "日本陶瓷协会奖"
+        ],
+        "exhibitions": [
+          {
+            "year": 1930,
+            "title": "桃山陶器再现展",
+            "venue": "岐阜县"
+          },
+          {
+            "year": 1956,
+            "title": "人间国宝认定纪念展",
+            "venue": "东京"
+          },
+          {
+            "year": 1980,
+            "title": "荒川豊藏回顾展",
+            "venue": "岐阜县现代陶艺美术馆"
+          },
+          {
+            "year": 2018,
+            "title": "日本巨匠陶艺名品展",
+            "venue": "浙江赛丽美术馆"
+          }
+        ],
+        "instagramHandle": null,
+        "websiteUrl": null,
+        "sources": [
+          {
+            "title": "荒川豊藏资料 - 岐阜县现代陶艺美术馆",
+            "url": "https://www.cpm-gifu.jp/museum/02.exhibition/02_1.exhibition/exhibition/2022/07/post-9.html",
+            "accessedAt": "2026-03-06"
+          },
+          {
+            "title": "荒川豊藏工房资料",
+            "url": "https://www.tajimi-bunka.or.jp/toyozo/",
+            "accessedAt": "2026-03-06"
+          }
+        ]
+      },
+      {
+        "artistSlug": "kato-tokuro",
+        "nameZh": "加藤唐九郎",
+        "nameJa": "加藤唐九郎",
+        "nameEn": "Kato Tokuro",
+        "birthYear": 1897,
+        "deathYear": 1985,
+        "bio": "1897年生于濑户。以对桃山陶的强烈再发现意识推动了志野、织部、黄濑户等美浓与濑户系茶陶的再评价。其创作兼具考古意识与强烈个人风格，不仅烧制传统类型，也通过豪迈的器形和粗野肌理赋予传统茶陶新的现代生命，被视为20世纪日本茶陶史上的关键人物之一。",
+        "kilnName": null,
+        "studioName": null,
+        "locationPrefecture": null,
+        "locationCity": null,
+        "region": "爱知县・濑户 / 岐阜县・美浓",
+        "style": "桃山茶陶复兴、织部、黄濑户、志野",
+        "awards": [],
+        "exhibitions": [],
+        "instagramHandle": null,
+        "websiteUrl": null,
+        "sources": [
+          {
+            "title": "加藤唐九郎资料 - 爱知县陶瓷美术馆",
+            "url": "https://www.pref.aichi.jp/touji/exhibition/2019/special_tokuro/",
+            "accessedAt": "2026-03-06"
+          },
+          {
+            "title": "加藤唐九郎介绍",
+            "url": "https://www.seto-cul.jp/information/index.php?s=1617034224",
+            "accessedAt": "2026-03-06"
+          }
+        ]
+      },
+      {
+        "artistSlug": "kato-takao",
+        "nameZh": "加藤孝造",
+        "nameJa": "加藤孝造",
+        "nameEn": "Kato Takao",
+        "birthYear": 1935,
+        "deathYear": null,
+        "bio": "岐阜县出身的美浓茶陶巨匠，长期以志野、濑户黑、黄濑户等桃山茶陶为研究核心。其作品以厚釉、强烈火色与沉稳器形著称，延续了荒川丰藏之后的美浓系复兴路径。作为黄濑户与志野的重要当代代表，他将桃山茶碗语言持续推进到现代展览语境之中。",
+        "kilnName": null,
+        "studioName": null,
+        "locationPrefecture": null,
+        "locationCity": null,
+        "region": "岐阜县・美浓",
+        "style": "志野、黄濑户、濑户黑等美浓茶陶",
+        "awards": [],
+        "exhibitions": [],
+        "instagramHandle": null,
+        "websiteUrl": null,
+        "sources": [
+          {
+            "title": "加藤孝造资料 - 岐阜县现代陶艺美术馆",
+            "url": "https://www.cpm-gifu.jp/museum/02.exhibition/02_1.exhibition/exhibition/2023/07/post-31.html",
+            "accessedAt": "2026-03-06"
+          },
+          {
+            "title": "美浓陶艺家 加藤孝造作品页",
+            "url": "https://www.kurodatoen.co.jp/artist/katotakao/",
+            "accessedAt": "2026-03-06"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "raku-yu",
+    "nameZh": "乐釉",
+    "nameJa": "楽釉（らくゆう）",
+    "nameEn": "Raku Glaze",
+    "category": "釉药技法",
+    "region": "京都",
+    "type": "低温乐烧釉",
+    "description": "乐烧体系以手捏成形、低温烧成和出窑急冷为基础，其中黑乐与赤乐两大系统构成了所谓“乐釉”的核心外观经验。与高温长石釉或灰釉不同，乐釉更强调胎体与釉层在低温中的快速变化，以及制作者手直接塑形后留下的微妙起伏。黑乐通常沉稳深黑，吸光而厚重；赤乐则在赤土和透明釉配合下展现温暖的砖红与朱色。乐釉并不依赖复杂装饰，而是以表层紧张感、口缘与足部处理、以及拿在手中的重量和平衡来建立价值。自长次郎以来，乐家世代对釉药调配、烧成时机和精神性审美持续推进，使其成为日本茶陶体系中最具象征性的釉层经验之一。",
+    "positioning": "黑乐与赤乐以低温急冷塑造出最具侘茶精神的茶碗表面。",
+    "signatureFeatures": [
+      "手捏成形而非轆轤成形",
+      "低温烧成并常在烧成中出窑",
+      "黑乐与赤乐为两大核心系统",
+      "釉层强调吸光感和手感",
+      "高度服务于茶道审美与精神性"
+    ],
+    "keywords": [
+      "乐烧",
+      "乐釉",
+      "黑乐",
+      "赤乐",
+      "长次郎",
+      "乐吉左卫门",
+      "侘茶",
+      "京都"
+    ],
+    "notableArtists": [
+      "十五代乐吉左卫门",
+      "长次郎",
+      "本阿弥光悦"
+    ],
+    "representativeForms": [
+      "茶碗"
+    ],
+    "images": [],
+    "sources": [
+      {
+        "title": "乐美术馆 / 乐家资料",
+        "url": "https://www.raku-yaki.or.jp/",
+        "accessedAt": "2026-03-06"
+      },
+      {
+        "title": "Raku family history",
+        "url": "https://www.raku-yaki.or.jp/e/history/index.html",
+        "accessedAt": "2026-03-06"
+      }
+    ],
+    "relatedArtistsDetail": [
+      {
+        "artistSlug": "raku-kichizaemon-xv",
+        "nameZh": "十五代乐吉左卫门",
+        "nameJa": "十五代樂吉左衛門",
+        "nameEn": "Raku Kichizaemon XV",
+        "birthYear": 1949,
+        "deathYear": null,
+        "bio": "1949年生，乐家第十五代当主。其创作在继承黑乐与赤乐传统基础上，更强调茶碗内部空间、火痕和手造感所形成的精神张力。既是乐烧家元体系的继承者，也是将乐烧引入当代艺术语境的关键人物之一。",
+        "kilnName": null,
+        "studioName": null,
+        "locationPrefecture": null,
+        "locationCity": null,
+        "region": "京都",
+        "style": "乐烧、黑乐、赤乐、手造茶碗",
+        "awards": [],
+        "exhibitions": [],
+        "instagramHandle": null,
+        "websiteUrl": "https://www.raku-yaki.or.jp/",
+        "sources": [
+          {
+            "title": "乐美术馆 / 乐家资料",
+            "url": "https://www.raku-yaki.or.jp/",
+            "accessedAt": "2026-03-06"
+          },
+          {
+            "title": "Raku family history",
+            "url": "https://www.raku-yaki.or.jp/e/history/index.html",
+            "accessedAt": "2026-03-06"
+          }
+        ]
+      },
+      {
+        "artistSlug": "chojiro",
+        "nameZh": "长次郎",
+        "nameJa": "長次郎",
+        "nameEn": "Chojiro",
+        "birthYear": null,
+        "deathYear": null,
+        "bio": "16世纪后半活跃于京都的陶工，被视为乐烧初代。受千利休审美影响，以手捏成形、低温烧成和引出急冷方式制作茶碗，确立了黑乐与赤乐的基础范式。其作品以极端克制、静穆而富有精神性的造型成为侘茶审美的经典。",
+        "kilnName": null,
+        "studioName": null,
+        "locationPrefecture": null,
+        "locationCity": null,
+        "region": "京都",
+        "style": "乐烧初创、手捏茶碗、黑乐与赤乐",
+        "awards": [],
+        "exhibitions": [],
+        "instagramHandle": null,
+        "websiteUrl": null,
+        "sources": [
+          {
+            "title": "乐美术馆 / 长次郎资料",
+            "url": "https://www.raku-yaki.or.jp/e/history/index.html",
+            "accessedAt": "2026-03-06"
+          },
+          {
+            "title": "乐烧历史介绍",
+            "url": "https://www.raku-yaki.or.jp/",
+            "accessedAt": "2026-03-06"
+          }
+        ]
+      },
+      {
+        "artistSlug": "honami-koetsu",
+        "nameZh": "本阿弥光悦",
+        "nameJa": "本阿弥光悦",
+        "nameEn": "Honami Koetsu",
+        "birthYear": 1558,
+        "deathYear": 1637,
+        "bio": "江户初期艺术家、书法家与茶人，亦为乐烧史上的关键人物。其以乐家技术体系烧制的一系列光悦乐茶碗，将文人审美、侘茶精神与乐烧的手造不对称之美结合起来，使乐烧从利休系茶道器物进一步进入更广阔的艺术史视野。",
+        "kilnName": null,
+        "studioName": null,
+        "locationPrefecture": null,
+        "locationCity": null,
+        "region": "京都",
+        "style": "光悦乐、文人审美、乐烧茶碗",
+        "awards": [],
+        "exhibitions": [],
+        "instagramHandle": null,
+        "websiteUrl": null,
+        "sources": [
+          {
+            "title": "本阿弥光悦与乐烧",
+            "url": "https://www.raku-yaki.or.jp/e/history/index.html",
+            "accessedAt": "2026-03-06"
+          },
+          {
+            "title": "光悦相关资料",
+            "url": "https://bunka.nii.ac.jp/heritages/detail/159016",
+            "accessedAt": "2026-03-06"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "kohiki-yu",
+    "nameZh": "粉引",
+    "nameJa": "粉引（こひき）",
+    "nameEn": "Kohiki",
+    "category": "釉药技法",
+    "region": "萩 / 唐津 / 日本各地",
+    "type": "白化妆土技法",
+    "description": "粉引（こひき）是从朝鲜王朝时代传入日本的陶艺技法，也称「粉吹」（こふき），名称源于其表面呈现「如撒上粉末般洁白」的质感。这一技法在15-16世纪朝鮮半島盛行，制作的粉青沙器（분청사기）主要以白化妆土装饰，后来技法传入日本并得到发展。\n\n粉引的制作工艺是在红褐色或茶色的陶土表面施加白色化妆土（白泥浆），干燥后再施透明釉，高温烧成。与普通陶器的「陶土+釉药」两层结构不同，粉引具有「陶土+白化妆土+透明釉」的三层结构。这种结构使器物表面呈现柔和的白色调，同时保留陶土本身的温润质感。\n\n在日本，粉引陶器在安土桃山时代随着茶道文化的传播而确立地位，特别是粉引茶碗和酒器深受茶人喜爱，许多作品成为传世名品。粉引的魅力在于其表面会随使用产生「育器」现象——茶渍等液体渗入化妆土的微小裂纹，形成独特的使用痕迹，每件器物都会发展出独一无二的风貌。\n\n现代日本各地窑场都有粉引制作，特别是萩烧、唐津烧、丹波烧等传统产地，许多陶艺家将粉引技法与当代美学结合，创造出新的艺术表现。",
+    "positioning": "白化妆土与透明釉叠加出的柔和白感，是最具亲近性的茶与食器表面之一。",
+    "signatureFeatures": [
+      "在陶土上施白色化妆土形成白色质感",
+      "三层结构：陶土+化妆土+透明釉",
+      "起源于朝鮮半島的粉青沙器",
+      "茶道文化中的重要器物",
+      "随使用产生「育器」变化"
+    ],
+    "keywords": [
+      "粉引",
+      "粉吹",
+      "朝鮮",
+      "粉青沙器",
+      "白化妆土",
+      "茶道",
+      "育器",
+      "侘寂"
+    ],
+    "notableArtists": [
+      "三轮壽雪",
+      "中里无庵（十二代中里太郎右卫门）",
+      "内田鋼一"
+    ],
+    "representativeForms": [
+      "茶碗",
+      "钵",
+      "盘",
+      "德利",
+      "花器"
+    ],
+    "images": [],
+    "sources": [
+      {
+        "title": "粉引条目",
+        "url": "https://ja.wikipedia.org/wiki/%E7%B2%89%E5%BC%95",
+        "accessedAt": "2026-03-06"
+      },
+      {
+        "title": "粉引说明",
+        "url": "https://afugi.net/districtproduct/02tableware/pottery/10420/",
+        "accessedAt": "2026-03-06"
+      },
+      {
+        "title": "粉引の歴史や特徴 - NHK美の壺",
+        "url": "https://riversidelabo.com/kohiki/",
+        "accessedAt": "2026-03-06"
+      }
+    ],
+    "relatedArtistsDetail": [
+      {
+        "artistSlug": "miwa-jusetsu",
+        "nameZh": "三轮壽雪",
+        "nameJa": "三輪壽雪",
+        "nameEn": "Miwa Jusetsu",
+        "birthYear": 1910,
+        "deathYear": 2012,
+        "bio": "1910年生于萩烧名门三轮家，后袭名十一代休雪，晚年号壽雪。其“鬼萩”与强烈白化妆土、粉引效果使萩烧茶碗表面产生粗犷而丰富的白色肌理，是近现代粉引与萩白釉系统中极具辨识度的存在。1983年被认定为“萩烧”重要无形文化财保持者。",
+        "kilnName": "三輪窯",
+        "studioName": "三輪壽雪工房",
+        "locationPrefecture": "山口県",
+        "locationCity": "萩市",
+        "region": "山口县・萩市",
+        "style": "萩烧、鬼萩、白化妆土、粉引效果",
+        "awards": [
+          "1976年紫绶褒章",
+          "1982年认定为重要无形文化财保持者（人间国宝）- 萩烧",
+          "兄弟两人均获人间国宝称号（日本唯一）",
+          "创作'休雪白'作品"
+        ],
+        "exhibitions": [
+          {
+            "year": 1960,
+            "title": "休雪白首次发表展",
+            "venue": "萩市"
+          },
+          {
+            "year": 1982,
+            "title": "人间国宝认定纪念展",
+            "venue": "山口县"
+          },
+          {
+            "year": 1990,
+            "title": "三輪壽雪作品回顾展",
+            "venue": "山口县立美术馆"
+          },
+          {
+            "year": 2010,
+            "title": "百岁纪念展",
+            "venue": "萩市"
+          }
+        ],
+        "instagramHandle": null,
+        "websiteUrl": null,
+        "sources": [
+          {
+            "title": "三轮窑官方站",
+            "url": "https://www.hagiyaki-miwa.com/",
+            "accessedAt": "2026-03-06"
+          },
+          {
+            "title": "三轮壽雪相关资料",
+            "url": "https://www.hagishi.com/search/detail.php?d=900013",
+            "accessedAt": "2026-03-06"
+          }
+        ]
+      },
+      {
+        "artistSlug": "nakazato-muan",
+        "nameZh": "中里无庵（十二代中里太郎右卫门）",
+        "nameJa": "中里無庵（十二代中里太郎右衛門）",
+        "nameEn": "Nakazato Muan",
+        "birthYear": 1895,
+        "deathYear": 1985,
+        "bio": "1895年生于唐津窑业世家，1927年继承十二代中里太郎右卫门。其最重要的贡献是通过古窑址调查与烧成实验复兴古唐津技法，使斑唐津、刷毛目、御本手等桃山系表情重新回到现代视野。1976年被认定为“唐津烧”重要无形文化财保持者，是近现代唐津复兴的核心人物。",
+        "kilnName": "御茶碗窯",
+        "studioName": "Ochabawan Kiln",
+        "locationPrefecture": "佐賀県",
+        "locationCity": "唐津市",
+        "region": "佐贺县・唐津",
+        "style": "古唐津复兴、御本手、刷毛目、粉引",
+        "awards": [
+          "1927年继承为十二代中里太郎右衛門",
+          "1955年佐贺县指定唐津烧无形文化财保持者",
+          "1976年认定为重要无形文化财保持者（人间国宝）- 唐津烧",
+          "1969年勲四等宝冠章",
+          "大德寺得戒取号無庵",
+          "复兴唐津烧叩き技法"
+        ],
+        "exhibitions": [
+          {
+            "year": 1929,
+            "title": "唐津古窑址调查研究开始",
+            "venue": "佐贺县"
+          },
+          {
+            "year": 1976,
+            "title": "人间国宝认定纪念展",
+            "venue": "东京"
+          },
+          {
+            "year": 2024,
+            "title": "中里太郎右衛門陶房展",
+            "venue": "东京Lapin Art Gallery"
+          },
+          {
+            "year": 1985,
+            "title": "中里無庵追悼展",
+            "venue": "唐津"
+          }
+        ],
+        "instagramHandle": null,
+        "websiteUrl": null,
+        "sources": [
+          {
+            "title": "中里太郎右卫门陶房",
+            "url": "https://www.nakazato-taroemon.com/",
+            "accessedAt": "2026-03-06"
+          },
+          {
+            "title": "中里无庵相关资料",
+            "url": "https://www.karatsu-kankou.jp/feature/nakazato.html",
+            "accessedAt": "2026-03-06"
+          }
+        ]
+      },
+      {
+        "artistSlug": "uchida-koichi",
+        "nameZh": "内田鋼一",
+        "nameJa": "内田鋼一",
+        "nameEn": "Uchida Koichi",
+        "birthYear": 1969,
+        "deathYear": null,
+        "bio": "1969年生。曾在东南亚、中东与西非等地旅行并参与制陶，回国后于四日市独立。其作品从茶碗、急须、花器到大型陶壁跨度很大，常将粉引、土器感和木烧经验转化为带有现代结构感的表面语汇，是当代日本最受关注的跨界型陶艺家之一。",
+        "kilnName": "内田鋼一工房／九滝穴窯",
+        "studioName": "内田鋼一スタジオ",
+        "locationPrefecture": "三重県／滋賀県",
+        "locationCity": "四日市市／滋賀県",
+        "region": "三重县・四日市",
+        "style": "粉引、土器感、现代结构感器物",
+        "awards": [
+          "2018年日本陶瓷协会奖",
+          "2024年KO+GEI 2024 '中田英寿奖'"
+        ],
+        "exhibitions": [
+          {
+            "year": 1992,
+            "title": "独立开窑纪念展",
+            "venue": "四日市"
+          },
+          {
+            "year": 2003,
+            "title": "内田鋼一展",
+            "venue": "三重县凯旋美术馆"
+          },
+          {
+            "year": 2018,
+            "title": "日本陶瓷协会奖获奖纪念展",
+            "venue": "东京"
+          },
+          {
+            "year": 2024,
+            "title": "KO+GEI 2024展",
+            "venue": "日本"
+          }
+        ],
+        "instagramHandle": null,
+        "websiteUrl": null,
+        "sources": [
+          {
+            "title": "G-Call 内田鋼一介绍",
+            "url": "https://www.g-call.com/art/uchida/",
+            "accessedAt": "2026-03-06"
+          },
+          {
+            "title": "BANKO archive design museum",
+            "url": "https://banko.info/",
+            "accessedAt": "2026-03-06"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "kessho-yu",
+    "nameZh": "结晶釉",
+    "nameJa": "結晶釉（けっしょうゆう）",
+    "nameEn": "Crystal Glaze",
+    "category": "釉药技法",
+    "region": "九谷 / 美浓 / 当代实验陶艺",
+    "type": "高温结晶釉",
+    "description": "结晶釉指在高温烧成与控制冷却过程中，让釉层内部析出可视晶体花纹的釉药系统。其形成依赖釉中锌、钛等成分以及精确的保温和降温程序，因此与传统单一发色釉相比，对窑程控制要求更高。日本语境中，严格意义的结晶釉并不总是与某一单独窑系绑定，但在九谷烧的彩釉实验、现当代美浓系高温色釉和当代陶艺对晶化表面的追求中，都能看到它的影响。作品往往会出现星点、放射状花纹或近似矿物生长的肌理，这使其在近现代日本工艺中成为最具观赏性的釉层类型之一，也经常与器物造型、雕塑性和展览性结合。",
+    "positioning": "通过窑程控制让釉层“长出”晶体，是最具实验性的高温彩釉之一。",
+    "signatureFeatures": [
+      "依赖保温与控制冷却形成晶体",
+      "釉层常见放射状或矿物状纹样",
+      "高温配方中常含锌等结晶促进成分",
+      "作品之间差异极大，偶然性高",
+      "常用于展览性较强的现代器物与雕塑"
+    ],
+    "keywords": [
+      "结晶釉",
+      "晶化",
+      "高温彩釉",
+      "九谷烧",
+      "燿彩",
+      "当代陶艺",
+      "德田八十吉",
+      "桑田卓郎"
+    ],
+    "notableArtists": [
+      "三代德田八十吉",
+      "加藤土师萌",
+      "桑田卓郎"
+    ],
+    "representativeForms": [
+      "花瓶",
+      "壶",
+      "盒",
+      "雕塑器",
+      "茶碗"
+    ],
+    "images": [],
+    "sources": [
+      {
+        "title": "德田八十吉窑",
+        "url": "https://www.tokuda-yasokichi.com/",
+        "accessedAt": "2026-03-06"
+      },
+      {
+        "title": "桑田卓郎艺术家页面",
+        "url": "https://alisonjacques.com/artists/takuro-kuwata",
+        "accessedAt": "2026-03-06"
+      }
+    ],
+    "relatedArtistsDetail": [
+      {
+        "artistSlug": "tokuda-yasokichi",
+        "nameZh": "三代德田八十吉",
+        "nameJa": "三代徳田八十吉",
+        "nameEn": "Tokuda Yasokichi III",
+        "birthYear": 1933,
+        "deathYear": 2009,
+        "bio": "1933年生于九谷烧名门。以“燿彩”技法闻名，通过高温釉层重叠和色彩渐变在器物表面形成近乎结晶般的光彩流动效果，重塑了九谷烧在现代工艺中的位置。1997年被认定为“彩釉磁器”重要无形文化财保持者，是现代高温色釉系统的代表性人物。",
+        "kilnName": "徳田八十吉窯",
+        "studioName": "Tokuda Yasokichi Kiln",
+        "locationPrefecture": "石川県",
+        "locationCity": "小松市",
+        "region": "石川县・小松市",
+        "style": "九谷烧、燿彩、彩釉磁器",
+        "awards": [],
+        "exhibitions": [],
+        "instagramHandle": null,
+        "websiteUrl": null,
+        "sources": [
+          {
+            "title": "德田八十吉窑",
+            "url": "https://www.tokuda-yasokichi.com/",
+            "accessedAt": "2026-03-06"
+          },
+          {
+            "title": "德田八十吉窑资料",
+            "url": "https://www.tokuda-yasokichi.com/about/",
+            "accessedAt": "2026-03-06"
+          }
+        ]
+      },
+      {
+        "artistSlug": "kato-hajime",
+        "nameZh": "加藤土师萌",
+        "nameJa": "加藤土師萌",
+        "nameEn": "Kato Hajime",
+        "birthYear": 1900,
+        "deathYear": 1968,
+        "bio": "1900年生于濑户，战后色绘磁器与高温彩釉研究的重要人物。其作品兼具装饰性和学术性，善于从中国明清彩瓷与日本近代工艺中提炼精致而稳定的色釉语言。1961年被认定为“色绘磁器”重要无形文化财保持者。",
+        "kilnName": "日吉窯",
+        "studioName": "加藤土師萌工房",
+        "locationPrefecture": "神奈川県",
+        "locationCity": "横浜市",
+        "region": "爱知县・濑户 / 神奈川",
+        "style": "色绘磁器、高温彩釉、近代工艺",
+        "awards": [
+          "1961年认定为重要无形文化财保持者（人间国宝）- 色绘磁器"
+        ],
+        "exhibitions": [
+          {
+            "year": 1950,
+            "title": "色绘磁器作品展",
+            "venue": "东京"
+          },
+          {
+            "year": 1961,
+            "title": "人间国宝认定纪念展",
+            "venue": "东京国立近代美术馆"
+          },
+          {
+            "year": 1968,
+            "title": "加藤土師萌追悼展",
+            "venue": "日本陶瓷协会"
+          }
+        ],
+        "instagramHandle": null,
+        "websiteUrl": null,
+        "sources": [
+          {
+            "title": "加藤土师萌资料",
+            "url": "https://www.pref.kanagawa.jp/docs/yi4/cnt/f530136/",
+            "accessedAt": "2026-03-06"
+          },
+          {
+            "title": "加藤土师萌介绍",
+            "url": "https://www.kurodatoen.co.jp/artist/katohajime/",
+            "accessedAt": "2026-03-06"
+          }
+        ]
+      },
+      {
+        "artistSlug": "kuwata-takuro",
+        "nameZh": "桑田卓郎",
+        "nameJa": "桑田卓郎",
+        "nameEn": "Kuwata Takuro",
+        "birthYear": 1981,
+        "deathYear": null,
+        "bio": "1981年生于广岛，现于岐阜制作。其作品以爆裂、晶化、强色釉与极端夸张的器形著称，是当代日本高温实验釉的重要代表。虽然并非传统“结晶釉”专门家，但其对于釉层隆起、金属光泽和结晶表面的推进，为理解现代日本彩釉实验提供了重要线索。",
+        "kilnName": "桑田卓郎工房",
+        "studioName": "Takuro Kuwata Studio",
+        "locationPrefecture": "岐阜県",
+        "locationCity": "美濃地区",
+        "region": "岐阜县・多治见",
+        "style": "实验性高温彩釉、晶化表面、当代茶碗",
+        "awards": [
+          "2018年LOEWE Craft Prize特别提名"
+        ],
+        "exhibitions": [
+          {
+            "year": 2018,
+            "title": "LOEWE Craft Prize Exhibition",
+            "venue": "东京草月会馆、维多利亚和阿尔伯特博物馆伦敦、洛杉矶郡艺术博物馆"
+          },
+          {
+            "year": 2020,
+            "title": "当代陶艺展",
+            "venue": "岐阜县现代陶艺美术馆"
+          }
+        ],
+        "instagramHandle": "takurokuwata",
+        "websiteUrl": "https://takurokuwata.com",
+        "sources": [
+          {
+            "title": "Alison Jacques - Takuro Kuwata",
+            "url": "https://alisonjacques.com/artists/takuro-kuwata",
+            "accessedAt": "2026-03-06"
+          },
+          {
+            "title": "Takuro Kuwata 作品页",
+            "url": "https://www.artspace.com/artists/takuro_kuwata",
+            "accessedAt": "2026-03-06"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "gohonte-yu",
+    "nameZh": "御本手",
+    "nameJa": "御本手（ごほんで）",
+    "nameEn": "Gohonte",
+    "category": "釉药技法",
+    "region": "唐津 / 丹波",
+    "type": "铁分红斑表情",
+    "description": "御本手原本是茶人对某类带有淡红、粉红或火色斑点茶碗的称呼，后被视作一种可辨认的表面现象。它通常出现在粉引、唐津、萩等白化妆土或浅色釉层之上，成因与胎土或化妆土中的铁分、窑内气氛和烧成位置密切相关。典型御本手并非直接“画出”的红，而是白色或淡色表面上自然浮现的红斑、口红或高台周围色晕，因此极具偶然性和茶席趣味。日本近现代作家尤其重视这种不完全可控的发色，因为它与茶碗的景色感、使用后的变化和窑变哲学紧密相连。复兴古唐津的中里无庵一系，以及丹波和当代茶陶作家，都把御本手视作粉引与白化妆土世界中的重要观察点。",
+    "positioning": "白色表面自然浮出的粉红火色，是茶碗景色中的细腻惊喜。",
+    "signatureFeatures": [
+      "多见于白化妆土或浅色釉层表面",
+      "呈现粉红、淡红或口红般斑点",
+      "与铁分、窑位和气氛变化密切相关",
+      "偶然性强，难以完全复制",
+      "常被茶人视为器物“景色”的核心之一"
+    ],
+    "keywords": [
+      "御本手",
+      "唐津烧",
+      "粉引",
+      "红斑",
+      "茶碗",
+      "窑变",
+      "中里无庵",
+      "丹波烧"
+    ],
+    "notableArtists": [
+      "中里无庵（十二代中里太郎右卫门）",
+      "下村淳",
+      "市野雅彦"
+    ],
+    "representativeForms": [
+      "茶碗",
+      "盃",
+      "壶",
+      "盘",
+      "花器"
+    ],
+    "images": [],
+    "sources": [
+      {
+        "title": "唐津烧发祥说明",
+        "url": "http://karatsuyakinosato.jp/karatsuyakinokoto.html",
+        "accessedAt": "2026-03-06"
+      },
+      {
+        "title": "中里太郎右卫门陶房",
+        "url": "https://www.nakazato-taroemon.com/",
+        "accessedAt": "2026-03-06"
+      }
+    ],
+    "relatedArtistsDetail": [
+      {
+        "artistSlug": "nakazato-muan",
+        "nameZh": "中里无庵（十二代中里太郎右卫门）",
+        "nameJa": "中里無庵（十二代中里太郎右衛門）",
+        "nameEn": "Nakazato Muan",
+        "birthYear": 1895,
+        "deathYear": 1985,
+        "bio": "1895年生于唐津窑业世家，1927年继承十二代中里太郎右卫门。其最重要的贡献是通过古窑址调查与烧成实验复兴古唐津技法，使斑唐津、刷毛目、御本手等桃山系表情重新回到现代视野。1976年被认定为“唐津烧”重要无形文化财保持者，是近现代唐津复兴的核心人物。",
+        "kilnName": "御茶碗窯",
+        "studioName": "Ochabawan Kiln",
+        "locationPrefecture": "佐賀県",
+        "locationCity": "唐津市",
+        "region": "佐贺县・唐津",
+        "style": "古唐津复兴、御本手、刷毛目、粉引",
+        "awards": [
+          "1927年继承为十二代中里太郎右衛門",
+          "1955年佐贺县指定唐津烧无形文化财保持者",
+          "1976年认定为重要无形文化财保持者（人间国宝）- 唐津烧",
+          "1969年勲四等宝冠章",
+          "大德寺得戒取号無庵",
+          "复兴唐津烧叩き技法"
+        ],
+        "exhibitions": [
+          {
+            "year": 1929,
+            "title": "唐津古窑址调查研究开始",
+            "venue": "佐贺县"
+          },
+          {
+            "year": 1976,
+            "title": "人间国宝认定纪念展",
+            "venue": "东京"
+          },
+          {
+            "year": 2024,
+            "title": "中里太郎右衛門陶房展",
+            "venue": "东京Lapin Art Gallery"
+          },
+          {
+            "year": 1985,
+            "title": "中里無庵追悼展",
+            "venue": "唐津"
+          }
+        ],
+        "instagramHandle": null,
+        "websiteUrl": null,
+        "sources": [
+          {
+            "title": "中里太郎右卫门陶房",
+            "url": "https://www.nakazato-taroemon.com/",
+            "accessedAt": "2026-03-06"
+          },
+          {
+            "title": "中里无庵相关资料",
+            "url": "https://www.karatsu-kankou.jp/feature/nakazato.html",
+            "accessedAt": "2026-03-06"
+          }
+        ]
+      },
+      {
+        "artistSlug": "shimomura-atsushi",
+        "nameZh": "下村淳",
+        "nameJa": "下村淳",
+        "nameEn": "Shimomura Atsushi",
+        "birthYear": 1985,
+        "deathYear": null,
+        "bio": "1985年生，早年从事网页相关工作，后转向陶艺。2017年在唐津隆太窑师从中里系作家学习，2020年在相模原独立。其器物常见刷毛目、黑刷毛目与粉引效果，并保留“目迹”等叠烧痕，是现代唐津语汇向生活器转换的活跃作家。",
+        "kilnName": null,
+        "studioName": null,
+        "locationPrefecture": null,
+        "locationCity": null,
+        "region": "神奈川县・相模原市",
+        "style": "刷毛目、粉引、唐津系生活器",
+        "awards": [
+          "2009年立命馆亚洲太平洋大学毕业",
+          "曾任网页总监",
+          "2017年在唐津龙太窑师从中里太龟",
+          "2020年在神奈川县相模原市独立开窑"
+        ],
+        "exhibitions": [
+          {
+            "year": 2024,
+            "title": "器展",
+            "venue": "URBAN RESEARCH"
+          },
+          {
+            "year": 2023,
+            "title": "个展",
+            "venue": "Alp Shop & Studio"
+          },
+          {
+            "year": 2022,
+            "title": "作品展",
+            "venue": "eyl utsuwa画廊"
+          }
+        ],
+        "instagramHandle": null,
+        "websiteUrl": null,
+        "sources": [
+          {
+            "title": "YUGEN 下村淳介绍",
+            "url": "https://www.yugen-kyoto.com/ja-ar/collections/shimomura-atsushi-tw",
+            "accessedAt": "2026-03-06"
+          },
+          {
+            "title": "下村淳展讯",
+            "url": "https://www.eyl.co.jp/collections/atsushi-shimomura",
+            "accessedAt": "2026-03-06"
+          }
+        ]
+      },
+      {
+        "artistSlug": "ichino-masahiko",
+        "nameZh": "市野雅彦",
+        "nameJa": "市野雅彦",
+        "nameEn": "Ichino Masahiko",
+        "birthYear": 1973,
+        "deathYear": null,
+        "bio": "丹波立杭系作家，广泛运用粉引、御本手和柴烧效果来构成厚重而具茶味的器表。其作品在传统丹波土味基础上加入更细腻的白化妆与粉色窑变观察，常见于茶碗、壶与花器，是现代丹波语境中讨论御本手与粉引时的重要名字。",
+        "kilnName": null,
+        "studioName": null,
+        "locationPrefecture": null,
+        "locationCity": null,
+        "region": "兵库县・丹波篠山",
+        "style": "粉引、御本手、丹波烧、柴烧",
+        "awards": [],
+        "exhibitions": [],
+        "instagramHandle": null,
+        "websiteUrl": null,
+        "sources": [
+          {
+            "title": "市野雅彦作品页",
+            "url": "https://www.sousou.co.jp/ichino-masahiko/",
+            "accessedAt": "2026-03-06"
+          },
+          {
+            "title": "丹波立杭作家介绍",
+            "url": "https://tanbayaki.com/artist/ichino-masahiko/",
+            "accessedAt": "2026-03-06"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "kaki-yu",
+    "nameZh": "柿釉",
+    "nameJa": "柿釉（かきゆう）",
+    "nameEn": "Persimmon Glaze",
+    "category": "釉药技法",
+    "region": "益子 / 民艺系统",
+    "type": "铁分褐红釉",
+    "description": "柿釉是日本民艺陶器中最具代表性的暖色高温釉之一，因釉面常呈现熟柿般的赤褐、橙褐或深赭色而得名。其基础仍是铁分发色系统，但与单纯黑釉、飴釉相比，柿釉更强调温暖、厚实和日常器皿的包容感。益子烧和民艺运动使柿釉广为人知：濱田庄司及其后的濱田家、岛冈达三等作家，常将柿釉与流挂、白釉、黑釉、刷毛目或赤绘并置，形成层次丰富而不失朴素的器表。柿釉的难点在于铁分比例、胎土吸收性和烧成气氛的协调，稍有偏差就会偏黑或偏干，因此优秀柿釉作品往往兼具厚重与透明感。它既是“用之美”的颜色，也是现代益子传统的视觉象征。",
+    "positioning": "温暖赤褐色让民艺器物既厚实又亲近，是益子传统釉药的核心之一。",
+    "signatureFeatures": [
+      "以铁分发出柿色、赭褐或赤褐色",
+      "常与流挂、白釉、黑釉搭配",
+      "在益子和民艺器物中极为常见",
+      "兼具厚重感与温暖透明感",
+      "适用于日用钵盘与茶器"
+    ],
+    "keywords": [
+      "柿釉",
+      "益子烧",
+      "民艺",
+      "铁釉",
+      "濱田庄司",
+      "島岡達三",
+      "用之美",
+      "暖色高温釉"
+    ],
+    "notableArtists": [
+      "濱田庄司",
+      "岛冈达三",
+      "滨田友绪"
+    ],
+    "representativeForms": [
+      "大皿",
+      "钵",
+      "茶碗",
+      "壶",
+      "花器"
+    ],
+    "images": [],
+    "sources": [
+      {
+        "title": "濱田窑 / 濱田友绪",
+        "url": "https://mashiko-hamada.com/tomoo/",
+        "accessedAt": "2026-03-06"
+      },
+      {
+        "title": "岛冈达三与益子传统",
+        "url": "https://masuken.jp/column/ningenkokuhou14/",
+        "accessedAt": "2026-03-06"
+      }
+    ],
+    "relatedArtistsDetail": [
+      {
+        "artistSlug": "hamada-shoji",
+        "nameZh": "濱田庄司",
+        "nameJa": "濱田庄司",
+        "nameEn": "Hamada Shoji",
+        "birthYear": 1894,
+        "deathYear": 1978,
+        "bio": "1894年生，是民艺运动最具代表性的陶艺家之一。1920年代移居益子后，将柿釉、黑釉、白釉、盐釉和流挂装饰转化为日用器之美的核心语言，建立了现代益子烧的审美基调。1955年被认定为“民艺陶器”重要无形文化财保持者，其影响延续到濱田家三代与整个益子系统。",
+        "kilnName": "濱田窯",
+        "studioName": "濱田庄司工房",
+        "locationPrefecture": "栃木県",
+        "locationCity": "芳賀郡益子町",
+        "region": "栃木县・益子町",
+        "style": "民艺陶器、柿釉、黑釉、盐釉、流挂",
+        "awards": [
+          "1955年认定为重要无形文化财保持者（人间国宝）- 民艺陶器（益子烧）",
+          "文化勋章获得者"
+        ],
+        "exhibitions": [
+          {
+            "year": 1920,
+            "title": "伦敦个人展览",
+            "venue": "伦敦"
+          },
+          {
+            "year": 1952,
+            "title": "与河井宽次郎、柳宗悦发起民艺运动展览",
+            "venue": "日本各地"
+          },
+          {
+            "year": 1960,
+            "title": "国际巡回展",
+            "venue": "欧美多国"
+          },
+          {
+            "year": 1975,
+            "title": "濱田庄司回顾展",
+            "venue": "东京国立近代美术馆"
+          }
+        ],
+        "instagramHandle": null,
+        "websiteUrl": null,
+        "sources": [
+          {
+            "title": "民艺运动中的濱田庄司",
+            "url": "https://www.douban.com/note/621280159/",
+            "accessedAt": "2026-03-06"
+          },
+          {
+            "title": "濱田庄司相关资料",
+            "url": "https://www.mashiko-sankokan.net/hamadasyoji/",
+            "accessedAt": "2026-03-06"
+          }
+        ]
+      },
+      {
+        "artistSlug": "shimaoka-tatsuzo",
+        "nameZh": "岛冈达三",
+        "nameJa": "島岡達三",
+        "nameEn": "Shimaoka Tatsuzo",
+        "birthYear": 1919,
+        "deathYear": 2007,
+        "bio": "1919年生，战后在濱田庄司指导下于益子独立，后发展出著名的縄文象嵌技法。除象嵌外，他也大量运用柿釉、糠釉、黑釉等民艺系统釉药来支撑朴实厚重的器形。1996年被认定为“民艺陶器（縄文象嵌）”重要无形文化财保持者，是益子传统釉药系统的重要传承者。",
+        "kilnName": "島岡製陶所",
+        "studioName": "島岡達三工房",
+        "locationPrefecture": "栃木県",
+        "locationCity": "芳賀郡益子町",
+        "region": "栃木县・益子町",
+        "style": "民艺陶器、縄文象嵌、柿釉、糠釉",
+        "awards": [
+          "1962年日本民艺馆奖",
+          "1980年栃木县文化功劳奖",
+          "1994年日本陶瓷协会金奖",
+          "1996年认定为重要无形文化财保持者（人间国宝）- 民艺陶器（绳文象嵌）",
+          "1999年勲三等旭日章",
+          "2002年栃木县名誉县民"
+        ],
+        "exhibitions": [
+          {
+            "year": 1960,
+            "title": "绳文象嵌技法确立展",
+            "venue": "益子町"
+          },
+          {
+            "year": 1970,
+            "title": "益子陶艺展",
+            "venue": "东京国立近代美术馆"
+          },
+          {
+            "year": 1996,
+            "title": "人间国宝认定纪念展",
+            "venue": "栃木县立美术馆"
+          },
+          {
+            "year": 2007,
+            "title": "島岡達三追悼展",
+            "venue": "益子陶艺美术馆"
+          }
+        ],
+        "instagramHandle": null,
+        "websiteUrl": null,
+        "sources": [
+          {
+            "title": "島岡達三相关资料",
+            "url": "https://www.mashiko-museum.jp/collection/shimaoka/",
+            "accessedAt": "2026-03-06"
+          },
+          {
+            "title": "島岡達三与縄文象嵌",
+            "url": "https://masuken.jp/column/ningenkokuhou14/",
+            "accessedAt": "2026-03-06"
+          }
+        ]
+      },
+      {
+        "artistSlug": "hamada-tomoo",
+        "nameZh": "滨田友绪",
+        "nameJa": "濱田友緒",
+        "nameEn": "Hamada Tomoo",
+        "birthYear": 1967,
+        "deathYear": null,
+        "bio": "1967年生于益子，濱田窑第三代当主，也是濱田庄司的外孙。其创作与研究工作延续益子传统的柿釉、黑釉、白釉、青釉与赤绘体系，同时通过展览和驻留活动把濱田家工艺传统转译到国际观众面前。作为今日益子传统釉药系统的重要维护者，他在工房与研究馆两端都承担关键角色。",
+        "kilnName": "濱田窯",
+        "studioName": "Hamada-gama / Hamada Kiln",
+        "locationPrefecture": "栃木県",
+        "locationCity": "芳賀郡益子町",
+        "region": "栃木县・益子町",
+        "style": "益子传统釉药、柿釉、黑釉、白釉、赤绘",
+        "awards": [
+          "濱田庄司孙子、濱田晋作次子",
+          "濱田窑第三代当主",
+          "益子参考馆馆长",
+          "濱田庄司研究专家"
+        ],
+        "exhibitions": [
+          {
+            "year": 2024,
+            "title": "濱田家三代展",
+            "venue": "日本全国"
+          },
+          {
+            "year": 2023,
+            "title": "世界各国巡回展",
+            "venue": "国际"
+          },
+          {
+            "year": 2022,
+            "title": "益子烧传统展",
+            "venue": "栃木县益子町"
+          }
+        ],
+        "instagramHandle": "tomoohamada",
+        "websiteUrl": null,
+        "sources": [
+          {
+            "title": "濱田窑 / 濱田友绪资料",
+            "url": "https://mashiko-hamada.com/",
+            "accessedAt": "2026-03-06"
+          },
+          {
+            "title": "濱田友绪工房信息",
+            "url": "https://mashiko-hamada.com/tomoo/",
+            "accessedAt": "2026-03-06"
+          },
+          {
+            "title": "益子观光协会访谈",
+            "url": "https://mashiko-tourism.com/interview/tomoo_hamada.php",
+            "accessedAt": "2026-03-06"
+          }
+        ]
+      }
+    ]
+  }
+]

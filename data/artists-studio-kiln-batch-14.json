@@ -1,0 +1,94 @@
+[
+  {
+    "slug": "ueda-yuji",
+    "kilnName": "上田裕二窯",
+    "studioName": "Ueda Yuji Studio",
+    "locationPrefecture": "滋賀県",
+    "locationCity": "甲賀市",
+    "locationArea": "信楽",
+    "kilnType": "還元焼成窯",
+    "studioInfo": {
+      "birthYear": 1975,
+      "birthplace": "滋賀県",
+      "training": "師從陶芸家小山耕一",
+      "material": "信楽長石質粘土（feldspar-rich clay）",
+      "technique": "爆裂表面与开裂质感（explosive crackled surfaces），独特烧制技法",
+      "style": "粗犷质感，富有张力的裂纹表面，现代感与土的原始力量结合",
+      "philosophy": "探索粘土与火的极限表现",
+      "instagram": "@yuji____ueda",
+      "followers": "15K"
+    }
+  },
+  {
+    "slug": "kobayashi-chie",
+    "kilnName": "小林千恵窯",
+    "studioName": "Chie Kobayashi Ceramic Studio",
+    "locationPrefecture": "神奈川県",
+    "locationCity": "横浜市",
+    "locationArea": "青葉区",
+    "kilnType": "現代窯",
+    "studioInfo": {
+      "location": "横浜市青葉区大場町387-27",
+      "distribution": "IZUMO等多家画廊经销，作品销往东京、镰仓等地",
+      "style": "现代陶器，实用与美学结合",
+      "instagram": "@chie_kobayashi_ceramic",
+      "website": "chiekobayashi.jimdofree.com"
+    }
+  },
+  {
+    "slug": "ono-kaori",
+    "kilnName": "大野香織窯",
+    "studioName": "Ono Kaori Studio",
+    "locationPrefecture": "茨城県",
+    "locationCity": "つくば市",
+    "locationArea": "つくば",
+    "kilnType": "穴窯",
+    "studioInfo": {
+      "birthYear": 1971,
+      "birthplace": "兵庫県神戸市",
+      "education": "1993年関西学院大学卒業",
+      "training": "2002年茨城県陶芸指導所師從辻井絢子",
+      "established": "2008年建造穴窯",
+      "timeline": "30岁从贸易公司职员转向陶艺，完成陶芸指導所课程后边抚养孩子边创作",
+      "partner": "与丈夫大野佳典共同创作",
+      "recognition": "2011年入选茨城県美術展覧会",
+      "instagram": "@ishinosoup_2"
+    }
+  },
+  {
+    "slug": "morioka-kiyoko",
+    "kilnName": "森岡希世子窯",
+    "studioName": "Morioka Kiyoko Studio",
+    "locationPrefecture": "石川県",
+    "locationCity": "金沢市",
+    "locationArea": "金沢",
+    "kilnType": "現代窯",
+    "studioInfo": {
+      "birthplace": "石川県金沢市",
+      "specialty": "九谷焼成形部门传统工艺士",
+      "role": "神戸芸術工科大学教授兼陶芸家",
+      "style": "白磁急须等精致器物，寡默世界观的现前化",
+      "philosophy": "作品创作是自己内心寡默世界观的具现化",
+      "distribution": "チルチンびと広场、オトメの金沢等经销"
+    }
+  },
+  {
+    "slug": "suzuki-makiko",
+    "kilnName": "La Maison de Vent",
+    "studioName": "La Maison de Vent (House of Wind)",
+    "locationPrefecture": "茨城県",
+    "locationCity": "笠間市",
+    "locationArea": "笠間",
+    "kilnType": "現代窯",
+    "studioInfo": {
+      "established": "2006年创立品牌La Maison de Vent",
+      "timeline": "2003年开始学习陶艺，受退休美术教师姨妈启发",
+      "location": "笠間市古民家工房",
+      "concept": "让器物周围充满笑容的地方",
+      "style": "绿松石蓝色调为特色，轻量可堆叠设计，融入室内装饰的器物",
+      "philosophy": "为女性设计的温柔器物 - 轻便、可堆叠、美观实用",
+      "inspiration": "受英国陶艺家Lucy Rie启发",
+      "specialty": "笠間焼，独特青绿釉色，女性收藏家喜爱"
+    }
+  }
+]

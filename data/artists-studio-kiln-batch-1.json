@@ -1,0 +1,209 @@
+[
+  {
+    "slug": "hamada-shoji",
+    "kilnName": "濱田窯",
+    "studioName": "濱田庄司工房",
+    "locationPrefecture": "栃木県",
+    "locationCity": "芳賀郡益子町",
+    "locationArea": "道祖土",
+    "kilnType": "薪窯",
+    "studioInfo": {
+      "established": 1930,
+      "firstKilnCompleted": 1931,
+      "notes": "1977年開設濱田庄司記念益子参考館",
+      "generations": "三代継承（濱田庄司、濱田晋作、濱田友緒）"
+    }
+  },
+  {
+    "slug": "arakawa-toyozo",
+    "kilnName": "大萱窯／水月窯",
+    "studioName": "荒川豊蔵工房",
+    "locationPrefecture": "岐阜県",
+    "locationCity": "可児市／多治見市",
+    "locationArea": "久々利大萱／多治見",
+    "kilnType": "半地下式登窯",
+    "studioInfo": {
+      "oogatsuKiln": "1933年建窯於可児市久々利大萱",
+      "suigetsuKiln": "1946年建立於多治見市",
+      "notes": "1930年在大萱發現志野陶片，改写陶瓷史",
+      "designation": "多治見市無形文化財"
+    }
+  },
+  {
+    "slug": "tomimoto-kenkichi",
+    "kilnName": "富本憲吉窯",
+    "studioName": "富本憲吉工房",
+    "locationPrefecture": "奈良県",
+    "locationCity": "生駒郡安堵町",
+    "locationArea": "安堵町",
+    "kilnType": "楽焼窯／磁器窯",
+    "studioInfo": {
+      "established": 1913,
+      "fullKiln": 1915,
+      "notes": "出生地，現為うぶすなの郷TOMIMOTO（餐廳和酒店）",
+      "periods": "大和時期、東京時期、京都時期"
+    }
+  },
+  {
+    "slug": "kaneshige-toyo",
+    "kilnName": "金重陶陽窯",
+    "studioName": "金重利陶苑",
+    "locationPrefecture": "岡山県",
+    "locationCity": "備前市",
+    "locationArea": "伊部",
+    "kilnType": "備前焼窯",
+    "studioInfo": {
+      "birthplace": "1896年出生於伊部",
+      "notes": "備前燒復興之父，繼承父親金重楳陽窯場",
+      "achievement": "使備前燒從江戶中期的衰退中復興"
+    }
+  },
+  {
+    "slug": "fujiwara-kei",
+    "kilnName": "藤原啓窯",
+    "studioName": "藤原備前工房",
+    "locationPrefecture": "岡山県",
+    "locationCity": "備前市",
+    "locationArea": "穂浪",
+    "kilnType": "備前焼窯",
+    "studioInfo": {
+      "established": 1938,
+      "notes": "40歳開始陶藝，師從金重陶陽等",
+      "family": "子藤原雄也成為人間國寶，父子首例"
+    }
+  },
+  {
+    "slug": "shimaoka-tatsuzo",
+    "kilnName": "島岡製陶所",
+    "studioName": "島岡達三工房",
+    "locationPrefecture": "栃木県",
+    "locationCity": "芳賀郡益子町",
+    "locationArea": "益子",
+    "kilnType": "薪窯",
+    "studioInfo": {
+      "established": 1953,
+      "location": "濱田宅邸隣接",
+      "technique": "縄文象嵌技法",
+      "successor": "孫島岡桂繼承為二代"
+    }
+  },
+  {
+    "slug": "fujiwara-yu",
+    "kilnName": "藤原雄窯",
+    "studioName": "藤原備前工房",
+    "locationPrefecture": "岡山県",
+    "locationCity": "備前市",
+    "locationArea": "穂浪",
+    "kilnType": "備前焼窯",
+    "studioInfo": {
+      "notes": "繼承父親藤原啓窯場",
+      "specialty": "大型壺罐，有「雄的壺」之稱",
+      "designation": "1996年人間國寶"
+    }
+  },
+  {
+    "slug": "suzuki-osamu",
+    "kilnName": "鈴木藏工房",
+    "studioName": "鈴木藏窯",
+    "locationPrefecture": "岐阜県",
+    "locationCity": "土岐市",
+    "locationArea": "駄知町",
+    "kilnType": "ガス窯（独自開発）",
+    "studioInfo": {
+      "established": 1968,
+      "innovation": "研究桃山時代半地下式穴窯，開發瓦斯窯",
+      "notes": "用瓦斯窯重現志野燒傳統技法",
+      "achievement": "1994年人間國寶（志野）"
+    }
+  },
+  {
+    "slug": "inoue-manji",
+    "kilnName": "井上萬二窯",
+    "studioName": "INOUE MANJI KILN",
+    "locationPrefecture": "佐賀県",
+    "locationCity": "西松浦郡有田町",
+    "locationArea": "南山307",
+    "kilnType": "磁器窯",
+    "studioInfo": {
+      "website": "manjiinoue.com",
+      "specialty": "白磁、轆轤成型",
+      "successor": "孫井上祐希為三代目",
+      "shop": "manjikiln.theshop.jp"
+    }
+  },
+  {
+    "slug": "miwa-kyuwa",
+    "kilnName": "三輪窯（扶桑庵）",
+    "studioName": "三輪休雪工房",
+    "locationPrefecture": "山口県",
+    "locationCity": "萩市",
+    "locationArea": "萩",
+    "kilnType": "薪窯",
+    "studioInfo": {
+      "established": 1663,
+      "currentLocation": "1682年遷至現址",
+      "notes": "350年以上歷史，毛利藩御用窯",
+      "currentGeneration": "十三代（2019年就任）"
+    }
+  },
+  {
+    "slug": "miwa-jusetsu",
+    "kilnName": "三輪窯",
+    "studioName": "三輪壽雪工房",
+    "locationPrefecture": "山口県",
+    "locationCity": "萩市",
+    "locationArea": "萩",
+    "kilnType": "薪窯",
+    "studioInfo": {
+      "notes": "九代三輪節堂三男",
+      "succession": "1967年繼承「休雪」名號（十一代）",
+      "technique": "開發鬼萩風格",
+      "designation": "1983年人間國寶"
+    }
+  },
+  {
+    "slug": "kuwata-takuro",
+    "kilnName": "桑田卓郎工房",
+    "studioName": "Takuro Kuwata Studio",
+    "locationPrefecture": "岐阜県",
+    "locationCity": "美濃地区",
+    "locationArea": "美濃",
+    "kilnType": "現代窯",
+    "studioInfo": {
+      "birthYear": 1981,
+      "training": "2002年師從在間進",
+      "technique": "kairagi和ishihaze當代詮釋",
+      "website": "takurokuwata.com"
+    }
+  },
+  {
+    "slug": "uchida-koichi",
+    "kilnName": "内田鋼一工房／九滝穴窯",
+    "studioName": "内田鋼一スタジオ",
+    "locationPrefecture": "三重県／滋賀県",
+    "locationCity": "四日市市／滋賀県",
+    "locationArea": "四日市／九滝",
+    "kilnType": "穴窯",
+    "studioInfo": {
+      "established": 1992,
+      "anagamaBuilt": "2012年在滋賀県九滝建立穴窯",
+      "museum": "2015年設立BANKO archive design museum",
+      "award": "2018年日本陶瓷協会獎"
+    }
+  },
+  {
+    "slug": "kato-hajime",
+    "kilnName": "日吉窯",
+    "studioName": "加藤土師萌工房",
+    "locationPrefecture": "神奈川県",
+    "locationCity": "横浜市",
+    "locationArea": "日吉",
+    "kilnType": "色絵磁器窯",
+    "studioInfo": {
+      "established": 1940,
+      "birthplace": "1900年愛知県瀬戸市出生",
+      "achievement": "復原明代嘉靖黄地紅彩技法",
+      "designation": "1961年人間國寶（色絵）"
+    }
+  }
+]

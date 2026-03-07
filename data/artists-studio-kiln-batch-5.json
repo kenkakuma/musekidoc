@@ -1,0 +1,55 @@
+[
+  {
+    "slug": "kameda-fumi",
+    "kilnName": "susuke製陶室",
+    "studioName": "Susuke Pottery Studio",
+    "locationPrefecture": "大分県",
+    "locationCity": "別府市",
+    "locationArea": "別府",
+    "kilnType": "現代窯",
+    "studioInfo": {
+      "birthYear": 1973,
+      "birthplace": "神奈川県",
+      "relocated": "2013年春移居别府（原福島大堀相馬焼·庄助窯4代目家族，2011地震后迁出）",
+      "couple": "与夫亀田大介共同创作",
+      "daisuke": "白磁为主，使用有田土与地方土",
+      "fumi": "板作り成形，白色调精致造型，兔、鸟小纹样",
+      "philosophy": "润泽肌理，自然带入餐桌的器物观",
+      "instagram": "@daisukekameta"
+    }
+  },
+  {
+    "slug": "yoshizawa-hiro",
+    "kilnName": "よしざわ窯",
+    "studioName": "Yoshizawa Kiln",
+    "locationPrefecture": "栃木県",
+    "locationCity": "芳賀郡益子町",
+    "locationArea": "益子",
+    "kilnType": "現代窯",
+    "studioInfo": {
+      "birthYear": 1974,
+      "timeline": "2011年离职企业 → 2012年回益子家族制陶所向父亲学习轆轤 → 2016年起参展",
+      "family": "继承家族陶艺传统",
+      "brand": "on the table生活陶器",
+      "instagram": "@onthetable_mashiko（可能）"
+    }
+  },
+  {
+    "slug": "atsukawa-fumiko",
+    "kilnName": "厚川文子工房",
+    "studioName": "Atsukawa Fumiko Studio",
+    "locationPrefecture": "岐阜県",
+    "locationCity": "多治見市",
+    "locationArea": "多治見",
+    "kilnType": "現代窯",
+    "studioInfo": {
+      "birthYear": 1975,
+      "birthplace": "埼玉県",
+      "education": "1997年和光大学人文学部芸術学科, 2004年多治見市陶磁器意匠研究所",
+      "technique": "制作等身大泥塑原型，内型成形",
+      "style": "土味与现代造型",
+      "works": "花器、挂花、水壶、圆片口、饭碗、盘、壶",
+      "debut": "2005年首次个展（ギャラリー数寄）"
+    }
+  }
+]

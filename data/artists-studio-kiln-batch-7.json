@@ -1,0 +1,60 @@
+[
+  {
+    "slug": "ando-masanobu",
+    "kilnName": "安藤雅信窯",
+    "studioName": "Masanobu Ando Studio",
+    "locationPrefecture": "岐阜県",
+    "locationCity": "多治見市",
+    "locationArea": "東栄町2-8-16",
+    "kilnType": "現代窯",
+    "studioInfo": {
+      "birthYear": 1957,
+      "birthplace": "岐阜県多治見市",
+      "education": "武蔵野美術大学雕刻科",
+      "technique": "板作り（tatara）技法",
+      "philosophy": "侘寂、無常与不完美接受的禅文化",
+      "gallery": "1988年改建茶室为Galerie Momogusa画廊",
+      "role": "陶艺家、雕刻家、茶道师",
+      "instagram": "@masanobu.ando",
+      "influence": "华语世界最受关注的陶艺家之一"
+    }
+  },
+  {
+    "slug": "tsujimura-shiro",
+    "kilnName": "辻村史朗窯群",
+    "studioName": "Shiro Tsujimura Studio",
+    "locationPrefecture": "奈良県",
+    "locationCity": "奈良市",
+    "locationArea": "美馬山間部",
+    "kilnType": "薪窯群（10基窯）",
+    "studioInfo": {
+      "birthYear": 1947,
+      "birthplace": "奈良県",
+    "education": "油画学习后转向陶艺",
+      "established": "1970年在奈良市美馬山間部购地建房、工作室、茶室与窯",
+      "kilnsBuilt": "建造约10座窯，实验不同形状与尺寸",
+      "technique": "自己土地采集泥土，薪窯烧制，自然灰釉流淌",
+      "production": "年产约4000件，每周烧窯两次",
+      "philosophy": "自然回归，精致与返璞归真"
+    }
+  },
+  {
+    "slug": "yoshida-naotsugu",
+    "kilnName": "吉田直嗣窯",
+    "studioName": "Yoshida Pottery / yoshida pottery®︎",
+    "locationPrefecture": "山梨県／静岡県",
+    "locationCity": "富士山麓",
+    "locationArea": "富士山麓",
+    "kilnType": "現代窯",
+    "studioInfo": {
+      "birthYear": 1976,
+      "education": "東京造形大学卒業，師從黑田泰蔵",
+      "established": "2003年在富士山麓建窯",
+      "style": "单色调为主，白磁与鐵釉黑白融合",
+      "collaborative": "与妻子yoshida kaoru共同创作使用duo名'cheren-bel'",
+      "inspiration": "富士山麓自然为灵感源",
+      "instagram": "@naotsuguyoshida / @yoshidapottery",
+      "followers": "19K"
+    }
+  }
+]

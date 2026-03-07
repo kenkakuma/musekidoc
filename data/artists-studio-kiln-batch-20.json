@@ -1,0 +1,75 @@
+[
+  {
+    "slug": "ishikawa-wakahiko",
+    "kilnName": "石川若彦工房",
+    "studioName": "Ishikawa Wakahiko Studio",
+    "locationPrefecture": "日本",
+    "locationCity": "日本",
+    "locationArea": "日本",
+    "kilnType": "現代窯",
+    "studioInfo": {
+      "note": "当代陶艺作家，详细工房信息有限"
+    }
+  },
+  {
+    "slug": "kato-etsuko",
+    "kilnName": "加藤惠津子工房",
+    "studioName": "Kato Etsuko Studio",
+    "locationPrefecture": "日本",
+    "locationCity": "日本",
+    "locationArea": "日本",
+    "kilnType": "現代窯",
+    "studioInfo": {
+      "exhibitions": "BDAC画廊等展览记录",
+      "note": "当代陶艺作家"
+    }
+  },
+  {
+    "slug": "kawahara-sachiko",
+    "kilnName": "川原幸子工房",
+    "studioName": "Kawahara Sachiko Studio",
+    "locationPrefecture": "日本",
+    "locationCity": "日本",
+    "locationArea": "日本",
+    "kilnType": "現代窯",
+    "studioInfo": {
+      "note": "当代陶艺作家"
+    }
+  },
+  {
+    "slug": "sato-akari",
+    "kilnName": "佐藤朱理工房",
+    "studioName": "Sato Akari Studio",
+    "locationPrefecture": "日本",
+    "locationCity": "日本",
+    "locationArea": "日本",
+    "kilnType": "現代窯",
+    "studioInfo": {
+      "note": "当代陶艺作家"
+    }
+  },
+  {
+    "slug": "takataya-masahiro",
+    "kilnName": "高田谷将宏工房",
+    "studioName": "Takataya Masahiro Studio",
+    "locationPrefecture": "日本",
+    "locationCity": "日本",
+    "locationArea": "日本",
+    "kilnType": "現代窯",
+    "studioInfo": {
+      "note": "当代陶艺作家"
+    }
+  },
+  {
+    "slug": "tazuruhama-morito",
+    "kilnName": "田鶴濱守人工房",
+    "studioName": "Tazuruhama Morito Studio",
+    "locationPrefecture": "日本",
+    "locationCity": "日本",
+    "locationArea": "日本",
+    "kilnType": "現代窯",
+    "studioInfo": {
+      "note": "当代陶艺作家"
+    }
+  }
+]

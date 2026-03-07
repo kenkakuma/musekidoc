@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import { Noto_Sans_SC, Noto_Sans_JP } from "next/font/google";
 import "./globals.css";
+import LayoutSwitcher from '@/components/LayoutSwitcher';
 
 const notoSansSC = Noto_Sans_SC({
   subsets: ["latin"],
@@ -30,6 +31,7 @@ export default function RootLayout({
     <html lang="zh-CN" className={`${notoSansSC.variable} ${notoSansJP.variable}`}>
       <body className="font-sans antialiased">
         {children}
+        <LayoutSwitcher />
       </body>
     </html>
   );

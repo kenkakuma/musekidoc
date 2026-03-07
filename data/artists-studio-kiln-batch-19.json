@@ -1,0 +1,35 @@
+[
+  {
+    "slug": "sato-naomichi",
+    "kilnName": "bonoho",
+    "studioName": "Bonoho Ceramics Studio",
+    "locationPrefecture": "沖縄県",
+    "locationCity": "沖縄南部",
+    "locationArea": "沖縄南部",
+    "kilnType": "現代窯",
+    "studioInfo": {
+      "career": "2000年左右开始从事雕塑工作",
+      "education": "2008年德国慕尼黑美术学院学习",
+      "timeline": "回国后开始陶艺创作，2012年开设bonoho陶艺店",
+      "location": "冲绳南部安静住宅区，自建工作室",
+      "philosophy": "雕塑家制作的陶器而非单纯陶工制作的器物",
+      "popularity": "近年每次展览均售罄，人气极高",
+      "studio": "与妻子Makoto共同生活创作，从工作室建设到庭园种植、店内装置全由本人亲手完成",
+      "style": "融合雕塑感性的陶艺作品"
+    }
+  },
+  {
+    "slug": "torii-miki",
+    "kilnName": "鳥居美希工房",
+    "studioName": "Torii Miki Studio",
+    "locationPrefecture": "日本",
+    "locationCity": "日本",
+    "locationArea": "日本",
+    "kilnType": "現代窯",
+    "studioInfo": {
+      "works": "雕塑作品与功能性器物如马克杯等",
+      "distribution": "k-and-a-so-co画廊等经销",
+      "style": "当代陶艺作品，结合雕塑与实用器物创作"
+    }
+  }
+]

@@ -1,0 +1,73 @@
+[
+  {
+    "slug": "muraki-yuji",
+    "kilnName": "村木雄児窯",
+    "studioName": "Muraki Yuji Studio",
+    "locationPrefecture": "静岡県",
+    "locationCity": "伊東市",
+    "locationArea": "伊豆高原 大室山麓",
+    "kilnType": "登窯／ガス窯",
+    "studioInfo": {
+      "birthYear": 1953,
+      "birthplace": "神奈川県",
+      "education": "1975年東京デザイナー学院, 1976年瀬戸窯業訓練校, 德岛县大谷焼窯学徒",
+      "established": "1980年在伊豆建工房",
+      "kilns": "大型登窯（年烧1-2次）+ ガス窯",
+      "technique": "粉引、刷毛目、三島手、唐津焼",
+      "movement": "1980-90年代「現代生活陶器」运动领袖之一（与小野哲平、青木良共同）",
+      "loading": "入窯装载需1周以上"
+    }
+  },
+  {
+    "slug": "narita-shuhei",
+    "kilnName": "成田周平工房",
+    "studioName": "Narita Shuhei Studio",
+    "locationPrefecture": "愛知県",
+    "locationCity": "豊明市",
+    "locationArea": "豊明",
+    "kilnType": "現代窯",
+    "studioInfo": {
+      "birthYear": 1989,
+      "birthplace": "愛知県",
+      "education": "名古屋芸術大学, 多治見市陶磁器意匠研究所",
+      "technique": "玉造り（球形起手）无釉，用杵和匙抛光",
+      "style": "圆润木雕感造型，细腻抛光表面",
+      "instagram": "@narita_shuhei"
+    }
+  },
+  {
+    "slug": "kumabuchi-misa",
+    "kilnName": "mushimegane books",
+    "studioName": "Mushimegane Books Studio",
+    "locationPrefecture": "兵庫県",
+    "locationCity": "西宮市",
+    "locationArea": "西宮",
+    "kilnType": "現代窯",
+    "studioInfo": {
+      "established": 2010,
+      "location": "兵庫県西宮市",
+      "philosophy": "反映日常生活安静节奏，直觉塑形而非统一",
+      "style": "轻柔扭曲、微妙质感、柔软形态",
+      "characteristic": "手工艺温暖，每件独特"
+    }
+  },
+  {
+    "slug": "iwasaki-ryuji",
+    "kilnName": "岩崎龍二工房",
+    "studioName": "Iwasaki Ryuji Studio",
+    "locationPrefecture": "大阪府",
+    "locationCity": "富田林市",
+    "locationArea": "富田林",
+    "kilnType": "現代窯",
+    "studioInfo": {
+      "birthYear": 1980,
+      "birthplace": "大阪府",
+      "education": "2000年大阪芸術大学卒業",
+      "established": "2012年在富田林市建工房",
+      "technique": "轆轤光滑曲线，氧化金属環流（かわらながし）",
+      "awards": "第47回日本伝統工芸近畿支部展新人奨励奖, 大阪工芸展入选（52, 54, 59届），神戸ビエンナーレ",
+      "teaching": "陶芸学校讲师",
+      "instagram": "@iwasakiryuji"
+    }
+  }
+]

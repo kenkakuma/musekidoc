@@ -1,0 +1,138 @@
+[
+  {
+    "slug": "kameda-fumi",
+    "awards": [
+      "1973年神奈川县出生",
+      "2013年移居大分县别府市",
+      "与丈夫亀田大介共同创作",
+      "型打ち技法专家",
+      "淡雅色调与凛然存在感",
+      "飞驒SUSUKE工房"
+    ],
+    "exhibitions": [
+      {"year": 2024, "title": "亀田大介・文展", "venue": "东京KOHORO二子玉川"},
+      {"year": 2023, "title": "亀田大介・文展", "venue": "大阪KOHORO淀屋橋"},
+      {"year": 2024, "title": "作品展", "venue": "note / Envelope"},
+      {"year": 2023, "title": "白釉花形器皿展", "venue": "煎茶堂东京"}
+    ],
+    "exhibitionCount": 15
+  },
+  {
+    "slug": "tazuruhama-morito",
+    "awards": [
+      "1973年3月东京出生",
+      "2000年多摩美术大学大学院油绘学科修了",
+      "2000年移居爱知县独学烧物",
+      "2006年在爱知县半田市築窯",
+      "现在爱知县知多郡阿久比町创作",
+      "黑錆、粉引、刷毛目技法专家"
+    ],
+    "exhibitions": [
+      {"year": 2024, "title": "田鶴濱守人展", "venue": "陶屋なづな"},
+      {"year": 2022, "title": "田鶴濱守人展", "venue": "陶屋なづな"},
+      {"year": 2023, "title": "作品展", "venue": "うつわ祥見鎌倉"},
+      {"year": 2024, "title": "重厚黑錆器展", "venue": "Zipangu modern"}
+    ],
+    "exhibitionCount": 18
+  },
+  {
+    "slug": "ishihara-yoshimitsu",
+    "awards": [
+      "1971年大阪出生",
+      "京都市立艺术大学大学院雕塑科修了",
+      "高中和大学兼职美术教师4年（京都）",
+      "2002年开始师从父亲陶艺家石原祥嗣",
+      "2006年在福冈建立传统薪窑(nobori-gama)",
+      "手捻り和炭化技法专家",
+      "每年春秋两次烧成",
+      "雕塑背景的自由造型"
+    ],
+    "exhibitions": [
+      {"year": 2024, "title": "个展", "venue": "Roman and Williams Guild纽约"},
+      {"year": 2025, "title": "个展", "venue": "Guild Gallery NY"},
+      {"year": 2023, "title": "陶展", "venue": "うつしき"},
+      {"year": 2024, "title": "作品展", "venue": "Analogue Life"}
+    ],
+    "exhibitionCount": 20
+  },
+  {
+    "slug": "takataya-masahiro",
+    "awards": [
+      "师从村木雄児",
+      "薪窑烧成助手",
+      "常滑市创作",
+      "2023年日本陶磁协会认可",
+      "质朴魅力风格"
+    ],
+    "exhibitions": [
+      {"year": 2024, "title": "作品展", "venue": "うつわすみか"},
+      {"year": 2023, "title": "日本陶磁协会展", "venue": "日本"},
+      {"year": 2024, "title": "个展", "venue": "うつわ和"}
+    ],
+    "exhibitionCount": 12
+  },
+  {
+    "slug": "sato-naomichi",
+    "awards": [
+      "2000年开始雕塑创作",
+      "2008年德国慕尼黑美术学院学习",
+      "2012年开设陶艺店bonoho",
+      "冲绳南部居住和创作",
+      "雕塑家制作的陶艺",
+      "亲手建造工作室",
+      "与妻子Makoto共同经营"
+    ],
+    "exhibitions": [
+      {"year": 2012, "title": "bonoho开业", "venue": "冲绳"},
+      {"year": 2023, "title": "作品展", "venue": "taliki冲绳"},
+      {"year": 2024, "title": "陶艺展", "venue": "wabizest"}
+    ],
+    "exhibitionCount": 15
+  },
+  {
+    "slug": "sato-akari",
+    "awards": [
+      "2013年大阪艺术大学工艺科陶艺课程毕业",
+      "岐阜县创作",
+      "当代陶艺珠宝创作",
+      "乐烧釉药专家",
+      "优雅器形与独特质感"
+    ],
+    "exhibitions": [
+      {"year": 2023, "title": "个展", "venue": "PEOPLE by GALLERY crossing"},
+      {"year": 2024, "title": "陶艺展", "venue": "日本"},
+      {"year": 2022, "title": "作品展", "venue": "岐阜"}
+    ],
+    "exhibitionCount": 10
+  },
+  {
+    "slug": "kumabuchi-misa",
+    "awards": [
+      "2010年创立mushimegane books陶艺工作室",
+      "兵库县西宫市创作",
+      "手工成型有机形态专家",
+      "刷子和海绵施釉技法",
+      "以人与声音为主题",
+      "音乐般的日常器皿理念"
+    ],
+    "exhibitions": [
+      {"year": 2024, "title": "作品展", "venue": "OEN Shop"},
+      {"year": 2023, "title": "mushimegane books展", "venue": "Artifactt"},
+      {"year": 2022, "title": "陶艺展", "venue": "日本各地"},
+      {"year": 2013, "title": "国际展", "venue": "HOPEA"}
+    ],
+    "exhibitionCount": 18
+  },
+  {
+    "slug": "kawahara-sachiko",
+    "awards": [
+      "当代陶艺家",
+      "日本活动"
+    ],
+    "exhibitions": [
+      {"year": 2023, "title": "群展", "venue": "日本"},
+      {"year": 2024, "title": "陶器市", "venue": "日本"}
+    ],
+    "exhibitionCount": 5
+  }
+]

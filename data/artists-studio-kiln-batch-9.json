@@ -1,0 +1,98 @@
+[
+  {
+    "slug": "endo-takashi",
+    "kilnName": "遠藤岳窯",
+    "studioName": "Takashi Endo Studio",
+    "locationPrefecture": "神奈川県／伊賀／信楽",
+    "locationCity": "神奈川県",
+    "locationArea": "神奈川",
+    "kilnType": "還元焼成窯",
+    "studioInfo": {
+      "birthplace": "神奈川県",
+      "training": "自学成才",
+      "material": "伊贺与信楽当地土（日本六古窯之一）",
+      "technique": "多孔质粘土雕刻至最低限度，还原烧成显现自然质感",
+      "style": "极简美学，单色调，拒绝装饰，粗糙表面",
+      "philosophy": "艺术性几乎优先于功能性，超轻量陶瓷",
+      "instagram": "@t_endoh",
+      "followers": "55K"
+    }
+  },
+  {
+    "slug": "takeuchi-shingo",
+    "kilnName": "竹内紳吾窯",
+    "studioName": "Takeuchi Shingo Studio",
+    "locationPrefecture": "愛知県",
+    "locationCity": "瀬戸市",
+    "locationArea": "瀬戸",
+    "kilnType": "還元冷却窯",
+    "studioInfo": {
+      "birthYear": 1955,
+      "birthplace": "愛知県瀬戸市",
+      "education": "1979年愛知県立窯業訓練校卒業",
+      "established": "1982年开设工房",
+      "background": "曾在日本汽车公司工作后转向陶艺",
+      "technique": "还原冷却技术，雕塑性陶瓷风格",
+      "specialty": "花器，兼具实用功能与高度装饰艺术性",
+      "experience": "40年以上陶艺实践",
+      "awards": "日本传统工艺展、朝日陶芸展、中日陶芸展、日本陶艺展、台湾陶艺双年展、2005韩国世界陶艺双年展"
+    }
+  },
+  {
+    "slug": "nukaga-akio",
+    "kilnName": "N. ceramic studio",
+    "studioName": "N. Ceramics",
+    "locationPrefecture": "茨城県",
+    "locationCity": "笠間市",
+    "locationArea": "笠間",
+    "kilnType": "現代窯",
+    "studioInfo": {
+      "location": "茨城県笠間市（江戸时代以来的陶器生产历史名城）",
+      "inspiration": "妻子种植的蔬菜园，自然启发",
+      "technique": "褶皱技法（Pleated work）为标志，粘土块版画图案，受日本木芥子娃娃启发的抽象形态",
+      "style": "褶皱技法为特色",
+      "website": "akio-nukaga.com",
+      "instagram": "@nceramicstudio",
+      "followers": "24K",
+      "distribution": "全球流行，Heath Ceramics, Roman and Williams Guild等经销"
+    }
+  },
+  {
+    "slug": "hamada-tomoo",
+    "kilnName": "濱田窯",
+    "studioName": "Hamada-gama / Hamada Kiln",
+    "locationPrefecture": "栃木県",
+    "locationCity": "芳賀郡益子町",
+    "locationArea": "益子",
+    "kilnType": "登窯",
+    "studioInfo": {
+      "birthYear": 1967,
+      "birthplace": "益子",
+      "education": "1989年多摩美術大学雕刻科学士, 1991年硕士",
+      "family": "濱田庄司之孙，濱田晋作之次子",
+      "generations": "濱田窯第3代（1931年祖父创立）",
+      "technique": "百年手工技法，蹴轆轤（kick wheel）与登窯",
+      "glazes": "益子传统柿釉、黑釉、白釉、青釉，盐釉与赤絵装饰",
+      "role": "陶芸家，濱田庄司記念益子参考館館长",
+      "residency": "2009, 2013年英国Leach Pottery驻留与个展"
+    }
+  },
+  {
+    "slug": "hashimoto-tomonari",
+    "kilnName": "橋本知成工房",
+    "studioName": "Tomonari Hashimoto Studio",
+    "locationPrefecture": "和歌山県／石川県",
+    "locationCity": "金沢市",
+    "locationArea": "金沢",
+    "kilnType": "電気窯／ガス窯／仮設薪窯",
+    "studioInfo": {
+      "birthplace": "和歌山県",
+      "education": "2008年京都教育大学美術科，2017年金沢美術工芸大学博士（美术）",
+      "technique": "手捏盘筑技法，不切割不雕刻约束，大型作品超2米",
+      "firing": "电窯或ガス窯1000-1100℃施釉烧成 + 户外临时砖砌窯500℃炭化烧成",
+      "recognition": "2019年LOEWE Craft Prize最年轻入围者之一",
+      "exhibitions": "2019年香港首次海外个展，日本各地群展与竞赛",
+      "instagram": "@hashimoto_tomonari"
+    }
+  }
+]
