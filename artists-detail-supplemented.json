@@ -5456,16 +5456,10 @@
         "title": "山田洋次の器 Contact",
         "url": "https://yamayo-pottery.com/contact/",
         "type": "作家官网"
-      },
-      {
-        "title": "Wikipedia - 山田洋次",
-        "url": "https://ja.wikipedia.org/wiki/%E5%B1%B1%E7%94%B0%E6%B4%8B%E6%AC%A1",
-        "type": "百科",
-        "accessedAt": "2026-03-08"
       }
     ],
     "patchNotes": [
-      "罗马字检索批次004补充来源"
+      "批次004 Wikipedia 来源已移除（同名异人：电影导演/小提琴家）"
     ]
   },
   {
@@ -5586,16 +5580,10 @@
         "title": "iichi 吉川裕子 プロフィール",
         "url": "https://www.iichi.com/shop/A1720259/profile",
         "type": "作家资料"
-      },
-      {
-        "title": "Wikipedia - 吉川裕子",
-        "url": "https://ja.wikipedia.org/wiki/%E5%90%89%E5%B7%9D%E8%A3%95%E5%AD%90",
-        "type": "百科",
-        "accessedAt": "2026-03-08"
       }
     ],
     "patchNotes": [
-      "罗马字检索批次004补充来源"
+      "批次004 Wikipedia 来源已移除（同名异人：电影导演/小提琴家）"
     ]
   }
 ]
