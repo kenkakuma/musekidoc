@@ -1,7 +1,7 @@
 # 项目状态报告
 
-**更新日期：** 2026-03-07
-**当前版本：** v0.3.0
+**更新日期：** 2026-03-08
+**当前版本：** v0.3.1
 **项目名称：** Japan Pottery Knowledge Base (日本陶艺知识库)
 
 ---
@@ -17,7 +17,7 @@
 | **女性艺术家** | 5 |
 | **数据来源数** | 600+ |
 | **代码提交数** | 30+ |
-| **GitHub 版本** | v0.3.0 |
+| **GitHub 版本** | v0.3.1 |
 
 ---
 
@@ -58,7 +58,36 @@
 
 ---
 
-## 🚀 v0.3.0 更新内容
+## 🚀 v0.3.1 更新内容（2026-03-08）
+
+### Romaji 来源批量补全
+- **9 个批次，覆盖全部 80 位艺术家**
+  - 28/80（35%）成功补全 Wikipedia ja 或官方来源
+  - 52/80（65%）暂无可靠来源，标记为 `attempted`
+  - 计划文件 `artist-romaji-source-search-plan.json` 追踪全部状态
+
+### 数据质量修正
+- **2 处同名异人 Wikipedia 来源已修正**
+  - 山田洋次（陶艺家）← 误链接至电影导演页面 → 已删除
+  - 吉川裕子（陶艺家）← 误链接至小提琴家页面 → 已删除
+- **4 处字段回填**（websiteUrl、instagramHandle）
+
+### 全库英文字段汉化
+- **116 处英文翻译为中文**
+  - studioName / kilnName 62 条
+  - locationArea/City 4 条
+  - exhibitions.title/venue 24 条
+  - awards 12 条
+  - sources.title 12 条
+  - 罗马字人名与品牌名保留
+
+### 新增脚本
+- `enrich-artists-romaji-batch20.js`（主批次脚本）
+- `enrich-artists-romaji-source-first.js`（首轮来源发现）
+
+---
+
+## 🚀 v0.3.0 更新内容（2026-03-07）
 
 ### Instagram 艺术家发现项目
 - **新增 17 位 Instagram 艺术家**
@@ -87,6 +116,16 @@
 ---
 
 ## 📈 数据增长对比
+
+### v0.3.0 → v0.3.1
+
+| 指标 | v0.3.0 | v0.3.1 | 变化 |
+|------|---------|---------|------|
+| 艺术家条目 | 110 | 110 | — |
+| 补全罗马字来源 | 0 | 28 | +28 |
+| 英文字段汉化 | — | 116 处 | 新增 |
+| 修正错误来源 | — | 2 处 | 修正 |
+| 脚本数量 | 9 | 11 | +2 |
 
 ### v0.2.1 → v0.3.0
 
@@ -277,7 +316,7 @@ musekidoc/
 ## 🔗 相关链接
 
 - **GitHub Repository**: https://github.com/kenkakuma/musekidoc
-- **Latest Release**: https://github.com/kenkakuma/musekidoc/releases/tag/v0.3.0
+- **Latest Release**: https://github.com/kenkakuma/musekidoc/releases/tag/v0.3.1
 - **Development Server**: http://localhost:3000
 - **Database**: Supabase PostgreSQL
 
@@ -291,5 +330,5 @@ musekidoc/
 
 ---
 
-**最后更新**: 2026-03-07 22:00 JST
-**下次更新计划**: 完成女性艺术家扩充后
+**最后更新**: 2026-03-08 JST
+**下次更新计划**: 完成女性艺术家扩充 / 继续 romaji 来源补全（52 位 attempted）

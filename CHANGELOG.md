@@ -7,6 +7,43 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ---
 
+## [v0.3.1] - 2026-03-08
+
+### 🔍 Romaji 来源补全 + 数据质量修正
+
+数据质量专项迭代：80 位艺术家罗马字来源批量补全、错误 Wikipedia 来源修正、全库英文字段汉化。
+
+### Added
+- **Romaji 来源批量补全**（batch-001 ～ batch-009）
+  - 覆盖全部 80 位艺术家，每批 20 位
+  - 28 位（35%）成功补全 Wikipedia ja 或官方页来源
+  - 新增 `data/artist-romaji-source-batches/` 目录（9 个批次结果 + README）
+  - 新增 `data/artist-romaji-source-search-plan.json`（80 位搜索计划与状态追踪）
+  - 新增 `data/artist-romaji-source-batches/rerun-focus-list-2026-03-08.json`（补跑汇总）
+- **罗马字批次脚本**
+  - `scripts/enrich-artists-romaji-batch20.js`（主批次脚本，每次处理 20 位）
+  - `scripts/enrich-artists-romaji-source-first.js`（首轮来源发现脚本）
+
+### Fixed
+- **错误 Wikipedia 来源**（同名异人）
+  - `yamada-yoji`：删除指向日本电影导演山田洋次的 Wikipedia 链接
+  - `yoshikawa-yuko`：删除指向古典小提琴家吉川裕子的 Wikipedia 链接
+  - 两者 `patchNotes` 已标注修正原因
+
+### Changed
+- **全库英文字段汉化**（116 处）
+  - `studioName`（62 条）：`Studio → 工作室`、`Kiln → 窑`、`Ceramics/Ceramique → 陶瓷工作室`；特殊窑名直译（楠窑、雪窑、濱田窑、快山窑、茶碗窑、梵窑、井上萬二窑）
+  - `locationArea/City`（4 条）：London → 伦敦，Paris → 巴黎
+  - `exhibitions.title/venue`（24 条）：LOEWE工艺奖展览、伦敦陶艺展、伦敦／东京／洛杉矶等
+  - `awards`（12 条）：V&A/LACMA 全称、Maison & Objet 新锐才华奖等
+  - `sources.title`（12 条）：现代陶磁、藏前画廊等
+  - 罗马字人名、品牌固有名称、陶艺罗马字术语（tebineri、nobori-gama 等）均保留原文
+
+### Data
+- `artists-detail-supplemented.json`：80 位艺术家，28 位补全 Wikipedia 来源，116 处英文翻译，4 处字段回填（websiteUrl、instagramHandle）
+
+---
+
 ## [v0.3.0] - 2026-03-07
 
 ### 🎉 Instagram Artist Discovery Complete
