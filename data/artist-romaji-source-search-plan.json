@@ -1,0 +1,2142 @@
+[
+  {
+    "artistSlug": "kurokawa-toru",
+    "nameJa": "黒川徹",
+    "nameEn": "Kurokawa Toru",
+    "currentWebsiteUrl": null,
+    "currentInstagramHandle": null,
+    "currentSourceCount": 3,
+    "priorityScore": 7,
+    "romajiQueries": [
+      "\"Kurokawa Toru\" pottery official site",
+      "\"Kurokawa Toru\" profile ceramic artist",
+      "\"Kurokawa Toru\" instagram",
+      "\"Kurokawa Toru\" exhibition interview"
+    ],
+    "sourcePriority": [
+      "作家官网/官方 profile",
+      "博物馆/机构页面",
+      "高质量采访或展讯文章",
+      "画廊或电商页面（兜底）"
+    ],
+    "status": "attempted",
+    "lastBatchId": "008",
+    "lastUpdatedAt": "2026-03-08",
+    "lastSelectedSource": null
+  },
+  {
+    "artistSlug": "iwata-tetsuhiro",
+    "nameJa": "岩田哲宏",
+    "nameEn": "Iwata Tetsuhiro",
+    "currentWebsiteUrl": null,
+    "currentInstagramHandle": null,
+    "currentSourceCount": 3,
+    "priorityScore": 7,
+    "romajiQueries": [
+      "\"Iwata Tetsuhiro\" pottery official site",
+      "\"Iwata Tetsuhiro\" profile ceramic artist",
+      "\"Iwata Tetsuhiro\" instagram",
+      "\"Iwata Tetsuhiro\" exhibition interview"
+    ],
+    "sourcePriority": [
+      "作家官网/官方 profile",
+      "博物馆/机构页面",
+      "高质量采访或展讯文章",
+      "画廊或电商页面（兜底）"
+    ],
+    "status": "attempted",
+    "lastBatchId": "008",
+    "lastUpdatedAt": "2026-03-08",
+    "lastSelectedSource": null
+  },
+  {
+    "artistSlug": "atsukawa-fumiko",
+    "nameJa": "厚川文子",
+    "nameEn": "Atsukawa Fumiko",
+    "currentWebsiteUrl": null,
+    "currentInstagramHandle": null,
+    "currentSourceCount": 3,
+    "priorityScore": 7,
+    "romajiQueries": [
+      "\"Atsukawa Fumiko\" pottery official site",
+      "\"Atsukawa Fumiko\" profile ceramic artist",
+      "\"Atsukawa Fumiko\" instagram",
+      "\"Atsukawa Fumiko\" exhibition interview"
+    ],
+    "sourcePriority": [
+      "作家官网/官方 profile",
+      "博物馆/机构页面",
+      "高质量采访或展讯文章",
+      "画廊或电商页面（兜底）"
+    ],
+    "status": "attempted",
+    "lastBatchId": "008",
+    "lastUpdatedAt": "2026-03-08",
+    "lastSelectedSource": null
+  },
+  {
+    "artistSlug": "tazuruhama-morito",
+    "nameJa": "田鶴濱守人",
+    "nameEn": "Tazuruhama Morito",
+    "currentWebsiteUrl": null,
+    "currentInstagramHandle": null,
+    "currentSourceCount": 3,
+    "priorityScore": 7,
+    "romajiQueries": [
+      "\"Tazuruhama Morito\" pottery official site",
+      "\"Tazuruhama Morito\" profile ceramic artist",
+      "\"Tazuruhama Morito\" instagram",
+      "\"Tazuruhama Morito\" exhibition interview"
+    ],
+    "sourcePriority": [
+      "作家官网/官方 profile",
+      "博物馆/机构页面",
+      "高质量采访或展讯文章",
+      "画廊或电商页面（兜底）"
+    ],
+    "status": "attempted",
+    "lastBatchId": "008",
+    "lastUpdatedAt": "2026-03-08",
+    "lastSelectedSource": null
+  },
+  {
+    "artistSlug": "kaketani-yasuki",
+    "nameJa": "掛谷康樹",
+    "nameEn": "Kaketani Yasuki",
+    "currentWebsiteUrl": null,
+    "currentInstagramHandle": null,
+    "currentSourceCount": 3,
+    "priorityScore": 7,
+    "romajiQueries": [
+      "\"Kaketani Yasuki\" pottery official site",
+      "\"Kaketani Yasuki\" profile ceramic artist",
+      "\"Kaketani Yasuki\" instagram",
+      "\"Kaketani Yasuki\" exhibition interview"
+    ],
+    "sourcePriority": [
+      "作家官网/官方 profile",
+      "博物馆/机构页面",
+      "高质量采访或展讯文章",
+      "画廊或电商页面（兜底）"
+    ],
+    "status": "attempted",
+    "lastBatchId": "008",
+    "lastUpdatedAt": "2026-03-08",
+    "lastSelectedSource": null
+  },
+  {
+    "artistSlug": "uchida-koichi",
+    "nameJa": "内田鋼一",
+    "nameEn": "Uchida Koichi",
+    "currentWebsiteUrl": null,
+    "currentInstagramHandle": null,
+    "currentSourceCount": 3,
+    "priorityScore": 7,
+    "romajiQueries": [
+      "\"Uchida Koichi\" pottery official site",
+      "\"Uchida Koichi\" profile ceramic artist",
+      "\"Uchida Koichi\" instagram",
+      "\"Uchida Koichi\" exhibition interview"
+    ],
+    "sourcePriority": [
+      "作家官网/官方 profile",
+      "博物馆/机构页面",
+      "高质量采访或展讯文章",
+      "画廊或电商页面（兜底）"
+    ],
+    "status": "completed",
+    "lastBatchId": "002",
+    "lastUpdatedAt": "2026-03-08",
+    "lastSelectedSource": {
+      "title": "Wikipedia - 内田鋼一",
+      "url": "https://ja.wikipedia.org/wiki/%E5%86%85%E7%94%B0%E9%8B%BC%E4%B8%80",
+      "type": "百科",
+      "accessedAt": "2026-03-08"
+    }
+  },
+  {
+    "artistSlug": "hamada-tomoo",
+    "nameJa": "濱田友緒",
+    "nameEn": "Hamada Tomoo",
+    "currentWebsiteUrl": null,
+    "currentInstagramHandle": null,
+    "currentSourceCount": 3,
+    "priorityScore": 7,
+    "romajiQueries": [
+      "\"Hamada Tomoo\" pottery official site",
+      "\"Hamada Tomoo\" profile ceramic artist",
+      "\"Hamada Tomoo\" instagram",
+      "\"Hamada Tomoo\" exhibition interview"
+    ],
+    "sourcePriority": [
+      "作家官网/官方 profile",
+      "博物馆/机构页面",
+      "高质量采访或展讯文章",
+      "画廊或电商页面（兜底）"
+    ],
+    "status": "completed",
+    "lastBatchId": "002",
+    "lastUpdatedAt": "2026-03-08",
+    "lastSelectedSource": {
+      "title": "Wikipedia - 濱田友緒",
+      "url": "https://ja.wikipedia.org/wiki/%E6%BF%B1%E7%94%B0%E5%8F%8B%E7%B7%92",
+      "type": "百科",
+      "accessedAt": "2026-03-08"
+    }
+  },
+  {
+    "artistSlug": "muraki-yuji",
+    "nameJa": "村木雄児",
+    "nameEn": "Muraki Yuji",
+    "currentWebsiteUrl": null,
+    "currentInstagramHandle": null,
+    "currentSourceCount": 3,
+    "priorityScore": 7,
+    "romajiQueries": [
+      "\"Muraki Yuji\" pottery official site",
+      "\"Muraki Yuji\" profile ceramic artist",
+      "\"Muraki Yuji\" instagram",
+      "\"Muraki Yuji\" exhibition interview"
+    ],
+    "sourcePriority": [
+      "作家官网/官方 profile",
+      "博物馆/机构页面",
+      "高质量采访或展讯文章",
+      "画廊或电商页面（兜底）"
+    ],
+    "status": "completed",
+    "lastBatchId": "002",
+    "lastUpdatedAt": "2026-03-08",
+    "lastSelectedSource": {
+      "title": "Wikipedia - 村木雄児",
+      "url": "https://ja.wikipedia.org/wiki/%E6%9D%91%E6%9C%A8%E9%9B%84%E5%85%90",
+      "type": "百科",
+      "accessedAt": "2026-03-08"
+    }
+  },
+  {
+    "artistSlug": "suzuki-osamu",
+    "nameJa": "鈴木藏",
+    "nameEn": "Suzuki Osamu",
+    "currentWebsiteUrl": null,
+    "currentInstagramHandle": null,
+    "currentSourceCount": 3,
+    "priorityScore": 7,
+    "romajiQueries": [
+      "\"Suzuki Osamu\" pottery official site",
+      "\"Suzuki Osamu\" profile ceramic artist",
+      "\"Suzuki Osamu\" instagram",
+      "\"Suzuki Osamu\" exhibition interview"
+    ],
+    "sourcePriority": [
+      "作家官网/官方 profile",
+      "博物馆/机构页面",
+      "高质量采访或展讯文章",
+      "画廊或电商页面（兜底）"
+    ],
+    "status": "completed",
+    "lastBatchId": "002",
+    "lastUpdatedAt": "2026-03-08",
+    "lastSelectedSource": {
+      "title": "Wikipedia - 鈴木藏",
+      "url": "https://ja.wikipedia.org/wiki/%E9%88%B4%E6%9C%A8%E8%97%8F",
+      "type": "百科",
+      "accessedAt": "2026-03-08"
+    }
+  },
+  {
+    "artistSlug": "fujiwara-yu",
+    "nameJa": "藤原雄",
+    "nameEn": "Fujiwara Yu",
+    "currentWebsiteUrl": null,
+    "currentInstagramHandle": null,
+    "currentSourceCount": 3,
+    "priorityScore": 7,
+    "romajiQueries": [
+      "\"Fujiwara Yu\" pottery official site",
+      "\"Fujiwara Yu\" profile ceramic artist",
+      "\"Fujiwara Yu\" instagram",
+      "\"Fujiwara Yu\" exhibition interview"
+    ],
+    "sourcePriority": [
+      "作家官网/官方 profile",
+      "博物馆/机构页面",
+      "高质量采访或展讯文章",
+      "画廊或电商页面（兜底）"
+    ],
+    "status": "completed",
+    "lastBatchId": "002",
+    "lastUpdatedAt": "2026-03-08",
+    "lastSelectedSource": {
+      "title": "Wikipedia - 藤原雄",
+      "url": "https://ja.wikipedia.org/wiki/%E8%97%A4%E5%8E%9F%E9%9B%84",
+      "type": "百科",
+      "accessedAt": "2026-03-08"
+    }
+  },
+  {
+    "artistSlug": "shimizu-uichi",
+    "nameJa": "清水卯一",
+    "nameEn": "Shimizu Uichi",
+    "currentWebsiteUrl": null,
+    "currentInstagramHandle": null,
+    "currentSourceCount": 3,
+    "priorityScore": 7,
+    "romajiQueries": [
+      "\"Shimizu Uichi\" pottery official site",
+      "\"Shimizu Uichi\" profile ceramic artist",
+      "\"Shimizu Uichi\" instagram",
+      "\"Shimizu Uichi\" exhibition interview"
+    ],
+    "sourcePriority": [
+      "作家官网/官方 profile",
+      "博物馆/机构页面",
+      "高质量采访或展讯文章",
+      "画廊或电商页面（兜底）"
+    ],
+    "status": "completed",
+    "lastBatchId": "002",
+    "lastUpdatedAt": "2026-03-08",
+    "lastSelectedSource": {
+      "title": "Wikipedia - 清水卯一",
+      "url": "https://ja.wikipedia.org/wiki/%E6%B8%85%E6%B0%B4%E5%8D%AF%E4%B8%80",
+      "type": "百科",
+      "accessedAt": "2026-03-08"
+    }
+  },
+  {
+    "artistSlug": "fujimoto-yoshimichi",
+    "nameJa": "藤本能道",
+    "nameEn": "Fujimoto Yoshimichi",
+    "currentWebsiteUrl": null,
+    "currentInstagramHandle": null,
+    "currentSourceCount": 3,
+    "priorityScore": 7,
+    "romajiQueries": [
+      "\"Fujimoto Yoshimichi\" pottery official site",
+      "\"Fujimoto Yoshimichi\" profile ceramic artist",
+      "\"Fujimoto Yoshimichi\" instagram",
+      "\"Fujimoto Yoshimichi\" exhibition interview"
+    ],
+    "sourcePriority": [
+      "作家官网/官方 profile",
+      "博物馆/机构页面",
+      "高质量采访或展讯文章",
+      "画廊或电商页面（兜底）"
+    ],
+    "status": "completed",
+    "lastBatchId": "002",
+    "lastUpdatedAt": "2026-03-08",
+    "lastSelectedSource": {
+      "title": "Wikipedia - 藤本能道",
+      "url": "https://ja.wikipedia.org/wiki/%E8%97%A4%E6%9C%AC%E8%83%BD%E9%81%93",
+      "type": "百科",
+      "accessedAt": "2026-03-08"
+    }
+  },
+  {
+    "artistSlug": "shimaoka-tatsuzo",
+    "nameJa": "島岡達三",
+    "nameEn": "Shimaoka Tatsuzo",
+    "currentWebsiteUrl": null,
+    "currentInstagramHandle": null,
+    "currentSourceCount": 3,
+    "priorityScore": 7,
+    "romajiQueries": [
+      "\"Shimaoka Tatsuzo\" pottery official site",
+      "\"Shimaoka Tatsuzo\" profile ceramic artist",
+      "\"Shimaoka Tatsuzo\" instagram",
+      "\"Shimaoka Tatsuzo\" exhibition interview"
+    ],
+    "sourcePriority": [
+      "作家官网/官方 profile",
+      "博物馆/机构页面",
+      "高质量采访或展讯文章",
+      "画廊或电商页面（兜底）"
+    ],
+    "status": "completed",
+    "lastBatchId": "002",
+    "lastUpdatedAt": "2026-03-08",
+    "lastSelectedSource": {
+      "title": "Wikipedia - 島岡達三",
+      "url": "https://ja.wikipedia.org/wiki/%E5%B3%B6%E5%B2%A1%E9%81%94%E4%B8%89",
+      "type": "百科",
+      "accessedAt": "2026-03-08"
+    }
+  },
+  {
+    "artistSlug": "tsukamoto-kaiji",
+    "nameJa": "塚本快示",
+    "nameEn": "Tsukamoto Kaiji",
+    "currentWebsiteUrl": null,
+    "currentInstagramHandle": null,
+    "currentSourceCount": 3,
+    "priorityScore": 7,
+    "romajiQueries": [
+      "\"Tsukamoto Kaiji\" pottery official site",
+      "\"Tsukamoto Kaiji\" profile ceramic artist",
+      "\"Tsukamoto Kaiji\" instagram",
+      "\"Tsukamoto Kaiji\" exhibition interview"
+    ],
+    "sourcePriority": [
+      "作家官网/官方 profile",
+      "博物馆/机构页面",
+      "高质量采访或展讯文章",
+      "画廊或电商页面（兜底）"
+    ],
+    "status": "completed",
+    "lastBatchId": "002",
+    "lastUpdatedAt": "2026-03-08",
+    "lastSelectedSource": {
+      "title": "Wikipedia - 塚本快示",
+      "url": "https://ja.wikipedia.org/wiki/%E5%A1%9A%E6%9C%AC%E5%BF%AB%E7%A4%BA",
+      "type": "百科",
+      "accessedAt": "2026-03-08"
+    }
+  },
+  {
+    "artistSlug": "miwa-jusetsu",
+    "nameJa": "三輪壽雪",
+    "nameEn": "Miwa Jusetsu",
+    "currentWebsiteUrl": null,
+    "currentInstagramHandle": null,
+    "currentSourceCount": 3,
+    "priorityScore": 7,
+    "romajiQueries": [
+      "\"Miwa Jusetsu\" pottery official site",
+      "\"Miwa Jusetsu\" profile ceramic artist",
+      "\"Miwa Jusetsu\" instagram",
+      "\"Miwa Jusetsu\" exhibition interview"
+    ],
+    "sourcePriority": [
+      "作家官网/官方 profile",
+      "博物馆/机构页面",
+      "高质量采访或展讯文章",
+      "画廊或电商页面（兜底）"
+    ],
+    "status": "completed",
+    "lastBatchId": "002",
+    "lastUpdatedAt": "2026-03-08",
+    "lastSelectedSource": {
+      "title": "Wikipedia - 三輪壽雪",
+      "url": "https://ja.wikipedia.org/wiki/%E4%B8%89%E8%BC%AA%E5%A3%BD%E9%9B%AA",
+      "type": "百科",
+      "accessedAt": "2026-03-08"
+    }
+  },
+  {
+    "artistSlug": "yamamoto-toshu",
+    "nameJa": "山本陶秀",
+    "nameEn": "Yamamoto Toshu",
+    "currentWebsiteUrl": null,
+    "currentInstagramHandle": null,
+    "currentSourceCount": 3,
+    "priorityScore": 7,
+    "romajiQueries": [
+      "\"Yamamoto Toshu\" pottery official site",
+      "\"Yamamoto Toshu\" profile ceramic artist",
+      "\"Yamamoto Toshu\" instagram",
+      "\"Yamamoto Toshu\" exhibition interview"
+    ],
+    "sourcePriority": [
+      "作家官网/官方 profile",
+      "博物馆/机构页面",
+      "高质量采访或展讯文章",
+      "画廊或电商页面（兜底）"
+    ],
+    "status": "completed",
+    "lastBatchId": "002",
+    "lastUpdatedAt": "2026-03-08",
+    "lastSelectedSource": {
+      "title": "Wikipedia - 山本陶秀",
+      "url": "https://ja.wikipedia.org/wiki/%E5%B1%B1%E6%9C%AC%E9%99%B6%E7%A7%80",
+      "type": "百科",
+      "accessedAt": "2026-03-08"
+    }
+  },
+  {
+    "artistSlug": "fujiwara-kei",
+    "nameJa": "藤原啓",
+    "nameEn": "Fujiwara Kei",
+    "currentWebsiteUrl": null,
+    "currentInstagramHandle": null,
+    "currentSourceCount": 3,
+    "priorityScore": 7,
+    "romajiQueries": [
+      "\"Fujiwara Kei\" pottery official site",
+      "\"Fujiwara Kei\" profile ceramic artist",
+      "\"Fujiwara Kei\" instagram",
+      "\"Fujiwara Kei\" exhibition interview"
+    ],
+    "sourcePriority": [
+      "作家官网/官方 profile",
+      "博物馆/机构页面",
+      "高质量采访或展讯文章",
+      "画廊或电商页面（兜底）"
+    ],
+    "status": "completed",
+    "lastBatchId": "002",
+    "lastUpdatedAt": "2026-03-08",
+    "lastSelectedSource": {
+      "title": "Wikipedia - 藤原啓",
+      "url": "https://ja.wikipedia.org/wiki/%E8%97%A4%E5%8E%9F%E5%95%93",
+      "type": "百科",
+      "accessedAt": "2026-03-08"
+    }
+  },
+  {
+    "artistSlug": "kaneshige-toyo",
+    "nameJa": "金重陶陽",
+    "nameEn": "Kaneshige Toyo",
+    "currentWebsiteUrl": null,
+    "currentInstagramHandle": null,
+    "currentSourceCount": 3,
+    "priorityScore": 7,
+    "romajiQueries": [
+      "\"Kaneshige Toyo\" pottery official site",
+      "\"Kaneshige Toyo\" profile ceramic artist",
+      "\"Kaneshige Toyo\" instagram",
+      "\"Kaneshige Toyo\" exhibition interview"
+    ],
+    "sourcePriority": [
+      "作家官网/官方 profile",
+      "博物馆/机构页面",
+      "高质量采访或展讯文章",
+      "画廊或电商页面（兜底）"
+    ],
+    "status": "completed",
+    "lastBatchId": "002",
+    "lastUpdatedAt": "2026-03-08",
+    "lastSelectedSource": {
+      "title": "Wikipedia - 金重陶陽",
+      "url": "https://ja.wikipedia.org/wiki/%E9%87%91%E9%87%8D%E9%99%B6%E9%99%BD",
+      "type": "百科",
+      "accessedAt": "2026-03-08"
+    }
+  },
+  {
+    "artistSlug": "nakazato-muan",
+    "nameJa": "中里無庵（十二代中里太郎右衛門）",
+    "nameEn": "Nakazato Muan",
+    "currentWebsiteUrl": null,
+    "currentInstagramHandle": null,
+    "currentSourceCount": 3,
+    "priorityScore": 7,
+    "romajiQueries": [
+      "\"Nakazato Muan\" pottery official site",
+      "\"Nakazato Muan\" profile ceramic artist",
+      "\"Nakazato Muan\" instagram",
+      "\"Nakazato Muan\" exhibition interview"
+    ],
+    "sourcePriority": [
+      "作家官网/官方 profile",
+      "博物馆/机构页面",
+      "高质量采访或展讯文章",
+      "画廊或电商页面（兜底）"
+    ],
+    "status": "completed",
+    "lastBatchId": "002",
+    "lastUpdatedAt": "2026-03-08",
+    "lastSelectedSource": {
+      "title": "Wikipedia - 中里無庵",
+      "url": "https://ja.wikipedia.org/wiki/%E4%B8%AD%E9%87%8C%E7%84%A1%E5%BA%B5",
+      "type": "百科",
+      "accessedAt": "2026-03-08"
+    }
+  },
+  {
+    "artistSlug": "arakawa-toyozo",
+    "nameJa": "荒川豊藏",
+    "nameEn": "Arakawa Toyozo",
+    "currentWebsiteUrl": null,
+    "currentInstagramHandle": null,
+    "currentSourceCount": 3,
+    "priorityScore": 7,
+    "romajiQueries": [
+      "\"Arakawa Toyozo\" pottery official site",
+      "\"Arakawa Toyozo\" profile ceramic artist",
+      "\"Arakawa Toyozo\" instagram",
+      "\"Arakawa Toyozo\" exhibition interview"
+    ],
+    "sourcePriority": [
+      "作家官网/官方 profile",
+      "博物馆/机构页面",
+      "高质量采访或展讯文章",
+      "画廊或电商页面（兜底）"
+    ],
+    "status": "attempted",
+    "lastBatchId": "008",
+    "lastUpdatedAt": "2026-03-08",
+    "lastSelectedSource": null
+  },
+  {
+    "artistSlug": "hamada-shoji",
+    "nameJa": "濱田庄司",
+    "nameEn": "Hamada Shoji",
+    "currentWebsiteUrl": null,
+    "currentInstagramHandle": null,
+    "currentSourceCount": 4,
+    "priorityScore": 7,
+    "romajiQueries": [
+      "\"Hamada Shoji\" pottery official site",
+      "\"Hamada Shoji\" profile ceramic artist",
+      "\"Hamada Shoji\" instagram",
+      "\"Hamada Shoji\" exhibition interview"
+    ],
+    "sourcePriority": [
+      "作家官网/官方 profile",
+      "博物馆/机构页面",
+      "高质量采访或展讯文章",
+      "画廊或电商页面（兜底）"
+    ],
+    "status": "completed",
+    "lastBatchId": "003",
+    "lastUpdatedAt": "2026-03-08",
+    "lastSelectedSource": {
+      "title": "Wikipedia - 濱田庄司",
+      "url": "https://ja.wikipedia.org/wiki/%E6%BF%B1%E7%94%B0%E5%BA%84%E5%8F%B8",
+      "type": "百科",
+      "accessedAt": "2026-03-08"
+    }
+  },
+  {
+    "artistSlug": "ishiguro-munemaro",
+    "nameJa": "石黒宗麿",
+    "nameEn": "Ishiguro Munemaro",
+    "currentWebsiteUrl": null,
+    "currentInstagramHandle": null,
+    "currentSourceCount": 4,
+    "priorityScore": 7,
+    "romajiQueries": [
+      "\"Ishiguro Munemaro\" pottery official site",
+      "\"Ishiguro Munemaro\" profile ceramic artist",
+      "\"Ishiguro Munemaro\" instagram",
+      "\"Ishiguro Munemaro\" exhibition interview"
+    ],
+    "sourcePriority": [
+      "作家官网/官方 profile",
+      "博物馆/机构页面",
+      "高质量采访或展讯文章",
+      "画廊或电商页面（兜底）"
+    ],
+    "status": "completed",
+    "lastBatchId": "003",
+    "lastUpdatedAt": "2026-03-08",
+    "lastSelectedSource": {
+      "title": "Wikipedia - 石黒宗麿",
+      "url": "https://ja.wikipedia.org/wiki/%E7%9F%B3%E9%BB%92%E5%AE%97%E9%BA%BF",
+      "type": "百科",
+      "accessedAt": "2026-03-08"
+    }
+  },
+  {
+    "artistSlug": "tomimoto-kenkichi",
+    "nameJa": "富本憲吉",
+    "nameEn": "Tomimoto Kenkichi",
+    "currentWebsiteUrl": null,
+    "currentInstagramHandle": null,
+    "currentSourceCount": 4,
+    "priorityScore": 7,
+    "romajiQueries": [
+      "\"Tomimoto Kenkichi\" pottery official site",
+      "\"Tomimoto Kenkichi\" profile ceramic artist",
+      "\"Tomimoto Kenkichi\" instagram",
+      "\"Tomimoto Kenkichi\" exhibition interview"
+    ],
+    "sourcePriority": [
+      "作家官网/官方 profile",
+      "博物馆/机构页面",
+      "高质量采访或展讯文章",
+      "画廊或电商页面（兜底）"
+    ],
+    "status": "completed",
+    "lastBatchId": "003",
+    "lastUpdatedAt": "2026-03-08",
+    "lastSelectedSource": {
+      "title": "Wikipedia - 富本憲吉",
+      "url": "https://ja.wikipedia.org/wiki/%E5%AF%8C%E6%9C%AC%E6%86%B2%E5%90%89",
+      "type": "百科",
+      "accessedAt": "2026-03-08"
+    }
+  },
+  {
+    "artistSlug": "ishihara-yoshimitsu",
+    "nameJa": "石原祥充",
+    "nameEn": "Ishihara Yoshimitsu",
+    "currentWebsiteUrl": null,
+    "currentInstagramHandle": null,
+    "currentSourceCount": 3,
+    "priorityScore": 7,
+    "romajiQueries": [
+      "\"Ishihara Yoshimitsu\" pottery official site",
+      "\"Ishihara Yoshimitsu\" profile ceramic artist",
+      "\"Ishihara Yoshimitsu\" instagram",
+      "\"Ishihara Yoshimitsu\" exhibition interview"
+    ],
+    "sourcePriority": [
+      "作家官网/官方 profile",
+      "博物馆/机构页面",
+      "高质量采访或展讯文章",
+      "画廊或电商页面（兜底）"
+    ],
+    "status": "attempted",
+    "lastBatchId": "008",
+    "lastUpdatedAt": "2026-03-08",
+    "lastSelectedSource": null
+  },
+  {
+    "artistSlug": "ishihara-yukie",
+    "nameJa": "石原ゆきえ",
+    "nameEn": "Ishihara Yukie",
+    "currentWebsiteUrl": null,
+    "currentInstagramHandle": null,
+    "currentSourceCount": 3,
+    "priorityScore": 7,
+    "romajiQueries": [
+      "\"Ishihara Yukie\" pottery official site",
+      "\"Ishihara Yukie\" profile ceramic artist",
+      "\"Ishihara Yukie\" instagram",
+      "\"Ishihara Yukie\" exhibition interview"
+    ],
+    "sourcePriority": [
+      "作家官网/官方 profile",
+      "博物馆/机构页面",
+      "高质量采访或展讯文章",
+      "画廊或电商页面（兜底）"
+    ],
+    "status": "attempted",
+    "lastBatchId": "008",
+    "lastUpdatedAt": "2026-03-08",
+    "lastSelectedSource": null
+  },
+  {
+    "artistSlug": "katase-kazuhiro",
+    "nameJa": "片瀬和宏",
+    "nameEn": "Katase Kazuhiro",
+    "currentWebsiteUrl": null,
+    "currentInstagramHandle": null,
+    "currentSourceCount": 3,
+    "priorityScore": 7,
+    "romajiQueries": [
+      "\"Katase Kazuhiro\" pottery official site",
+      "\"Katase Kazuhiro\" profile ceramic artist",
+      "\"Katase Kazuhiro\" instagram",
+      "\"Katase Kazuhiro\" exhibition interview"
+    ],
+    "sourcePriority": [
+      "作家官网/官方 profile",
+      "博物馆/机构页面",
+      "高质量采访或展讯文章",
+      "画廊或电商页面（兜底）"
+    ],
+    "status": "attempted",
+    "lastBatchId": "009",
+    "lastUpdatedAt": "2026-03-08",
+    "lastSelectedSource": null
+  },
+  {
+    "artistSlug": "kato-etsuko",
+    "nameJa": "加藤惠津子",
+    "nameEn": "Kato Etsuko",
+    "currentWebsiteUrl": null,
+    "currentInstagramHandle": null,
+    "currentSourceCount": 3,
+    "priorityScore": 7,
+    "romajiQueries": [
+      "\"Kato Etsuko\" pottery official site",
+      "\"Kato Etsuko\" profile ceramic artist",
+      "\"Kato Etsuko\" instagram",
+      "\"Kato Etsuko\" exhibition interview"
+    ],
+    "sourcePriority": [
+      "作家官网/官方 profile",
+      "博物馆/机构页面",
+      "高质量采访或展讯文章",
+      "画廊或电商页面（兜底）"
+    ],
+    "status": "attempted",
+    "lastBatchId": "009",
+    "lastUpdatedAt": "2026-03-08",
+    "lastSelectedSource": null
+  },
+  {
+    "artistSlug": "kawahara-sachiko",
+    "nameJa": "川原幸子",
+    "nameEn": "Kawahara Sachiko",
+    "currentWebsiteUrl": null,
+    "currentInstagramHandle": null,
+    "currentSourceCount": 3,
+    "priorityScore": 7,
+    "romajiQueries": [
+      "\"Kawahara Sachiko\" pottery official site",
+      "\"Kawahara Sachiko\" profile ceramic artist",
+      "\"Kawahara Sachiko\" instagram",
+      "\"Kawahara Sachiko\" exhibition interview"
+    ],
+    "sourcePriority": [
+      "作家官网/官方 profile",
+      "博物馆/机构页面",
+      "高质量采访或展讯文章",
+      "画廊或电商页面（兜底）"
+    ],
+    "status": "attempted",
+    "lastBatchId": "009",
+    "lastUpdatedAt": "2026-03-08",
+    "lastSelectedSource": null
+  },
+  {
+    "artistSlug": "kumabuchi-misa",
+    "nameJa": "熊淵未紗",
+    "nameEn": "Kumabuchi Misa",
+    "currentWebsiteUrl": null,
+    "currentInstagramHandle": null,
+    "currentSourceCount": 3,
+    "priorityScore": 7,
+    "romajiQueries": [
+      "\"Kumabuchi Misa\" pottery official site",
+      "\"Kumabuchi Misa\" profile ceramic artist",
+      "\"Kumabuchi Misa\" instagram",
+      "\"Kumabuchi Misa\" exhibition interview"
+    ],
+    "sourcePriority": [
+      "作家官网/官方 profile",
+      "博物馆/机构页面",
+      "高质量采访或展讯文章",
+      "画廊或电商页面（兜底）"
+    ],
+    "status": "attempted",
+    "lastBatchId": "009",
+    "lastUpdatedAt": "2026-03-08",
+    "lastSelectedSource": null
+  },
+  {
+    "artistSlug": "mizutani-tomomi",
+    "nameJa": "水谷智美",
+    "nameEn": "Mizutani Tomomi",
+    "currentWebsiteUrl": null,
+    "currentInstagramHandle": null,
+    "currentSourceCount": 3,
+    "priorityScore": 7,
+    "romajiQueries": [
+      "\"Mizutani Tomomi\" pottery official site",
+      "\"Mizutani Tomomi\" profile ceramic artist",
+      "\"Mizutani Tomomi\" instagram",
+      "\"Mizutani Tomomi\" exhibition interview"
+    ],
+    "sourcePriority": [
+      "作家官网/官方 profile",
+      "博物馆/机构页面",
+      "高质量采访或展讯文章",
+      "画廊或电商页面（兜底）"
+    ],
+    "status": "attempted",
+    "lastBatchId": "009",
+    "lastUpdatedAt": "2026-03-08",
+    "lastSelectedSource": null
+  },
+  {
+    "artistSlug": "takataya-masahiro",
+    "nameJa": "高田谷将宏",
+    "nameEn": "Takataya Masahiro",
+    "currentWebsiteUrl": null,
+    "currentInstagramHandle": null,
+    "currentSourceCount": 3,
+    "priorityScore": 7,
+    "romajiQueries": [
+      "\"Takataya Masahiro\" pottery official site",
+      "\"Takataya Masahiro\" profile ceramic artist",
+      "\"Takataya Masahiro\" instagram",
+      "\"Takataya Masahiro\" exhibition interview"
+    ],
+    "sourcePriority": [
+      "作家官网/官方 profile",
+      "博物馆/机构页面",
+      "高质量采访或展讯文章",
+      "画廊或电商页面（兜底）"
+    ],
+    "status": "attempted",
+    "lastBatchId": "009",
+    "lastUpdatedAt": "2026-03-08",
+    "lastSelectedSource": null
+  },
+  {
+    "artistSlug": "yamawaki-masato",
+    "nameJa": "山脇将人",
+    "nameEn": "Yamawaki Masato",
+    "currentWebsiteUrl": null,
+    "currentInstagramHandle": null,
+    "currentSourceCount": 3,
+    "priorityScore": 7,
+    "romajiQueries": [
+      "\"Yamawaki Masato\" pottery official site",
+      "\"Yamawaki Masato\" profile ceramic artist",
+      "\"Yamawaki Masato\" instagram",
+      "\"Yamawaki Masato\" exhibition interview"
+    ],
+    "sourcePriority": [
+      "作家官网/官方 profile",
+      "博物馆/机构页面",
+      "高质量采访或展讯文章",
+      "画廊或电商页面（兜底）"
+    ],
+    "status": "attempted",
+    "lastBatchId": "009",
+    "lastUpdatedAt": "2026-03-08",
+    "lastSelectedSource": null
+  },
+  {
+    "artistSlug": "kogane-akari",
+    "nameJa": "故金あかり",
+    "nameEn": "Kogane Akari",
+    "currentWebsiteUrl": null,
+    "currentInstagramHandle": "karugane_akari",
+    "currentSourceCount": 3,
+    "priorityScore": 5,
+    "romajiQueries": [
+      "\"Kogane Akari\" pottery official site",
+      "\"Kogane Akari\" profile ceramic artist",
+      "\"Kogane Akari\" instagram",
+      "\"Kogane Akari\" exhibition interview"
+    ],
+    "sourcePriority": [
+      "作家官网/官方 profile",
+      "博物馆/机构页面",
+      "高质量采访或展讯文章",
+      "画廊或电商页面（兜底）"
+    ],
+    "status": "attempted",
+    "lastBatchId": "009",
+    "lastUpdatedAt": "2026-03-08",
+    "lastSelectedSource": null
+  },
+  {
+    "artistSlug": "kurihara-kaori",
+    "nameJa": "栗原香織",
+    "nameEn": "Kurihara Kaori",
+    "currentWebsiteUrl": null,
+    "currentInstagramHandle": "kaorikurihara.ceramique",
+    "currentSourceCount": 3,
+    "priorityScore": 5,
+    "romajiQueries": [
+      "\"Kurihara Kaori\" pottery official site",
+      "\"Kurihara Kaori\" profile ceramic artist",
+      "\"Kurihara Kaori\" instagram",
+      "\"Kurihara Kaori\" exhibition interview"
+    ],
+    "sourcePriority": [
+      "作家官网/官方 profile",
+      "博物馆/机构页面",
+      "高质量采访或展讯文章",
+      "画廊或电商页面（兜底）"
+    ],
+    "status": "attempted",
+    "lastBatchId": "009",
+    "lastUpdatedAt": "2026-03-08",
+    "lastSelectedSource": null
+  },
+  {
+    "artistSlug": "umano-shingo",
+    "nameJa": "馬野真吾",
+    "nameEn": "Umano Shingo",
+    "currentWebsiteUrl": null,
+    "currentInstagramHandle": "shingo.umano",
+    "currentSourceCount": 3,
+    "priorityScore": 5,
+    "romajiQueries": [
+      "\"Umano Shingo\" pottery official site",
+      "\"Umano Shingo\" profile ceramic artist",
+      "\"Umano Shingo\" instagram",
+      "\"Umano Shingo\" exhibition interview"
+    ],
+    "sourcePriority": [
+      "作家官网/官方 profile",
+      "博物馆/机构页面",
+      "高质量采访或展讯文章",
+      "画廊或电商页面（兜底）"
+    ],
+    "status": "attempted",
+    "lastBatchId": "009",
+    "lastUpdatedAt": "2026-03-08",
+    "lastSelectedSource": null
+  },
+  {
+    "artistSlug": "shimomura-atsushi",
+    "nameJa": "下村淳",
+    "nameEn": "Shimomura Atsushi",
+    "currentWebsiteUrl": null,
+    "currentInstagramHandle": "atsushi_shimomura",
+    "currentSourceCount": 3,
+    "priorityScore": 5,
+    "romajiQueries": [
+      "\"Shimomura Atsushi\" pottery official site",
+      "\"Shimomura Atsushi\" profile ceramic artist",
+      "\"Shimomura Atsushi\" instagram",
+      "\"Shimomura Atsushi\" exhibition interview"
+    ],
+    "sourcePriority": [
+      "作家官网/官方 profile",
+      "博物馆/机构页面",
+      "高质量采访或展讯文章",
+      "画廊或电商页面（兜底）"
+    ],
+    "status": "attempted",
+    "lastBatchId": "009",
+    "lastUpdatedAt": "2026-03-08",
+    "lastSelectedSource": null
+  },
+  {
+    "artistSlug": "yamada-ryutaro",
+    "nameJa": "山田隆太郎",
+    "nameEn": "Yamada Ryutaro",
+    "currentWebsiteUrl": null,
+    "currentInstagramHandle": "ryutaro4126",
+    "currentSourceCount": 3,
+    "priorityScore": 5,
+    "romajiQueries": [
+      "\"Yamada Ryutaro\" pottery official site",
+      "\"Yamada Ryutaro\" profile ceramic artist",
+      "\"Yamada Ryutaro\" instagram",
+      "\"Yamada Ryutaro\" exhibition interview"
+    ],
+    "sourcePriority": [
+      "作家官网/官方 profile",
+      "博物馆/机构页面",
+      "高质量采访或展讯文章",
+      "画廊或电商页面（兜底）"
+    ],
+    "status": "attempted",
+    "lastBatchId": "009",
+    "lastUpdatedAt": "2026-03-08",
+    "lastSelectedSource": null
+  },
+  {
+    "artistSlug": "suzuki-keiko",
+    "nameJa": "鈴木敬子",
+    "nameEn": "Suzuki Keiko",
+    "currentWebsiteUrl": null,
+    "currentInstagramHandle": "keik0suzuki",
+    "currentSourceCount": 4,
+    "priorityScore": 5,
+    "romajiQueries": [
+      "\"Suzuki Keiko\" pottery official site",
+      "\"Suzuki Keiko\" profile ceramic artist",
+      "\"Suzuki Keiko\" instagram",
+      "\"Suzuki Keiko\" exhibition interview"
+    ],
+    "sourcePriority": [
+      "作家官网/官方 profile",
+      "博物馆/机构页面",
+      "高质量采访或展讯文章",
+      "画廊或电商页面（兜底）"
+    ],
+    "status": "completed",
+    "lastBatchId": "003",
+    "lastUpdatedAt": "2026-03-08",
+    "lastSelectedSource": {
+      "title": "Wikipedia - 鈴木敬子",
+      "url": "https://ja.wikipedia.org/wiki/%E9%88%B4%E6%9C%A8%E6%95%AC%E5%AD%90",
+      "type": "百科",
+      "accessedAt": "2026-03-08"
+    }
+  },
+  {
+    "artistSlug": "nikaido-akihiro",
+    "nameJa": "二階堂明弘",
+    "nameEn": "Nikaido Akihiro",
+    "currentWebsiteUrl": null,
+    "currentInstagramHandle": "akihiro_nikaido",
+    "currentSourceCount": 3,
+    "priorityScore": 5,
+    "romajiQueries": [
+      "\"Nikaido Akihiro\" pottery official site",
+      "\"Nikaido Akihiro\" profile ceramic artist",
+      "\"Nikaido Akihiro\" instagram",
+      "\"Nikaido Akihiro\" exhibition interview"
+    ],
+    "sourcePriority": [
+      "作家官网/官方 profile",
+      "博物馆/机构页面",
+      "高质量采访或展讯文章",
+      "画廊或电商页面（兜底）"
+    ],
+    "status": "attempted",
+    "lastBatchId": "009",
+    "lastUpdatedAt": "2026-03-08",
+    "lastSelectedSource": null
+  },
+  {
+    "artistSlug": "hoshino-tomoyuki",
+    "nameJa": "星野友幸",
+    "nameEn": "Hoshino Tomoyuki",
+    "currentWebsiteUrl": null,
+    "currentInstagramHandle": "?",
+    "currentSourceCount": 3,
+    "priorityScore": 5,
+    "romajiQueries": [
+      "\"Hoshino Tomoyuki\" pottery official site",
+      "\"Hoshino Tomoyuki\" profile ceramic artist",
+      "\"Hoshino Tomoyuki\" instagram",
+      "\"Hoshino Tomoyuki\" exhibition interview"
+    ],
+    "sourcePriority": [
+      "作家官网/官方 profile",
+      "博物馆/机构页面",
+      "高质量采访或展讯文章",
+      "画廊或电商页面（兜底）"
+    ],
+    "status": "attempted",
+    "lastBatchId": "009",
+    "lastUpdatedAt": "2026-03-08",
+    "lastSelectedSource": null
+  },
+  {
+    "artistSlug": "iguchi-daisuke",
+    "nameJa": "井口大輔",
+    "nameEn": "Iguchi Daisuke",
+    "currentWebsiteUrl": null,
+    "currentInstagramHandle": "daisuke_igucci",
+    "currentSourceCount": 3,
+    "priorityScore": 5,
+    "romajiQueries": [
+      "\"Iguchi Daisuke\" pottery official site",
+      "\"Iguchi Daisuke\" profile ceramic artist",
+      "\"Iguchi Daisuke\" instagram",
+      "\"Iguchi Daisuke\" exhibition interview"
+    ],
+    "sourcePriority": [
+      "作家官网/官方 profile",
+      "博物馆/机构页面",
+      "高质量采访或展讯文章",
+      "画廊或电商页面（兜底）"
+    ],
+    "status": "attempted",
+    "lastBatchId": "009",
+    "lastUpdatedAt": "2026-03-08",
+    "lastSelectedSource": null
+  },
+  {
+    "artistSlug": "yoshizawa-hiro",
+    "nameJa": "吉沢寛郎",
+    "nameEn": "Yoshizawa Hiro",
+    "currentWebsiteUrl": null,
+    "currentInstagramHandle": "onthetable_mashiko（可能）",
+    "currentSourceCount": 3,
+    "priorityScore": 5,
+    "romajiQueries": [
+      "\"Yoshizawa Hiro\" pottery official site",
+      "\"Yoshizawa Hiro\" profile ceramic artist",
+      "\"Yoshizawa Hiro\" instagram",
+      "\"Yoshizawa Hiro\" exhibition interview"
+    ],
+    "sourcePriority": [
+      "作家官网/官方 profile",
+      "博物馆/机构页面",
+      "高质量采访或展讯文章",
+      "画廊或电商页面（兜底）"
+    ],
+    "status": "attempted",
+    "lastBatchId": "009",
+    "lastUpdatedAt": "2026-03-08",
+    "lastSelectedSource": null
+  },
+  {
+    "artistSlug": "ishihara-toshihisa",
+    "nameJa": "石原稔久",
+    "nameEn": "Ishihara Toshihisa",
+    "currentWebsiteUrl": null,
+    "currentInstagramHandle": "1480toshihisa",
+    "currentSourceCount": 3,
+    "priorityScore": 5,
+    "romajiQueries": [
+      "\"Ishihara Toshihisa\" pottery official site",
+      "\"Ishihara Toshihisa\" profile ceramic artist",
+      "\"Ishihara Toshihisa\" instagram",
+      "\"Ishihara Toshihisa\" exhibition interview"
+    ],
+    "sourcePriority": [
+      "作家官网/官方 profile",
+      "博物馆/机构页面",
+      "高质量采访或展讯文章",
+      "画廊或电商页面（兜底）"
+    ],
+    "status": "attempted",
+    "lastBatchId": "009",
+    "lastUpdatedAt": "2026-03-08",
+    "lastSelectedSource": null
+  },
+  {
+    "artistSlug": "kameda-fumi",
+    "nameJa": "亀田文",
+    "nameEn": "Kameda Fumi",
+    "currentWebsiteUrl": null,
+    "currentInstagramHandle": "daisukekameta",
+    "currentSourceCount": 3,
+    "priorityScore": 5,
+    "romajiQueries": [
+      "\"Kameda Fumi\" pottery official site",
+      "\"Kameda Fumi\" profile ceramic artist",
+      "\"Kameda Fumi\" instagram",
+      "\"Kameda Fumi\" exhibition interview"
+    ],
+    "sourcePriority": [
+      "作家官网/官方 profile",
+      "博物馆/机构页面",
+      "高质量采访或展讯文章",
+      "画廊或电商页面（兜底）"
+    ],
+    "status": "attempted",
+    "lastBatchId": "009",
+    "lastUpdatedAt": "2026-03-08",
+    "lastSelectedSource": null
+  },
+  {
+    "artistSlug": "ishikawa-wakahiko",
+    "nameJa": "石川若彦",
+    "nameEn": "Ishikawa Wakahiko",
+    "currentWebsiteUrl": null,
+    "currentInstagramHandle": null,
+    "currentSourceCount": 5,
+    "priorityScore": 5,
+    "romajiQueries": [
+      "\"Ishikawa Wakahiko\" pottery official site",
+      "\"Ishikawa Wakahiko\" profile ceramic artist",
+      "\"Ishikawa Wakahiko\" instagram",
+      "\"Ishikawa Wakahiko\" exhibition interview"
+    ],
+    "sourcePriority": [
+      "作家官网/官方 profile",
+      "博物馆/机构页面",
+      "高质量采访或展讯文章",
+      "画廊或电商页面（兜底）"
+    ],
+    "status": "attempted",
+    "lastBatchId": "009",
+    "lastUpdatedAt": "2026-03-08",
+    "lastSelectedSource": null
+  },
+  {
+    "artistSlug": "ogata-atsushi",
+    "nameJa": "尾形アツシ",
+    "nameEn": "Ogata Atsushi",
+    "currentWebsiteUrl": null,
+    "currentInstagramHandle": null,
+    "currentSourceCount": 6,
+    "priorityScore": 5,
+    "romajiQueries": [
+      "\"Ogata Atsushi\" pottery official site",
+      "\"Ogata Atsushi\" profile ceramic artist",
+      "\"Ogata Atsushi\" instagram",
+      "\"Ogata Atsushi\" exhibition interview"
+    ],
+    "sourcePriority": [
+      "作家官网/官方 profile",
+      "博物馆/机构页面",
+      "高质量采访或展讯文章",
+      "画廊或电商页面（兜底）"
+    ],
+    "status": "attempted",
+    "lastBatchId": "009",
+    "lastUpdatedAt": "2026-03-08",
+    "lastSelectedSource": null
+  },
+  {
+    "artistSlug": "kato-hajime",
+    "nameJa": "加藤土師萌",
+    "nameEn": "Kato Hajime",
+    "currentWebsiteUrl": null,
+    "currentInstagramHandle": null,
+    "currentSourceCount": 5,
+    "priorityScore": 5,
+    "romajiQueries": [
+      "\"Kato Hajime\" pottery official site",
+      "\"Kato Hajime\" profile ceramic artist",
+      "\"Kato Hajime\" instagram",
+      "\"Kato Hajime\" exhibition interview"
+    ],
+    "sourcePriority": [
+      "作家官网/官方 profile",
+      "博物馆/机构页面",
+      "高质量采访或展讯文章",
+      "画廊或电商页面（兜底）"
+    ],
+    "status": "completed",
+    "lastBatchId": "004",
+    "lastUpdatedAt": "2026-03-08",
+    "lastSelectedSource": {
+      "title": "Wikipedia - 加藤土師萌",
+      "url": "https://ja.wikipedia.org/wiki/%E5%8A%A0%E8%97%A4%E5%9C%9F%E5%B8%AB%E8%90%8C",
+      "type": "百科",
+      "accessedAt": "2026-03-08"
+    }
+  },
+  {
+    "artistSlug": "endo-takashi",
+    "nameJa": "遠藤岳",
+    "nameEn": "Endo Takashi",
+    "currentWebsiteUrl": null,
+    "currentInstagramHandle": "t_endoh",
+    "currentSourceCount": 3,
+    "priorityScore": 5,
+    "romajiQueries": [
+      "\"Endo Takashi\" pottery official site",
+      "\"Endo Takashi\" profile ceramic artist",
+      "\"Endo Takashi\" instagram",
+      "\"Endo Takashi\" exhibition interview"
+    ],
+    "sourcePriority": [
+      "作家官网/官方 profile",
+      "博物馆/机构页面",
+      "高质量采访或展讯文章",
+      "画廊或电商页面（兜底）"
+    ],
+    "status": "attempted",
+    "lastBatchId": "007",
+    "lastUpdatedAt": "2026-03-08",
+    "lastSelectedSource": null
+  },
+  {
+    "artistSlug": "goshima-honami",
+    "nameJa": "五嶋穂波",
+    "nameEn": "Goshima Honami",
+    "currentWebsiteUrl": null,
+    "currentInstagramHandle": "honameg",
+    "currentSourceCount": 3,
+    "priorityScore": 5,
+    "romajiQueries": [
+      "\"Goshima Honami\" pottery official site",
+      "\"Goshima Honami\" profile ceramic artist",
+      "\"Goshima Honami\" instagram",
+      "\"Goshima Honami\" exhibition interview"
+    ],
+    "sourcePriority": [
+      "作家官网/官方 profile",
+      "博物馆/机构页面",
+      "高质量采访或展讯文章",
+      "画廊或电商页面（兜底）"
+    ],
+    "status": "attempted",
+    "lastBatchId": "007",
+    "lastUpdatedAt": "2026-03-08",
+    "lastSelectedSource": null
+  },
+  {
+    "artistSlug": "iwasaki-ryuji",
+    "nameJa": "岩崎龙二",
+    "nameEn": "Iwasaki Ryuji",
+    "currentWebsiteUrl": null,
+    "currentInstagramHandle": "iwasakiryuji",
+    "currentSourceCount": 3,
+    "priorityScore": 5,
+    "romajiQueries": [
+      "\"Iwasaki Ryuji\" pottery official site",
+      "\"Iwasaki Ryuji\" profile ceramic artist",
+      "\"Iwasaki Ryuji\" instagram",
+      "\"Iwasaki Ryuji\" exhibition interview"
+    ],
+    "sourcePriority": [
+      "作家官网/官方 profile",
+      "博物馆/机构页面",
+      "高质量采访或展讯文章",
+      "画廊或电商页面（兜底）"
+    ],
+    "status": "attempted",
+    "lastBatchId": "007",
+    "lastUpdatedAt": "2026-03-08",
+    "lastSelectedSource": null
+  },
+  {
+    "artistSlug": "narita-shuhei",
+    "nameJa": "成田周平",
+    "nameEn": "Narita Shuhei",
+    "currentWebsiteUrl": null,
+    "currentInstagramHandle": "narita_shuhei",
+    "currentSourceCount": 3,
+    "priorityScore": 5,
+    "romajiQueries": [
+      "\"Narita Shuhei\" pottery official site",
+      "\"Narita Shuhei\" profile ceramic artist",
+      "\"Narita Shuhei\" instagram",
+      "\"Narita Shuhei\" exhibition interview"
+    ],
+    "sourcePriority": [
+      "作家官网/官方 profile",
+      "博物馆/机构页面",
+      "高质量采访或展讯文章",
+      "画廊或电商页面（兜底）"
+    ],
+    "status": "attempted",
+    "lastBatchId": "007",
+    "lastUpdatedAt": "2026-03-08",
+    "lastSelectedSource": null
+  },
+  {
+    "artistSlug": "sato-akari",
+    "nameJa": "佐藤朱理",
+    "nameEn": "Sato Akari",
+    "currentWebsiteUrl": null,
+    "currentInstagramHandle": null,
+    "currentSourceCount": 4,
+    "priorityScore": 5,
+    "romajiQueries": [
+      "\"Sato Akari\" pottery official site",
+      "\"Sato Akari\" profile ceramic artist",
+      "\"Sato Akari\" instagram",
+      "\"Sato Akari\" exhibition interview"
+    ],
+    "sourcePriority": [
+      "作家官网/官方 profile",
+      "博物馆/机构页面",
+      "高质量采访或展讯文章",
+      "画廊或电商页面（兜底）"
+    ],
+    "status": "attempted",
+    "lastBatchId": "007",
+    "lastUpdatedAt": "2026-03-08",
+    "lastSelectedSource": null
+  },
+  {
+    "artistSlug": "takada-kae",
+    "nameJa": "高田かえ",
+    "nameEn": "Takada Kae",
+    "currentWebsiteUrl": null,
+    "currentInstagramHandle": null,
+    "currentSourceCount": 4,
+    "priorityScore": 5,
+    "romajiQueries": [
+      "\"Takada Kae\" pottery official site",
+      "\"Takada Kae\" profile ceramic artist",
+      "\"Takada Kae\" instagram",
+      "\"Takada Kae\" exhibition interview"
+    ],
+    "sourcePriority": [
+      "作家官网/官方 profile",
+      "博物馆/机构页面",
+      "高质量采访或展讯文章",
+      "画廊或电商页面（兜底）"
+    ],
+    "status": "attempted",
+    "lastBatchId": "007",
+    "lastUpdatedAt": "2026-03-08",
+    "lastSelectedSource": null
+  },
+  {
+    "artistSlug": "torii-miki",
+    "nameJa": "鳥居美希",
+    "nameEn": "Torii Miki",
+    "currentWebsiteUrl": null,
+    "currentInstagramHandle": null,
+    "currentSourceCount": 4,
+    "priorityScore": 5,
+    "romajiQueries": [
+      "\"Torii Miki\" pottery official site",
+      "\"Torii Miki\" profile ceramic artist",
+      "\"Torii Miki\" instagram",
+      "\"Torii Miki\" exhibition interview"
+    ],
+    "sourcePriority": [
+      "作家官网/官方 profile",
+      "博物馆/机构页面",
+      "高质量采访或展讯文章",
+      "画廊或电商页面（兜底）"
+    ],
+    "status": "attempted",
+    "lastBatchId": "007",
+    "lastUpdatedAt": "2026-03-08",
+    "lastSelectedSource": null
+  },
+  {
+    "artistSlug": "yamada-yoji",
+    "nameJa": "山田洋次",
+    "nameEn": "Yamada Yoji",
+    "currentWebsiteUrl": null,
+    "currentInstagramHandle": "yamadyoji",
+    "currentSourceCount": 4,
+    "priorityScore": 5,
+    "romajiQueries": [
+      "\"Yamada Yoji\" pottery official site",
+      "\"Yamada Yoji\" profile ceramic artist",
+      "\"Yamada Yoji\" instagram",
+      "\"Yamada Yoji\" exhibition interview"
+    ],
+    "sourcePriority": [
+      "作家官网/官方 profile",
+      "博物馆/机构页面",
+      "高质量采访或展讯文章",
+      "画廊或电商页面（兜底）"
+    ],
+    "status": "completed",
+    "lastBatchId": "004",
+    "lastUpdatedAt": "2026-03-08",
+    "lastSelectedSource": {
+      "title": "Wikipedia - 山田洋次",
+      "url": "https://ja.wikipedia.org/wiki/%E5%B1%B1%E7%94%B0%E6%B4%8B%E6%AC%A1",
+      "type": "百科",
+      "accessedAt": "2026-03-08"
+    }
+  },
+  {
+    "artistSlug": "yoshikawa-yuko",
+    "nameJa": "吉川裕子",
+    "nameEn": "Yoshikawa Yuko",
+    "currentWebsiteUrl": null,
+    "currentInstagramHandle": "yucomeva",
+    "currentSourceCount": 4,
+    "priorityScore": 5,
+    "romajiQueries": [
+      "\"Yoshikawa Yuko\" pottery official site",
+      "\"Yoshikawa Yuko\" profile ceramic artist",
+      "\"Yoshikawa Yuko\" instagram",
+      "\"Yoshikawa Yuko\" exhibition interview"
+    ],
+    "sourcePriority": [
+      "作家官网/官方 profile",
+      "博物馆/机构页面",
+      "高质量采访或展讯文章",
+      "画廊或电商页面（兜底）"
+    ],
+    "status": "completed",
+    "lastBatchId": "004",
+    "lastUpdatedAt": "2026-03-08",
+    "lastSelectedSource": {
+      "title": "Wikipedia - 吉川裕子",
+      "url": "https://ja.wikipedia.org/wiki/%E5%90%89%E5%B7%9D%E8%A3%95%E5%AD%90",
+      "type": "百科",
+      "accessedAt": "2026-03-08"
+    }
+  },
+  {
+    "artistSlug": "inoue-manji",
+    "nameJa": "井上萬二",
+    "nameEn": "Inoue Manji",
+    "currentWebsiteUrl": "https://manjiinoue.com",
+    "currentInstagramHandle": null,
+    "currentSourceCount": 4,
+    "priorityScore": 4,
+    "romajiQueries": [
+      "\"Inoue Manji\" pottery official site",
+      "\"Inoue Manji\" profile ceramic artist",
+      "\"Inoue Manji\" instagram",
+      "\"Inoue Manji\" exhibition interview"
+    ],
+    "sourcePriority": [
+      "作家官网/官方 profile",
+      "博物馆/机构页面",
+      "高质量采访或展讯文章",
+      "画廊或电商页面（兜底）"
+    ],
+    "status": "completed",
+    "lastBatchId": "004",
+    "lastUpdatedAt": "2026-03-08",
+    "lastSelectedSource": {
+      "title": "Wikipedia - 井上萬二",
+      "url": "https://ja.wikipedia.org/wiki/%E4%BA%95%E4%B8%8A%E8%90%AC%E4%BA%8C",
+      "type": "百科",
+      "accessedAt": "2026-03-08"
+    }
+  },
+  {
+    "artistSlug": "imaizumi-imaemon-xiii",
+    "nameJa": "十三代今泉今右衛門",
+    "nameEn": "Imaizumi Imaemon XIII",
+    "currentWebsiteUrl": "https://imaemon.co.jp",
+    "currentInstagramHandle": null,
+    "currentSourceCount": 3,
+    "priorityScore": 4,
+    "romajiQueries": [
+      "\"Imaizumi Imaemon XIII\" pottery official site",
+      "\"Imaizumi Imaemon XIII\" profile ceramic artist",
+      "\"Imaizumi Imaemon XIII\" instagram",
+      "\"Imaizumi Imaemon XIII\" exhibition interview"
+    ],
+    "sourcePriority": [
+      "作家官网/官方 profile",
+      "博物馆/机构页面",
+      "高质量采访或展讯文章",
+      "画廊或电商页面（兜底）"
+    ],
+    "status": "attempted",
+    "lastBatchId": "007",
+    "lastUpdatedAt": "2026-03-08",
+    "lastSelectedSource": null
+  },
+  {
+    "artistSlug": "kinjo-jiro",
+    "nameJa": "金城次郎",
+    "nameEn": "Kinjo Jiro",
+    "currentWebsiteUrl": "https://www.kinjojirokan.com/",
+    "currentInstagramHandle": null,
+    "currentSourceCount": 4,
+    "priorityScore": 4,
+    "romajiQueries": [
+      "\"Kinjo Jiro\" pottery official site",
+      "\"Kinjo Jiro\" profile ceramic artist",
+      "\"Kinjo Jiro\" instagram",
+      "\"Kinjo Jiro\" exhibition interview"
+    ],
+    "sourcePriority": [
+      "作家官网/官方 profile",
+      "博物馆/机构页面",
+      "高质量采访或展讯文章",
+      "画廊或电商页面（兜底）"
+    ],
+    "status": "completed",
+    "lastBatchId": "004",
+    "lastUpdatedAt": "2026-03-08",
+    "lastSelectedSource": {
+      "title": "Wikipedia - 金城次郎",
+      "url": "https://ja.wikipedia.org/wiki/%E9%87%91%E5%9F%8E%E6%AC%A1%E9%83%8E",
+      "type": "百科",
+      "accessedAt": "2026-03-08"
+    }
+  },
+  {
+    "artistSlug": "miwa-kyuwa",
+    "nameJa": "三輪休和",
+    "nameEn": "Miwa Kyuwa",
+    "currentWebsiteUrl": "https://www.hagiyaki-miwa.com/",
+    "currentInstagramHandle": null,
+    "currentSourceCount": 4,
+    "priorityScore": 4,
+    "romajiQueries": [
+      "\"Miwa Kyuwa\" pottery official site",
+      "\"Miwa Kyuwa\" profile ceramic artist",
+      "\"Miwa Kyuwa\" instagram",
+      "\"Miwa Kyuwa\" exhibition interview"
+    ],
+    "sourcePriority": [
+      "作家官网/官方 profile",
+      "博物馆/机构页面",
+      "高质量采访或展讯文章",
+      "画廊或电商页面（兜底）"
+    ],
+    "status": "completed",
+    "lastBatchId": "004",
+    "lastUpdatedAt": "2026-03-08",
+    "lastSelectedSource": {
+      "title": "Wikipedia - 三輪休和",
+      "url": "https://ja.wikipedia.org/wiki/%E4%B8%89%E8%BC%AA%E4%BC%91%E5%92%8C",
+      "type": "百科",
+      "accessedAt": "2026-03-08"
+    }
+  },
+  {
+    "artistSlug": "iwakiri-shuo",
+    "nameJa": "岩切秀央",
+    "nameEn": "Iwakiri Shuo",
+    "currentWebsiteUrl": null,
+    "currentInstagramHandle": "shuo_iwakiri",
+    "currentSourceCount": 5,
+    "priorityScore": 3,
+    "romajiQueries": [
+      "\"Iwakiri Shuo\" pottery official site",
+      "\"Iwakiri Shuo\" profile ceramic artist",
+      "\"Iwakiri Shuo\" instagram",
+      "\"Iwakiri Shuo\" exhibition interview"
+    ],
+    "sourcePriority": [
+      "作家官网/官方 profile",
+      "博物馆/机构页面",
+      "高质量采访或展讯文章",
+      "画廊或电商页面（兜底）"
+    ],
+    "status": "attempted",
+    "lastBatchId": "007",
+    "lastUpdatedAt": "2026-03-08",
+    "lastSelectedSource": null
+  },
+  {
+    "artistSlug": "shuno-maki",
+    "nameJa": "秀野真希",
+    "nameEn": "Shuno Maki",
+    "currentWebsiteUrl": null,
+    "currentInstagramHandle": "maki_shuno",
+    "currentSourceCount": 4,
+    "priorityScore": 3,
+    "romajiQueries": [
+      "\"Shuno Maki\" pottery official site",
+      "\"Shuno Maki\" profile ceramic artist",
+      "\"Shuno Maki\" instagram",
+      "\"Shuno Maki\" exhibition interview"
+    ],
+    "sourcePriority": [
+      "作家官网/官方 profile",
+      "博物馆/机构页面",
+      "高质量采访或展讯文章",
+      "画廊或电商页面（兜底）"
+    ],
+    "status": "attempted",
+    "lastBatchId": "007",
+    "lastUpdatedAt": "2026-03-08",
+    "lastSelectedSource": null
+  },
+  {
+    "artistSlug": "ueda-yuji",
+    "nameJa": "上田勇二",
+    "nameEn": "Ueda Yuji",
+    "currentWebsiteUrl": null,
+    "currentInstagramHandle": "yuji____ueda",
+    "currentSourceCount": 5,
+    "priorityScore": 3,
+    "romajiQueries": [
+      "\"Ueda Yuji\" pottery official site",
+      "\"Ueda Yuji\" profile ceramic artist",
+      "\"Ueda Yuji\" instagram",
+      "\"Ueda Yuji\" exhibition interview"
+    ],
+    "sourcePriority": [
+      "作家官网/官方 profile",
+      "博物馆/机构页面",
+      "高质量采访或展讯文章",
+      "画廊或电商页面（兜底）"
+    ],
+    "status": "attempted",
+    "lastBatchId": "007",
+    "lastUpdatedAt": "2026-03-08",
+    "lastSelectedSource": null
+  },
+  {
+    "artistSlug": "takeuchi-shingo",
+    "nameJa": "竹内真吾",
+    "nameEn": "Takeuchi Shingo",
+    "currentWebsiteUrl": null,
+    "currentInstagramHandle": "shingo_takeuchi_",
+    "currentSourceCount": 5,
+    "priorityScore": 3,
+    "romajiQueries": [
+      "\"Takeuchi Shingo\" pottery official site",
+      "\"Takeuchi Shingo\" profile ceramic artist",
+      "\"Takeuchi Shingo\" instagram",
+      "\"Takeuchi Shingo\" exhibition interview"
+    ],
+    "sourcePriority": [
+      "作家官网/官方 profile",
+      "博物馆/机构页面",
+      "高质量采访或展讯文章",
+      "画廊或电商页面（兜底）"
+    ],
+    "status": "attempted",
+    "lastBatchId": "007",
+    "lastUpdatedAt": "2026-03-08",
+    "lastSelectedSource": null
+  },
+  {
+    "artistSlug": "inayoshi-yoshimitsu",
+    "nameJa": "稲吉善光",
+    "nameEn": "Inayoshi Yoshimitsu",
+    "currentWebsiteUrl": null,
+    "currentInstagramHandle": "yoshimitsu_inayoshi",
+    "currentSourceCount": 5,
+    "priorityScore": 3,
+    "romajiQueries": [
+      "\"Inayoshi Yoshimitsu\" pottery official site",
+      "\"Inayoshi Yoshimitsu\" profile ceramic artist",
+      "\"Inayoshi Yoshimitsu\" instagram",
+      "\"Inayoshi Yoshimitsu\" exhibition interview"
+    ],
+    "sourcePriority": [
+      "作家官网/官方 profile",
+      "博物馆/机构页面",
+      "高质量采访或展讯文章",
+      "画廊或电商页面（兜底）"
+    ],
+    "status": "attempted",
+    "lastBatchId": "008",
+    "lastUpdatedAt": "2026-03-08",
+    "lastSelectedSource": null
+  },
+  {
+    "artistSlug": "sato-naomichi",
+    "nameJa": "佐藤尚理",
+    "nameEn": "Sato Naomichi",
+    "currentWebsiteUrl": null,
+    "currentInstagramHandle": "bonoho_",
+    "currentSourceCount": 7,
+    "priorityScore": 3,
+    "romajiQueries": [
+      "\"Sato Naomichi\" pottery official site",
+      "\"Sato Naomichi\" profile ceramic artist",
+      "\"Sato Naomichi\" instagram",
+      "\"Sato Naomichi\" exhibition interview"
+    ],
+    "sourcePriority": [
+      "作家官网/官方 profile",
+      "博物馆/机构页面",
+      "高质量采访或展讯文章",
+      "画廊或电商页面（兜底）"
+    ],
+    "status": "attempted",
+    "lastBatchId": "008",
+    "lastUpdatedAt": "2026-03-08",
+    "lastSelectedSource": null
+  },
+  {
+    "artistSlug": "ujiie-kodai",
+    "nameJa": "氏家昂大",
+    "nameEn": "Ujiie Kodai",
+    "currentWebsiteUrl": "https://kodaiujiie.com",
+    "currentInstagramHandle": "koudaiujiie",
+    "currentSourceCount": 3,
+    "priorityScore": 2,
+    "romajiQueries": [
+      "\"Ujiie Kodai\" pottery official site",
+      "\"Ujiie Kodai\" profile ceramic artist",
+      "\"Ujiie Kodai\" instagram",
+      "\"Ujiie Kodai\" exhibition interview"
+    ],
+    "sourcePriority": [
+      "作家官网/官方 profile",
+      "博物馆/机构页面",
+      "高质量采访或展讯文章",
+      "画廊或电商页面（兜底）"
+    ],
+    "status": "attempted",
+    "lastBatchId": "008",
+    "lastUpdatedAt": "2026-03-08",
+    "lastSelectedSource": null
+  },
+  {
+    "artistSlug": "fukumura-ryuta",
+    "nameJa": "福村龍太",
+    "nameEn": "Fukumura Ryuta",
+    "currentWebsiteUrl": "https://ryutagama.com",
+    "currentInstagramHandle": "ryutafukumura",
+    "currentSourceCount": 3,
+    "priorityScore": 2,
+    "romajiQueries": [
+      "\"Fukumura Ryuta\" pottery official site",
+      "\"Fukumura Ryuta\" profile ceramic artist",
+      "\"Fukumura Ryuta\" instagram",
+      "\"Fukumura Ryuta\" exhibition interview"
+    ],
+    "sourcePriority": [
+      "作家官网/官方 profile",
+      "博物馆/机构页面",
+      "高质量采访或展讯文章",
+      "画廊或电商页面（兜底）"
+    ],
+    "status": "attempted",
+    "lastBatchId": "008",
+    "lastUpdatedAt": "2026-03-08",
+    "lastSelectedSource": null
+  },
+  {
+    "artistSlug": "kuwata-takuro",
+    "nameJa": "桑田卓郎",
+    "nameEn": "Kuwata Takuro",
+    "currentWebsiteUrl": "https://takurokuwata.com",
+    "currentInstagramHandle": null,
+    "currentSourceCount": 6,
+    "priorityScore": 2,
+    "romajiQueries": [
+      "\"Kuwata Takuro\" pottery official site",
+      "\"Kuwata Takuro\" profile ceramic artist",
+      "\"Kuwata Takuro\" instagram",
+      "\"Kuwata Takuro\" exhibition interview"
+    ],
+    "sourcePriority": [
+      "作家官网/官方 profile",
+      "博物馆/机构页面",
+      "高质量采访或展讯文章",
+      "画廊或电商页面（兜底）"
+    ],
+    "status": "completed",
+    "lastBatchId": "005",
+    "lastUpdatedAt": "2026-03-08",
+    "lastSelectedSource": {
+      "title": "Wikipedia - 桑田卓郎",
+      "url": "https://ja.wikipedia.org/wiki/%E6%A1%91%E7%94%B0%E5%8D%93%E9%83%8E",
+      "type": "百科",
+      "accessedAt": "2026-03-08"
+    }
+  },
+  {
+    "artistSlug": "watanabe-takayuki",
+    "nameJa": "渡辺隆之",
+    "nameEn": "Watanabe Takayuki",
+    "currentWebsiteUrl": "https://watanabetakayuki.com/",
+    "currentInstagramHandle": "watanabe.takayuki",
+    "currentSourceCount": 4,
+    "priorityScore": 2,
+    "romajiQueries": [
+      "\"Watanabe Takayuki\" pottery official site",
+      "\"Watanabe Takayuki\" profile ceramic artist",
+      "\"Watanabe Takayuki\" instagram",
+      "\"Watanabe Takayuki\" exhibition interview"
+    ],
+    "sourcePriority": [
+      "作家官网/官方 profile",
+      "博物馆/机构页面",
+      "高质量采访或展讯文章",
+      "画廊或电商页面（兜底）"
+    ],
+    "status": "completed",
+    "lastBatchId": "005",
+    "lastUpdatedAt": "2026-03-08",
+    "lastSelectedSource": {
+      "title": "Wikipedia - 渡辺隆之",
+      "url": "https://ja.wikipedia.org/wiki/%E6%B8%A1%E8%BE%BA%E9%9A%86%E4%B9%8B",
+      "type": "百科",
+      "accessedAt": "2026-03-08"
+    }
+  },
+  {
+    "artistSlug": "nukaga-akio",
+    "nameJa": "額賀章夫",
+    "nameEn": "Nukaga Akio",
+    "currentWebsiteUrl": "https://akio-nukaga.com",
+    "currentInstagramHandle": "nceramicstudio",
+    "currentSourceCount": 4,
+    "priorityScore": 2,
+    "romajiQueries": [
+      "\"Nukaga Akio\" pottery official site",
+      "\"Nukaga Akio\" profile ceramic artist",
+      "\"Nukaga Akio\" instagram",
+      "\"Nukaga Akio\" exhibition interview"
+    ],
+    "sourcePriority": [
+      "作家官网/官方 profile",
+      "博物馆/机构页面",
+      "高质量采访或展讯文章",
+      "画廊或电商页面（兜底）"
+    ],
+    "status": "completed",
+    "lastBatchId": "005",
+    "lastUpdatedAt": "2026-03-08",
+    "lastSelectedSource": {
+      "title": "Wikipedia - 額賀章夫",
+      "url": "https://ja.wikipedia.org/wiki/%E9%A1%8D%E8%B3%80%E7%AB%A0%E5%A4%AB",
+      "type": "百科",
+      "accessedAt": "2026-03-08"
+    }
+  },
+  {
+    "artistSlug": "kato-ai",
+    "nameJa": "加藤あゐ",
+    "nameEn": "Kato Ai",
+    "currentWebsiteUrl": "https://ai-kato.com",
+    "currentInstagramHandle": "ai.kato_",
+    "currentSourceCount": 3,
+    "priorityScore": 2,
+    "romajiQueries": [
+      "\"Kato Ai\" pottery official site",
+      "\"Kato Ai\" profile ceramic artist",
+      "\"Kato Ai\" instagram",
+      "\"Kato Ai\" exhibition interview"
+    ],
+    "sourcePriority": [
+      "作家官网/官方 profile",
+      "博物馆/机构页面",
+      "高质量采访或展讯文章",
+      "画廊或电商页面（兜底）"
+    ],
+    "status": "attempted",
+    "lastBatchId": "008",
+    "lastUpdatedAt": "2026-03-08",
+    "lastSelectedSource": null
+  },
+  {
+    "artistSlug": "ogawa-aya",
+    "nameJa": "小川彩",
+    "nameEn": "Ogawa Aya",
+    "currentWebsiteUrl": "https://ayaogawa.net",
+    "currentInstagramHandle": "aya_ogawa_ig",
+    "currentSourceCount": 4,
+    "priorityScore": 2,
+    "romajiQueries": [
+      "\"Ogawa Aya\" pottery official site",
+      "\"Ogawa Aya\" profile ceramic artist",
+      "\"Ogawa Aya\" instagram",
+      "\"Ogawa Aya\" exhibition interview"
+    ],
+    "sourcePriority": [
+      "作家官网/官方 profile",
+      "博物馆/机构页面",
+      "高质量采访或展讯文章",
+      "画廊或电商页面（兜底）"
+    ],
+    "status": "completed",
+    "lastBatchId": "005",
+    "lastUpdatedAt": "2026-03-08",
+    "lastSelectedSource": {
+      "title": "Wikipedia - 小川彩",
+      "url": "https://ja.wikipedia.org/wiki/%E5%B0%8F%E5%B7%9D%E5%BD%A9",
+      "type": "百科",
+      "accessedAt": "2026-03-08"
+    }
+  },
+  {
+    "artistSlug": "uchida-kaori",
+    "nameJa": "内田可織",
+    "nameEn": "Uchida Kaori",
+    "currentWebsiteUrl": "https://uchidakaori.com",
+    "currentInstagramHandle": null,
+    "currentSourceCount": 4,
+    "priorityScore": 2,
+    "romajiQueries": [
+      "\"Uchida Kaori\" pottery official site",
+      "\"Uchida Kaori\" profile ceramic artist",
+      "\"Uchida Kaori\" instagram",
+      "\"Uchida Kaori\" exhibition interview"
+    ],
+    "sourcePriority": [
+      "作家官网/官方 profile",
+      "博物馆/机构页面",
+      "高质量采访或展讯文章",
+      "画廊或电商页面（兜底）"
+    ],
+    "status": "attempted",
+    "lastBatchId": "008",
+    "lastUpdatedAt": "2026-03-08",
+    "lastSelectedSource": null
+  },
+  {
+    "artistSlug": "hashimoto-tomonari",
+    "nameJa": "橋本知成",
+    "nameEn": "Hashimoto Tomonari",
+    "currentWebsiteUrl": "https://tomonarihashimoto.com/profile/",
+    "currentInstagramHandle": "hashimoto_tomonari",
+    "currentSourceCount": 4,
+    "priorityScore": 0,
+    "romajiQueries": [
+      "\"Hashimoto Tomonari\" pottery official site",
+      "\"Hashimoto Tomonari\" profile ceramic artist",
+      "\"Hashimoto Tomonari\" instagram",
+      "\"Hashimoto Tomonari\" exhibition interview"
+    ],
+    "sourcePriority": [
+      "作家官网/官方 profile",
+      "博物馆/机构页面",
+      "高质量采访或展讯文章",
+      "画廊或电商页面（兜底）"
+    ],
+    "status": "attempted",
+    "lastBatchId": "008",
+    "lastUpdatedAt": "2026-03-08",
+    "lastSelectedSource": null
+  },
+  {
+    "artistSlug": "sakai-tomoya",
+    "nameJa": "酒井智也",
+    "nameEn": "Sakai Tomoya",
+    "currentWebsiteUrl": "https://tomoyasakai.com",
+    "currentInstagramHandle": "s_tomoya1212",
+    "currentSourceCount": 4,
+    "priorityScore": 0,
+    "romajiQueries": [
+      "\"Sakai Tomoya\" pottery official site",
+      "\"Sakai Tomoya\" profile ceramic artist",
+      "\"Sakai Tomoya\" instagram",
+      "\"Sakai Tomoya\" exhibition interview"
+    ],
+    "sourcePriority": [
+      "作家官网/官方 profile",
+      "博物馆/机构页面",
+      "高质量采访或展讯文章",
+      "画廊或电商页面（兜底）"
+    ],
+    "status": "attempted",
+    "lastBatchId": "008",
+    "lastUpdatedAt": "2026-03-08",
+    "lastSelectedSource": null
+  },
+  {
+    "artistSlug": "segawa-yuta",
+    "nameJa": "瀬川裕太",
+    "nameEn": "Segawa Yuta",
+    "currentWebsiteUrl": "https://yutasegawa.com / sgwlab.com",
+    "currentInstagramHandle": "yutasegawa_ceramics",
+    "currentSourceCount": 4,
+    "priorityScore": 0,
+    "romajiQueries": [
+      "\"Segawa Yuta\" pottery official site",
+      "\"Segawa Yuta\" profile ceramic artist",
+      "\"Segawa Yuta\" instagram",
+      "\"Segawa Yuta\" exhibition interview"
+    ],
+    "sourcePriority": [
+      "作家官网/官方 profile",
+      "博物馆/机构页面",
+      "高质量采访或展讯文章",
+      "画廊或电商页面（兜底）"
+    ],
+    "status": "attempted",
+    "lastBatchId": "008",
+    "lastUpdatedAt": "2026-03-08",
+    "lastSelectedSource": null
+  },
+  {
+    "artistSlug": "ishida-kazuya",
+    "nameJa": "石田和也",
+    "nameEn": "Ishida Kazuya",
+    "currentWebsiteUrl": "https://kazuyaishida.com",
+    "currentInstagramHandle": "bizen_kazuya",
+    "currentSourceCount": 4,
+    "priorityScore": 0,
+    "romajiQueries": [
+      "\"Ishida Kazuya\" pottery official site",
+      "\"Ishida Kazuya\" profile ceramic artist",
+      "\"Ishida Kazuya\" instagram",
+      "\"Ishida Kazuya\" exhibition interview"
+    ],
+    "sourcePriority": [
+      "作家官网/官方 profile",
+      "博物馆/机构页面",
+      "高质量采访或展讯文章",
+      "画廊或电商页面（兜底）"
+    ],
+    "status": "attempted",
+    "lastBatchId": "008",
+    "lastUpdatedAt": "2026-03-08",
+    "lastSelectedSource": null
+  },
+  {
+    "artistSlug": "hatta-toru",
+    "nameJa": "八田亨",
+    "nameEn": "Hatta Toru",
+    "currentWebsiteUrl": "https://hattatoru.com/",
+    "currentInstagramHandle": "toru_hatta",
+    "currentSourceCount": 7,
+    "priorityScore": 0,
+    "romajiQueries": [
+      "\"Hatta Toru\" pottery official site",
+      "\"Hatta Toru\" profile ceramic artist",
+      "\"Hatta Toru\" instagram",
+      "\"Hatta Toru\" exhibition interview"
+    ],
+    "sourcePriority": [
+      "作家官网/官方 profile",
+      "博物馆/机构页面",
+      "高质量采访或展讯文章",
+      "画廊或电商页面（兜底）"
+    ],
+    "status": "attempted",
+    "lastBatchId": "008",
+    "lastUpdatedAt": "2026-03-08",
+    "lastSelectedSource": null
+  },
+  {
+    "artistSlug": "otani-tetsuya",
+    "nameJa": "大谷哲也",
+    "nameEn": "Otani Tetsuya",
+    "currentWebsiteUrl": "https://ootanis.com",
+    "currentInstagramHandle": "otnps",
+    "currentSourceCount": 4,
+    "priorityScore": 0,
+    "romajiQueries": [
+      "\"Otani Tetsuya\" pottery official site",
+      "\"Otani Tetsuya\" profile ceramic artist",
+      "\"Otani Tetsuya\" instagram",
+      "\"Otani Tetsuya\" exhibition interview"
+    ],
+    "sourcePriority": [
+      "作家官网/官方 profile",
+      "博物馆/机构页面",
+      "高质量采访或展讯文章",
+      "画廊或电商页面（兜底）"
+    ],
+    "status": "attempted",
+    "lastBatchId": "008",
+    "lastUpdatedAt": "2026-03-08",
+    "lastSelectedSource": null
+  }
+]

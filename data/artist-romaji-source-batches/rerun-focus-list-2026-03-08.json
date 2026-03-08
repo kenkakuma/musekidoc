@@ -1,0 +1,2480 @@
+{
+  "generatedAt": "2026-03-08",
+  "summary": {
+    "total": 80,
+    "completed": 28,
+    "attempted": 52,
+    "sparse": 71,
+    "batchesProcessed": [
+      "001",
+      "002",
+      "003",
+      "004",
+      "005",
+      "006",
+      "007",
+      "008",
+      "009"
+    ]
+  },
+  "attempted": [
+    {
+      "artistSlug": "kurokawa-toru",
+      "nameJa": "黒川徹",
+      "nameEn": "Kurokawa Toru",
+      "currentSourceCount": 3,
+      "currentWebsiteUrl": null,
+      "currentInstagramHandle": null,
+      "lastBatchId": "008",
+      "lastUpdatedAt": "2026-03-08",
+      "sources": [
+        {
+          "title": "N'so Kyoto - 艺术家介绍",
+          "url": "https://nsokyoto.art/members/toru-kurokawa/",
+          "type": "专题资料",
+          "accessedAt": "2026-03-06"
+        },
+        {
+          "title": "Garland Magazine 专访",
+          "url": "https://garlandmag.com/toru-kuwakawa/",
+          "type": "专题资料",
+          "accessedAt": "2026-03-06"
+        },
+        {
+          "title": "Art Platform Japan 黒川徹",
+          "url": "https://artplatform.go.jp/ja/collections/W641807",
+          "type": "机构资料",
+          "accessedAt": null
+        }
+      ]
+    },
+    {
+      "artistSlug": "iwata-tetsuhiro",
+      "nameJa": "岩田哲宏",
+      "nameEn": "Iwata Tetsuhiro",
+      "currentSourceCount": 3,
+      "currentWebsiteUrl": null,
+      "currentInstagramHandle": null,
+      "lastBatchId": "008",
+      "lastUpdatedAt": "2026-03-08",
+      "sources": [
+        {
+          "title": "ISOLATION JEWELRY 作家档案",
+          "url": "https://isolation-jewelry.jp/collections/tetsuhiro-iwata-1",
+          "type": "专题资料",
+          "accessedAt": "2026-03-06"
+        },
+        {
+          "title": "BRUTUS 文章",
+          "url": "https://brutus.jp/new_utsuwa_iwata/",
+          "type": "生活方式媒体",
+          "accessedAt": "2026-03-06"
+        },
+        {
+          "title": "BRUTUS 岩田哲宏 エッジプレート",
+          "url": "https://brutus.jp/present_utuwa/",
+          "type": "生活方式媒体",
+          "accessedAt": null
+        }
+      ]
+    },
+    {
+      "artistSlug": "atsukawa-fumiko",
+      "nameJa": "厚川文子",
+      "nameEn": "Atsukawa Fumiko",
+      "currentSourceCount": 3,
+      "currentWebsiteUrl": null,
+      "currentInstagramHandle": null,
+      "lastBatchId": "008",
+      "lastUpdatedAt": "2026-03-08",
+      "sources": [
+        {
+          "title": "京都で遊ぼうART 展讯与简介",
+          "url": "https://www.kyotodeasobo.com/art/exhibitions/atsukawa-fumiko/",
+          "type": "专题资料",
+          "accessedAt": "2026-03-06"
+        },
+        {
+          "title": "うつわ魯庵",
+          "url": "https://utsuwa-ku.com/library/2020-9-works3.html",
+          "type": "专题资料",
+          "accessedAt": "2026-03-06"
+        },
+        {
+          "title": "Pinkoi 日本作家 厚川文子",
+          "url": "https://www.pinkgrey.net/products/%E6%97%A5%E6%9C%AC%E4%BD%9C%E5%AE%B6-%E5%8E%9A%E5%B7%9D%E6%96%87%E5%AD%90-%E8%85%B0%E8%BA%AB%E6%A9%A2%E5%9C%93%E7%BC%BD",
+          "type": "电商",
+          "accessedAt": null
+        }
+      ]
+    },
+    {
+      "artistSlug": "tazuruhama-morito",
+      "nameJa": "田鶴濱守人",
+      "nameEn": "Tazuruhama Morito",
+      "currentSourceCount": 3,
+      "currentWebsiteUrl": null,
+      "currentInstagramHandle": null,
+      "lastBatchId": "008",
+      "lastUpdatedAt": "2026-03-08",
+      "sources": [
+        {
+          "title": "湘南经济新闻",
+          "url": "https://shonan.keizai.biz/headline/2162/",
+          "type": "专题资料",
+          "accessedAt": "2026-03-06"
+        },
+        {
+          "title": "secret2019.thebase.in",
+          "url": "https://secret2019.thebase.in/items/61046542",
+          "type": "专题资料",
+          "accessedAt": "2026-03-06"
+        },
+        {
+          "title": "ギャラリー雅楽",
+          "url": "https://www.gallery-garaku.ecnet.jp/past/2008/index.html",
+          "type": "画廊资料",
+          "accessedAt": "2026-03-06"
+        }
+      ]
+    },
+    {
+      "artistSlug": "kaketani-yasuki",
+      "nameJa": "掛谷康樹",
+      "nameEn": "Kaketani Yasuki",
+      "currentSourceCount": 3,
+      "currentWebsiteUrl": null,
+      "currentInstagramHandle": null,
+      "lastBatchId": "008",
+      "lastUpdatedAt": "2026-03-08",
+      "sources": [
+        {
+          "title": "日々の暮らし 作家简介",
+          "url": "https://www.hibinokurashi.com/jp/pottery/11",
+          "type": "专题资料",
+          "accessedAt": "2026-03-06"
+        },
+        {
+          "title": "日々の暮らし",
+          "url": "https://www.hibinokurashi.com/jp/pottery/11）",
+          "type": "专题资料",
+          "accessedAt": "2026-03-06"
+        },
+        {
+          "title": "chilchinbito-hiroba.jp",
+          "url": "https://www.chilchinbito-hiroba.jp/event/24884/",
+          "type": "生活方式媒体",
+          "accessedAt": "2026-03-06"
+        }
+      ]
+    },
+    {
+      "artistSlug": "arakawa-toyozo",
+      "nameJa": "荒川豊藏",
+      "nameEn": "Arakawa Toyozo",
+      "currentSourceCount": 3,
+      "currentWebsiteUrl": null,
+      "currentInstagramHandle": null,
+      "lastBatchId": "008",
+      "lastUpdatedAt": "2026-03-08",
+      "sources": [
+        {
+          "title": "荒川豊藏资料 - 岐阜县现代陶艺美术馆",
+          "url": "https://www.cpm-gifu.jp/museum/02.exhibition/02_1.exhibition/exhibition/2022/07/post-9.html",
+          "type": "机构资料",
+          "accessedAt": "2026-03-06"
+        },
+        {
+          "title": "荒川豊藏工房资料",
+          "url": "https://www.tajimi-bunka.or.jp/toyozo/",
+          "type": "专题资料",
+          "accessedAt": "2026-03-06"
+        },
+        {
+          "title": "Art Platform Japan 荒川豊藏 志野山之絵徳利",
+          "url": "https://artplatform.go.jp/ja/collections/W811580",
+          "type": "机构资料",
+          "accessedAt": null
+        }
+      ]
+    },
+    {
+      "artistSlug": "ishihara-yoshimitsu",
+      "nameJa": "石原祥充",
+      "nameEn": "Ishihara Yoshimitsu",
+      "currentSourceCount": 3,
+      "currentWebsiteUrl": null,
+      "currentInstagramHandle": null,
+      "lastBatchId": "008",
+      "lastUpdatedAt": "2026-03-08",
+      "sources": [
+        {
+          "title": "gallery soyo 商品说明",
+          "url": "https://gallery-soyo.com/products/%E7%82%AD%E5%8C%96%E9%99%B6%E6%9D%BF",
+          "type": "画廊资料",
+          "accessedAt": "2026-03-06"
+        },
+        {
+          "title": "おこげ職場",
+          "url": "https://ocogeshokuba.com/pages/yoshimitsu-ishihara-vase",
+          "type": "专题资料",
+          "accessedAt": "2026-03-06"
+        },
+        {
+          "title": "Achsone 石原祥充 鉄絵広口湯呑",
+          "url": "https://onlinestore.achsone.jp/view/item/000000008526",
+          "type": "电商",
+          "accessedAt": null
+        }
+      ]
+    },
+    {
+      "artistSlug": "ishihara-yukie",
+      "nameJa": "石原ゆきえ",
+      "nameEn": "Ishihara Yukie",
+      "currentSourceCount": 3,
+      "currentWebsiteUrl": null,
+      "currentInstagramHandle": null,
+      "lastBatchId": "008",
+      "lastUpdatedAt": "2026-03-08",
+      "sources": [
+        {
+          "title": "gallery 一白 作家介绍",
+          "url": "https://www.ippaku.jp/blog/2022/01/22/233201",
+          "type": "画廊资料",
+          "accessedAt": "2026-03-06"
+        },
+        {
+          "title": "Yahoo!ショッピング 石原ゆきえ リムプレート",
+          "url": "https://store.shopping.yahoo.co.jp/bamboo-leaf/is-01.html",
+          "type": "专题资料",
+          "accessedAt": "2026-03-06"
+        },
+        {
+          "title": "savi no niwa 石原ゆきえ",
+          "url": "https://saviniwa.com/",
+          "type": "电商",
+          "accessedAt": null
+        }
+      ]
+    },
+    {
+      "artistSlug": "katase-kazuhiro",
+      "nameJa": "片瀬和宏",
+      "nameEn": "Katase Kazuhiro",
+      "currentSourceCount": 3,
+      "currentWebsiteUrl": null,
+      "currentInstagramHandle": null,
+      "lastBatchId": "009",
+      "lastUpdatedAt": "2026-03-08",
+      "sources": [
+        {
+          "title": "momofuku",
+          "url": "https://www.momofuku.jp/2022/01/31/post-10867/",
+          "type": "专题资料",
+          "accessedAt": "2026-03-06"
+        },
+        {
+          "title": "cooan",
+          "url": "https://cooan-g.com/kazuhiro_katase/",
+          "type": "专题资料",
+          "accessedAt": "2026-03-06"
+        },
+        {
+          "title": "沖縄shop",
+          "url": "https://okinishop.easy.co/collections/%E7%89%87%E7%80%A8%E5%92%8C%E5%AE%8F",
+          "type": "专题资料",
+          "accessedAt": "2026-03-06"
+        }
+      ]
+    },
+    {
+      "artistSlug": "kato-etsuko",
+      "nameJa": "加藤惠津子",
+      "nameEn": "Kato Etsuko",
+      "currentSourceCount": 3,
+      "currentWebsiteUrl": null,
+      "currentInstagramHandle": null,
+      "lastBatchId": "009",
+      "lastUpdatedAt": "2026-03-08",
+      "sources": [
+        {
+          "title": "KIKIKIKRAFT",
+          "url": "https://kikikikraft.com/etsukokato",
+          "type": "专题资料",
+          "accessedAt": "2026-03-06"
+        },
+        {
+          "title": "黄色い鳥器店 加藤恵津子",
+          "url": "https://kiiroi-tori.shop/items/63ec7ba37c42ee62d8f090ff",
+          "type": "专题资料",
+          "accessedAt": "2026-03-06"
+        },
+        {
+          "title": "EDAHA 加藤悦子",
+          "url": "https://edaha.shopinfo.jp/pages/1512312/page_201707071600",
+          "type": "电商/展讯",
+          "accessedAt": null
+        }
+      ]
+    },
+    {
+      "artistSlug": "kawahara-sachiko",
+      "nameJa": "川原幸子",
+      "nameEn": "Kawahara Sachiko",
+      "currentSourceCount": 3,
+      "currentWebsiteUrl": null,
+      "currentInstagramHandle": null,
+      "lastBatchId": "009",
+      "lastUpdatedAt": "2026-03-08",
+      "sources": [
+        {
+          "title": "chilchinbito-hiroba.jp",
+          "url": "https://www.chilchinbito-hiroba.jp/event/25021/",
+          "type": "生活方式媒体",
+          "accessedAt": "2026-03-06"
+        },
+        {
+          "title": "暮らし用品 川原幸子",
+          "url": "https://www.kurashi-yohin.com/creator/kawaharasachiko/013_page.shtml",
+          "type": "专题资料",
+          "accessedAt": "2026-03-06"
+        },
+        {
+          "title": "Cherie amie 川原幸子 个展",
+          "url": "https://chereamie.jp/blog/5385.html",
+          "type": "生活方式媒体",
+          "accessedAt": null
+        }
+      ]
+    },
+    {
+      "artistSlug": "kumabuchi-misa",
+      "nameJa": "熊淵未紗",
+      "nameEn": "Kumabuchi Misa",
+      "currentSourceCount": 3,
+      "currentWebsiteUrl": null,
+      "currentInstagramHandle": null,
+      "lastBatchId": "009",
+      "lastUpdatedAt": "2026-03-08",
+      "sources": [
+        {
+          "title": "mushimegane books 展讯页",
+          "url": "https://mushimeganebooks.com/%E6%9C%AA%E5%88%86%E9%A1%9E/2729",
+          "type": "专题资料",
+          "accessedAt": "2026-03-06"
+        },
+        {
+          "title": "Obscura Magazine 专访",
+          "url": "https://www.obscura-magazine.com/all/stories/craft/mushimegane-books/",
+          "type": "专题资料",
+          "accessedAt": "2026-03-06"
+        },
+        {
+          "title": "COVERCHORD mushimegane books 熊淵未紗",
+          "url": "https://coverchord.com/products/vmu-o3605",
+          "type": "电商",
+          "accessedAt": null
+        }
+      ]
+    },
+    {
+      "artistSlug": "mizutani-tomomi",
+      "nameJa": "水谷智美",
+      "nameEn": "Mizutani Tomomi",
+      "currentSourceCount": 3,
+      "currentWebsiteUrl": null,
+      "currentInstagramHandle": null,
+      "lastBatchId": "009",
+      "lastUpdatedAt": "2026-03-08",
+      "sources": [
+        {
+          "title": "Tokyo Art Beat 展讯",
+          "url": "https://www.tokyoartbeat.com/events/-/2018%2F0433",
+          "type": "专题资料",
+          "accessedAt": "2026-03-06"
+        },
+        {
+          "title": "pota-pota",
+          "url": "https://pota-pota.com/mizutani1.html",
+          "type": "专题资料",
+          "accessedAt": "2026-03-06"
+        },
+        {
+          "title": "KOHORO 水谷智美",
+          "url": "https://kohoro.jp/collections/%E6%B0%B4%E8%B0%B7%E6%99%BA%E7%BE%8E",
+          "type": "电商",
+          "accessedAt": null
+        }
+      ]
+    },
+    {
+      "artistSlug": "takataya-masahiro",
+      "nameJa": "高田谷将宏",
+      "nameEn": "Takataya Masahiro",
+      "currentSourceCount": 3,
+      "currentWebsiteUrl": null,
+      "currentInstagramHandle": null,
+      "lastBatchId": "009",
+      "lastUpdatedAt": "2026-03-08",
+      "sources": [
+        {
+          "title": "LAPIN ART GALLERY 展讯",
+          "url": "https://note.com/daisakamoto/n/n33b0e973dc1e",
+          "type": "专题资料",
+          "accessedAt": "2026-03-06"
+        },
+        {
+          "title": "ろばの家",
+          "url": "https://www.robanoie.com/people/2023/09/masahiro-takataya-solo-exhibitionvol-1/",
+          "type": "专题资料",
+          "accessedAt": "2026-03-06"
+        },
+        {
+          "title": "ろばの家 高田谷将宏 Best盤",
+          "url": "https://www.robanoie.com/people/2023/09/masahiro-takataya-solo-exhibition2023/",
+          "type": "生活方式媒体",
+          "accessedAt": null
+        }
+      ]
+    },
+    {
+      "artistSlug": "yamawaki-masato",
+      "nameJa": "山脇将人",
+      "nameEn": "Yamawaki Masato",
+      "currentSourceCount": 3,
+      "currentWebsiteUrl": null,
+      "currentInstagramHandle": null,
+      "lastBatchId": "009",
+      "lastUpdatedAt": "2026-03-08",
+      "sources": [
+        {
+          "title": "art-onthetable 商品页",
+          "url": "https://www.art-onthetable.com/products/yamawaki25",
+          "type": "专题资料",
+          "accessedAt": "2026-03-06"
+        },
+        {
+          "title": "monoina",
+          "url": "https://www.monoina.com/collections/masato-yamawaki",
+          "type": "电商",
+          "accessedAt": "2026-03-06"
+        },
+        {
+          "title": "Art on The Table Masato Yamawaki Visit",
+          "url": "https://www.art-onthetable.com/blogs/artsit-visit/masato-yamawaki",
+          "type": "生活方式媒体",
+          "accessedAt": null
+        }
+      ]
+    },
+    {
+      "artistSlug": "kogane-akari",
+      "nameJa": "故金あかり",
+      "nameEn": "Kogane Akari",
+      "currentSourceCount": 3,
+      "currentWebsiteUrl": null,
+      "currentInstagramHandle": "karugane_akari",
+      "lastBatchId": "009",
+      "lastUpdatedAt": "2026-03-08",
+      "sources": [
+        {
+          "title": "KOGEI Art Fair Kanazawa 作家信息",
+          "url": "https://kogei-artfair.jp/artists/280/",
+          "type": "展讯媒体",
+          "accessedAt": "2026-03-06"
+        },
+        {
+          "title": "Instagram @karugane_akari",
+          "url": "https://www.instagram.com/karugane_akari/",
+          "type": "社交媒体",
+          "accessedAt": "2026-03-06"
+        },
+        {
+          "title": "Mahteh Ceramic Akari Karugane",
+          "url": "https://www.mahteh-ceramic.com/akarikarugane",
+          "type": "画廊资料",
+          "accessedAt": null
+        }
+      ]
+    },
+    {
+      "artistSlug": "kurihara-kaori",
+      "nameJa": "栗原香織",
+      "nameEn": "Kurihara Kaori",
+      "currentSourceCount": 3,
+      "currentWebsiteUrl": null,
+      "currentInstagramHandle": "kaorikurihara.ceramique",
+      "lastBatchId": "009",
+      "lastUpdatedAt": "2026-03-08",
+      "sources": [
+        {
+          "title": "栗原香織 个人网站",
+          "url": "https://www.kaorikurihara.com/about",
+          "type": "作家官网",
+          "accessedAt": "2026-03-06"
+        },
+        {
+          "title": "Homo Faber 艺术家档案",
+          "url": "https://www.homofaber.com/en/artisans/kaori-kurihara-ceramics-france",
+          "type": "专题资料",
+          "accessedAt": "2026-03-06"
+        },
+        {
+          "title": "Instagram @kaorikurihara.ceramique",
+          "url": "https://www.instagram.com/kaorikurihara.ceramique/",
+          "type": "社交媒体",
+          "accessedAt": "2026-03-06"
+        }
+      ]
+    },
+    {
+      "artistSlug": "umano-shingo",
+      "nameJa": "馬野真吾",
+      "nameEn": "Umano Shingo",
+      "currentSourceCount": 3,
+      "currentWebsiteUrl": null,
+      "currentInstagramHandle": "shingo.umano",
+      "lastBatchId": "009",
+      "lastUpdatedAt": "2026-03-08",
+      "sources": [
+        {
+          "title": "株式会社織部 展讯",
+          "url": "https://oribe-minoyaki.com/events/%E9%A6%AC%E9%87%8E%E7%9C%9F%E5%90%BE%E9%99%B6%E5%B1%95/",
+          "type": "专题资料",
+          "accessedAt": "2026-03-06"
+        },
+        {
+          "title": "Instagram @shingo.umano",
+          "url": "https://www.instagram.com/shingo.umano/",
+          "type": "社交媒体",
+          "accessedAt": "2026-03-06"
+        },
+        {
+          "title": "Monoina 馬野真吾 6.5寸浅鉢",
+          "url": "https://www.monoina.com/products/shingo-umano-umano28c",
+          "type": "电商",
+          "accessedAt": null
+        }
+      ]
+    },
+    {
+      "artistSlug": "shimomura-atsushi",
+      "nameJa": "下村淳",
+      "nameEn": "Shimomura Atsushi",
+      "currentSourceCount": 3,
+      "currentWebsiteUrl": null,
+      "currentInstagramHandle": "atsushi_shimomura",
+      "lastBatchId": "009",
+      "lastUpdatedAt": "2026-03-08",
+      "sources": [
+        {
+          "title": "YUGEN 下村淳介绍",
+          "url": "https://www.yugen-kyoto.com/ja-ar/collections/shimomura-atsushi-tw",
+          "type": "专题资料",
+          "accessedAt": "2026-03-06"
+        },
+        {
+          "title": "下村淳展讯",
+          "url": "https://www.eyl.co.jp/collections/atsushi-shimomura",
+          "type": "专题资料",
+          "accessedAt": "2026-03-06"
+        },
+        {
+          "title": "Instagram @atsushi_shimomura",
+          "url": "https://www.instagram.com/atsushi_shimomura/",
+          "type": "社交媒体",
+          "accessedAt": "2026-03-06"
+        }
+      ]
+    },
+    {
+      "artistSlug": "yamada-ryutaro",
+      "nameJa": "山田隆太郎",
+      "nameEn": "Yamada Ryutaro",
+      "currentSourceCount": 3,
+      "currentWebsiteUrl": null,
+      "currentInstagramHandle": "ryutaro4126",
+      "lastBatchId": "009",
+      "lastUpdatedAt": "2026-03-08",
+      "sources": [
+        {
+          "title": "Wan KOGEI 作家档案",
+          "url": "https://wankogei.com/collections/ryutaroyamada",
+          "type": "专题资料",
+          "accessedAt": "2026-03-06"
+        },
+        {
+          "title": "Instagram @ryutaro4126",
+          "url": "https://www.instagram.com/ryutaro4126/",
+          "type": "社交媒体",
+          "accessedAt": "2026-03-06"
+        },
+        {
+          "title": "ぴあ 山田隆太郎 陶展",
+          "url": "https://lp.p.pia.jp/event/art/146990/index.html",
+          "type": "展讯媒体",
+          "accessedAt": null
+        }
+      ]
+    },
+    {
+      "artistSlug": "nikaido-akihiro",
+      "nameJa": "二階堂明弘",
+      "nameEn": "Nikaido Akihiro",
+      "currentSourceCount": 3,
+      "currentWebsiteUrl": null,
+      "currentInstagramHandle": "akihiro_nikaido",
+      "lastBatchId": "009",
+      "lastUpdatedAt": "2026-03-08",
+      "sources": [
+        {
+          "title": "はなうつわ 作家信息",
+          "url": "https://www.hanautsuwa.jp/staff/nikaidou/",
+          "type": "电商",
+          "accessedAt": "2026-03-06"
+        },
+        {
+          "title": "Instagram @akihiro_nikaido",
+          "url": "https://www.instagram.com/akihiro_nikaido/",
+          "type": "社交媒体",
+          "accessedAt": "2026-03-06"
+        },
+        {
+          "title": "朝日新聞 Business Hub 二階堂明弘",
+          "url": "https://adv.asahi.com/series/interview/12856625",
+          "type": "专题报道",
+          "accessedAt": null
+        }
+      ]
+    },
+    {
+      "artistSlug": "hoshino-tomoyuki",
+      "nameJa": "星野友幸",
+      "nameEn": "Hoshino Tomoyuki",
+      "currentSourceCount": 3,
+      "currentWebsiteUrl": null,
+      "currentInstagramHandle": "?",
+      "lastBatchId": "009",
+      "lastUpdatedAt": "2026-03-08",
+      "sources": [
+        {
+          "title": "Gallery Japan 作家页",
+          "url": "https://www.galleryjapan.com/locale/en_US/artist/1752/",
+          "type": "画廊资料",
+          "accessedAt": "2026-03-06"
+        },
+        {
+          "title": "Instagram @?",
+          "url": "https://www.instagram.com/?/",
+          "type": "社交媒体",
+          "accessedAt": "2026-03-06"
+        },
+        {
+          "title": "山梨県立美術館 星野友幸展",
+          "url": "https://www.art-museum.pref.yamanashi.jp/exhibition/2025/1719.html",
+          "type": "官方资料",
+          "accessedAt": null
+        }
+      ]
+    },
+    {
+      "artistSlug": "iguchi-daisuke",
+      "nameJa": "井口大輔",
+      "nameEn": "Iguchi Daisuke",
+      "currentSourceCount": 3,
+      "currentWebsiteUrl": null,
+      "currentInstagramHandle": "daisuke_igucci",
+      "lastBatchId": "009",
+      "lastUpdatedAt": "2026-03-08",
+      "sources": [
+        {
+          "title": "EHC Art - 艺术家档案",
+          "url": "https://ehc.art/artists/daisuke-iguchi",
+          "type": "专题资料",
+          "accessedAt": "2026-03-06"
+        },
+        {
+          "title": "真冈市文化大使",
+          "url": "https://www.city.moka.lg.jp/kakuka/hishokoho/gyomu/1/ambassador/13878.html",
+          "type": "专题资料",
+          "accessedAt": "2026-03-06"
+        },
+        {
+          "title": "Instagram @daisuke_igucci",
+          "url": "https://www.instagram.com/daisuke_igucci/",
+          "type": "社交媒体",
+          "accessedAt": "2026-03-06"
+        }
+      ]
+    },
+    {
+      "artistSlug": "yoshizawa-hiro",
+      "nameJa": "吉沢寛郎",
+      "nameEn": "Yoshizawa Hiro",
+      "currentSourceCount": 3,
+      "currentWebsiteUrl": null,
+      "currentInstagramHandle": "onthetable_mashiko（可能）",
+      "lastBatchId": "009",
+      "lastUpdatedAt": "2026-03-08",
+      "sources": [
+        {
+          "title": "amane 商品与作家说明",
+          "url": "https://www.amane-shop.net/items/67143756",
+          "type": "专题资料",
+          "accessedAt": "2026-03-06"
+        },
+        {
+          "title": "Instagram @onthetable_mashiko（可能）",
+          "url": "https://www.instagram.com/onthetable_mashiko（可能）/",
+          "type": "社交媒体",
+          "accessedAt": "2026-03-06"
+        },
+        {
+          "title": "三越伊勢丹ふるさと納税 吉沢寛郎",
+          "url": "https://mifurusato.jp/item/ITM09342400304.html",
+          "type": "电商/机构",
+          "accessedAt": null
+        }
+      ]
+    },
+    {
+      "artistSlug": "ishihara-toshihisa",
+      "nameJa": "石原稔久",
+      "nameEn": "Ishihara Toshihisa",
+      "currentSourceCount": 3,
+      "currentWebsiteUrl": null,
+      "currentInstagramHandle": "1480toshihisa",
+      "lastBatchId": "009",
+      "lastUpdatedAt": "2026-03-08",
+      "sources": [
+        {
+          "title": "丹羽茶舗 展讯",
+          "url": "https://niwachaho.jp/news/24049",
+          "type": "专题资料",
+          "accessedAt": "2026-03-06"
+        },
+        {
+          "title": "Instagram @1480toshihisa",
+          "url": "https://www.instagram.com/1480toshihisa/",
+          "type": "社交媒体",
+          "accessedAt": "2026-03-06"
+        },
+        {
+          "title": "チルチンびと広場 石原稔久 個展",
+          "url": "https://www.chilchinbito-hiroba.jp/event/26511/",
+          "type": "生活方式媒体",
+          "accessedAt": null
+        }
+      ]
+    },
+    {
+      "artistSlug": "kameda-fumi",
+      "nameJa": "亀田文",
+      "nameEn": "Kameda Fumi",
+      "currentSourceCount": 3,
+      "currentWebsiteUrl": null,
+      "currentInstagramHandle": "daisukekameta",
+      "lastBatchId": "009",
+      "lastUpdatedAt": "2026-03-08",
+      "sources": [
+        {
+          "title": "煎茶堂东京访谈",
+          "url": "https://shop.senchado.jp/blogs/dougu/20211105_interview_kameda-fumi",
+          "type": "电商",
+          "accessedAt": "2026-03-06"
+        },
+        {
+          "title": "Instagram @daisukekameta",
+          "url": "https://www.instagram.com/daisukekameta/",
+          "type": "社交媒体",
+          "accessedAt": "2026-03-06"
+        },
+        {
+          "title": "KOHORO 亀田文",
+          "url": "https://kohoro.jp/collections/fumikameta",
+          "type": "电商",
+          "accessedAt": null
+        }
+      ]
+    },
+    {
+      "artistSlug": "ishikawa-wakahiko",
+      "nameJa": "石川若彦",
+      "nameEn": "Ishikawa Wakahiko",
+      "currentSourceCount": 5,
+      "currentWebsiteUrl": null,
+      "currentInstagramHandle": null,
+      "lastBatchId": "009",
+      "lastUpdatedAt": "2026-03-08",
+      "sources": [
+        {
+          "title": "もみじ市 作家介绍",
+          "url": "https://momijiichi.com/2019/creators/wakastudio",
+          "type": "专题资料",
+          "accessedAt": "2026-03-06"
+        },
+        {
+          "title": "もみじ市",
+          "url": "https://momijiichi.com/2019/creators/wakastudio）",
+          "type": "专题资料",
+          "accessedAt": "2026-03-06"
+        },
+        {
+          "title": "にわのわ",
+          "url": "https://niwanowa.info/2017/04/02/5476/",
+          "type": "专题资料",
+          "accessedAt": "2026-03-06"
+        },
+        {
+          "title": "Discover Japan",
+          "url": "https://discoverjapan-web.com/article/144300",
+          "type": "专题资料",
+          "accessedAt": "2026-03-06"
+        },
+        {
+          "title": "FB Terrace",
+          "url": "https://fb-terrace.shop/items/637601f34aed197959a8f992",
+          "type": "专题资料",
+          "accessedAt": "2026-03-06"
+        }
+      ]
+    },
+    {
+      "artistSlug": "ogata-atsushi",
+      "nameJa": "尾形アツシ",
+      "nameEn": "Ogata Atsushi",
+      "currentSourceCount": 6,
+      "currentWebsiteUrl": null,
+      "currentInstagramHandle": null,
+      "lastBatchId": "009",
+      "lastUpdatedAt": "2026-03-08",
+      "sources": [
+        {
+          "title": "UTSUWA HIYORI 作家简介",
+          "url": "https://utsuwahiyori.com/collections/atsushi-ogata",
+          "type": "专题资料",
+          "accessedAt": "2026-03-06"
+        },
+        {
+          "title": "utsuwahiyori.com",
+          "url": "https://utsuwahiyori.com/collections/atsushi-ogata）",
+          "type": "专题资料",
+          "accessedAt": "2026-03-06"
+        },
+        {
+          "title": "note",
+          "url": "https://note.com/kdesign1331/n/n9f3100206db5",
+          "type": "专题资料",
+          "accessedAt": "2026-03-06"
+        },
+        {
+          "title": "YUGEN Kyoto",
+          "url": "https://www.yugen-kyoto.com/en-us/collections/ogata-atsushi-tw",
+          "type": "专题资料",
+          "accessedAt": "2026-03-06"
+        },
+        {
+          "title": "hitonoto store",
+          "url": "https://store.hitonoto.com/collections/ogataatsushi",
+          "type": "电商",
+          "accessedAt": "2026-03-06"
+        },
+        {
+          "title": "hitonoto store",
+          "url": "https://store.hitonoto.com/products/atsushi-oogata-work-1",
+          "type": "电商",
+          "accessedAt": "2026-03-06"
+        }
+      ]
+    },
+    {
+      "artistSlug": "endo-takashi",
+      "nameJa": "遠藤岳",
+      "nameEn": "Endo Takashi",
+      "currentSourceCount": 3,
+      "currentWebsiteUrl": null,
+      "currentInstagramHandle": "t_endoh",
+      "lastBatchId": "007",
+      "lastUpdatedAt": "2026-03-08",
+      "sources": [
+        {
+          "title": "Koto Tea - 艺术家介绍",
+          "url": "https://www.kototea.com/takashi-endo/",
+          "type": "专题资料",
+          "accessedAt": "2026-03-06"
+        },
+        {
+          "title": "Pen Online 专访",
+          "url": "https://pen-online.com/design/takashi-endo-elevates-ceramics-to-an-art-form/",
+          "type": "专题资料",
+          "accessedAt": "2026-03-06"
+        },
+        {
+          "title": "Instagram @t_endoh",
+          "url": "https://www.instagram.com/t_endoh/",
+          "type": "社交媒体",
+          "accessedAt": "2026-03-06"
+        }
+      ]
+    },
+    {
+      "artistSlug": "goshima-honami",
+      "nameJa": "五嶋穂波",
+      "nameEn": "Goshima Honami",
+      "currentSourceCount": 3,
+      "currentWebsiteUrl": null,
+      "currentInstagramHandle": "honameg",
+      "lastBatchId": "007",
+      "lastUpdatedAt": "2026-03-08",
+      "sources": [
+        {
+          "title": "KACF First Patronage Program",
+          "url": "https://fpf.kacf.jp/2024/06/21/%E6%BC%86%E8%8A%B8%E4%BD%9C%E5%AE%B6%E3%83%BB%E4%BA%94%E5%B6%8B-%E7%A9%82%E6%B3%A2-%E4%BD%9C%E5%93%81%E7%B4%B9%E4%BB%8B-%EF%BC%8D%E3%80%8Cbowl-flowering%E3%80%8D/",
+          "type": "专题资料",
+          "accessedAt": "2026-03-06"
+        },
+        {
+          "title": "Instagram @honameg",
+          "url": "https://www.instagram.com/honameg/",
+          "type": "社交媒体",
+          "accessedAt": "2026-03-06"
+        },
+        {
+          "title": "FIRST PATRONAGE PROGRAM 五嶋穂波",
+          "url": "https://fpf.kacf.jp/2024/06/13/%E3%82%B3%E3%83%94%E3%83%BC%EF%BC%89%E6%99%82%E9%96%93%E3%81%A8%E8%89%B2%E3%81%AE%E5%B1%A4%E3%81%8C%E9%AD%85%E3%81%9B%E3%82%8B-%E6%89%8B%E3%81%AE%E3%81%B2%E3%82%89%E3%81%AE%E5%AE%87%E5%AE%99/",
+          "type": "机构资料",
+          "accessedAt": null
+        }
+      ]
+    },
+    {
+      "artistSlug": "iwasaki-ryuji",
+      "nameJa": "岩崎龙二",
+      "nameEn": "Iwasaki Ryuji",
+      "currentSourceCount": 3,
+      "currentWebsiteUrl": null,
+      "currentInstagramHandle": "iwasakiryuji",
+      "lastBatchId": "007",
+      "lastUpdatedAt": "2026-03-08",
+      "sources": [
+        {
+          "title": "Wonder Mug - 艺术家档案",
+          "url": "https://www.wondermug.jp/artist/ryuji-iwasaki/",
+          "type": "专题资料",
+          "accessedAt": "2026-03-06"
+        },
+        {
+          "title": "个人网站展览信息",
+          "url": "https://iwasakiryuji.com/event/20250215umedahankyu/",
+          "type": "作家官网",
+          "accessedAt": "2026-03-06"
+        },
+        {
+          "title": "Instagram @iwasakiryuji",
+          "url": "https://www.instagram.com/iwasakiryuji/",
+          "type": "社交媒体",
+          "accessedAt": "2026-03-06"
+        }
+      ]
+    },
+    {
+      "artistSlug": "narita-shuhei",
+      "nameJa": "成田周平",
+      "nameEn": "Narita Shuhei",
+      "currentSourceCount": 3,
+      "currentWebsiteUrl": null,
+      "currentInstagramHandle": "narita_shuhei",
+      "lastBatchId": "007",
+      "lastUpdatedAt": "2026-03-08",
+      "sources": [
+        {
+          "title": "Galerie NUAGE 展讯",
+          "url": "https://www.g-nuage.co.jp/%E6%88%90%E7%94%B0%E5%91%A8%E5%B9%B3-%E5%80%8B%E5%B1%95-2019/",
+          "type": "专题资料",
+          "accessedAt": "2026-03-06"
+        },
+        {
+          "title": "Instagram @narita_shuhei",
+          "url": "https://www.instagram.com/narita_shuhei/",
+          "type": "社交媒体",
+          "accessedAt": "2026-03-06"
+        },
+        {
+          "title": "Highsnobiety 成田周平 企画展",
+          "url": "https://highsnobiety.jp/p/aeluaffection/",
+          "type": "生活方式媒体",
+          "accessedAt": null
+        }
+      ]
+    },
+    {
+      "artistSlug": "sato-akari",
+      "nameJa": "佐藤朱理",
+      "nameEn": "Sato Akari",
+      "currentSourceCount": 4,
+      "currentWebsiteUrl": null,
+      "currentInstagramHandle": null,
+      "lastBatchId": "007",
+      "lastUpdatedAt": "2026-03-08",
+      "sources": [
+        {
+          "title": "ideot 展讯",
+          "url": "https://ideot.net/news/3461/",
+          "type": "专题资料",
+          "accessedAt": "2026-03-06"
+        },
+        {
+          "title": "people",
+          "url": "https://people-jp.shop/products/asmg_06",
+          "type": "专题资料",
+          "accessedAt": "2026-03-06"
+        },
+        {
+          "title": "PEOPLE 阿加利佐藤",
+          "url": "https://people-jp.shop/collections/akarisato",
+          "type": "电商",
+          "accessedAt": null
+        },
+        {
+          "title": "PEOPLE 商品页 阿加利佐藤",
+          "url": "https://people-jp.shop/products/asb_b01",
+          "type": "电商",
+          "accessedAt": null
+        }
+      ]
+    },
+    {
+      "artistSlug": "takada-kae",
+      "nameJa": "高田かえ",
+      "nameEn": "Takada Kae",
+      "currentSourceCount": 4,
+      "currentWebsiteUrl": null,
+      "currentInstagramHandle": null,
+      "lastBatchId": "007",
+      "lastUpdatedAt": "2026-03-08",
+      "sources": [
+        {
+          "title": "KIKIKIKRAFT",
+          "url": "https://kikikikraft.com/kaetakada",
+          "type": "专题资料",
+          "accessedAt": "2026-03-06"
+        },
+        {
+          "title": "かたくち屋ほとり 高田かえ",
+          "url": "https://www.katakuchi.jp/products/takadakae-bowl02",
+          "type": "专题资料",
+          "accessedAt": "2026-03-06"
+        },
+        {
+          "title": "SOU・SOU 高田かえ",
+          "url": "https://sousou.biz/shopping/category/%E9%AB%98%E7%94%B0%E3%81%8B%E3%81%88/",
+          "type": "电商",
+          "accessedAt": null
+        },
+        {
+          "title": "Katakuchi 高田かえ 作品页",
+          "url": "https://www.katakuchi.jp/products/takadakae-guinomi03-01",
+          "type": "电商",
+          "accessedAt": null
+        }
+      ]
+    },
+    {
+      "artistSlug": "torii-miki",
+      "nameJa": "鳥居美希",
+      "nameEn": "Torii Miki",
+      "currentSourceCount": 4,
+      "currentWebsiteUrl": null,
+      "currentInstagramHandle": null,
+      "lastBatchId": "007",
+      "lastUpdatedAt": "2026-03-08",
+      "sources": [
+        {
+          "title": "K&A so-co 作家页",
+          "url": "https://www.k-and-a-so-co.net/miki-torii",
+          "type": "专题资料",
+          "accessedAt": "2026-03-06"
+        },
+        {
+          "title": "k-and-a-so-co",
+          "url": "https://www.k-and-a-so-co.net/",
+          "type": "专题资料",
+          "accessedAt": "2026-03-06"
+        },
+        {
+          "title": "京都芸術センター 鳥居美希 インタビュー",
+          "url": "https://fpf.kacf.jp/2024/06/21/toriimiki/",
+          "type": "机构资料",
+          "accessedAt": null
+        },
+        {
+          "title": "京都芸術センター 活動記録 鳥居美希",
+          "url": "https://www.kacf.jp/activity_detail/216",
+          "type": "机构资料",
+          "accessedAt": null
+        }
+      ]
+    },
+    {
+      "artistSlug": "imaizumi-imaemon-xiii",
+      "nameJa": "十三代今泉今右衛門",
+      "nameEn": "Imaizumi Imaemon XIII",
+      "currentSourceCount": 3,
+      "currentWebsiteUrl": "https://imaemon.co.jp",
+      "currentInstagramHandle": null,
+      "lastBatchId": "007",
+      "lastUpdatedAt": "2026-03-08",
+      "sources": [
+        {
+          "title": "今右卫门官方站",
+          "url": "https://www.imaemon.co.jp/",
+          "type": "专题资料",
+          "accessedAt": "2026-03-06"
+        },
+        {
+          "title": "今右卫门相关资料",
+          "url": "https://www.imaemon.co.jp/about/",
+          "type": "专题资料",
+          "accessedAt": "2026-03-06"
+        },
+        {
+          "title": "十三代今泉今右衛門 公式网站",
+          "url": "https://imaemon.co.jp",
+          "type": "作家官网",
+          "accessedAt": null
+        }
+      ]
+    },
+    {
+      "artistSlug": "iwakiri-shuo",
+      "nameJa": "岩切秀央",
+      "nameEn": "Iwakiri Shuo",
+      "currentSourceCount": 5,
+      "currentWebsiteUrl": null,
+      "currentInstagramHandle": "shuo_iwakiri",
+      "lastBatchId": "007",
+      "lastUpdatedAt": "2026-03-08",
+      "sources": [
+        {
+          "title": "BRUTUS 文章",
+          "url": "https://brutus.jp/new_utsuwa_iwakiri/",
+          "type": "生活方式媒体",
+          "accessedAt": "2026-03-06"
+        },
+        {
+          "title": "Instagram @shuo_iwakiri",
+          "url": "https://www.instagram.com/shuo_iwakiri/",
+          "type": "社交媒体",
+          "accessedAt": "2026-03-06"
+        },
+        {
+          "title": "CLEAR GALLERY TOKYO 岩切秀央",
+          "url": "https://cleargallerytokyo.com/artist-shuoiwakiri",
+          "type": "画廊资料",
+          "accessedAt": null
+        },
+        {
+          "title": "Ash Design & Craft 岩切秀央",
+          "url": "https://ash-design-craft.com/17/creators/%E5%B2%A9%E5%88%87%E7%A7%80%E5%A4%AE/",
+          "type": "机构资料",
+          "accessedAt": null
+        },
+        {
+          "title": "hitonoto 岩切秀央",
+          "url": "https://store.hitonoto.com/products/shuo-ikawakiri",
+          "type": "电商",
+          "accessedAt": null
+        }
+      ]
+    },
+    {
+      "artistSlug": "shuno-maki",
+      "nameJa": "秀野真希",
+      "nameEn": "Shuno Maki",
+      "currentSourceCount": 4,
+      "currentWebsiteUrl": null,
+      "currentInstagramHandle": "maki_shuno",
+      "lastBatchId": "007",
+      "lastUpdatedAt": "2026-03-08",
+      "sources": [
+        {
+          "title": "oku 商品页与简介",
+          "url": "https://store.oku-tokyo.com/products/%E7%A7%80%E9%87%8E%E7%9C%9F%E5%B8%8C-%E6%B1%B2%E3%81%BF%E5%87%BA%E3%81%97",
+          "type": "专题资料",
+          "accessedAt": "2026-03-06"
+        },
+        {
+          "title": "Instagram @maki_shuno",
+          "url": "https://www.instagram.com/maki_shuno/",
+          "type": "社交媒体",
+          "accessedAt": "2026-03-06"
+        },
+        {
+          "title": "煎茶堂東京 首藤麻紀",
+          "url": "https://shop.senchado.jp/products/1437",
+          "type": "电商",
+          "accessedAt": null
+        },
+        {
+          "title": "Native Village 首藤麻紀展",
+          "url": "https://nativevillage.jp/nativevillage/maki-shuno-exhibition/",
+          "type": "生活方式媒体",
+          "accessedAt": null
+        }
+      ]
+    },
+    {
+      "artistSlug": "ueda-yuji",
+      "nameJa": "上田勇二",
+      "nameEn": "Ueda Yuji",
+      "currentSourceCount": 5,
+      "currentWebsiteUrl": null,
+      "currentInstagramHandle": "yuji____ueda",
+      "lastBatchId": "007",
+      "lastUpdatedAt": "2026-03-08",
+      "sources": [
+        {
+          "title": "Kaikai Kiki 画廊",
+          "url": "https://en.gallery-kaikaikiki.com/category/artists/yuji-ueda/",
+          "type": "画廊资料",
+          "accessedAt": "2026-03-06"
+        },
+        {
+          "title": "Instagram @yuji____ueda",
+          "url": "https://www.instagram.com/yuji____ueda/",
+          "type": "社交媒体",
+          "accessedAt": "2026-03-06"
+        },
+        {
+          "title": "Gendai Tojiki Yuji Ueda",
+          "url": "https://www.gendai-tojiki.com/44-yuji-ueda",
+          "type": "专题资料",
+          "accessedAt": "2026-03-08"
+        },
+        {
+          "title": "Art Collaboration Kyoto 2022 - Yuji Ueda",
+          "url": "https://2022.a-c-k.jp/en/artworks/untitled-blum-poe-5/",
+          "type": "展讯媒体",
+          "accessedAt": "2026-03-08"
+        },
+        {
+          "title": "Moderne Gallery - Yuji Ueda",
+          "url": "https://modernegallery.com/artists/yuji-ueda/",
+          "type": "画廊资料",
+          "accessedAt": "2026-03-08"
+        }
+      ]
+    },
+    {
+      "artistSlug": "takeuchi-shingo",
+      "nameJa": "竹内真吾",
+      "nameEn": "Takeuchi Shingo",
+      "currentSourceCount": 5,
+      "currentWebsiteUrl": null,
+      "currentInstagramHandle": "shingo_takeuchi_",
+      "lastBatchId": "007",
+      "lastUpdatedAt": "2026-03-08",
+      "sources": [
+        {
+          "title": "Daiichi Arts 作家简介",
+          "url": "https://www.daiichiarts.com/artists/112-takeuchi-shingo/biography/",
+          "type": "专题资料",
+          "accessedAt": "2026-03-06"
+        },
+        {
+          "title": "instagram.com",
+          "url": "https://www.instagram.com/shingo_takeuchi_/`。",
+          "type": "社交媒体",
+          "accessedAt": "2026-03-06"
+        },
+        {
+          "title": "Terra Delft",
+          "url": "https://www.terra-delft.nl/en/artist/-shingo-takeuchi",
+          "type": "专题资料",
+          "accessedAt": "2026-03-06"
+        },
+        {
+          "title": "infldb.com",
+          "url": "https://infldb.com/top-influencers-by-category/ceramic%20art",
+          "type": "专题资料",
+          "accessedAt": "2026-03-06"
+        },
+        {
+          "title": "Instagram @shingo_takeuchi_",
+          "url": "https://www.instagram.com/shingo_takeuchi_/",
+          "type": "社交媒体",
+          "accessedAt": "2026-03-06"
+        }
+      ]
+    },
+    {
+      "artistSlug": "inayoshi-yoshimitsu",
+      "nameJa": "稲吉善光",
+      "nameEn": "Inayoshi Yoshimitsu",
+      "currentSourceCount": 5,
+      "currentWebsiteUrl": null,
+      "currentInstagramHandle": "yoshimitsu_inayoshi",
+      "lastBatchId": "008",
+      "lastUpdatedAt": "2026-03-08",
+      "sources": [
+        {
+          "title": "益子陶器市 出店者信息",
+          "url": "https://toukiichi.mashiko-db.net/exhibitor/579/",
+          "type": "专题资料",
+          "accessedAt": "2026-03-06"
+        },
+        {
+          "title": "Instagram @yoshimitsu_inayoshi",
+          "url": "https://www.instagram.com/yoshimitsu_inayoshi/",
+          "type": "社交媒体",
+          "accessedAt": "2026-03-06"
+        },
+        {
+          "title": "KOHORO 稲吉善光",
+          "url": "https://kohoro.jp/collections/%E7%A8%B2%E5%90%89%E5%96%84%E5%85%89",
+          "type": "电商",
+          "accessedAt": null
+        },
+        {
+          "title": "日常茶飯 稲吉善光",
+          "url": "https://nichijosahan.jp/artist/yoshimitsu_inayoshi",
+          "type": "电商",
+          "accessedAt": null
+        },
+        {
+          "title": "チルチンびと広場 稲吉善光展",
+          "url": "https://www.chilchinbito-hiroba.jp/event/11403/",
+          "type": "生活方式媒体",
+          "accessedAt": null
+        }
+      ]
+    },
+    {
+      "artistSlug": "sato-naomichi",
+      "nameJa": "佐藤尚理",
+      "nameEn": "Sato Naomichi",
+      "currentSourceCount": 7,
+      "currentWebsiteUrl": null,
+      "currentInstagramHandle": "bonoho_",
+      "lastBatchId": "008",
+      "lastUpdatedAt": "2026-03-08",
+      "sources": [
+        {
+          "title": "taliki-okinawa 作家页",
+          "url": "https://taliki-okinawa.com/collections/%E4%BD%90%E8%97%A4-%E5%B0%9A%E7%90%86-naomichi-sato",
+          "type": "专题资料",
+          "accessedAt": "2026-03-06"
+        },
+        {
+          "title": "instagram.com",
+          "url": "https://www.instagram.com/bonoho_/`。",
+          "type": "社交媒体",
+          "accessedAt": "2026-03-06"
+        },
+        {
+          "title": "infldb.com",
+          "url": "https://infldb.com/top-influencers-by-category/ceramic%20art",
+          "type": "专题资料",
+          "accessedAt": "2026-03-06"
+        },
+        {
+          "title": "SISON GALLERY 佐藤尚理",
+          "url": "https://sison.tokyo/info/6173260",
+          "type": "专题资料",
+          "accessedAt": "2026-03-06"
+        },
+        {
+          "title": "水犀 佐藤尚理",
+          "url": "https://mizusai.jp/artist/satonaomichi/",
+          "type": "专题资料",
+          "accessedAt": "2026-03-06"
+        },
+        {
+          "title": "atpress 佐藤尚理個展",
+          "url": "https://www.atpress.ne.jp/news/312357",
+          "type": "专题资料",
+          "accessedAt": "2026-03-06"
+        },
+        {
+          "title": "Instagram @bonoho_",
+          "url": "https://www.instagram.com/bonoho_/",
+          "type": "社交媒体",
+          "accessedAt": "2026-03-06"
+        }
+      ]
+    },
+    {
+      "artistSlug": "ujiie-kodai",
+      "nameJa": "氏家昂大",
+      "nameEn": "Ujiie Kodai",
+      "currentSourceCount": 3,
+      "currentWebsiteUrl": "https://kodaiujiie.com",
+      "currentInstagramHandle": "koudaiujiie",
+      "lastBatchId": "008",
+      "lastUpdatedAt": "2026-03-08",
+      "sources": [
+        {
+          "title": "Ippodo Gallery 作家简介",
+          "url": "https://www.ippodogallery.com/artists/85-kodai-ujiie/biography/",
+          "type": "画廊资料",
+          "accessedAt": "2026-03-06"
+        },
+        {
+          "title": "Instagram @koudaiujiie",
+          "url": "https://www.instagram.com/koudaiujiie/",
+          "type": "社交媒体",
+          "accessedAt": "2026-03-06"
+        },
+        {
+          "title": "氏家昂大 公式网站",
+          "url": "https://kodaiujiie.com",
+          "type": "作家官网",
+          "accessedAt": null
+        }
+      ]
+    },
+    {
+      "artistSlug": "fukumura-ryuta",
+      "nameJa": "福村龍太",
+      "nameEn": "Fukumura Ryuta",
+      "currentSourceCount": 3,
+      "currentWebsiteUrl": "https://ryutagama.com",
+      "currentInstagramHandle": "ryutafukumura",
+      "lastBatchId": "008",
+      "lastUpdatedAt": "2026-03-08",
+      "sources": [
+        {
+          "title": "福村龍太 个人网站",
+          "url": "https://www.ryutafukumura.com/about",
+          "type": "作家官网",
+          "accessedAt": "2026-03-06"
+        },
+        {
+          "title": "Instagram @ryutafukumura",
+          "url": "https://www.instagram.com/ryutafukumura/",
+          "type": "社交媒体",
+          "accessedAt": "2026-03-06"
+        },
+        {
+          "title": "福村龍太 公式网站",
+          "url": "https://ryutagama.com",
+          "type": "作家官网",
+          "accessedAt": null
+        }
+      ]
+    },
+    {
+      "artistSlug": "kato-ai",
+      "nameJa": "加藤あゐ",
+      "nameEn": "Kato Ai",
+      "currentSourceCount": 3,
+      "currentWebsiteUrl": "https://ai-kato.com",
+      "currentInstagramHandle": "ai.kato_",
+      "lastBatchId": "008",
+      "lastUpdatedAt": "2026-03-08",
+      "sources": [
+        {
+          "title": "PR TIMES 加藤あゐ展讯与略历",
+          "url": "https://prtimes.jp/main/html/rd/p/000000005.000110030.html",
+          "type": "专题资料",
+          "accessedAt": "2026-03-06"
+        },
+        {
+          "title": "Instagram @ai.kato_",
+          "url": "https://www.instagram.com/ai.kato_/",
+          "type": "社交媒体",
+          "accessedAt": "2026-03-06"
+        },
+        {
+          "title": "加藤あゐ 公式网站",
+          "url": "https://ai-kato.com",
+          "type": "作家官网",
+          "accessedAt": null
+        }
+      ]
+    },
+    {
+      "artistSlug": "uchida-kaori",
+      "nameJa": "内田可織",
+      "nameEn": "Uchida Kaori",
+      "currentSourceCount": 4,
+      "currentWebsiteUrl": "https://uchidakaori.com",
+      "currentInstagramHandle": null,
+      "lastBatchId": "008",
+      "lastUpdatedAt": "2026-03-08",
+      "sources": [
+        {
+          "title": "uchidakaori.com",
+          "url": "https://www.uchidakaori.com/",
+          "type": "专题资料",
+          "accessedAt": "2026-03-06"
+        },
+        {
+          "title": "Discover Japan 内田可織",
+          "url": "https://discoverjapan-web.com/article/150005",
+          "type": "专题资料",
+          "accessedAt": "2026-03-06"
+        },
+        {
+          "title": "studio knot 内田可織",
+          "url": "https://s-knot.com/about.html",
+          "type": "专题资料",
+          "accessedAt": "2026-03-06"
+        },
+        {
+          "title": "内田可織 公式网站",
+          "url": "https://uchidakaori.com",
+          "type": "作家官网",
+          "accessedAt": null
+        }
+      ]
+    },
+    {
+      "artistSlug": "hashimoto-tomonari",
+      "nameJa": "橋本知成",
+      "nameEn": "Hashimoto Tomonari",
+      "currentSourceCount": 4,
+      "currentWebsiteUrl": "https://tomonarihashimoto.com/profile/",
+      "currentInstagramHandle": "hashimoto_tomonari",
+      "lastBatchId": "008",
+      "lastUpdatedAt": "2026-03-08",
+      "sources": [
+        {
+          "title": "橋本知成 公式プロフィール",
+          "url": "https://tomonarihashimoto.com/profile/",
+          "type": "作家官网",
+          "accessedAt": "2026-03-06"
+        },
+        {
+          "title": "Instagram @hashimoto_tomonari",
+          "url": "https://www.instagram.com/hashimoto_tomonari/",
+          "type": "社交媒体",
+          "accessedAt": "2026-03-06"
+        },
+        {
+          "title": "Kura Monzen Gallery Hashimoto Tomonari",
+          "url": "https://kuramonzen.com/pages/hashimoto-tomonari-%E6%A9%8B%E6%9C%AC-%E7%9F%A5%E6%88%90",
+          "type": "画廊资料",
+          "accessedAt": "2026-03-06"
+        },
+        {
+          "title": "WWDJAPAN LOEWE Craft Prize 2019",
+          "url": "https://www.wwdjapan.com/articles/789121",
+          "type": "专题资料",
+          "accessedAt": "2026-03-06"
+        }
+      ]
+    },
+    {
+      "artistSlug": "sakai-tomoya",
+      "nameJa": "酒井智也",
+      "nameEn": "Sakai Tomoya",
+      "currentSourceCount": 4,
+      "currentWebsiteUrl": "https://tomoyasakai.com",
+      "currentInstagramHandle": "s_tomoya1212",
+      "lastBatchId": "008",
+      "lastUpdatedAt": "2026-03-08",
+      "sources": [
+        {
+          "title": "酒井智也 个人网站",
+          "url": "https://tomoyasakai.com/en/",
+          "type": "作家官网",
+          "accessedAt": "2026-03-06"
+        },
+        {
+          "title": "个人网站",
+          "url": "https://sakaitomoya.amebaownd.com/",
+          "type": "作家官网",
+          "accessedAt": "2026-03-06"
+        },
+        {
+          "title": "Instagram @s_tomoya1212",
+          "url": "https://www.instagram.com/s_tomoya1212/",
+          "type": "社交媒体",
+          "accessedAt": "2026-03-06"
+        },
+        {
+          "title": "酒井智也 公式网站",
+          "url": "https://tomoyasakai.com",
+          "type": "作家官网",
+          "accessedAt": null
+        }
+      ]
+    },
+    {
+      "artistSlug": "segawa-yuta",
+      "nameJa": "瀬川裕太",
+      "nameEn": "Segawa Yuta",
+      "currentSourceCount": 4,
+      "currentWebsiteUrl": "https://yutasegawa.com / sgwlab.com",
+      "currentInstagramHandle": "yutasegawa_ceramics",
+      "lastBatchId": "008",
+      "lastUpdatedAt": "2026-03-08",
+      "sources": [
+        {
+          "title": "Patrick Davies CA - 艺术家页面",
+          "url": "https://www.patrickdaviesca.com/artists/44-yuta-segawa/",
+          "type": "专题资料",
+          "accessedAt": "2026-03-06"
+        },
+        {
+          "title": "Cambridge Gallery",
+          "url": "https://www.cambridgegallery.co.uk/yuta-segawa",
+          "type": "画廊资料",
+          "accessedAt": "2026-03-06"
+        },
+        {
+          "title": "Instagram @yutasegawa_ceramics",
+          "url": "https://www.instagram.com/yutasegawa_ceramics/",
+          "type": "社交媒体",
+          "accessedAt": "2026-03-06"
+        },
+        {
+          "title": "瀬川裕太 公式网站",
+          "url": "https://yutasegawa.com / sgwlab.com",
+          "type": "作家官网",
+          "accessedAt": null
+        }
+      ]
+    },
+    {
+      "artistSlug": "ishida-kazuya",
+      "nameJa": "石田和也",
+      "nameEn": "Ishida Kazuya",
+      "currentSourceCount": 4,
+      "currentWebsiteUrl": "https://kazuyaishida.com",
+      "currentInstagramHandle": "bizen_kazuya",
+      "lastBatchId": "008",
+      "lastUpdatedAt": "2026-03-08",
+      "sources": [
+        {
+          "title": "石田和也 个人网站",
+          "url": "https://www.kazuyaishida.com/about",
+          "type": "作家官网",
+          "accessedAt": "2026-03-06"
+        },
+        {
+          "title": "Unearthed Gallery",
+          "url": "https://unearthed-gallery.com/pages/makers/kazuya-ishida",
+          "type": "画廊资料",
+          "accessedAt": "2026-03-06"
+        },
+        {
+          "title": "Instagram @bizen_kazuya",
+          "url": "https://www.instagram.com/bizen_kazuya/",
+          "type": "社交媒体",
+          "accessedAt": "2026-03-06"
+        },
+        {
+          "title": "石田和也 公式网站",
+          "url": "https://kazuyaishida.com",
+          "type": "作家官网",
+          "accessedAt": null
+        }
+      ]
+    },
+    {
+      "artistSlug": "hatta-toru",
+      "nameJa": "八田亨",
+      "nameEn": "Hatta Toru",
+      "currentSourceCount": 7,
+      "currentWebsiteUrl": "https://hattatoru.com/",
+      "currentInstagramHandle": "toru_hatta",
+      "lastBatchId": "008",
+      "lastUpdatedAt": "2026-03-08",
+      "sources": [
+        {
+          "title": "Discover Japan - 八田亨介绍",
+          "url": "https://discoverjapan-web.com/article/72301",
+          "type": "专题资料",
+          "accessedAt": "2026-03-06"
+        },
+        {
+          "title": "Discover Japan - 作品集",
+          "url": "https://discoverjapan-web.com/article/112647",
+          "type": "专题资料",
+          "accessedAt": "2026-03-06"
+        },
+        {
+          "title": "チルチンびと広場 八田亨",
+          "url": "https://www.chilchinbito-hiroba.jp/shop/27_04_0024/",
+          "type": "生活方式媒体",
+          "accessedAt": "2026-03-08"
+        },
+        {
+          "title": "PAPERSKY Hatta Toru",
+          "url": "https://paperc.info/on-site/wu20_toru-hatta",
+          "type": "生活方式媒体",
+          "accessedAt": "2026-03-08"
+        },
+        {
+          "title": "HATTA TORU Official Profile",
+          "url": "https://hattatoru.com/profile.html",
+          "type": "作家官网",
+          "accessedAt": "2026-03-08"
+        },
+        {
+          "title": "HATTA TORU Official Website",
+          "url": "https://hattatoru.com/",
+          "type": "作家官网",
+          "accessedAt": "2026-03-08"
+        },
+        {
+          "title": "Instagram @toru_hatta",
+          "url": "https://www.instagram.com/toru_hatta/",
+          "type": "社交媒体",
+          "accessedAt": "2026-03-08"
+        }
+      ]
+    },
+    {
+      "artistSlug": "otani-tetsuya",
+      "nameJa": "大谷哲也",
+      "nameEn": "Otani Tetsuya",
+      "currentSourceCount": 4,
+      "currentWebsiteUrl": "https://ootanis.com",
+      "currentInstagramHandle": "otnps",
+      "lastBatchId": "008",
+      "lastUpdatedAt": "2026-03-08",
+      "sources": [
+        {
+          "title": "大谷制陶所",
+          "url": "https://ootanis.com/",
+          "type": "专题资料",
+          "accessedAt": "2026-03-06"
+        },
+        {
+          "title": "OKAZ DESIGN 商店简介",
+          "url": "https://shop.okaz-design.jp/store/%E5%A4%A7%E8%B0%B7%E5%93%B2%E4%B9%9F-c119714013",
+          "type": "专题资料",
+          "accessedAt": "2026-03-06"
+        },
+        {
+          "title": "Instagram @otnps",
+          "url": "https://www.instagram.com/otnps/",
+          "type": "社交媒体",
+          "accessedAt": "2026-03-06"
+        },
+        {
+          "title": "大谷哲也 公式网站",
+          "url": "https://ootanis.com",
+          "type": "作家官网",
+          "accessedAt": null
+        }
+      ]
+    }
+  ],
+  "sparse": [
+    {
+      "artistSlug": "kurokawa-toru",
+      "nameJa": "黒川徹",
+      "nameEn": "Kurokawa Toru",
+      "currentSourceCount": 3,
+      "currentWebsiteUrl": null,
+      "currentInstagramHandle": null,
+      "status": "attempted",
+      "lastBatchId": "008"
+    },
+    {
+      "artistSlug": "iwata-tetsuhiro",
+      "nameJa": "岩田哲宏",
+      "nameEn": "Iwata Tetsuhiro",
+      "currentSourceCount": 3,
+      "currentWebsiteUrl": null,
+      "currentInstagramHandle": null,
+      "status": "attempted",
+      "lastBatchId": "008"
+    },
+    {
+      "artistSlug": "atsukawa-fumiko",
+      "nameJa": "厚川文子",
+      "nameEn": "Atsukawa Fumiko",
+      "currentSourceCount": 3,
+      "currentWebsiteUrl": null,
+      "currentInstagramHandle": null,
+      "status": "attempted",
+      "lastBatchId": "008"
+    },
+    {
+      "artistSlug": "tazuruhama-morito",
+      "nameJa": "田鶴濱守人",
+      "nameEn": "Tazuruhama Morito",
+      "currentSourceCount": 3,
+      "currentWebsiteUrl": null,
+      "currentInstagramHandle": null,
+      "status": "attempted",
+      "lastBatchId": "008"
+    },
+    {
+      "artistSlug": "kaketani-yasuki",
+      "nameJa": "掛谷康樹",
+      "nameEn": "Kaketani Yasuki",
+      "currentSourceCount": 3,
+      "currentWebsiteUrl": null,
+      "currentInstagramHandle": null,
+      "status": "attempted",
+      "lastBatchId": "008"
+    },
+    {
+      "artistSlug": "uchida-koichi",
+      "nameJa": "内田鋼一",
+      "nameEn": "Uchida Koichi",
+      "currentSourceCount": 3,
+      "currentWebsiteUrl": null,
+      "currentInstagramHandle": null,
+      "status": "completed",
+      "lastBatchId": "002"
+    },
+    {
+      "artistSlug": "hamada-tomoo",
+      "nameJa": "濱田友緒",
+      "nameEn": "Hamada Tomoo",
+      "currentSourceCount": 3,
+      "currentWebsiteUrl": null,
+      "currentInstagramHandle": null,
+      "status": "completed",
+      "lastBatchId": "002"
+    },
+    {
+      "artistSlug": "muraki-yuji",
+      "nameJa": "村木雄児",
+      "nameEn": "Muraki Yuji",
+      "currentSourceCount": 3,
+      "currentWebsiteUrl": null,
+      "currentInstagramHandle": null,
+      "status": "completed",
+      "lastBatchId": "002"
+    },
+    {
+      "artistSlug": "suzuki-osamu",
+      "nameJa": "鈴木藏",
+      "nameEn": "Suzuki Osamu",
+      "currentSourceCount": 3,
+      "currentWebsiteUrl": null,
+      "currentInstagramHandle": null,
+      "status": "completed",
+      "lastBatchId": "002"
+    },
+    {
+      "artistSlug": "fujiwara-yu",
+      "nameJa": "藤原雄",
+      "nameEn": "Fujiwara Yu",
+      "currentSourceCount": 3,
+      "currentWebsiteUrl": null,
+      "currentInstagramHandle": null,
+      "status": "completed",
+      "lastBatchId": "002"
+    },
+    {
+      "artistSlug": "shimizu-uichi",
+      "nameJa": "清水卯一",
+      "nameEn": "Shimizu Uichi",
+      "currentSourceCount": 3,
+      "currentWebsiteUrl": null,
+      "currentInstagramHandle": null,
+      "status": "completed",
+      "lastBatchId": "002"
+    },
+    {
+      "artistSlug": "fujimoto-yoshimichi",
+      "nameJa": "藤本能道",
+      "nameEn": "Fujimoto Yoshimichi",
+      "currentSourceCount": 3,
+      "currentWebsiteUrl": null,
+      "currentInstagramHandle": null,
+      "status": "completed",
+      "lastBatchId": "002"
+    },
+    {
+      "artistSlug": "shimaoka-tatsuzo",
+      "nameJa": "島岡達三",
+      "nameEn": "Shimaoka Tatsuzo",
+      "currentSourceCount": 3,
+      "currentWebsiteUrl": null,
+      "currentInstagramHandle": null,
+      "status": "completed",
+      "lastBatchId": "002"
+    },
+    {
+      "artistSlug": "tsukamoto-kaiji",
+      "nameJa": "塚本快示",
+      "nameEn": "Tsukamoto Kaiji",
+      "currentSourceCount": 3,
+      "currentWebsiteUrl": null,
+      "currentInstagramHandle": null,
+      "status": "completed",
+      "lastBatchId": "002"
+    },
+    {
+      "artistSlug": "miwa-jusetsu",
+      "nameJa": "三輪壽雪",
+      "nameEn": "Miwa Jusetsu",
+      "currentSourceCount": 3,
+      "currentWebsiteUrl": null,
+      "currentInstagramHandle": null,
+      "status": "completed",
+      "lastBatchId": "002"
+    },
+    {
+      "artistSlug": "yamamoto-toshu",
+      "nameJa": "山本陶秀",
+      "nameEn": "Yamamoto Toshu",
+      "currentSourceCount": 3,
+      "currentWebsiteUrl": null,
+      "currentInstagramHandle": null,
+      "status": "completed",
+      "lastBatchId": "002"
+    },
+    {
+      "artistSlug": "fujiwara-kei",
+      "nameJa": "藤原啓",
+      "nameEn": "Fujiwara Kei",
+      "currentSourceCount": 3,
+      "currentWebsiteUrl": null,
+      "currentInstagramHandle": null,
+      "status": "completed",
+      "lastBatchId": "002"
+    },
+    {
+      "artistSlug": "kaneshige-toyo",
+      "nameJa": "金重陶陽",
+      "nameEn": "Kaneshige Toyo",
+      "currentSourceCount": 3,
+      "currentWebsiteUrl": null,
+      "currentInstagramHandle": null,
+      "status": "completed",
+      "lastBatchId": "002"
+    },
+    {
+      "artistSlug": "nakazato-muan",
+      "nameJa": "中里無庵（十二代中里太郎右衛門）",
+      "nameEn": "Nakazato Muan",
+      "currentSourceCount": 3,
+      "currentWebsiteUrl": null,
+      "currentInstagramHandle": null,
+      "status": "completed",
+      "lastBatchId": "002"
+    },
+    {
+      "artistSlug": "arakawa-toyozo",
+      "nameJa": "荒川豊藏",
+      "nameEn": "Arakawa Toyozo",
+      "currentSourceCount": 3,
+      "currentWebsiteUrl": null,
+      "currentInstagramHandle": null,
+      "status": "attempted",
+      "lastBatchId": "008"
+    },
+    {
+      "artistSlug": "hamada-shoji",
+      "nameJa": "濱田庄司",
+      "nameEn": "Hamada Shoji",
+      "currentSourceCount": 4,
+      "currentWebsiteUrl": null,
+      "currentInstagramHandle": null,
+      "status": "completed",
+      "lastBatchId": "003"
+    },
+    {
+      "artistSlug": "ishiguro-munemaro",
+      "nameJa": "石黒宗麿",
+      "nameEn": "Ishiguro Munemaro",
+      "currentSourceCount": 4,
+      "currentWebsiteUrl": null,
+      "currentInstagramHandle": null,
+      "status": "completed",
+      "lastBatchId": "003"
+    },
+    {
+      "artistSlug": "tomimoto-kenkichi",
+      "nameJa": "富本憲吉",
+      "nameEn": "Tomimoto Kenkichi",
+      "currentSourceCount": 4,
+      "currentWebsiteUrl": null,
+      "currentInstagramHandle": null,
+      "status": "completed",
+      "lastBatchId": "003"
+    },
+    {
+      "artistSlug": "ishihara-yoshimitsu",
+      "nameJa": "石原祥充",
+      "nameEn": "Ishihara Yoshimitsu",
+      "currentSourceCount": 3,
+      "currentWebsiteUrl": null,
+      "currentInstagramHandle": null,
+      "status": "attempted",
+      "lastBatchId": "008"
+    },
+    {
+      "artistSlug": "ishihara-yukie",
+      "nameJa": "石原ゆきえ",
+      "nameEn": "Ishihara Yukie",
+      "currentSourceCount": 3,
+      "currentWebsiteUrl": null,
+      "currentInstagramHandle": null,
+      "status": "attempted",
+      "lastBatchId": "008"
+    },
+    {
+      "artistSlug": "katase-kazuhiro",
+      "nameJa": "片瀬和宏",
+      "nameEn": "Katase Kazuhiro",
+      "currentSourceCount": 3,
+      "currentWebsiteUrl": null,
+      "currentInstagramHandle": null,
+      "status": "attempted",
+      "lastBatchId": "009"
+    },
+    {
+      "artistSlug": "kato-etsuko",
+      "nameJa": "加藤惠津子",
+      "nameEn": "Kato Etsuko",
+      "currentSourceCount": 3,
+      "currentWebsiteUrl": null,
+      "currentInstagramHandle": null,
+      "status": "attempted",
+      "lastBatchId": "009"
+    },
+    {
+      "artistSlug": "kawahara-sachiko",
+      "nameJa": "川原幸子",
+      "nameEn": "Kawahara Sachiko",
+      "currentSourceCount": 3,
+      "currentWebsiteUrl": null,
+      "currentInstagramHandle": null,
+      "status": "attempted",
+      "lastBatchId": "009"
+    },
+    {
+      "artistSlug": "kumabuchi-misa",
+      "nameJa": "熊淵未紗",
+      "nameEn": "Kumabuchi Misa",
+      "currentSourceCount": 3,
+      "currentWebsiteUrl": null,
+      "currentInstagramHandle": null,
+      "status": "attempted",
+      "lastBatchId": "009"
+    },
+    {
+      "artistSlug": "mizutani-tomomi",
+      "nameJa": "水谷智美",
+      "nameEn": "Mizutani Tomomi",
+      "currentSourceCount": 3,
+      "currentWebsiteUrl": null,
+      "currentInstagramHandle": null,
+      "status": "attempted",
+      "lastBatchId": "009"
+    },
+    {
+      "artistSlug": "takataya-masahiro",
+      "nameJa": "高田谷将宏",
+      "nameEn": "Takataya Masahiro",
+      "currentSourceCount": 3,
+      "currentWebsiteUrl": null,
+      "currentInstagramHandle": null,
+      "status": "attempted",
+      "lastBatchId": "009"
+    },
+    {
+      "artistSlug": "yamawaki-masato",
+      "nameJa": "山脇将人",
+      "nameEn": "Yamawaki Masato",
+      "currentSourceCount": 3,
+      "currentWebsiteUrl": null,
+      "currentInstagramHandle": null,
+      "status": "attempted",
+      "lastBatchId": "009"
+    },
+    {
+      "artistSlug": "kogane-akari",
+      "nameJa": "故金あかり",
+      "nameEn": "Kogane Akari",
+      "currentSourceCount": 3,
+      "currentWebsiteUrl": null,
+      "currentInstagramHandle": "karugane_akari",
+      "status": "attempted",
+      "lastBatchId": "009"
+    },
+    {
+      "artistSlug": "kurihara-kaori",
+      "nameJa": "栗原香織",
+      "nameEn": "Kurihara Kaori",
+      "currentSourceCount": 3,
+      "currentWebsiteUrl": null,
+      "currentInstagramHandle": "kaorikurihara.ceramique",
+      "status": "attempted",
+      "lastBatchId": "009"
+    },
+    {
+      "artistSlug": "umano-shingo",
+      "nameJa": "馬野真吾",
+      "nameEn": "Umano Shingo",
+      "currentSourceCount": 3,
+      "currentWebsiteUrl": null,
+      "currentInstagramHandle": "shingo.umano",
+      "status": "attempted",
+      "lastBatchId": "009"
+    },
+    {
+      "artistSlug": "shimomura-atsushi",
+      "nameJa": "下村淳",
+      "nameEn": "Shimomura Atsushi",
+      "currentSourceCount": 3,
+      "currentWebsiteUrl": null,
+      "currentInstagramHandle": "atsushi_shimomura",
+      "status": "attempted",
+      "lastBatchId": "009"
+    },
+    {
+      "artistSlug": "yamada-ryutaro",
+      "nameJa": "山田隆太郎",
+      "nameEn": "Yamada Ryutaro",
+      "currentSourceCount": 3,
+      "currentWebsiteUrl": null,
+      "currentInstagramHandle": "ryutaro4126",
+      "status": "attempted",
+      "lastBatchId": "009"
+    },
+    {
+      "artistSlug": "suzuki-keiko",
+      "nameJa": "鈴木敬子",
+      "nameEn": "Suzuki Keiko",
+      "currentSourceCount": 4,
+      "currentWebsiteUrl": null,
+      "currentInstagramHandle": "keik0suzuki",
+      "status": "completed",
+      "lastBatchId": "003"
+    },
+    {
+      "artistSlug": "nikaido-akihiro",
+      "nameJa": "二階堂明弘",
+      "nameEn": "Nikaido Akihiro",
+      "currentSourceCount": 3,
+      "currentWebsiteUrl": null,
+      "currentInstagramHandle": "akihiro_nikaido",
+      "status": "attempted",
+      "lastBatchId": "009"
+    },
+    {
+      "artistSlug": "hoshino-tomoyuki",
+      "nameJa": "星野友幸",
+      "nameEn": "Hoshino Tomoyuki",
+      "currentSourceCount": 3,
+      "currentWebsiteUrl": null,
+      "currentInstagramHandle": "?",
+      "status": "attempted",
+      "lastBatchId": "009"
+    },
+    {
+      "artistSlug": "iguchi-daisuke",
+      "nameJa": "井口大輔",
+      "nameEn": "Iguchi Daisuke",
+      "currentSourceCount": 3,
+      "currentWebsiteUrl": null,
+      "currentInstagramHandle": "daisuke_igucci",
+      "status": "attempted",
+      "lastBatchId": "009"
+    },
+    {
+      "artistSlug": "yoshizawa-hiro",
+      "nameJa": "吉沢寛郎",
+      "nameEn": "Yoshizawa Hiro",
+      "currentSourceCount": 3,
+      "currentWebsiteUrl": null,
+      "currentInstagramHandle": "onthetable_mashiko（可能）",
+      "status": "attempted",
+      "lastBatchId": "009"
+    },
+    {
+      "artistSlug": "ishihara-toshihisa",
+      "nameJa": "石原稔久",
+      "nameEn": "Ishihara Toshihisa",
+      "currentSourceCount": 3,
+      "currentWebsiteUrl": null,
+      "currentInstagramHandle": "1480toshihisa",
+      "status": "attempted",
+      "lastBatchId": "009"
+    },
+    {
+      "artistSlug": "kameda-fumi",
+      "nameJa": "亀田文",
+      "nameEn": "Kameda Fumi",
+      "currentSourceCount": 3,
+      "currentWebsiteUrl": null,
+      "currentInstagramHandle": "daisukekameta",
+      "status": "attempted",
+      "lastBatchId": "009"
+    },
+    {
+      "artistSlug": "ishikawa-wakahiko",
+      "nameJa": "石川若彦",
+      "nameEn": "Ishikawa Wakahiko",
+      "currentSourceCount": 5,
+      "currentWebsiteUrl": null,
+      "currentInstagramHandle": null,
+      "status": "attempted",
+      "lastBatchId": "009"
+    },
+    {
+      "artistSlug": "ogata-atsushi",
+      "nameJa": "尾形アツシ",
+      "nameEn": "Ogata Atsushi",
+      "currentSourceCount": 6,
+      "currentWebsiteUrl": null,
+      "currentInstagramHandle": null,
+      "status": "attempted",
+      "lastBatchId": "009"
+    },
+    {
+      "artistSlug": "kato-hajime",
+      "nameJa": "加藤土師萌",
+      "nameEn": "Kato Hajime",
+      "currentSourceCount": 5,
+      "currentWebsiteUrl": null,
+      "currentInstagramHandle": null,
+      "status": "completed",
+      "lastBatchId": "004"
+    },
+    {
+      "artistSlug": "endo-takashi",
+      "nameJa": "遠藤岳",
+      "nameEn": "Endo Takashi",
+      "currentSourceCount": 3,
+      "currentWebsiteUrl": null,
+      "currentInstagramHandle": "t_endoh",
+      "status": "attempted",
+      "lastBatchId": "007"
+    },
+    {
+      "artistSlug": "goshima-honami",
+      "nameJa": "五嶋穂波",
+      "nameEn": "Goshima Honami",
+      "currentSourceCount": 3,
+      "currentWebsiteUrl": null,
+      "currentInstagramHandle": "honameg",
+      "status": "attempted",
+      "lastBatchId": "007"
+    },
+    {
+      "artistSlug": "iwasaki-ryuji",
+      "nameJa": "岩崎龙二",
+      "nameEn": "Iwasaki Ryuji",
+      "currentSourceCount": 3,
+      "currentWebsiteUrl": null,
+      "currentInstagramHandle": "iwasakiryuji",
+      "status": "attempted",
+      "lastBatchId": "007"
+    },
+    {
+      "artistSlug": "narita-shuhei",
+      "nameJa": "成田周平",
+      "nameEn": "Narita Shuhei",
+      "currentSourceCount": 3,
+      "currentWebsiteUrl": null,
+      "currentInstagramHandle": "narita_shuhei",
+      "status": "attempted",
+      "lastBatchId": "007"
+    },
+    {
+      "artistSlug": "sato-akari",
+      "nameJa": "佐藤朱理",
+      "nameEn": "Sato Akari",
+      "currentSourceCount": 4,
+      "currentWebsiteUrl": null,
+      "currentInstagramHandle": null,
+      "status": "attempted",
+      "lastBatchId": "007"
+    },
+    {
+      "artistSlug": "takada-kae",
+      "nameJa": "高田かえ",
+      "nameEn": "Takada Kae",
+      "currentSourceCount": 4,
+      "currentWebsiteUrl": null,
+      "currentInstagramHandle": null,
+      "status": "attempted",
+      "lastBatchId": "007"
+    },
+    {
+      "artistSlug": "torii-miki",
+      "nameJa": "鳥居美希",
+      "nameEn": "Torii Miki",
+      "currentSourceCount": 4,
+      "currentWebsiteUrl": null,
+      "currentInstagramHandle": null,
+      "status": "attempted",
+      "lastBatchId": "007"
+    },
+    {
+      "artistSlug": "yamada-yoji",
+      "nameJa": "山田洋次",
+      "nameEn": "Yamada Yoji",
+      "currentSourceCount": 4,
+      "currentWebsiteUrl": null,
+      "currentInstagramHandle": "yamadyoji",
+      "status": "completed",
+      "lastBatchId": "004"
+    },
+    {
+      "artistSlug": "yoshikawa-yuko",
+      "nameJa": "吉川裕子",
+      "nameEn": "Yoshikawa Yuko",
+      "currentSourceCount": 4,
+      "currentWebsiteUrl": null,
+      "currentInstagramHandle": "yucomeva",
+      "status": "completed",
+      "lastBatchId": "004"
+    },
+    {
+      "artistSlug": "inoue-manji",
+      "nameJa": "井上萬二",
+      "nameEn": "Inoue Manji",
+      "currentSourceCount": 4,
+      "currentWebsiteUrl": "https://manjiinoue.com",
+      "currentInstagramHandle": null,
+      "status": "completed",
+      "lastBatchId": "004"
+    },
+    {
+      "artistSlug": "imaizumi-imaemon-xiii",
+      "nameJa": "十三代今泉今右衛門",
+      "nameEn": "Imaizumi Imaemon XIII",
+      "currentSourceCount": 3,
+      "currentWebsiteUrl": "https://imaemon.co.jp",
+      "currentInstagramHandle": null,
+      "status": "attempted",
+      "lastBatchId": "007"
+    },
+    {
+      "artistSlug": "kinjo-jiro",
+      "nameJa": "金城次郎",
+      "nameEn": "Kinjo Jiro",
+      "currentSourceCount": 4,
+      "currentWebsiteUrl": "https://www.kinjojirokan.com/",
+      "currentInstagramHandle": null,
+      "status": "completed",
+      "lastBatchId": "004"
+    },
+    {
+      "artistSlug": "miwa-kyuwa",
+      "nameJa": "三輪休和",
+      "nameEn": "Miwa Kyuwa",
+      "currentSourceCount": 4,
+      "currentWebsiteUrl": "https://www.hagiyaki-miwa.com/",
+      "currentInstagramHandle": null,
+      "status": "completed",
+      "lastBatchId": "004"
+    },
+    {
+      "artistSlug": "iwakiri-shuo",
+      "nameJa": "岩切秀央",
+      "nameEn": "Iwakiri Shuo",
+      "currentSourceCount": 5,
+      "currentWebsiteUrl": null,
+      "currentInstagramHandle": "shuo_iwakiri",
+      "status": "attempted",
+      "lastBatchId": "007"
+    },
+    {
+      "artistSlug": "shuno-maki",
+      "nameJa": "秀野真希",
+      "nameEn": "Shuno Maki",
+      "currentSourceCount": 4,
+      "currentWebsiteUrl": null,
+      "currentInstagramHandle": "maki_shuno",
+      "status": "attempted",
+      "lastBatchId": "007"
+    },
+    {
+      "artistSlug": "ueda-yuji",
+      "nameJa": "上田勇二",
+      "nameEn": "Ueda Yuji",
+      "currentSourceCount": 5,
+      "currentWebsiteUrl": null,
+      "currentInstagramHandle": "yuji____ueda",
+      "status": "attempted",
+      "lastBatchId": "007"
+    },
+    {
+      "artistSlug": "takeuchi-shingo",
+      "nameJa": "竹内真吾",
+      "nameEn": "Takeuchi Shingo",
+      "currentSourceCount": 5,
+      "currentWebsiteUrl": null,
+      "currentInstagramHandle": "shingo_takeuchi_",
+      "status": "attempted",
+      "lastBatchId": "007"
+    },
+    {
+      "artistSlug": "inayoshi-yoshimitsu",
+      "nameJa": "稲吉善光",
+      "nameEn": "Inayoshi Yoshimitsu",
+      "currentSourceCount": 5,
+      "currentWebsiteUrl": null,
+      "currentInstagramHandle": "yoshimitsu_inayoshi",
+      "status": "attempted",
+      "lastBatchId": "008"
+    },
+    {
+      "artistSlug": "sato-naomichi",
+      "nameJa": "佐藤尚理",
+      "nameEn": "Sato Naomichi",
+      "currentSourceCount": 7,
+      "currentWebsiteUrl": null,
+      "currentInstagramHandle": "bonoho_",
+      "status": "attempted",
+      "lastBatchId": "008"
+    },
+    {
+      "artistSlug": "ujiie-kodai",
+      "nameJa": "氏家昂大",
+      "nameEn": "Ujiie Kodai",
+      "currentSourceCount": 3,
+      "currentWebsiteUrl": "https://kodaiujiie.com",
+      "currentInstagramHandle": "koudaiujiie",
+      "status": "attempted",
+      "lastBatchId": "008"
+    },
+    {
+      "artistSlug": "fukumura-ryuta",
+      "nameJa": "福村龍太",
+      "nameEn": "Fukumura Ryuta",
+      "currentSourceCount": 3,
+      "currentWebsiteUrl": "https://ryutagama.com",
+      "currentInstagramHandle": "ryutafukumura",
+      "status": "attempted",
+      "lastBatchId": "008"
+    },
+    {
+      "artistSlug": "kuwata-takuro",
+      "nameJa": "桑田卓郎",
+      "nameEn": "Kuwata Takuro",
+      "currentSourceCount": 6,
+      "currentWebsiteUrl": "https://takurokuwata.com",
+      "currentInstagramHandle": null,
+      "status": "completed",
+      "lastBatchId": "005"
+    },
+    {
+      "artistSlug": "kato-ai",
+      "nameJa": "加藤あゐ",
+      "nameEn": "Kato Ai",
+      "currentSourceCount": 3,
+      "currentWebsiteUrl": "https://ai-kato.com",
+      "currentInstagramHandle": "ai.kato_",
+      "status": "attempted",
+      "lastBatchId": "008"
+    },
+    {
+      "artistSlug": "uchida-kaori",
+      "nameJa": "内田可織",
+      "nameEn": "Uchida Kaori",
+      "currentSourceCount": 4,
+      "currentWebsiteUrl": "https://uchidakaori.com",
+      "currentInstagramHandle": null,
+      "status": "attempted",
+      "lastBatchId": "008"
+    }
+  ]
+}

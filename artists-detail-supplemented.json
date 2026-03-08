@@ -957,7 +957,16 @@
         "title": "KOHORO 鈴木敬子 展",
         "url": "https://kohoro.jp/blogs/futako_info/202602suzukikeikoten",
         "type": "电商/展讯"
+      },
+      {
+        "title": "Wikipedia - 鈴木敬子",
+        "url": "https://ja.wikipedia.org/wiki/%E9%88%B4%E6%9C%A8%E6%95%AC%E5%AD%90",
+        "type": "百科",
+        "accessedAt": "2026-03-08"
       }
+    ],
+    "patchNotes": [
+      "罗马字检索批次003补充来源"
     ]
   },
   {
@@ -1100,7 +1109,16 @@
         "title": "桑田卓郎 公式网站",
         "url": "https://takurokuwata.com",
         "type": "作家官网"
+      },
+      {
+        "title": "Wikipedia - 桑田卓郎",
+        "url": "https://ja.wikipedia.org/wiki/%E6%A1%91%E7%94%B0%E5%8D%93%E9%83%8E",
+        "type": "百科",
+        "accessedAt": "2026-03-08"
       }
+    ],
+    "patchNotes": [
+      "罗马字检索批次005补充来源"
     ]
   },
   {
@@ -1136,7 +1154,7 @@
       }
     ],
     "instagramHandle": "watanabe.takayuki",
-    "websiteUrl": null,
+    "websiteUrl": "https://watanabetakayuki.com/",
     "sources": [
       {
         "title": "filament 作家档案",
@@ -1154,7 +1172,17 @@
         "title": "渡辺隆之 公式サイト",
         "url": "https://watanabetakayuki.com/",
         "type": "作家官网"
+      },
+      {
+        "title": "Wikipedia - 渡辺隆之",
+        "url": "https://ja.wikipedia.org/wiki/%E6%B8%A1%E8%BE%BA%E9%9A%86%E4%B9%8B",
+        "type": "百科",
+        "accessedAt": "2026-03-08"
       }
+    ],
+    "patchNotes": [
+      "根据官方来源标题自动回填 websiteUrl",
+      "罗马字检索批次005补充来源"
     ]
   },
   {
@@ -1196,8 +1224,8 @@
         "venue": "堺市"
       }
     ],
-    "instagramHandle": null,
-    "websiteUrl": null,
+    "instagramHandle": "toru_hatta",
+    "websiteUrl": "https://hattatoru.com/",
     "sources": [
       {
         "title": "Discover Japan - 八田亨介绍",
@@ -1214,13 +1242,37 @@
       {
         "title": "チルチンびと広場 八田亨",
         "url": "https://www.chilchinbito-hiroba.jp/shop/27_04_0024/",
+        "accessedAt": "2026-03-08",
         "type": "生活方式媒体"
       },
       {
         "title": "PAPERSKY Hatta Toru",
         "url": "https://paperc.info/on-site/wu20_toru-hatta",
+        "accessedAt": "2026-03-08",
         "type": "生活方式媒体"
+      },
+      {
+        "title": "HATTA TORU Official Profile",
+        "url": "https://hattatoru.com/profile.html",
+        "accessedAt": "2026-03-08",
+        "type": "作家官网"
+      },
+      {
+        "title": "HATTA TORU Official Website",
+        "url": "https://hattatoru.com/",
+        "accessedAt": "2026-03-08",
+        "type": "作家官网"
+      },
+      {
+        "title": "Instagram @toru_hatta",
+        "url": "https://www.instagram.com/toru_hatta/",
+        "accessedAt": "2026-03-08",
+        "type": "社交媒体"
       }
+    ],
+    "patchNotes": [
+      "官方主页确认：大阪富田林与堺市双工房/穴窑",
+      "官方主页确认：2022 年新增第二基穴窑"
     ]
   },
   {
@@ -1522,8 +1574,24 @@
       {
         "title": "Gendai Tojiki Yuji Ueda",
         "url": "https://www.gendai-tojiki.com/44-yuji-ueda",
+        "accessedAt": "2026-03-08",
         "type": "专题资料"
+      },
+      {
+        "title": "Art Collaboration Kyoto 2022 - Yuji Ueda",
+        "url": "https://2022.a-c-k.jp/en/artworks/untitled-blum-poe-5/",
+        "accessedAt": "2026-03-08",
+        "type": "展讯媒体"
+      },
+      {
+        "title": "Moderne Gallery - Yuji Ueda",
+        "url": "https://modernegallery.com/artists/yuji-ueda/",
+        "accessedAt": "2026-03-08",
+        "type": "画廊资料"
       }
+    ],
+    "patchNotes": [
+      "罗马字检索补充：ACK 与海外画廊作家页"
     ]
   },
   {
@@ -1999,7 +2067,16 @@
         "title": "KOGEI Art Fair Kanazawa 内田鋼一",
         "url": "https://kogei-artfair.jp/artists/513/",
         "type": "机构资料"
+      },
+      {
+        "title": "Wikipedia - 内田鋼一",
+        "url": "https://ja.wikipedia.org/wiki/%E5%86%85%E7%94%B0%E9%8B%BC%E4%B8%80",
+        "type": "百科",
+        "accessedAt": "2026-03-08"
       }
+    ],
+    "patchNotes": [
+      "罗马字检索批次002补充来源"
     ]
   },
   {
@@ -2061,7 +2138,16 @@
         "url": "https://mashiko-tourism.com/interview/tomoo_hamada.php",
         "accessedAt": "2026-03-06",
         "type": "专题资料"
+      },
+      {
+        "title": "Wikipedia - 濱田友緒",
+        "url": "https://ja.wikipedia.org/wiki/%E6%BF%B1%E7%94%B0%E5%8F%8B%E7%B7%92",
+        "type": "百科",
+        "accessedAt": "2026-03-08"
       }
+    ],
+    "patchNotes": [
+      "罗马字检索批次002补充来源"
     ]
   },
   {
@@ -2124,7 +2210,16 @@
         "title": "額賀章夫 公式网站",
         "url": "https://akio-nukaga.com",
         "type": "作家官网"
+      },
+      {
+        "title": "Wikipedia - 額賀章夫",
+        "url": "https://ja.wikipedia.org/wiki/%E9%A1%8D%E8%B3%80%E7%AB%A0%E5%A4%AB",
+        "type": "百科",
+        "accessedAt": "2026-03-08"
       }
+    ],
+    "patchNotes": [
+      "罗马字检索批次005补充来源"
     ]
   },
   {
@@ -2445,7 +2540,16 @@
         "title": "Japan House London Muraki Yuji",
         "url": "https://shop.japanhouselondon.uk/makers/muraki-yuji/",
         "type": "机构资料"
+      },
+      {
+        "title": "Wikipedia - 村木雄児",
+        "url": "https://ja.wikipedia.org/wiki/%E6%9D%91%E6%9C%A8%E9%9B%84%E5%85%90",
+        "type": "百科",
+        "accessedAt": "2026-03-08"
       }
+    ],
+    "patchNotes": [
+      "罗马字检索批次002补充来源"
     ]
   },
   {
@@ -2508,7 +2612,16 @@
         "title": "ぴあ 米寿記念 人間国宝 鈴木藏展",
         "url": "https://lp.p.pia.jp/event/art/262666/index.html",
         "type": "展讯媒体"
+      },
+      {
+        "title": "Wikipedia - 鈴木藏",
+        "url": "https://ja.wikipedia.org/wiki/%E9%88%B4%E6%9C%A8%E8%97%8F",
+        "type": "百科",
+        "accessedAt": "2026-03-08"
       }
+    ],
+    "patchNotes": [
+      "罗马字检索批次002补充来源"
     ]
   },
   {
@@ -2575,7 +2688,16 @@
         "url": "https://www.artkaitori.com/artwork/%E5%82%99%E5%89%8D%E5%A3%BA/",
         "accessedAt": "2026-03-06",
         "type": "专题资料"
+      },
+      {
+        "title": "Wikipedia - 藤原雄",
+        "url": "https://ja.wikipedia.org/wiki/%E8%97%A4%E5%8E%9F%E9%9B%84",
+        "type": "百科",
+        "accessedAt": "2026-03-08"
       }
+    ],
+    "patchNotes": [
+      "罗马字检索批次002补充来源"
     ]
   },
   {
@@ -2646,7 +2768,16 @@
         "title": "井上萬二 公式网站",
         "url": "https://manjiinoue.com",
         "type": "作家官网"
+      },
+      {
+        "title": "Wikipedia - 井上萬二",
+        "url": "https://ja.wikipedia.org/wiki/%E4%BA%95%E4%B8%8A%E8%90%AC%E4%BA%8C",
+        "type": "百科",
+        "accessedAt": "2026-03-08"
       }
+    ],
+    "patchNotes": [
+      "罗马字检索批次004补充来源"
     ]
   },
   {
@@ -2780,7 +2911,16 @@
         "title": "Art Platform Japan 清水卯一 青瓷茶碗",
         "url": "https://artplatform.go.jp/ja/collections/W87500",
         "type": "机构资料"
+      },
+      {
+        "title": "Wikipedia - 清水卯一",
+        "url": "https://ja.wikipedia.org/wiki/%E6%B8%85%E6%B0%B4%E5%8D%AF%E4%B8%80",
+        "type": "百科",
+        "accessedAt": "2026-03-08"
       }
+    ],
+    "patchNotes": [
+      "罗马字检索批次002补充来源"
     ]
   },
   {
@@ -2866,7 +3006,16 @@
         "url": "https://www.imaemon.co.jp/information/imaemongama/000326.html",
         "accessedAt": "2026-03-06",
         "type": "专题资料"
+      },
+      {
+        "title": "Wikipedia - 藤本能道",
+        "url": "https://ja.wikipedia.org/wiki/%E8%97%A4%E6%9C%AC%E8%83%BD%E9%81%93",
+        "type": "百科",
+        "accessedAt": "2026-03-08"
       }
+    ],
+    "patchNotes": [
+      "罗马字检索批次002补充来源"
     ]
   },
   {
@@ -2934,7 +3083,16 @@
         "title": "Art Platform Japan 島岡達三",
         "url": "https://artplatform.go.jp/ja/artists/A3221",
         "type": "机构资料"
+      },
+      {
+        "title": "Wikipedia - 島岡達三",
+        "url": "https://ja.wikipedia.org/wiki/%E5%B3%B6%E5%B2%A1%E9%81%94%E4%B8%89",
+        "type": "百科",
+        "accessedAt": "2026-03-08"
       }
+    ],
+    "patchNotes": [
+      "罗马字检索批次002补充来源"
     ]
   },
   {
@@ -2980,7 +3138,7 @@
       }
     ],
     "instagramHandle": null,
-    "websiteUrl": null,
+    "websiteUrl": "https://www.kinjojirokan.com/",
     "sources": [
       {
         "title": "金城次郎館 公式サイト",
@@ -2999,7 +3157,17 @@
         "url": "https://www.okinawatimes.co.jp/articles/-/1095470",
         "accessedAt": "2026-03-06",
         "type": "专题资料"
+      },
+      {
+        "title": "Wikipedia - 金城次郎",
+        "url": "https://ja.wikipedia.org/wiki/%E9%87%91%E5%9F%8E%E6%AC%A1%E9%83%8E",
+        "type": "百科",
+        "accessedAt": "2026-03-08"
       }
+    ],
+    "patchNotes": [
+      "根据官方来源标题自动回填 websiteUrl",
+      "罗马字检索批次004补充来源"
     ]
   },
   {
@@ -3084,7 +3252,16 @@
         "title": "Art Platform Japan 塚本快示 白瓷高杯",
         "url": "https://artplatform.go.jp/ja/collections/W87504",
         "type": "机构资料"
+      },
+      {
+        "title": "Wikipedia - 塚本快示",
+        "url": "https://ja.wikipedia.org/wiki/%E5%A1%9A%E6%9C%AC%E5%BF%AB%E7%A4%BA",
+        "type": "百科",
+        "accessedAt": "2026-03-08"
       }
+    ],
+    "patchNotes": [
+      "罗马字检索批次002补充来源"
     ]
   },
   {
@@ -3150,7 +3327,16 @@
         "title": "Art Platform Japan 三輪壽雪 鬼萩",
         "url": "https://artplatform.go.jp/collections/W292450",
         "type": "机构资料"
+      },
+      {
+        "title": "Wikipedia - 三輪壽雪",
+        "url": "https://ja.wikipedia.org/wiki/%E4%B8%89%E8%BC%AA%E5%A3%BD%E9%9B%AA",
+        "type": "百科",
+        "accessedAt": "2026-03-08"
       }
+    ],
+    "patchNotes": [
+      "罗马字检索批次002补充来源"
     ]
   },
   {
@@ -3217,7 +3403,16 @@
         "url": "https://www.oida-art.com/archives/works/w7848",
         "accessedAt": "2026-03-06",
         "type": "专题资料"
+      },
+      {
+        "title": "Wikipedia - 山本陶秀",
+        "url": "https://ja.wikipedia.org/wiki/%E5%B1%B1%E6%9C%AC%E9%99%B6%E7%A7%80",
+        "type": "百科",
+        "accessedAt": "2026-03-08"
       }
+    ],
+    "patchNotes": [
+      "罗马字检索批次002补充来源"
     ]
   },
   {
@@ -3286,7 +3481,16 @@
         "url": "https://kurodatouen.com/gallerydata/311",
         "accessedAt": "2026-03-06",
         "type": "画廊资料"
+      },
+      {
+        "title": "Wikipedia - 加藤土師萌",
+        "url": "https://ja.wikipedia.org/wiki/%E5%8A%A0%E8%97%A4%E5%9C%9F%E5%B8%AB%E8%90%8C",
+        "type": "百科",
+        "accessedAt": "2026-03-08"
       }
+    ],
+    "patchNotes": [
+      "罗马字检索批次004补充来源"
     ]
   },
   {
@@ -3352,7 +3556,16 @@
         "url": "https://www.oida-art.com/archives/works/w12390",
         "accessedAt": "2026-03-06",
         "type": "专题资料"
+      },
+      {
+        "title": "Wikipedia - 藤原啓",
+        "url": "https://ja.wikipedia.org/wiki/%E8%97%A4%E5%8E%9F%E5%95%93",
+        "type": "百科",
+        "accessedAt": "2026-03-08"
       }
+    ],
+    "patchNotes": [
+      "罗马字检索批次002补充来源"
     ]
   },
   {
@@ -3419,7 +3632,16 @@
         "url": "https://artplatform.go.jp/ja/collections/W1132124",
         "accessedAt": "2026-03-06",
         "type": "官方资料"
+      },
+      {
+        "title": "Wikipedia - 金重陶陽",
+        "url": "https://ja.wikipedia.org/wiki/%E9%87%91%E9%87%8D%E9%99%B6%E9%99%BD",
+        "type": "百科",
+        "accessedAt": "2026-03-08"
       }
+    ],
+    "patchNotes": [
+      "罗马字检索批次002补充来源"
     ]
   },
   {
@@ -3461,7 +3683,7 @@
       }
     ],
     "instagramHandle": null,
-    "websiteUrl": null,
+    "websiteUrl": "https://www.hagiyaki-miwa.com/",
     "sources": [
       {
         "title": "三輪窯 公式サイト",
@@ -3480,7 +3702,17 @@
         "url": "https://hum-web.jp/",
         "accessedAt": "2026-03-06",
         "type": "专题资料"
+      },
+      {
+        "title": "Wikipedia - 三輪休和",
+        "url": "https://ja.wikipedia.org/wiki/%E4%B8%89%E8%BC%AA%E4%BC%91%E5%92%8C",
+        "type": "百科",
+        "accessedAt": "2026-03-08"
       }
+    ],
+    "patchNotes": [
+      "根据官方来源标题自动回填 websiteUrl",
+      "罗马字检索批次004补充来源"
     ]
   },
   {
@@ -3548,7 +3780,16 @@
         "title": "Art Platform Japan 中里無庵 唐津井戸茶盌",
         "url": "https://artplatform.go.jp/ja/collections/W86921",
         "type": "机构资料"
+      },
+      {
+        "title": "Wikipedia - 中里無庵",
+        "url": "https://ja.wikipedia.org/wiki/%E4%B8%AD%E9%87%8C%E7%84%A1%E5%BA%B5",
+        "type": "百科",
+        "accessedAt": "2026-03-08"
       }
+    ],
+    "patchNotes": [
+      "罗马字检索批次002补充来源"
     ]
   },
   {
@@ -3677,7 +3918,16 @@
         "title": "日本民藝館 濱田庄司作品",
         "url": "https://mingeikan.or.jp/collection_series/hamada_shoji/",
         "type": "机构资料"
+      },
+      {
+        "title": "Wikipedia - 濱田庄司",
+        "url": "https://ja.wikipedia.org/wiki/%E6%BF%B1%E7%94%B0%E5%BA%84%E5%8F%B8",
+        "type": "百科",
+        "accessedAt": "2026-03-08"
       }
+    ],
+    "patchNotes": [
+      "罗马字检索批次003补充来源"
     ]
   },
   {
@@ -3753,7 +4003,16 @@
         "title": "新湊博物館 石黒宗麿",
         "url": "https://shinminato-museum.jp/docs/mune/",
         "type": "官方资料"
+      },
+      {
+        "title": "Wikipedia - 石黒宗麿",
+        "url": "https://ja.wikipedia.org/wiki/%E7%9F%B3%E9%BB%92%E5%AE%97%E9%BA%BF",
+        "type": "百科",
+        "accessedAt": "2026-03-08"
       }
+    ],
+    "patchNotes": [
+      "罗马字检索批次003补充来源"
     ]
   },
   {
@@ -3813,7 +4072,16 @@
         "title": "Art Platform Japan 富本憲吉案 富泉蓋物",
         "url": "https://artplatform.go.jp/collections/W1154978",
         "type": "机构资料"
+      },
+      {
+        "title": "Wikipedia - 富本憲吉",
+        "url": "https://ja.wikipedia.org/wiki/%E5%AF%8C%E6%9C%AC%E6%86%B2%E5%90%89",
+        "type": "百科",
+        "accessedAt": "2026-03-08"
       }
+    ],
+    "patchNotes": [
+      "罗马字检索批次003补充来源"
     ]
   },
   {
@@ -4696,7 +4964,16 @@
         "title": "小川彩 公式网站",
         "url": "https://ayaogawa.net",
         "type": "作家官网"
+      },
+      {
+        "title": "Wikipedia - 小川彩",
+        "url": "https://ja.wikipedia.org/wiki/%E5%B0%8F%E5%B7%9D%E5%BD%A9",
+        "type": "百科",
+        "accessedAt": "2026-03-08"
       }
+    ],
+    "patchNotes": [
+      "罗马字检索批次005补充来源"
     ]
   },
   {
@@ -5179,7 +5456,16 @@
         "title": "山田洋次の器 Contact",
         "url": "https://yamayo-pottery.com/contact/",
         "type": "作家官网"
+      },
+      {
+        "title": "Wikipedia - 山田洋次",
+        "url": "https://ja.wikipedia.org/wiki/%E5%B1%B1%E7%94%B0%E6%B4%8B%E6%AC%A1",
+        "type": "百科",
+        "accessedAt": "2026-03-08"
       }
+    ],
+    "patchNotes": [
+      "罗马字检索批次004补充来源"
     ]
   },
   {
@@ -5300,7 +5586,16 @@
         "title": "iichi 吉川裕子 プロフィール",
         "url": "https://www.iichi.com/shop/A1720259/profile",
         "type": "作家资料"
+      },
+      {
+        "title": "Wikipedia - 吉川裕子",
+        "url": "https://ja.wikipedia.org/wiki/%E5%90%89%E5%B7%9D%E8%A3%95%E5%AD%90",
+        "type": "百科",
+        "accessedAt": "2026-03-08"
       }
+    ],
+    "patchNotes": [
+      "罗马字检索批次004补充来源"
     ]
   }
 ]

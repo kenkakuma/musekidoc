@@ -1,0 +1,212 @@
+[
+  {
+    "artistSlug": "iguchi-daisuke",
+    "nameJa": "井口大輔",
+    "nameEn": "Iguchi Daisuke",
+    "query": "\"Iguchi Daisuke\" pottery profile official",
+    "candidateLinks": [],
+    "selectedSource": null,
+    "status": "no_source_found"
+  },
+  {
+    "artistSlug": "yoshizawa-hiro",
+    "nameJa": "吉沢寛郎",
+    "nameEn": "Yoshizawa Hiro",
+    "query": "\"Yoshizawa Hiro\" pottery profile official",
+    "candidateLinks": [],
+    "selectedSource": null,
+    "status": "no_source_found"
+  },
+  {
+    "artistSlug": "ishihara-toshihisa",
+    "nameJa": "石原稔久",
+    "nameEn": "Ishihara Toshihisa",
+    "query": "\"Ishihara Toshihisa\" pottery profile official",
+    "candidateLinks": [],
+    "selectedSource": null,
+    "status": "no_source_found"
+  },
+  {
+    "artistSlug": "kameda-fumi",
+    "nameJa": "亀田文",
+    "nameEn": "Kameda Fumi",
+    "query": "\"Kameda Fumi\" pottery profile official",
+    "candidateLinks": [],
+    "selectedSource": null,
+    "status": "no_source_found"
+  },
+  {
+    "artistSlug": "ishikawa-wakahiko",
+    "nameJa": "石川若彦",
+    "nameEn": "Ishikawa Wakahiko",
+    "query": "\"Ishikawa Wakahiko\" pottery profile official",
+    "candidateLinks": [],
+    "selectedSource": null,
+    "status": "no_source_found"
+  },
+  {
+    "artistSlug": "ogata-atsushi",
+    "nameJa": "尾形アツシ",
+    "nameEn": "Ogata Atsushi",
+    "query": "\"Ogata Atsushi\" pottery profile official",
+    "candidateLinks": [],
+    "selectedSource": null,
+    "status": "no_source_found"
+  },
+  {
+    "artistSlug": "kato-hajime",
+    "nameJa": "加藤土師萌",
+    "nameEn": "Kato Hajime",
+    "query": "\"Kato Hajime\" pottery profile official",
+    "candidateLinks": [],
+    "selectedSource": {
+      "title": "Wikipedia - 加藤土師萌",
+      "url": "https://ja.wikipedia.org/wiki/%E5%8A%A0%E8%97%A4%E5%9C%9F%E5%B8%AB%E8%90%8C",
+      "type": "百科",
+      "accessedAt": "2026-03-08"
+    },
+    "status": "updated"
+  },
+  {
+    "artistSlug": "endo-takashi",
+    "nameJa": "遠藤岳",
+    "nameEn": "Endo Takashi",
+    "query": "\"Endo Takashi\" pottery profile official",
+    "candidateLinks": [],
+    "selectedSource": null,
+    "status": "no_source_found"
+  },
+  {
+    "artistSlug": "goshima-honami",
+    "nameJa": "五嶋穂波",
+    "nameEn": "Goshima Honami",
+    "query": "\"Goshima Honami\" pottery profile official",
+    "candidateLinks": [],
+    "selectedSource": null,
+    "status": "no_source_found"
+  },
+  {
+    "artistSlug": "iwasaki-ryuji",
+    "nameJa": "岩崎龙二",
+    "nameEn": "Iwasaki Ryuji",
+    "query": "\"Iwasaki Ryuji\" pottery profile official",
+    "candidateLinks": [],
+    "selectedSource": null,
+    "status": "no_source_found"
+  },
+  {
+    "artistSlug": "narita-shuhei",
+    "nameJa": "成田周平",
+    "nameEn": "Narita Shuhei",
+    "query": "\"Narita Shuhei\" pottery profile official",
+    "candidateLinks": [],
+    "selectedSource": null,
+    "status": "no_source_found"
+  },
+  {
+    "artistSlug": "sato-akari",
+    "nameJa": "佐藤朱理",
+    "nameEn": "Sato Akari",
+    "query": "\"Sato Akari\" pottery profile official",
+    "candidateLinks": [],
+    "selectedSource": null,
+    "status": "no_source_found"
+  },
+  {
+    "artistSlug": "takada-kae",
+    "nameJa": "高田かえ",
+    "nameEn": "Takada Kae",
+    "query": "\"Takada Kae\" pottery profile official",
+    "candidateLinks": [],
+    "selectedSource": null,
+    "status": "no_source_found"
+  },
+  {
+    "artistSlug": "torii-miki",
+    "nameJa": "鳥居美希",
+    "nameEn": "Torii Miki",
+    "query": "\"Torii Miki\" pottery profile official",
+    "candidateLinks": [],
+    "selectedSource": null,
+    "status": "no_source_found"
+  },
+  {
+    "artistSlug": "yamada-yoji",
+    "nameJa": "山田洋次",
+    "nameEn": "Yamada Yoji",
+    "query": "\"Yamada Yoji\" pottery profile official",
+    "candidateLinks": [],
+    "selectedSource": {
+      "title": "Wikipedia - 山田洋次",
+      "url": "https://ja.wikipedia.org/wiki/%E5%B1%B1%E7%94%B0%E6%B4%8B%E6%AC%A1",
+      "type": "百科",
+      "accessedAt": "2026-03-08"
+    },
+    "status": "updated"
+  },
+  {
+    "artistSlug": "yoshikawa-yuko",
+    "nameJa": "吉川裕子",
+    "nameEn": "Yoshikawa Yuko",
+    "query": "\"Yoshikawa Yuko\" pottery profile official",
+    "candidateLinks": [],
+    "selectedSource": {
+      "title": "Wikipedia - 吉川裕子",
+      "url": "https://ja.wikipedia.org/wiki/%E5%90%89%E5%B7%9D%E8%A3%95%E5%AD%90",
+      "type": "百科",
+      "accessedAt": "2026-03-08"
+    },
+    "status": "updated"
+  },
+  {
+    "artistSlug": "inoue-manji",
+    "nameJa": "井上萬二",
+    "nameEn": "Inoue Manji",
+    "query": "\"Inoue Manji\" pottery profile official",
+    "candidateLinks": [],
+    "selectedSource": {
+      "title": "Wikipedia - 井上萬二",
+      "url": "https://ja.wikipedia.org/wiki/%E4%BA%95%E4%B8%8A%E8%90%AC%E4%BA%8C",
+      "type": "百科",
+      "accessedAt": "2026-03-08"
+    },
+    "status": "updated"
+  },
+  {
+    "artistSlug": "imaizumi-imaemon-xiii",
+    "nameJa": "十三代今泉今右衛門",
+    "nameEn": "Imaizumi Imaemon XIII",
+    "query": "\"Imaizumi Imaemon XIII\" pottery profile official",
+    "candidateLinks": [],
+    "selectedSource": null,
+    "status": "no_source_found"
+  },
+  {
+    "artistSlug": "kinjo-jiro",
+    "nameJa": "金城次郎",
+    "nameEn": "Kinjo Jiro",
+    "query": "\"Kinjo Jiro\" pottery profile official",
+    "candidateLinks": [],
+    "selectedSource": {
+      "title": "Wikipedia - 金城次郎",
+      "url": "https://ja.wikipedia.org/wiki/%E9%87%91%E5%9F%8E%E6%AC%A1%E9%83%8E",
+      "type": "百科",
+      "accessedAt": "2026-03-08"
+    },
+    "status": "updated"
+  },
+  {
+    "artistSlug": "miwa-kyuwa",
+    "nameJa": "三輪休和",
+    "nameEn": "Miwa Kyuwa",
+    "query": "\"Miwa Kyuwa\" pottery profile official",
+    "candidateLinks": [],
+    "selectedSource": {
+      "title": "Wikipedia - 三輪休和",
+      "url": "https://ja.wikipedia.org/wiki/%E4%B8%89%E8%BC%AA%E4%BC%91%E5%92%8C",
+      "type": "百科",
+      "accessedAt": "2026-03-08"
+    },
+    "status": "updated"
+  }
+]

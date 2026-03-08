@@ -1,0 +1,202 @@
+[
+  {
+    "artistSlug": "iwakiri-shuo",
+    "nameJa": "岩切秀央",
+    "nameEn": "Iwakiri Shuo",
+    "query": "\"Iwakiri Shuo\" pottery profile official",
+    "candidateLinks": [],
+    "selectedSource": null,
+    "status": "no_source_found"
+  },
+  {
+    "artistSlug": "shuno-maki",
+    "nameJa": "秀野真希",
+    "nameEn": "Shuno Maki",
+    "query": "\"Shuno Maki\" pottery profile official",
+    "candidateLinks": [],
+    "selectedSource": null,
+    "status": "no_source_found"
+  },
+  {
+    "artistSlug": "ueda-yuji",
+    "nameJa": "上田勇二",
+    "nameEn": "Ueda Yuji",
+    "query": "\"Ueda Yuji\" pottery profile official",
+    "candidateLinks": [],
+    "selectedSource": null,
+    "status": "no_source_found"
+  },
+  {
+    "artistSlug": "takeuchi-shingo",
+    "nameJa": "竹内真吾",
+    "nameEn": "Takeuchi Shingo",
+    "query": "\"Takeuchi Shingo\" pottery profile official",
+    "candidateLinks": [],
+    "selectedSource": null,
+    "status": "no_source_found"
+  },
+  {
+    "artistSlug": "inayoshi-yoshimitsu",
+    "nameJa": "稲吉善光",
+    "nameEn": "Inayoshi Yoshimitsu",
+    "query": "\"Inayoshi Yoshimitsu\" pottery profile official",
+    "candidateLinks": [],
+    "selectedSource": null,
+    "status": "no_source_found"
+  },
+  {
+    "artistSlug": "sato-naomichi",
+    "nameJa": "佐藤尚理",
+    "nameEn": "Sato Naomichi",
+    "query": "\"Sato Naomichi\" pottery profile official",
+    "candidateLinks": [],
+    "selectedSource": null,
+    "status": "no_source_found"
+  },
+  {
+    "artistSlug": "ujiie-kodai",
+    "nameJa": "氏家昂大",
+    "nameEn": "Ujiie Kodai",
+    "query": "\"Ujiie Kodai\" pottery profile official",
+    "candidateLinks": [],
+    "selectedSource": null,
+    "status": "no_source_found"
+  },
+  {
+    "artistSlug": "fukumura-ryuta",
+    "nameJa": "福村龍太",
+    "nameEn": "Fukumura Ryuta",
+    "query": "\"Fukumura Ryuta\" pottery profile official",
+    "candidateLinks": [],
+    "selectedSource": null,
+    "status": "no_source_found"
+  },
+  {
+    "artistSlug": "kuwata-takuro",
+    "nameJa": "桑田卓郎",
+    "nameEn": "Kuwata Takuro",
+    "query": "\"Kuwata Takuro\" pottery profile official",
+    "candidateLinks": [],
+    "selectedSource": {
+      "title": "Wikipedia - 桑田卓郎",
+      "url": "https://ja.wikipedia.org/wiki/%E6%A1%91%E7%94%B0%E5%8D%93%E9%83%8E",
+      "type": "百科",
+      "accessedAt": "2026-03-08"
+    },
+    "status": "updated"
+  },
+  {
+    "artistSlug": "watanabe-takayuki",
+    "nameJa": "渡辺隆之",
+    "nameEn": "Watanabe Takayuki",
+    "query": "\"Watanabe Takayuki\" pottery profile official",
+    "candidateLinks": [],
+    "selectedSource": {
+      "title": "Wikipedia - 渡辺隆之",
+      "url": "https://ja.wikipedia.org/wiki/%E6%B8%A1%E8%BE%BA%E9%9A%86%E4%B9%8B",
+      "type": "百科",
+      "accessedAt": "2026-03-08"
+    },
+    "status": "updated"
+  },
+  {
+    "artistSlug": "nukaga-akio",
+    "nameJa": "額賀章夫",
+    "nameEn": "Nukaga Akio",
+    "query": "\"Nukaga Akio\" pottery profile official",
+    "candidateLinks": [],
+    "selectedSource": {
+      "title": "Wikipedia - 額賀章夫",
+      "url": "https://ja.wikipedia.org/wiki/%E9%A1%8D%E8%B3%80%E7%AB%A0%E5%A4%AB",
+      "type": "百科",
+      "accessedAt": "2026-03-08"
+    },
+    "status": "updated"
+  },
+  {
+    "artistSlug": "kato-ai",
+    "nameJa": "加藤あゐ",
+    "nameEn": "Kato Ai",
+    "query": "\"Kato Ai\" pottery profile official",
+    "candidateLinks": [],
+    "selectedSource": null,
+    "status": "no_source_found"
+  },
+  {
+    "artistSlug": "ogawa-aya",
+    "nameJa": "小川彩",
+    "nameEn": "Ogawa Aya",
+    "query": "\"Ogawa Aya\" pottery profile official",
+    "candidateLinks": [],
+    "selectedSource": {
+      "title": "Wikipedia - 小川彩",
+      "url": "https://ja.wikipedia.org/wiki/%E5%B0%8F%E5%B7%9D%E5%BD%A9",
+      "type": "百科",
+      "accessedAt": "2026-03-08"
+    },
+    "status": "updated"
+  },
+  {
+    "artistSlug": "uchida-kaori",
+    "nameJa": "内田可織",
+    "nameEn": "Uchida Kaori",
+    "query": "\"Uchida Kaori\" pottery profile official",
+    "candidateLinks": [],
+    "selectedSource": null,
+    "status": "no_source_found"
+  },
+  {
+    "artistSlug": "hashimoto-tomonari",
+    "nameJa": "橋本知成",
+    "nameEn": "Hashimoto Tomonari",
+    "query": "\"Hashimoto Tomonari\" pottery profile official",
+    "candidateLinks": [],
+    "selectedSource": null,
+    "status": "no_source_found"
+  },
+  {
+    "artistSlug": "sakai-tomoya",
+    "nameJa": "酒井智也",
+    "nameEn": "Sakai Tomoya",
+    "query": "\"Sakai Tomoya\" pottery profile official",
+    "candidateLinks": [],
+    "selectedSource": null,
+    "status": "no_source_found"
+  },
+  {
+    "artistSlug": "segawa-yuta",
+    "nameJa": "瀬川裕太",
+    "nameEn": "Segawa Yuta",
+    "query": "\"Segawa Yuta\" pottery profile official",
+    "candidateLinks": [],
+    "selectedSource": null,
+    "status": "no_source_found"
+  },
+  {
+    "artistSlug": "ishida-kazuya",
+    "nameJa": "石田和也",
+    "nameEn": "Ishida Kazuya",
+    "query": "\"Ishida Kazuya\" pottery profile official",
+    "candidateLinks": [],
+    "selectedSource": null,
+    "status": "no_source_found"
+  },
+  {
+    "artistSlug": "hatta-toru",
+    "nameJa": "八田亨",
+    "nameEn": "Hatta Toru",
+    "query": "\"Hatta Toru\" pottery profile official",
+    "candidateLinks": [],
+    "selectedSource": null,
+    "status": "no_source_found"
+  },
+  {
+    "artistSlug": "otani-tetsuya",
+    "nameJa": "大谷哲也",
+    "nameEn": "Otani Tetsuya",
+    "query": "\"Otani Tetsuya\" pottery profile official",
+    "candidateLinks": [],
+    "selectedSource": null,
+    "status": "no_source_found"
+  }
+]

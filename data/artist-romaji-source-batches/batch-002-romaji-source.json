@@ -1,0 +1,252 @@
+[
+  {
+    "artistSlug": "kurokawa-toru",
+    "nameJa": "黒川徹",
+    "nameEn": "Kurokawa Toru",
+    "query": "\"Kurokawa Toru\" pottery profile official",
+    "candidateLinks": [],
+    "selectedSource": null,
+    "status": "no_source_found"
+  },
+  {
+    "artistSlug": "iwata-tetsuhiro",
+    "nameJa": "岩田哲宏",
+    "nameEn": "Iwata Tetsuhiro",
+    "query": "\"Iwata Tetsuhiro\" pottery profile official",
+    "candidateLinks": [],
+    "selectedSource": null,
+    "status": "no_source_found"
+  },
+  {
+    "artistSlug": "atsukawa-fumiko",
+    "nameJa": "厚川文子",
+    "nameEn": "Atsukawa Fumiko",
+    "query": "\"Atsukawa Fumiko\" pottery profile official",
+    "candidateLinks": [],
+    "selectedSource": null,
+    "status": "no_source_found"
+  },
+  {
+    "artistSlug": "tazuruhama-morito",
+    "nameJa": "田鶴濱守人",
+    "nameEn": "Tazuruhama Morito",
+    "query": "\"Tazuruhama Morito\" pottery profile official",
+    "candidateLinks": [],
+    "selectedSource": null,
+    "status": "no_source_found"
+  },
+  {
+    "artistSlug": "kaketani-yasuki",
+    "nameJa": "掛谷康樹",
+    "nameEn": "Kaketani Yasuki",
+    "query": "\"Kaketani Yasuki\" pottery profile official",
+    "candidateLinks": [],
+    "selectedSource": null,
+    "status": "no_source_found"
+  },
+  {
+    "artistSlug": "uchida-koichi",
+    "nameJa": "内田鋼一",
+    "nameEn": "Uchida Koichi",
+    "query": "\"Uchida Koichi\" pottery profile official",
+    "candidateLinks": [],
+    "selectedSource": {
+      "title": "Wikipedia - 内田鋼一",
+      "url": "https://ja.wikipedia.org/wiki/%E5%86%85%E7%94%B0%E9%8B%BC%E4%B8%80",
+      "type": "百科",
+      "accessedAt": "2026-03-08"
+    },
+    "status": "updated"
+  },
+  {
+    "artistSlug": "hamada-tomoo",
+    "nameJa": "濱田友緒",
+    "nameEn": "Hamada Tomoo",
+    "query": "\"Hamada Tomoo\" pottery profile official",
+    "candidateLinks": [],
+    "selectedSource": {
+      "title": "Wikipedia - 濱田友緒",
+      "url": "https://ja.wikipedia.org/wiki/%E6%BF%B1%E7%94%B0%E5%8F%8B%E7%B7%92",
+      "type": "百科",
+      "accessedAt": "2026-03-08"
+    },
+    "status": "updated"
+  },
+  {
+    "artistSlug": "muraki-yuji",
+    "nameJa": "村木雄児",
+    "nameEn": "Muraki Yuji",
+    "query": "\"Muraki Yuji\" pottery profile official",
+    "candidateLinks": [],
+    "selectedSource": {
+      "title": "Wikipedia - 村木雄児",
+      "url": "https://ja.wikipedia.org/wiki/%E6%9D%91%E6%9C%A8%E9%9B%84%E5%85%90",
+      "type": "百科",
+      "accessedAt": "2026-03-08"
+    },
+    "status": "updated"
+  },
+  {
+    "artistSlug": "suzuki-osamu",
+    "nameJa": "鈴木藏",
+    "nameEn": "Suzuki Osamu",
+    "query": "\"Suzuki Osamu\" pottery profile official",
+    "candidateLinks": [],
+    "selectedSource": {
+      "title": "Wikipedia - 鈴木藏",
+      "url": "https://ja.wikipedia.org/wiki/%E9%88%B4%E6%9C%A8%E8%97%8F",
+      "type": "百科",
+      "accessedAt": "2026-03-08"
+    },
+    "status": "updated"
+  },
+  {
+    "artistSlug": "fujiwara-yu",
+    "nameJa": "藤原雄",
+    "nameEn": "Fujiwara Yu",
+    "query": "\"Fujiwara Yu\" pottery profile official",
+    "candidateLinks": [],
+    "selectedSource": {
+      "title": "Wikipedia - 藤原雄",
+      "url": "https://ja.wikipedia.org/wiki/%E8%97%A4%E5%8E%9F%E9%9B%84",
+      "type": "百科",
+      "accessedAt": "2026-03-08"
+    },
+    "status": "updated"
+  },
+  {
+    "artistSlug": "shimizu-uichi",
+    "nameJa": "清水卯一",
+    "nameEn": "Shimizu Uichi",
+    "query": "\"Shimizu Uichi\" pottery profile official",
+    "candidateLinks": [],
+    "selectedSource": {
+      "title": "Wikipedia - 清水卯一",
+      "url": "https://ja.wikipedia.org/wiki/%E6%B8%85%E6%B0%B4%E5%8D%AF%E4%B8%80",
+      "type": "百科",
+      "accessedAt": "2026-03-08"
+    },
+    "status": "updated"
+  },
+  {
+    "artistSlug": "fujimoto-yoshimichi",
+    "nameJa": "藤本能道",
+    "nameEn": "Fujimoto Yoshimichi",
+    "query": "\"Fujimoto Yoshimichi\" pottery profile official",
+    "candidateLinks": [],
+    "selectedSource": {
+      "title": "Wikipedia - 藤本能道",
+      "url": "https://ja.wikipedia.org/wiki/%E8%97%A4%E6%9C%AC%E8%83%BD%E9%81%93",
+      "type": "百科",
+      "accessedAt": "2026-03-08"
+    },
+    "status": "updated"
+  },
+  {
+    "artistSlug": "shimaoka-tatsuzo",
+    "nameJa": "島岡達三",
+    "nameEn": "Shimaoka Tatsuzo",
+    "query": "\"Shimaoka Tatsuzo\" pottery profile official",
+    "candidateLinks": [],
+    "selectedSource": {
+      "title": "Wikipedia - 島岡達三",
+      "url": "https://ja.wikipedia.org/wiki/%E5%B3%B6%E5%B2%A1%E9%81%94%E4%B8%89",
+      "type": "百科",
+      "accessedAt": "2026-03-08"
+    },
+    "status": "updated"
+  },
+  {
+    "artistSlug": "tsukamoto-kaiji",
+    "nameJa": "塚本快示",
+    "nameEn": "Tsukamoto Kaiji",
+    "query": "\"Tsukamoto Kaiji\" pottery profile official",
+    "candidateLinks": [],
+    "selectedSource": {
+      "title": "Wikipedia - 塚本快示",
+      "url": "https://ja.wikipedia.org/wiki/%E5%A1%9A%E6%9C%AC%E5%BF%AB%E7%A4%BA",
+      "type": "百科",
+      "accessedAt": "2026-03-08"
+    },
+    "status": "updated"
+  },
+  {
+    "artistSlug": "miwa-jusetsu",
+    "nameJa": "三輪壽雪",
+    "nameEn": "Miwa Jusetsu",
+    "query": "\"Miwa Jusetsu\" pottery profile official",
+    "candidateLinks": [],
+    "selectedSource": {
+      "title": "Wikipedia - 三輪壽雪",
+      "url": "https://ja.wikipedia.org/wiki/%E4%B8%89%E8%BC%AA%E5%A3%BD%E9%9B%AA",
+      "type": "百科",
+      "accessedAt": "2026-03-08"
+    },
+    "status": "updated"
+  },
+  {
+    "artistSlug": "yamamoto-toshu",
+    "nameJa": "山本陶秀",
+    "nameEn": "Yamamoto Toshu",
+    "query": "\"Yamamoto Toshu\" pottery profile official",
+    "candidateLinks": [],
+    "selectedSource": {
+      "title": "Wikipedia - 山本陶秀",
+      "url": "https://ja.wikipedia.org/wiki/%E5%B1%B1%E6%9C%AC%E9%99%B6%E7%A7%80",
+      "type": "百科",
+      "accessedAt": "2026-03-08"
+    },
+    "status": "updated"
+  },
+  {
+    "artistSlug": "fujiwara-kei",
+    "nameJa": "藤原啓",
+    "nameEn": "Fujiwara Kei",
+    "query": "\"Fujiwara Kei\" pottery profile official",
+    "candidateLinks": [],
+    "selectedSource": {
+      "title": "Wikipedia - 藤原啓",
+      "url": "https://ja.wikipedia.org/wiki/%E8%97%A4%E5%8E%9F%E5%95%93",
+      "type": "百科",
+      "accessedAt": "2026-03-08"
+    },
+    "status": "updated"
+  },
+  {
+    "artistSlug": "kaneshige-toyo",
+    "nameJa": "金重陶陽",
+    "nameEn": "Kaneshige Toyo",
+    "query": "\"Kaneshige Toyo\" pottery profile official",
+    "candidateLinks": [],
+    "selectedSource": {
+      "title": "Wikipedia - 金重陶陽",
+      "url": "https://ja.wikipedia.org/wiki/%E9%87%91%E9%87%8D%E9%99%B6%E9%99%BD",
+      "type": "百科",
+      "accessedAt": "2026-03-08"
+    },
+    "status": "updated"
+  },
+  {
+    "artistSlug": "nakazato-muan",
+    "nameJa": "中里無庵（十二代中里太郎右衛門）",
+    "nameEn": "Nakazato Muan",
+    "query": "\"Nakazato Muan\" pottery profile official",
+    "candidateLinks": [],
+    "selectedSource": {
+      "title": "Wikipedia - 中里無庵",
+      "url": "https://ja.wikipedia.org/wiki/%E4%B8%AD%E9%87%8C%E7%84%A1%E5%BA%B5",
+      "type": "百科",
+      "accessedAt": "2026-03-08"
+    },
+    "status": "updated"
+  },
+  {
+    "artistSlug": "arakawa-toyozo",
+    "nameJa": "荒川豊藏",
+    "nameEn": "Arakawa Toyozo",
+    "query": "\"Arakawa Toyozo\" pottery profile official",
+    "candidateLinks": [],
+    "selectedSource": null,
+    "status": "no_source_found"
+  }
+]

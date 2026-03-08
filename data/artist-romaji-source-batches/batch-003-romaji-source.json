@@ -1,0 +1,202 @@
+[
+  {
+    "artistSlug": "hamada-shoji",
+    "nameJa": "濱田庄司",
+    "nameEn": "Hamada Shoji",
+    "query": "\"Hamada Shoji\" pottery profile official",
+    "candidateLinks": [],
+    "selectedSource": {
+      "title": "Wikipedia - 濱田庄司",
+      "url": "https://ja.wikipedia.org/wiki/%E6%BF%B1%E7%94%B0%E5%BA%84%E5%8F%B8",
+      "type": "百科",
+      "accessedAt": "2026-03-08"
+    },
+    "status": "updated"
+  },
+  {
+    "artistSlug": "ishiguro-munemaro",
+    "nameJa": "石黒宗麿",
+    "nameEn": "Ishiguro Munemaro",
+    "query": "\"Ishiguro Munemaro\" pottery profile official",
+    "candidateLinks": [],
+    "selectedSource": {
+      "title": "Wikipedia - 石黒宗麿",
+      "url": "https://ja.wikipedia.org/wiki/%E7%9F%B3%E9%BB%92%E5%AE%97%E9%BA%BF",
+      "type": "百科",
+      "accessedAt": "2026-03-08"
+    },
+    "status": "updated"
+  },
+  {
+    "artistSlug": "tomimoto-kenkichi",
+    "nameJa": "富本憲吉",
+    "nameEn": "Tomimoto Kenkichi",
+    "query": "\"Tomimoto Kenkichi\" pottery profile official",
+    "candidateLinks": [],
+    "selectedSource": {
+      "title": "Wikipedia - 富本憲吉",
+      "url": "https://ja.wikipedia.org/wiki/%E5%AF%8C%E6%9C%AC%E6%86%B2%E5%90%89",
+      "type": "百科",
+      "accessedAt": "2026-03-08"
+    },
+    "status": "updated"
+  },
+  {
+    "artistSlug": "ishihara-yoshimitsu",
+    "nameJa": "石原祥充",
+    "nameEn": "Ishihara Yoshimitsu",
+    "query": "\"Ishihara Yoshimitsu\" pottery profile official",
+    "candidateLinks": [],
+    "selectedSource": null,
+    "status": "no_source_found"
+  },
+  {
+    "artistSlug": "ishihara-yukie",
+    "nameJa": "石原ゆきえ",
+    "nameEn": "Ishihara Yukie",
+    "query": "\"Ishihara Yukie\" pottery profile official",
+    "candidateLinks": [],
+    "selectedSource": null,
+    "status": "no_source_found"
+  },
+  {
+    "artistSlug": "katase-kazuhiro",
+    "nameJa": "片瀬和宏",
+    "nameEn": "Katase Kazuhiro",
+    "query": "\"Katase Kazuhiro\" pottery profile official",
+    "candidateLinks": [],
+    "selectedSource": null,
+    "status": "no_source_found"
+  },
+  {
+    "artistSlug": "kato-etsuko",
+    "nameJa": "加藤惠津子",
+    "nameEn": "Kato Etsuko",
+    "query": "\"Kato Etsuko\" pottery profile official",
+    "candidateLinks": [],
+    "selectedSource": null,
+    "status": "no_source_found"
+  },
+  {
+    "artistSlug": "kawahara-sachiko",
+    "nameJa": "川原幸子",
+    "nameEn": "Kawahara Sachiko",
+    "query": "\"Kawahara Sachiko\" pottery profile official",
+    "candidateLinks": [],
+    "selectedSource": null,
+    "status": "no_source_found"
+  },
+  {
+    "artistSlug": "kumabuchi-misa",
+    "nameJa": "熊淵未紗",
+    "nameEn": "Kumabuchi Misa",
+    "query": "\"Kumabuchi Misa\" pottery profile official",
+    "candidateLinks": [],
+    "selectedSource": null,
+    "status": "no_source_found"
+  },
+  {
+    "artistSlug": "mizutani-tomomi",
+    "nameJa": "水谷智美",
+    "nameEn": "Mizutani Tomomi",
+    "query": "\"Mizutani Tomomi\" pottery profile official",
+    "candidateLinks": [],
+    "selectedSource": null,
+    "status": "no_source_found"
+  },
+  {
+    "artistSlug": "takataya-masahiro",
+    "nameJa": "高田谷将宏",
+    "nameEn": "Takataya Masahiro",
+    "query": "\"Takataya Masahiro\" pottery profile official",
+    "candidateLinks": [],
+    "selectedSource": null,
+    "status": "no_source_found"
+  },
+  {
+    "artistSlug": "yamawaki-masato",
+    "nameJa": "山脇将人",
+    "nameEn": "Yamawaki Masato",
+    "query": "\"Yamawaki Masato\" pottery profile official",
+    "candidateLinks": [],
+    "selectedSource": null,
+    "status": "no_source_found"
+  },
+  {
+    "artistSlug": "kogane-akari",
+    "nameJa": "故金あかり",
+    "nameEn": "Kogane Akari",
+    "query": "\"Kogane Akari\" pottery profile official",
+    "candidateLinks": [],
+    "selectedSource": null,
+    "status": "no_source_found"
+  },
+  {
+    "artistSlug": "kurihara-kaori",
+    "nameJa": "栗原香織",
+    "nameEn": "Kurihara Kaori",
+    "query": "\"Kurihara Kaori\" pottery profile official",
+    "candidateLinks": [],
+    "selectedSource": null,
+    "status": "no_source_found"
+  },
+  {
+    "artistSlug": "umano-shingo",
+    "nameJa": "馬野真吾",
+    "nameEn": "Umano Shingo",
+    "query": "\"Umano Shingo\" pottery profile official",
+    "candidateLinks": [],
+    "selectedSource": null,
+    "status": "no_source_found"
+  },
+  {
+    "artistSlug": "shimomura-atsushi",
+    "nameJa": "下村淳",
+    "nameEn": "Shimomura Atsushi",
+    "query": "\"Shimomura Atsushi\" pottery profile official",
+    "candidateLinks": [],
+    "selectedSource": null,
+    "status": "no_source_found"
+  },
+  {
+    "artistSlug": "yamada-ryutaro",
+    "nameJa": "山田隆太郎",
+    "nameEn": "Yamada Ryutaro",
+    "query": "\"Yamada Ryutaro\" pottery profile official",
+    "candidateLinks": [],
+    "selectedSource": null,
+    "status": "no_source_found"
+  },
+  {
+    "artistSlug": "suzuki-keiko",
+    "nameJa": "鈴木敬子",
+    "nameEn": "Suzuki Keiko",
+    "query": "\"Suzuki Keiko\" pottery profile official",
+    "candidateLinks": [],
+    "selectedSource": {
+      "title": "Wikipedia - 鈴木敬子",
+      "url": "https://ja.wikipedia.org/wiki/%E9%88%B4%E6%9C%A8%E6%95%AC%E5%AD%90",
+      "type": "百科",
+      "accessedAt": "2026-03-08"
+    },
+    "status": "updated"
+  },
+  {
+    "artistSlug": "nikaido-akihiro",
+    "nameJa": "二階堂明弘",
+    "nameEn": "Nikaido Akihiro",
+    "query": "\"Nikaido Akihiro\" pottery profile official",
+    "candidateLinks": [],
+    "selectedSource": null,
+    "status": "no_source_found"
+  },
+  {
+    "artistSlug": "hoshino-tomoyuki",
+    "nameJa": "星野友幸",
+    "nameEn": "Hoshino Tomoyuki",
+    "query": "\"Hoshino Tomoyuki\" pottery profile official",
+    "candidateLinks": [],
+    "selectedSource": null,
+    "status": "no_source_found"
+  }
+]
