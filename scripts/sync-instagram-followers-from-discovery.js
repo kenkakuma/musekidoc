@@ -4,7 +4,7 @@ const path = require('path');
 const { Pool } = require('pg');
 
 const MASTER_PATH = path.join(__dirname, '..', 'data', 'discovered-instagram-artists-master.json');
-const TODAY = '2026-03-09';
+const TODAY = new Date().toISOString().split('T')[0];
 
 async function main() {
   const master = JSON.parse(fs.readFileSync(MASTER_PATH, 'utf8'));

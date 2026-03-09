@@ -1,6 +1,6 @@
 # Instagram Discovery Review Report
 
-Generated: 2026-03-07T10:36:46.454Z
+Generated: 2026-03-09T12:36:06.546Z
 Reviewed by: Claude Code
 
 ## Summary

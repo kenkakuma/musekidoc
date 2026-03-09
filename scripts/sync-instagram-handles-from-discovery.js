@@ -4,7 +4,7 @@ const path = require('path');
 const { Pool } = require('pg');
 
 const MASTER_PATH = path.join(__dirname, '..', 'data', 'discovered-instagram-artists-master.json');
-const TODAY = '2026-03-09';
+const TODAY = new Date().toISOString().split('T')[0];
 
 function isValidInstagramHandle(value) {
   if (!value) return false;
@@ -20,27 +20,24 @@ async function main() {
   const client = await pool.connect();
 
   try {
+    // Bulk fetch all DB rows matching master slugs (avoids N+1 queries)
+    const slugs = master.map((a) => a.artistSlug).filter(Boolean);
+    const dbResult = await client.query(
+      `
+      SELECT id, slug, "nameZh", "instagramHandle", "instagramFollowers", "websiteUrl"
+      FROM "Artist"
+      WHERE slug = ANY($1)
+    `,
+      [slugs]
+    );
+    const dbMap = new Map(dbResult.rows.map((r) => [r.slug, r]));
+
     const updates = [];
 
     for (const artist of master) {
       if (!artist.artistSlug) continue;
-      const row = await client.query(
-        `
-        SELECT
-          id,
-          slug,
-          "nameZh",
-          "instagramHandle",
-          "instagramFollowers",
-          "websiteUrl"
-        FROM "Artist"
-        WHERE slug = $1
-      `,
-        [artist.artistSlug]
-      );
-
-      if (row.rows.length === 0) continue;
-      const db = row.rows[0];
+      const db = dbMap.get(artist.artistSlug);
+      if (!db) continue;
 
       const patch = {
         id: db.id,
